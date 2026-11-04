@@ -111,10 +111,10 @@ def sebi_filings(pages=2):
 
 def sebi_pdf_url(page_url):
     h = http_get(page_url, referer=SEBI_LIST).decode("utf-8", "replace")
-    m = re.search(r"file=(https://www\.sebi\.gov\.in/sebi_data/attachdocs/[^'\"&]+\.pdf)", h)
+    m = re.search(r"file=(https://www\.sebi\.gov\.in/sebi_data/attachdocs/[^'\"&]+\.pdf)", h, re.I)
     if m:
         return m.group(1)
-    m = re.search(r"(https://www\.sebi\.gov\.in/sebi_data/attachdocs/[^'\"]+\.pdf)", h)
+    m = re.search(r"(https://www\.sebi\.gov\.in/sebi_data/attachdocs/[^'\"]+\.pdf)", h, re.I)
     return m.group(1) if m else None
 
 
@@ -183,12 +183,13 @@ def all_filings(since_days=45):
     cutoff = (dt.date.today() - dt.timedelta(days=since_days)).isoformat()
     rows = [r for r in rows if r.get("doc_type") in ("DRHP", "UDRHP") and (r.get("filed_on") or "9999") >= cutoff]
     pref = {"SEBI": 0, "NSE": 1, "NSE Emerge": 1, "BSE SME": 2}
-    best = {}
+    best, alts = {}, {}
     for r in rows:
         k = company_key(r["company"])
         if not k:
             continue
         r["key"] = k
+        alts.setdefault(k, []).append({"source": r["source"], "url": r.get("url"), "page_url": r.get("page_url")})
         cur = best.get(k)
         if cur is None or (r["filed_on"] or "") > (cur["filed_on"] or "") or \
                 ((r["filed_on"] or "") == (cur["filed_on"] or "") and pref[r["source"]] < pref[cur["source"]]):
@@ -197,4 +198,6 @@ def all_filings(since_days=45):
             best[k] = r
         else:
             cur.setdefault("also_on", []).append(r["source"])
+    for k, r in best.items():
+        r["alternates"] = [a for a in alts.get(k, []) if (a["url"] or a["page_url"]) != (r.get("url") or r.get("page_url"))]
     return sorted(best.values(), key=lambda r: r.get("filed_on") or "", reverse=True)

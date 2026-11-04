@@ -34,6 +34,8 @@ def build(extracted):
         return {"ok": False, "reason": "Financial statements not found in the DRHP", "periods": [], "items": {}, "ratios": {}, "checks": []}
     periods = base["periods"]
     n = len(periods)
+    if not n or not base.get("rows"):
+        return {"ok": False, "reason": "Financial statements could not be read from the DRHP", "periods": [], "items": {}, "ratios": {}, "checks": []}
     unit = base.get("unit") or (tables.get("bs") or {}).get("unit")
 
     items = {}
@@ -64,13 +66,13 @@ def build(extracted):
 
     # derived inputs
     if "tax" not in items and pl.get("tax_rows"):
-        vals = [sum((r["values"][j] or 0) for r in pl["tax_rows"]) if j < n else None for j in range(n)]
+        vals = [sum((r["values"][j] if j < len(r["values"]) else 0) or 0 for r in pl["tax_rows"]) for j in range(n)]
         items["tax"] = {"label": "Total tax expense", "drhp_label": " + ".join(r["label"] for r in pl["tax_rows"]), "statement": "P&L",
                         "values": vals, "raw": [None] * n, "page": pl["tax_rows"][0].get("page"), "line": None,
                         "status": ["unverified"] * n, "notes": [["sum of tax lines"] for _ in range(n)]}
     if bs.get("borrowings_rows"):
         rows = bs["borrowings_rows"]
-        vals = [sum((r["values"][j] or 0) for r in rows) for j in range(n)]
+        vals = [sum((r["values"][j] if j < len(r["values"]) else 0) or 0 for r in rows) for j in range(n)]
         items["borrowings"] = {"label": "Total borrowings", "drhp_label": " + ".join(f'{r["label"]} ({r.get("section") or "—"})' for r in rows),
                                "statement": "Balance sheet", "values": vals, "raw": [None] * n, "page": rows[0].get("page"),
                                "line": None, "status": ["unverified"] * n, "notes": [["sum of borrowing lines"] for _ in range(n)]}

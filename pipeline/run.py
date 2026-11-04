@@ -50,6 +50,18 @@ def save(path, obj):
 
 
 def download_pdf(filing):
+    errors = []
+    for cand in [filing] + filing.get("alternates", []):
+        try:
+            path = _download_one(filing["key"], cand)
+            filing["url"], filing["page_url"] = cand.get("url"), cand.get("page_url") or filing.get("page_url")
+            return path
+        except Exception as e:
+            errors.append(f"{cand.get('source')}: {e}")
+    raise RuntimeError("; ".join(errors))
+
+
+def _download_one(key, filing):
     url = filing.get("url")
     if not url and filing.get("page_url"):
         url = sources.sebi_pdf_url(filing["page_url"])
@@ -58,7 +70,7 @@ def download_pdf(filing):
         raise RuntimeError("no document link")
     CACHE.mkdir(exist_ok=True)
     data = sources.http_get(url, referer=filing.get("page_url") or "https://www.nseindia.com/", timeout=300)
-    path = CACHE / (filing["key"] + ".pdf")
+    path = CACHE / (key + ".pdf")
     if data[:2] == b"PK":
         z = zipfile.ZipFile(io.BytesIO(data))
         pdfs = sorted((i for i in z.infolist() if i.filename.lower().endswith(".pdf")), key=lambda i: i.file_size, reverse=True)
@@ -133,15 +145,15 @@ def write_index(records):
     for r in records:
         f = r.get("financials") or {}
         latest = {}
-        if f.get("ok"):
+        if f.get("ok") and f.get("periods"):
             j = next((k for k, p in enumerate(f["periods"]) if not p.get("stub")), 0)
             for key in ("revenue", "pat", "total_equity"):
                 it = f["items"].get(key)
-                if it:
+                if it and j < len(it["values"]):
                     latest[key] = {"v": it["values"][j], "s": it["status"][j]}
             for key in ("EBITDA margin", "PAT margin", "RoNW (closing)", "Debt / Equity", "Revenue growth"):
                 it = f["ratios"].get(key)
-                if it:
+                if it and j < len(it["values"]):
                     latest[key] = {"v": it["values"][j], "s": it["status"][j]}
             latest["fy"] = f["periods"][j]["label"]
         idx.append({"key": r["key"], "company": r["company"], "board": r["board"], "exchange": r.get("exchange"), "source": r["source"],
@@ -208,8 +220,9 @@ def main(argv=None):
     already = {(e["company_key"], e["email"]) for e in outreach["entries"] if e.get("status") == "sent"}
     for f in filings:
         prev = state["processed"].get(f["key"])
-        if prev and prev.get("ref") == (f.get("url") or f.get("page_url")) and not args.url:
-            continue
+        if prev and prev.get("ref") == (f.get("url") or f.get("page_url")) and not args.url \
+                and (not prev.get("error") or prev.get("attempts", 1) >= 3):
+            continue  # already done (failed documents are retried up to 3 times)
         if done >= args.max_docs:
             break
         done += 1
@@ -222,7 +235,8 @@ def main(argv=None):
             record = build_record(f, rec, fin, sender, suppressed)
         except Exception as e:
             traceback.print_exc()
-            state["processed"][f["key"]] = {"ref": f.get("url") or f.get("page_url"), "error": str(e)[:300], "at": now(), "company": f["company"]}
+            state["processed"][f["key"]] = {"ref": f.get("url") or f.get("page_url"), "error": str(e)[:300], "at": now(), "company": f["company"],
+                                            "attempts": (prev or {}).get("attempts", 0) + 1}
             continue
         finally:
             for p in CACHE.glob("*.pdf"):
