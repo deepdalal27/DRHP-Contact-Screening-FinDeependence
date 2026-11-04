@@ -91,3 +91,14 @@ class Email(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
+
+
+class PromoterEmails(unittest.TestCase):
+    def test_only_own_or_personal_domains(self):
+        from pipeline.extract import Doc, promoter_contacts
+        doc = Doc(["x"], ["harsh.bhatt2@yesbank.in glocarlsbergindia@nortonrosefulbright.com manish@gracerenew.com "
+                          "harshbagadia@gmail.com harsh@gmail.com"])
+        got = promoter_contacts(doc, ["Manish Bagadia", "Harsh Bagadia", "Carlsberg A/s"], {"gracerenew.com"})
+        self.assertEqual([e["email"] for e in got["Manish Bagadia"]], ["manish@gracerenew.com"])
+        self.assertEqual([e["email"] for e in got["Harsh Bagadia"]], ["harshbagadia@gmail.com"])
+        self.assertNotIn("Carlsberg A/s", got)

@@ -23,7 +23,7 @@ Whenever a company files a DRHP, this app:
    Each address is mailed **once only**. Addresses in `config/suppression.txt` are never mailed.
 5. **Keeps an outreach report** in the webapp: whom each mail went to, for which company, their role, email and phone, the BRLM, the promoters and the DRHP link. You can track the follow-up stage, next follow-up date and notes, export everything to Excel, and browse a directory of all BRLMs and company contacts.
 
-**Open the app:** https://deepdalal27.github.io/DRHP-Contact-Screening-FinDeependence/
+**Open the app:** https://deepdalal27.github.io/DRHP-Contact-Screening-FinDeependence/ (published from the `gh-pages` branch by every workflow run)
 
 ## One-time setup
 
@@ -33,7 +33,7 @@ Whenever a company files a DRHP, this app:
 2. **Repository secrets:** in the repository, go to Settings → Secrets and variables → Actions → New repository secret:
    - `GMAIL_ADDRESS` = `fundmanager.pcvf@gmail.com`
    - `GMAIL_APP_PASSWORD` = the 16-character app password
-3. **GitHub Pages:** Settings → Pages → Source: **GitHub Actions**.
+3. **GitHub Pages:** published from the `gh-pages` branch (Settings → Pages → Source: Deploy from a branch → `gh-pages` / root).
 Sending is switched on (`"approved": true` in `config/settings.json`). Until the two secrets exist, mails are prepared
 and shown in the app as **queued**. The first run after the secrets are added sends them (at most `daily_cap` per day).
 Set `"approved": false` to pause sending at any time.

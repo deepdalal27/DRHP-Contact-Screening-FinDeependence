@@ -148,7 +148,7 @@ def compose(rec, fin, sender, msg):
     company = rec.get("display_name") or cover.get("company") or "the Company"
     short = short_name(company)
     promoters = cover.get("promoters") or []
-    people = [p for p in promoters if not re.search(r"\b(trust|limited|llp|huf|private)\b", p, re.I)]
+    people = [p for p in promoters if not re.search(r"\b(trust|limited|ltd|llp|huf|private|pte|a/s|inc|government|ministry|president|acting|through|corporation|holdings?)\b", p, re.I)]
     board = cover.get("board") or "Mainboard"
     sme = board == "SME"
     filed_with = "SEBI" if not sme else (rec.get("exchange_filed") or cover.get("exchange") or "the Stock Exchange")

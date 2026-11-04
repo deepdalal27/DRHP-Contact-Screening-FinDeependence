@@ -31,6 +31,7 @@ STATE = ROOT / "data" / "state.json"
 OUTREACH = SITE_DATA / "outreach.json"
 SUPPRESS = ROOT / "config" / "suppression.txt"
 IST = dt.timezone(dt.timedelta(hours=5, minutes=30))
+PIPELINE_VERSION = 2  # bump to re-extract already processed DRHPs after an extraction fix
 
 
 def now():
@@ -221,6 +222,7 @@ def main(argv=None):
     for f in filings:
         prev = state["processed"].get(f["key"])
         if prev and prev.get("ref") == (f.get("url") or f.get("page_url")) and not args.url \
+                and prev.get("version", 1) >= PIPELINE_VERSION \
                 and (not prev.get("error") or prev.get("attempts", 1) >= 3):
             continue  # already done (failed documents are retried up to 3 times)
         if done >= args.max_docs:
@@ -236,13 +238,16 @@ def main(argv=None):
         except Exception as e:
             traceback.print_exc()
             state["processed"][f["key"]] = {"ref": f.get("url") or f.get("page_url"), "error": str(e)[:300], "at": now(), "company": f["company"],
-                                            "attempts": (prev or {}).get("attempts", 0) + 1}
+                                            "attempts": (prev or {}).get("attempts", 0) + 1, "version": PIPELINE_VERSION}
             continue
         finally:
             for p in CACHE.glob("*.pdf"):
                 p.unlink()
         save(COMPANIES / f"{record['key']}.json", record)
-        state["processed"][f["key"]] = {"ref": f.get("url") or f.get("page_url"), "at": now(), "company": record["company"]}
+        state["processed"][f["key"]] = {"ref": f.get("url") or f.get("page_url"), "at": now(), "company": record["company"],
+                                        "version": PIPELINE_VERSION}
+        # drop rows for this company that were never sent: they are rebuilt from the fresh extraction
+        outreach["entries"] = [e for e in outreach["entries"] if e["company_key"] != record["key"] or e.get("status") == "sent"]
 
         for mail in record["emails"]:
             todo = [a for a in mail["to"] if (record["key"], a) not in already]

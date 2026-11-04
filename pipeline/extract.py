@@ -240,24 +240,52 @@ def split_brlms(block, page):
 SKIP_DOMAINS = ("sebi.gov.in", "nseindia.com", "bseindia.com", "mca.gov.in", "rbi.org.in", "nsdl.co.in", "cdslindia.com", "npci.org.in")
 
 
-def promoter_contacts(doc, promoters, exclude_domains):
-    """Return {promoter: [emails]} only where the email clearly belongs to that person:
-    the local part contains the promoter's first or last name (>= 4 letters) and the domain is not a
-    banker, registrar, lawyer, auditor or regulator domain."""
+PERSONAL_DOMAINS = ("gmail.com", "yahoo.com", "yahoo.co.in", "hotmail.com", "outlook.com", "rediffmail.com", "live.com", "icloud.com")
+ENTITY_WORDS = re.compile(r"\b(limited|ltd|llp|pte|a/s|inc|trust|huf|government|ministry|president|acting|through|corporation|company|holdings?|ventures|fund|bank)\b", re.I)
+
+
+def is_person(name):
+    return bool(name) and not ENTITY_WORDS.search(name)
+
+
+def domain_of(url_or_email):
+    t = (url_or_email or "").lower().strip()
+    if "@" in t:
+        return t.split("@", 1)[1]
+    t = re.sub(r"^https?://", "", t).split("/")[0]
+    return re.sub(r"^www\.", "", t)
+
+
+def promoter_contacts(doc, promoters, company_domains):
+    """Return {promoter: [emails]} only where the address clearly belongs to that person.
+
+    Accepted only if BOTH hold:
+      * the domain is the company's own domain (from its website / CS email) or a personal mailbox
+        (gmail, yahoo, outlook ...): bankers', lawyers', auditors' and registrars' domains never qualify;
+      * the local part contains the promoter's first name and, for personal mailboxes, also the surname.
+    """
     found = {}
     all_emails = {}
     for m in re.finditer(r"[A-Za-z0-9._%+\-]+@[A-Za-z0-9\-]+(?:\.[A-Za-z0-9\-]+)+", doc.raw):
         e = m.group(0).lower().strip(".")
         all_emails.setdefault(e, doc.page_of_raw(m.start()))
+    own = {d for d in company_domains if d}
     for p in promoters:
-        toks = [t.lower() for t in re.findall(r"[A-Za-z]{4,}", p) if t.lower() not in ("trust", "family", "private", "limited", "kumar", "bhai", "huf")]
-        if not toks:
+        if not is_person(p):
             continue
+        toks = [t.lower() for t in re.findall(r"[A-Za-z]{3,}", p)]
+        if len(toks) < 1:
+            continue
+        first, last = toks[0], toks[-1]
         for e, pg in all_emails.items():
             local, dom = e.split("@", 1)
-            if any(dom.endswith(d) for d in SKIP_DOMAINS + tuple(exclude_domains)):
-                continue
-            if any(t in local for t in toks[:1] + toks[-1:]):
+            if dom in own:
+                ok = first in local or (len(last) >= 4 and last in local and local[:1] == first[:1])
+            elif dom in PERSONAL_DOMAINS:
+                ok = first in local and (last in local or len(toks) == 1)
+            else:
+                ok = False
+            if ok:
                 found.setdefault(p, []).append({"email": e, "page": pg})
     return found
 
@@ -496,6 +524,27 @@ def financials(doc):
     return {"source": source, "tables": tables, "picked": picked}
 
 
+def company_domains(cover, gi):
+    doms = {domain_of(cover.get("website"))}
+    for e in ((gi.get("cs") or {}).get("emails") or []):
+        d = domain_of(e)
+        if d not in PERSONAL_DOMAINS:
+            doms.add(d)
+    return {d for d in doms if d}
+
+
+def clean_cs_emails(gi, cover):
+    """The CS block sometimes runs into auditors' / lawyers' details: keep only the company's own address(es)."""
+    cs = gi.get("cs")
+    if not cs or not cs.get("emails"):
+        return
+    site = domain_of(cover.get("website"))
+    stem = re.sub(r"[^a-z]", "", (cover.get("company") or "").lower().replace("limited", ""))[:6]
+    own = [e for e in cs["emails"] if site and domain_of(e).endswith(site)] or \
+          [e for e in cs["emails"] if stem and stem in re.sub(r"[^a-z]", "", domain_of(e))]
+    cs["emails"] = own or cs["emails"][:1]
+
+
 # ---------------------------------------------------------------- entry point
 def extract(pdf_path):
     doc = Doc.from_pdf(pdf_path)
@@ -505,6 +554,7 @@ def extract(pdf_path):
 def extract_doc(doc):
     cover = cover_info(doc)
     gi = general_information(doc)
+    clean_cs_emails(gi, cover)
     excl = set()
     for b in gi.get("brlms", []):
         for e in b.get("emails", []) + b.get("grievance_emails", []):
@@ -518,7 +568,7 @@ def extract_doc(doc):
         "pages": len(doc.layout_pages),
         "cover": cover,
         "general": gi,
-        "promoter_emails": promoter_contacts(doc, cover.get("promoters", []), excl),
+        "promoter_emails": promoter_contacts(doc, cover.get("promoters", []), company_domains(cover, gi)),
         "designations": designations(doc, cover.get("promoters", []), gi.get("page")),
         "business": business_summary(doc),
         "financials": fin,
