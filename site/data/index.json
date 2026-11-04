@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-04T17:49:57+05:30",
+ "updated_at": "2026-11-04T18:01:57+05:30",
  "companies": [
   {
    "key": "sahanaratnabh",
@@ -44,7 +44,7 @@
    "warnings": [
     "Some core figures could not be cross-checked; only verified figures are used in the email."
    ],
-   "processed_at": "2026-11-04T17:41:47+05:30"
+   "processed_at": "2026-11-04T17:52:27+05:30"
   },
   {
    "key": "sitaramdenimsindia",
@@ -91,7 +91,7 @@
    "warnings": [
     "Some core figures could not be cross-checked; only verified figures are used in the email."
    ],
-   "processed_at": "2026-11-04T17:41:42+05:30"
+   "processed_at": "2026-11-04T17:52:22+05:30"
   },
   {
    "key": "southeasterncoalfields",
@@ -121,7 +121,7 @@
    "warnings": [
     "Some core figures could not be cross-checked; only verified figures are used in the email."
    ],
-   "processed_at": "2026-11-04T17:41:53+05:30"
+   "processed_at": "2026-11-04T17:52:32+05:30"
   },
   {
    "key": "carlsbergindia",
@@ -180,7 +180,7 @@
    "warnings": [
     "Some core figures could not be cross-checked; only verified figures are used in the email."
    ],
-   "processed_at": "2026-11-04T17:42:27+05:30"
+   "processed_at": "2026-11-04T17:53:10+05:30"
   },
   {
    "key": "gampservices",
@@ -236,7 +236,7 @@
    },
    "verified": true,
    "warnings": [],
-   "processed_at": "2026-11-04T17:43:09+05:30"
+   "processed_at": "2026-11-04T17:53:52+05:30"
   },
   {
    "key": "hungerpangs",
@@ -291,7 +291,7 @@
    },
    "verified": true,
    "warnings": [],
-   "processed_at": "2026-11-04T17:43:46+05:30"
+   "processed_at": "2026-11-04T17:54:34+05:30"
   },
   {
    "key": "paramotordigitaltechnology",
@@ -315,7 +315,7 @@
    "warnings": [
     "Financial statements could not be read from the DRHP"
    ],
-   "processed_at": "2026-11-04T17:44:12+05:30"
+   "processed_at": "2026-11-04T17:55:08+05:30"
   },
   {
    "key": "soleosenergy",
@@ -325,7 +325,9 @@
    "source": "SEBI",
    "filed_on": "2026-10-13",
    "doc_type": "DRHP",
-   "brlms": [],
+   "brlms": [
+    "Beeline Capital Advisors Private Limited"
+   ],
    "promoters": [
     "Bhaveshkumar C Rathod",
     "Dhavalkumar Ghanshyambhai Jiyani",
@@ -334,13 +336,44 @@
     "Vipul Rathod"
    ],
    "pre_ipo": true,
-   "latest": {},
-   "verified": null,
-   "warnings": [
-    "Financial statements not found in the DRHP",
-    "No usable email found for promoters, BRLM or the company."
-   ],
-   "processed_at": "2026-11-04T17:46:03+05:30"
+   "latest": {
+    "revenue": {
+     "v": 281.1575,
+     "s": "verified"
+    },
+    "pat": {
+     "v": 21.4792,
+     "s": "verified"
+    },
+    "total_equity": {
+     "v": 198.828,
+     "s": "verified"
+    },
+    "EBITDA margin": {
+     "v": 0.106524,
+     "s": "verified"
+    },
+    "PAT margin": {
+     "v": 0.076396,
+     "s": "verified"
+    },
+    "RoNW (closing)": {
+     "v": 0.108029,
+     "s": "verified"
+    },
+    "Debt / Equity": {
+     "v": 0.512621,
+     "s": "verified"
+    },
+    "Revenue growth": {
+     "v": 0.267388,
+     "s": "verified"
+    },
+    "fy": "FY26"
+   },
+   "verified": true,
+   "warnings": [],
+   "processed_at": "2026-11-04T17:57:00+05:30"
   },
   {
    "key": "gracerenewableenergy",
@@ -398,7 +431,7 @@
    "warnings": [
     "Some core figures could not be cross-checked; only verified figures are used in the email."
    ],
-   "processed_at": "2026-11-04T17:47:03+05:30"
+   "processed_at": "2026-11-04T17:59:22+05:30"
   },
   {
    "key": "integrumenergyinfrastructure",
@@ -457,7 +490,7 @@
    },
    "verified": true,
    "warnings": [],
-   "processed_at": "2026-11-04T17:48:19+05:30"
+   "processed_at": "2026-11-04T18:00:09+05:30"
   },
   {
    "key": "pentacleconsultantsi",
@@ -491,7 +524,7 @@
    "warnings": [
     "Some core figures could not be cross-checked; only verified figures are used in the email."
    ],
-   "processed_at": "2026-11-04T17:49:57+05:30"
+   "processed_at": "2026-11-04T18:01:57+05:30"
   },
   {
    "key": "pmconaindustries",
@@ -549,7 +582,7 @@
    },
    "verified": true,
    "warnings": [],
-   "processed_at": "2026-11-04T17:49:16+05:30"
+   "processed_at": "2026-11-04T18:01:12+05:30"
   }
  ]
 }

@@ -2,75 +2,75 @@
  "processed": {
   "sitaramdenimsindia": {
    "ref": "https://nsearchives.nseindia.com/corporate/AD_IPO_7976_03112026230716.zip",
-   "at": "2026-11-04T17:41:42+05:30",
+   "at": "2026-11-04T17:52:22+05:30",
    "company": "Sitaram Denims India Limited",
-   "version": 2
+   "version": 3
   },
   "sahanaratnabh": {
    "ref": "https://nsearchives.nseindia.com/emerge/corporates/content/AD_IPO_7977_04112026053912.zip",
-   "at": "2026-11-04T17:41:47+05:30",
+   "at": "2026-11-04T17:52:27+05:30",
    "company": "Sahanaratnabh Limited",
-   "version": 2
+   "version": 3
   },
   "southeasterncoalfields": {
    "ref": "https://nsearchives.nseindia.com/corporate/AD_IPO_7968_02112026074519.zip",
-   "at": "2026-11-04T17:41:53+05:30",
+   "at": "2026-11-04T17:52:32+05:30",
    "company": "South Eastern Coalfields Limited",
-   "version": 2
+   "version": 3
   },
   "carlsbergindia": {
    "ref": "https://www.sebi.gov.in/sebi_data/attachdocs/oct-2026/1793273741929.pdf",
-   "at": "2026-11-04T17:42:27+05:30",
+   "at": "2026-11-04T17:53:10+05:30",
    "company": "Carlsberg India Limited",
-   "version": 2
+   "version": 3
   },
   "gampservices": {
    "ref": "https://www.sebi.gov.in/sebi_data/attachdocs/nov-2026/1793678977908.pdf",
-   "at": "2026-11-04T17:43:09+05:30",
+   "at": "2026-11-04T17:53:52+05:30",
    "company": "GAMP Services Limited",
-   "version": 2
+   "version": 3
   },
   "hungerpangs": {
    "ref": "https://www.sebi.gov.in/sebi_data/attachdocs/oct-2026/1792579400603.pdf",
-   "at": "2026-11-04T17:43:46+05:30",
+   "at": "2026-11-04T17:54:34+05:30",
    "company": "Hunger Pangs Limited",
-   "version": 2
+   "version": 3
   },
   "paramotordigitaltechnology": {
    "ref": "https://www.sebi.gov.in/sebi_data/attachdocs/oct-2026/1791979527596.pdf",
-   "at": "2026-11-04T17:44:12+05:30",
+   "at": "2026-11-04T17:55:08+05:30",
    "company": "Paramotor Digital Technology Limited",
-   "version": 2
+   "version": 3
   },
   "soleosenergy": {
-   "ref": "https://nsearchives.nseindia.com/corporate/AD_IPO_7839_01102026000749.zip",
-   "at": "2026-11-04T17:46:03+05:30",
+   "ref": "https://www.sebi.gov.in/sebi_data/attachdocs/oct-2026/1791886399419.pdf",
+   "at": "2026-11-04T17:57:00+05:30",
    "company": "Soleos Energy Limited",
-   "version": 2
+   "version": 3
   },
   "gracerenewableenergy": {
-   "ref": "https://nsearchives.nseindia.com/corporate/AD_IPO_7835_30092026235557.zip",
-   "at": "2026-11-04T17:47:03+05:30",
+   "ref": "https://www.sebi.gov.in/sebi_data/attachdocs/oct-2026/1791449032035.PDF",
+   "at": "2026-11-04T17:59:22+05:30",
    "company": "Grace Renewable Energy Limited",
-   "version": 2
+   "version": 3
   },
   "integrumenergyinfrastructure": {
    "ref": "https://www.sebi.gov.in/sebi_data/attachdocs/oct-2026/1791371918993.PDF",
-   "at": "2026-11-04T17:48:19+05:30",
+   "at": "2026-11-04T18:00:09+05:30",
    "company": "Integrum Energy Infrastructure Limited",
-   "version": 2
+   "version": 3
   },
   "pmconaindustries": {
    "ref": "https://www.sebi.gov.in/sebi_data/attachdocs/oct-2026/1791271808233_1407.pdf",
-   "at": "2026-11-04T17:49:16+05:30",
+   "at": "2026-11-04T18:01:12+05:30",
    "company": "PM Cona Industries Limited",
-   "version": 2
+   "version": 3
   },
   "pentacleconsultantsi": {
    "ref": "https://www.sebi.gov.in/sebi_data/attachdocs/oct-2026/1791271808233_1406.pdf",
-   "at": "2026-11-04T17:49:57+05:30",
+   "at": "2026-11-04T18:01:57+05:30",
    "company": "Pentacle Consultants I Limited",
-   "version": 2
+   "version": 3
   }
  }
 }

@@ -19,7 +19,7 @@
    "subject": "Parshwanath Capital Ventures Fund | Pre-IPO & Anchor interest – Sitaram Denims India Limited",
    "status": "queued",
    "sent_at": null,
-   "created_at": "2026-11-04T17:41:42+05:30",
+   "created_at": "2026-11-04T17:52:22+05:30",
    "message_id": null,
    "error": null,
    "promoters": [
@@ -74,7 +74,7 @@
    "subject": "Parshwanath Capital Ventures Fund | Pre-IPO & Anchor interest – Sahanaratnabh Limited",
    "status": "queued",
    "sent_at": null,
-   "created_at": "2026-11-04T17:41:47+05:30",
+   "created_at": "2026-11-04T17:52:27+05:30",
    "message_id": null,
    "error": null,
    "promoters": [
@@ -122,7 +122,7 @@
    "subject": "Parshwanath Capital Ventures Fund | Pre-IPO & Anchor interest – South Eastern Coalfields Limited",
    "status": "queued",
    "sent_at": null,
-   "created_at": "2026-11-04T17:41:53+05:30",
+   "created_at": "2026-11-04T17:52:32+05:30",
    "message_id": null,
    "error": null,
    "promoters": [
@@ -213,7 +213,7 @@
    "subject": "Parshwanath Capital Ventures Fund | Pre-IPO & Anchor interest – South Eastern Coalfields Limited",
    "status": "queued",
    "sent_at": null,
-   "created_at": "2026-11-04T17:41:53+05:30",
+   "created_at": "2026-11-04T17:52:32+05:30",
    "message_id": null,
    "error": null,
    "promoters": [
@@ -303,7 +303,7 @@
    "subject": "Parshwanath Capital Ventures Fund | Pre-IPO & Anchor interest – South Eastern Coalfields Limited",
    "status": "queued",
    "sent_at": null,
-   "created_at": "2026-11-04T17:41:53+05:30",
+   "created_at": "2026-11-04T17:52:32+05:30",
    "message_id": null,
    "error": null,
    "promoters": [
@@ -393,7 +393,7 @@
    "subject": "Parshwanath Capital Ventures Fund | Pre-IPO & Anchor interest – Carlsberg India Limited",
    "status": "queued",
    "sent_at": null,
-   "created_at": "2026-11-04T17:42:27+05:30",
+   "created_at": "2026-11-04T17:53:10+05:30",
    "message_id": null,
    "error": null,
    "promoters": [
@@ -470,7 +470,7 @@
    "subject": "Parshwanath Capital Ventures Fund | Pre-IPO & Anchor interest – Carlsberg India Limited",
    "status": "queued",
    "sent_at": null,
-   "created_at": "2026-11-04T17:42:27+05:30",
+   "created_at": "2026-11-04T17:53:10+05:30",
    "message_id": null,
    "error": null,
    "promoters": [
@@ -547,7 +547,7 @@
    "subject": "Parshwanath Capital Ventures Fund | Pre-IPO & Anchor interest – Carlsberg India Limited",
    "status": "queued",
    "sent_at": null,
-   "created_at": "2026-11-04T17:42:27+05:30",
+   "created_at": "2026-11-04T17:53:10+05:30",
    "message_id": null,
    "error": null,
    "promoters": [
@@ -625,7 +625,7 @@
    "subject": "Parshwanath Capital Ventures Fund | Pre-IPO & Anchor interest – GAMP Services Limited",
    "status": "queued",
    "sent_at": null,
-   "created_at": "2026-11-04T17:43:09+05:30",
+   "created_at": "2026-11-04T17:53:52+05:30",
    "message_id": null,
    "error": null,
    "promoters": [
@@ -680,7 +680,7 @@
    "subject": "Parshwanath Capital Ventures Fund | Pre-IPO & Anchor interest – Hunger Pangs Limited",
    "status": "queued",
    "sent_at": null,
-   "created_at": "2026-11-04T17:43:46+05:30",
+   "created_at": "2026-11-04T17:54:34+05:30",
    "message_id": null,
    "error": null,
    "promoters": [
@@ -734,7 +734,7 @@
    "subject": "Parshwanath Capital Ventures Fund | Pre-IPO & Anchor interest – Paramotor Digital Technology Limited",
    "status": "queued",
    "sent_at": null,
-   "created_at": "2026-11-04T17:44:12+05:30",
+   "created_at": "2026-11-04T17:55:08+05:30",
    "message_id": null,
    "error": null,
    "promoters": [
@@ -793,7 +793,7 @@
    "subject": "Parshwanath Capital Ventures Fund | Pre-IPO & Anchor interest – Paramotor Digital Technology Limited",
    "status": "queued",
    "sent_at": null,
-   "created_at": "2026-11-04T17:44:12+05:30",
+   "created_at": "2026-11-04T17:55:08+05:30",
    "message_id": null,
    "error": null,
    "promoters": [
@@ -833,6 +833,62 @@
    "doc_url": "https://www.sebi.gov.in/sebi_data/attachdocs/oct-2026/1791979527596.pdf"
   },
   {
+   "id": "soleosenergy|mb@beelinemb.com",
+   "company_key": "soleosenergy",
+   "company": "Soleos Energy Limited",
+   "board": "Mainboard",
+   "filed_on": "2026-10-13",
+   "variant": "brlm",
+   "role": "BRLM contact",
+   "organisation": "Beeline Capital Advisors Private Limited",
+   "names": [
+    "Nikhil Shah"
+   ],
+   "email": "mb@beelinemb.com",
+   "phones": [
+    "+91 79 49185784"
+   ],
+   "subject": "Parshwanath Capital Ventures Fund | Pre-IPO & Anchor interest – Soleos Energy Limited",
+   "status": "queued",
+   "sent_at": null,
+   "created_at": "2026-11-04T17:57:00+05:30",
+   "message_id": null,
+   "error": null,
+   "promoters": [
+    "Bhaveshkumar C Rathod",
+    "Dhavalkumar Ghanshyambhai Jiyani",
+    "Parth R Rangholia",
+    "Aniket Rangholia",
+    "Vipul Rathod"
+   ],
+   "brlm_contacts": [
+    {
+     "firm": "Beeline Capital Advisors Private Limited",
+     "people": [
+      "Nikhil Shah"
+     ],
+     "emails": [
+      "mb@beelinemb.com"
+     ],
+     "phones": [
+      "+91 79 49185784"
+     ]
+    }
+   ],
+   "cs": {
+    "name": "Dixita Devang Pathak",
+    "emails": [
+     "investors@soleosenergy.com"
+    ],
+    "phones": [
+     "+91 9099660003"
+    ],
+    "page": 98
+   },
+   "website": "www.soleosenergy.com",
+   "doc_url": "https://www.sebi.gov.in/sebi_data/attachdocs/oct-2026/1791886399419.pdf"
+  },
+  {
    "id": "gracerenewableenergy|mb@marwadichandarana.com",
    "company_key": "gracerenewableenergy",
    "company": "Grace Renewable Energy Limited",
@@ -852,7 +908,7 @@
    "subject": "Parshwanath Capital Ventures Fund | Pre-IPO & Anchor interest – Grace Renewable Energy Limited",
    "status": "queued",
    "sent_at": null,
-   "created_at": "2026-11-04T17:47:03+05:30",
+   "created_at": "2026-11-04T17:59:22+05:30",
    "message_id": null,
    "error": null,
    "promoters": [
@@ -886,7 +942,7 @@
     "page": 95
    },
    "website": "https://gracerenew.com/",
-   "doc_url": "https://nsearchives.nseindia.com/corporate/AD_IPO_7835_30092026235557.zip"
+   "doc_url": "https://www.sebi.gov.in/sebi_data/attachdocs/oct-2026/1791449032035.PDF"
   },
   {
    "id": "integrumenergyinfrastructure|ieil.ipo@mefcomcap.in",
@@ -908,7 +964,7 @@
    "subject": "Parshwanath Capital Ventures Fund | Pre-IPO & Anchor interest – Integrum Energy Infrastructure Limited",
    "status": "queued",
    "sent_at": null,
-   "created_at": "2026-11-04T17:48:19+05:30",
+   "created_at": "2026-11-04T18:00:09+05:30",
    "message_id": null,
    "error": null,
    "promoters": [
@@ -990,7 +1046,7 @@
    "subject": "Parshwanath Capital Ventures Fund | Pre-IPO & Anchor interest – Integrum Energy Infrastructure Limited",
    "status": "queued",
    "sent_at": null,
-   "created_at": "2026-11-04T17:48:19+05:30",
+   "created_at": "2026-11-04T18:00:09+05:30",
    "message_id": null,
    "error": null,
    "promoters": [
@@ -1071,7 +1127,7 @@
    "subject": "Parshwanath Capital Ventures Fund | Pre-IPO & Anchor interest – Integrum Energy Infrastructure Limited",
    "status": "queued",
    "sent_at": null,
-   "created_at": "2026-11-04T17:48:19+05:30",
+   "created_at": "2026-11-04T18:00:09+05:30",
    "message_id": null,
    "error": null,
    "promoters": [
@@ -1153,7 +1209,7 @@
    "subject": "Parshwanath Capital Ventures Fund | Pre-IPO & Anchor interest – PM Cona Industries Limited",
    "status": "queued",
    "sent_at": null,
-   "created_at": "2026-11-04T17:49:16+05:30",
+   "created_at": "2026-11-04T18:01:12+05:30",
    "message_id": null,
    "error": null,
    "promoters": [
@@ -1211,7 +1267,7 @@
    "subject": "Parshwanath Capital Ventures Fund | Pre-IPO & Anchor interest – Pentacle Consultants I Limited",
    "status": "queued",
    "sent_at": null,
-   "created_at": "2026-11-04T17:49:57+05:30",
+   "created_at": "2026-11-04T18:01:57+05:30",
    "message_id": null,
    "error": null,
    "promoters": [
@@ -1248,5 +1304,5 @@
    "doc_url": "https://www.sebi.gov.in/sebi_data/attachdocs/oct-2026/1791271808233_1406.pdf"
   }
  ],
- "updated_at": "2026-11-04T17:49:57+05:30"
+ "updated_at": "2026-11-04T18:01:57+05:30"
 }
