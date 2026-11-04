@@ -19,7 +19,7 @@
    "subject": "Parshwanath Capital Ventures Fund | Pre-IPO & Anchor interest – Sitaram Denims India Limited",
    "status": "queued",
    "sent_at": null,
-   "created_at": "2026-11-04T17:26:49+05:30",
+   "created_at": "2026-11-04T17:41:42+05:30",
    "message_id": null,
    "error": null,
    "promoters": [
@@ -45,9 +45,7 @@
    "cs": {
     "name": "Shruti Joshi",
     "emails": [
-     "cs@sitaramdenims.com",
-     "pokharnasomani@gmail.com",
-     "deepa@rkabra.net"
+     "cs@sitaramdenims.com"
     ],
     "phones": [
      "+91-70233 66448"
@@ -76,7 +74,7 @@
    "subject": "Parshwanath Capital Ventures Fund | Pre-IPO & Anchor interest – Sahanaratnabh Limited",
    "status": "queued",
    "sent_at": null,
-   "created_at": "2026-11-04T17:26:56+05:30",
+   "created_at": "2026-11-04T17:41:47+05:30",
    "message_id": null,
    "error": null,
    "promoters": [
@@ -124,7 +122,7 @@
    "subject": "Parshwanath Capital Ventures Fund | Pre-IPO & Anchor interest – South Eastern Coalfields Limited",
    "status": "queued",
    "sent_at": null,
-   "created_at": "2026-11-04T17:27:02+05:30",
+   "created_at": "2026-11-04T17:41:53+05:30",
    "message_id": null,
    "error": null,
    "promoters": [
@@ -215,7 +213,7 @@
    "subject": "Parshwanath Capital Ventures Fund | Pre-IPO & Anchor interest – South Eastern Coalfields Limited",
    "status": "queued",
    "sent_at": null,
-   "created_at": "2026-11-04T17:27:02+05:30",
+   "created_at": "2026-11-04T17:41:53+05:30",
    "message_id": null,
    "error": null,
    "promoters": [
@@ -305,7 +303,7 @@
    "subject": "Parshwanath Capital Ventures Fund | Pre-IPO & Anchor interest – South Eastern Coalfields Limited",
    "status": "queued",
    "sent_at": null,
-   "created_at": "2026-11-04T17:27:02+05:30",
+   "created_at": "2026-11-04T17:41:53+05:30",
    "message_id": null,
    "error": null,
    "promoters": [
@@ -377,23 +375,25 @@
    "doc_url": "https://nsearchives.nseindia.com/corporate/AD_IPO_7968_02112026074519.zip"
   },
   {
-   "id": "carlsbergindia|glocarlsbergindia@nortonrosefulbright.com",
+   "id": "carlsbergindia|carlsberg.ipo@kotak.com",
    "company_key": "carlsbergindia",
    "company": "Carlsberg India Limited",
    "board": "Mainboard",
    "filed_on": "2026-10-29",
-   "variant": "promoter",
-   "role": "Promoter",
-   "organisation": "Carlsberg India Limited",
+   "variant": "brlm",
+   "role": "BRLM contact",
+   "organisation": "Kotak Mahindra Capital Company Limited",
    "names": [
-    "Carlsberg A/s"
+    "Ganesh Rane"
    ],
-   "email": "glocarlsbergindia@nortonrosefulbright.com",
-   "phones": [],
+   "email": "carlsberg.ipo@kotak.com",
+   "phones": [
+    "+91 22 4336 0000"
+   ],
    "subject": "Parshwanath Capital Ventures Fund | Pre-IPO & Anchor interest – Carlsberg India Limited",
    "status": "queued",
    "sent_at": null,
-   "created_at": "2026-11-04T17:28:11+05:30",
+   "created_at": "2026-11-04T17:42:27+05:30",
    "message_id": null,
    "error": null,
    "promoters": [
@@ -441,9 +441,161 @@
    "cs": {
     "name": "Kamna Tiwari",
     "emails": [
-     "cs@carlsberg.asia",
-     "amit.gupta@pwandaffiliates.com",
-     "delhi@trchadha.com"
+     "cs@carlsberg.asia"
+    ],
+    "phones": [
+     "+91 24 692 3530"
+    ],
+    "page": 103
+   },
+   "website": null,
+   "doc_url": "https://www.sebi.gov.in/sebi_data/attachdocs/oct-2026/1793273741929.pdf"
+  },
+  {
+   "id": "carlsbergindia|carlsbergindia.ipo@citi.com",
+   "company_key": "carlsbergindia",
+   "company": "Carlsberg India Limited",
+   "board": "Mainboard",
+   "filed_on": "2026-10-29",
+   "variant": "brlm",
+   "role": "BRLM contact",
+   "organisation": "Citigroup Global Markets India Private Limited",
+   "names": [
+    "Sivamsa Pingali"
+   ],
+   "email": "carlsbergindia.ipo@citi.com",
+   "phones": [
+    "+91 22 6175 9999"
+   ],
+   "subject": "Parshwanath Capital Ventures Fund | Pre-IPO & Anchor interest – Carlsberg India Limited",
+   "status": "queued",
+   "sent_at": null,
+   "created_at": "2026-11-04T17:42:27+05:30",
+   "message_id": null,
+   "error": null,
+   "promoters": [
+    "Carlsberg A/s",
+    "South Asian Breweries Pte. LTD"
+   ],
+   "brlm_contacts": [
+    {
+     "firm": "Kotak Mahindra Capital Company Limited",
+     "people": [
+      "Ganesh Rane"
+     ],
+     "emails": [
+      "carlsberg.ipo@kotak.com"
+     ],
+     "phones": [
+      "+91 22 4336 0000"
+     ]
+    },
+    {
+     "firm": "Citigroup Global Markets India Private Limited",
+     "people": [
+      "Sivamsa Pingali"
+     ],
+     "emails": [
+      "carlsbergindia.ipo@citi.com"
+     ],
+     "phones": [
+      "+91 22 6175 9999"
+     ]
+    },
+    {
+     "firm": "J.P. Morgan India Private Limited",
+     "people": [
+      "Darshil Mehta"
+     ],
+     "emails": [
+      "carlsberg_india_ipo@jpmorgan.com"
+     ],
+     "phones": [
+      "+ 91 22 6157 3000"
+     ]
+    }
+   ],
+   "cs": {
+    "name": "Kamna Tiwari",
+    "emails": [
+     "cs@carlsberg.asia"
+    ],
+    "phones": [
+     "+91 24 692 3530"
+    ],
+    "page": 103
+   },
+   "website": null,
+   "doc_url": "https://www.sebi.gov.in/sebi_data/attachdocs/oct-2026/1793273741929.pdf"
+  },
+  {
+   "id": "carlsbergindia|carlsberg_india_ipo@jpmorgan.com",
+   "company_key": "carlsbergindia",
+   "company": "Carlsberg India Limited",
+   "board": "Mainboard",
+   "filed_on": "2026-10-29",
+   "variant": "brlm",
+   "role": "BRLM contact",
+   "organisation": "J.P. Morgan India Private Limited",
+   "names": [
+    "Darshil Mehta"
+   ],
+   "email": "carlsberg_india_ipo@jpmorgan.com",
+   "phones": [
+    "+ 91 22 6157 3000"
+   ],
+   "subject": "Parshwanath Capital Ventures Fund | Pre-IPO & Anchor interest – Carlsberg India Limited",
+   "status": "queued",
+   "sent_at": null,
+   "created_at": "2026-11-04T17:42:27+05:30",
+   "message_id": null,
+   "error": null,
+   "promoters": [
+    "Carlsberg A/s",
+    "South Asian Breweries Pte. LTD"
+   ],
+   "brlm_contacts": [
+    {
+     "firm": "Kotak Mahindra Capital Company Limited",
+     "people": [
+      "Ganesh Rane"
+     ],
+     "emails": [
+      "carlsberg.ipo@kotak.com"
+     ],
+     "phones": [
+      "+91 22 4336 0000"
+     ]
+    },
+    {
+     "firm": "Citigroup Global Markets India Private Limited",
+     "people": [
+      "Sivamsa Pingali"
+     ],
+     "emails": [
+      "carlsbergindia.ipo@citi.com"
+     ],
+     "phones": [
+      "+91 22 6175 9999"
+     ]
+    },
+    {
+     "firm": "J.P. Morgan India Private Limited",
+     "people": [
+      "Darshil Mehta"
+     ],
+     "emails": [
+      "carlsberg_india_ipo@jpmorgan.com"
+     ],
+     "phones": [
+      "+ 91 22 6157 3000"
+     ]
+    }
+   ],
+   "cs": {
+    "name": "Kamna Tiwari",
+    "emails": [
+     "cs@carlsberg.asia"
     ],
     "phones": [
      "+91 24 692 3530"
@@ -473,7 +625,7 @@
    "subject": "Parshwanath Capital Ventures Fund | Pre-IPO & Anchor interest – GAMP Services Limited",
    "status": "queued",
    "sent_at": null,
-   "created_at": "2026-11-04T17:29:19+05:30",
+   "created_at": "2026-11-04T17:43:09+05:30",
    "message_id": null,
    "error": null,
    "promoters": [
@@ -528,7 +680,7 @@
    "subject": "Parshwanath Capital Ventures Fund | Pre-IPO & Anchor interest – Hunger Pangs Limited",
    "status": "queued",
    "sent_at": null,
-   "created_at": "2026-11-04T17:29:59+05:30",
+   "created_at": "2026-11-04T17:43:46+05:30",
    "message_id": null,
    "error": null,
    "promoters": [
@@ -582,7 +734,7 @@
    "subject": "Parshwanath Capital Ventures Fund | Pre-IPO & Anchor interest – Paramotor Digital Technology Limited",
    "status": "queued",
    "sent_at": null,
-   "created_at": "2026-11-04T17:30:46+05:30",
+   "created_at": "2026-11-04T17:44:12+05:30",
    "message_id": null,
    "error": null,
    "promoters": [
@@ -641,7 +793,7 @@
    "subject": "Parshwanath Capital Ventures Fund | Pre-IPO & Anchor interest – Paramotor Digital Technology Limited",
    "status": "queued",
    "sent_at": null,
-   "created_at": "2026-11-04T17:30:46+05:30",
+   "created_at": "2026-11-04T17:44:12+05:30",
    "message_id": null,
    "error": null,
    "promoters": [
@@ -681,79 +833,26 @@
    "doc_url": "https://www.sebi.gov.in/sebi_data/attachdocs/oct-2026/1791979527596.pdf"
   },
   {
-   "id": "soleosenergy|mb@beelinemb.com",
-   "company_key": "soleosenergy",
-   "company": "Soleos Energy Limited",
-   "board": "Mainboard",
-   "filed_on": "2026-10-13",
-   "variant": "brlm",
-   "role": "BRLM contact",
-   "organisation": "Beeline Capital Advisors Private Limited",
-   "names": [
-    "Nikhil Shah"
-   ],
-   "email": "mb@beelinemb.com",
-   "phones": [
-    "+91 79 49185784"
-   ],
-   "subject": "Parshwanath Capital Ventures Fund | Pre-IPO & Anchor interest – Soleos Energy Limited",
-   "status": "queued",
-   "sent_at": null,
-   "created_at": "2026-11-04T17:31:57+05:30",
-   "message_id": null,
-   "error": null,
-   "promoters": [
-    "Bhaveshkumar C Rathod",
-    "Dhavalkumar Ghanshyambhai Jiyani",
-    "Parth R Rangholia",
-    "Aniket Rangholia",
-    "Vipul Rathod"
-   ],
-   "brlm_contacts": [
-    {
-     "firm": "Beeline Capital Advisors Private Limited",
-     "people": [
-      "Nikhil Shah"
-     ],
-     "emails": [
-      "mb@beelinemb.com"
-     ],
-     "phones": [
-      "+91 79 49185784"
-     ]
-    }
-   ],
-   "cs": {
-    "name": "Dixita Devang Pathak",
-    "emails": [
-     "investors@soleosenergy.com"
-    ],
-    "phones": [
-     "+91 9099660003"
-    ],
-    "page": 98
-   },
-   "website": "www.soleosenergy.com",
-   "doc_url": "https://www.sebi.gov.in/sebi_data/attachdocs/oct-2026/1791886399419.pdf"
-  },
-  {
-   "id": "gracerenewableenergy|harsh.bhatt2@yesbank.in",
+   "id": "gracerenewableenergy|mb@marwadichandarana.com",
    "company_key": "gracerenewableenergy",
    "company": "Grace Renewable Energy Limited",
    "board": "Mainboard",
    "filed_on": "2026-10-07",
-   "variant": "promoter",
-   "role": "Promoter",
-   "organisation": "Grace Renewable Energy Limited",
+   "variant": "brlm",
+   "role": "BRLM contact",
+   "organisation": "Marwadi Chandarana Intermediaries Brokers Private Limited",
    "names": [
-    "Harsh Bagadia"
+    "Radhika Maheshwari",
+    "Jigar Desai"
    ],
-   "email": "harsh.bhatt2@yesbank.in",
-   "phones": [],
+   "email": "mb@marwadichandarana.com",
+   "phones": [
+    "+91 22 6912 0027"
+   ],
    "subject": "Parshwanath Capital Ventures Fund | Pre-IPO & Anchor interest – Grace Renewable Energy Limited",
    "status": "queued",
    "sent_at": null,
-   "created_at": "2026-11-04T17:34:14+05:30",
+   "created_at": "2026-11-04T17:47:03+05:30",
    "message_id": null,
    "error": null,
    "promoters": [
@@ -787,7 +886,7 @@
     "page": 95
    },
    "website": "https://gracerenew.com/",
-   "doc_url": "https://www.sebi.gov.in/sebi_data/attachdocs/oct-2026/1791449032035.PDF"
+   "doc_url": "https://nsearchives.nseindia.com/corporate/AD_IPO_7835_30092026235557.zip"
   },
   {
    "id": "integrumenergyinfrastructure|ieil.ipo@mefcomcap.in",
@@ -809,7 +908,7 @@
    "subject": "Parshwanath Capital Ventures Fund | Pre-IPO & Anchor interest – Integrum Energy Infrastructure Limited",
    "status": "queued",
    "sent_at": null,
-   "created_at": "2026-11-04T17:35:02+05:30",
+   "created_at": "2026-11-04T17:48:19+05:30",
    "message_id": null,
    "error": null,
    "promoters": [
@@ -891,7 +990,7 @@
    "subject": "Parshwanath Capital Ventures Fund | Pre-IPO & Anchor interest – Integrum Energy Infrastructure Limited",
    "status": "queued",
    "sent_at": null,
-   "created_at": "2026-11-04T17:35:02+05:30",
+   "created_at": "2026-11-04T17:48:19+05:30",
    "message_id": null,
    "error": null,
    "promoters": [
@@ -972,7 +1071,7 @@
    "subject": "Parshwanath Capital Ventures Fund | Pre-IPO & Anchor interest – Integrum Energy Infrastructure Limited",
    "status": "queued",
    "sent_at": null,
-   "created_at": "2026-11-04T17:35:02+05:30",
+   "created_at": "2026-11-04T17:48:19+05:30",
    "message_id": null,
    "error": null,
    "promoters": [
@@ -1054,7 +1153,7 @@
    "subject": "Parshwanath Capital Ventures Fund | Pre-IPO & Anchor interest – PM Cona Industries Limited",
    "status": "queued",
    "sent_at": null,
-   "created_at": "2026-11-04T17:37:19+05:30",
+   "created_at": "2026-11-04T17:49:16+05:30",
    "message_id": null,
    "error": null,
    "promoters": [
@@ -1112,7 +1211,7 @@
    "subject": "Parshwanath Capital Ventures Fund | Pre-IPO & Anchor interest – Pentacle Consultants I Limited",
    "status": "queued",
    "sent_at": null,
-   "created_at": "2026-11-04T17:38:04+05:30",
+   "created_at": "2026-11-04T17:49:57+05:30",
    "message_id": null,
    "error": null,
    "promoters": [
@@ -1149,5 +1248,5 @@
    "doc_url": "https://www.sebi.gov.in/sebi_data/attachdocs/oct-2026/1791271808233_1406.pdf"
   }
  ],
- "updated_at": "2026-11-04T17:38:04+05:30"
+ "updated_at": "2026-11-04T17:49:57+05:30"
 }
