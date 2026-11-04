@@ -1,0 +1,1000 @@
+{
+ "key": "southeasterncoalfields",
+ "company": "South Eastern Coalfields Limited",
+ "short": "South Eastern Coalfields",
+ "board": "Mainboard",
+ "exchange": "BSE & NSE",
+ "source": "NSE",
+ "also_on": [],
+ "filed_on": "2026-11-01",
+ "doc_type": "DRHP",
+ "document_type": "Draft Red Herring Prospectus",
+ "document_date": "November 1, 2026",
+ "doc_url": "https://nsearchives.nseindia.com/corporate/AD_IPO_7968_02112026074519.zip",
+ "page_url": null,
+ "pages": 707,
+ "cin": "U10102CT1985GOI003161",
+ "website": "www.secl-cil.in",
+ "icdr_regulation": "6(1)",
+ "fresh_issue": true,
+ "ofs": true,
+ "pre_ipo_placement": false,
+ "pre_ipo_limit_pct": null,
+ "promoters": [
+  {
+   "name": "President Of India",
+   "designation": null,
+   "emails": []
+  },
+  {
+   "name": "Acting Through The Ministry Of Coal",
+   "designation": null,
+   "emails": []
+  },
+  {
+   "name": "Government Of India",
+   "designation": null,
+   "emails": []
+  },
+  {
+   "name": "Coal India Limited",
+   "designation": null,
+   "emails": []
+  }
+ ],
+ "cs": {
+  "name": "Swapnil Sudhanshu",
+  "emails": [
+   "compsecy.secl@coalindia.in"
+  ],
+  "phones": [
+   "07752-246340"
+  ],
+  "page": 103
+ },
+ "brlms": [
+  {
+   "name": "SBI Capital Markets Limited",
+   "contact_persons": [
+    "Shivani Pujari",
+    "Raghavendra Bhat"
+   ],
+   "emails": [
+    "secl.ipo@sbicaps.com"
+   ],
+   "grievance_emails": [
+    "investor.relations@sbicaps.com"
+   ],
+   "phones": [
+    "+91 22 4006 9807"
+   ],
+   "website": "www.sbicaps.com",
+   "sebi_reg": "INM000003531",
+   "page": 104
+  },
+  {
+   "name": null,
+   "contact_persons": [
+    "Rahul Sharma",
+    "Soumavo Sarkar"
+   ],
+   "emails": [],
+   "grievance_emails": [],
+   "phones": [],
+   "website": null,
+   "sebi_reg": "INM000011179",
+   "page": 104
+  },
+  {
+   "name": "IDBI Capital Markets & Securities Limited",
+   "contact_persons": [
+    "Himanshu Shekhar Jha",
+    "Lokendra Parihar"
+   ],
+   "emails": [
+    "secl.ipo@idbicapital.com"
+   ],
+   "grievance_emails": [
+    "redressal@idbicapital.com"
+   ],
+   "phones": [
+    "+91 22 40691953"
+   ],
+   "website": "www.idbicapital.com",
+   "sebi_reg": "INM000010866",
+   "page": 104
+  },
+  {
+   "name": "Motilal Oswal Investment Advisors Limited",
+   "contact_persons": [
+    "Vaibhav Shah"
+   ],
+   "emails": [
+    "secl.ipo@motilaloswal.com"
+   ],
+   "grievance_emails": [
+    "moiaplredressal@motilaloswal.com"
+   ],
+   "phones": [
+    "+91 22 7193 4380"
+   ],
+   "website": "www.motilaloswal.com",
+   "sebi_reg": "INM000011005",
+   "page": 104
+  }
+ ],
+ "registrar": {
+  "name": "KFin Technologies Limited",
+  "emails": [
+   "southeastern.ipo@kfintech.com",
+   "einward.ris@kfintech.com"
+  ],
+  "phones": [
+   "+91 40 6716 2222",
+   "1800 309 4001"
+  ],
+  "contact_persons": [
+   "Williams R"
+  ],
+  "page": 106
+ },
+ "business": {
+  "text": "We are one of the largest coal producers in India in terms of production in Fiscal 2026, with production of 176.29 million tonnes of coal, accounting for 16.94% of India’s total coal production in Fiscal 2026.  Our Company, a wholly-owned subsidiary of Coal India Limited (“CIL”), is headquartered in Bilaspur, Chhattisgarh, and was conferred with Miniratna Category - I status on March 15, 2007 and in 2025, completed 40 years of coal mining operations.",
+  "page": 258
+ },
+ "business_summary": "South Eastern Coalfields is one of the largest coal producers in India in terms of production in Fiscal 2026.",
+ "financials": {
+  "ok": true,
+  "unit_in_drhp": "million",
+  "source": "Restated Financial Information",
+  "periods": [
+   {
+    "iso": "2026-03-31",
+    "label": "FY26",
+    "stub": false
+   },
+   {
+    "iso": "2025-03-31",
+    "label": "FY25",
+    "stub": false
+   },
+   {
+    "iso": "2026-03-31",
+    "label": "FY26",
+    "stub": false
+   },
+   {
+    "iso": "2025-03-31",
+    "label": "FY25",
+    "stub": false
+   },
+   {
+    "iso": "2024-03-31",
+    "label": "FY24",
+    "stub": false
+   }
+  ],
+  "items": {
+   "other_income": {
+    "label": "Other income",
+    "drhp_label": "Other income",
+    "statement": "P&L",
+    "page": 93,
+    "values": [
+     1041.95,
+     568.33,
+     1941.1,
+     2992.8,
+     2178.38
+    ],
+    "raw": [
+     "10,419.50",
+     "5,683.30",
+     "19,411.00",
+     "29,928.00",
+     "21,783.80"
+    ],
+    "status": [
+     "unverified",
+     "unverified",
+     "unverified",
+     "unverified",
+     "unverified"
+    ],
+    "notes": [
+     [],
+     [],
+     [],
+     [],
+     []
+    ]
+   },
+   "total_income": {
+    "label": "Total income",
+    "drhp_label": "Total income",
+    "statement": "P&L",
+    "page": 93,
+    "values": [
+     17635.73,
+     15658.58,
+     34897.62,
+     32991.16,
+     34962.0
+    ],
+    "raw": [
+     "176,357.30",
+     "156,585.80",
+     "348,976.20",
+     "329,911.60",
+     "349,620.00"
+    ],
+    "status": [
+     "verified",
+     "verified",
+     "verified",
+     "verified",
+     "verified"
+    ],
+    "notes": [
+     [
+      "also printed on page 364, 551, 555"
+     ],
+     [
+      "also printed on page 364, 551, 555"
+     ],
+     [
+      "also printed on page 227, 364, 551"
+     ],
+     [
+      "also printed on page 226, 227, 364"
+     ],
+     [
+      "also printed on page 227, 364, 551"
+     ]
+    ]
+   },
+   "finance_cost": {
+    "label": "Finance cost",
+    "drhp_label": "Finance costs",
+    "statement": "P&L",
+    "page": 93,
+    "values": [
+     191.55,
+     150.51,
+     336.88,
+     279.66,
+     261.67
+    ],
+    "raw": [
+     "1,915.50",
+     "1,505.10",
+     "3,368.80",
+     "2,796.60",
+     "2,616.70"
+    ],
+    "status": [
+     "verified",
+     "verified",
+     "verified",
+     "verified",
+     "verified"
+    ],
+    "notes": [
+     [
+      "also printed on page 95, 364, 369"
+     ],
+     [
+      "also printed on page 95, 364, 369"
+     ],
+     [
+      "also printed on page 95, 364, 369"
+     ],
+     [
+      "also printed on page 95, 364, 369"
+     ],
+     [
+      "also printed on page 95, 364, 369"
+     ]
+    ]
+   },
+   "depreciation": {
+    "label": "Depreciation & amortisation",
+    "drhp_label": "Depreciation/amort",
+    "statement": "P&L",
+    "page": 93,
+    "values": [
+     927.21,
+     1415.43,
+     2595.16,
+     2083.72,
+     1307.8
+    ],
+    "raw": [
+     "9,272.10",
+     "14,154.30",
+     "25,951.60",
+     "20,837.20",
+     "13,078.00"
+    ],
+    "status": [
+     "verified",
+     "verified",
+     "verified",
+     "verified",
+     "verified"
+    ],
+    "notes": [
+     [
+      "also printed on page 95, 364, 369"
+     ],
+     [
+      "also printed on page 95, 364, 369"
+     ],
+     [
+      "also printed on page 95, 364, 369"
+     ],
+     [
+      "also printed on page 95, 364, 369"
+     ],
+     [
+      "also printed on page 95, 364, 369"
+     ]
+    ]
+   },
+   "total_expenses": {
+    "label": "Total expenses",
+    "drhp_label": "Total expenses",
+    "statement": "P&L",
+    "page": 93,
+    "values": [
+     14725.13,
+     13769.82,
+     28464.79,
+     26723.73,
+     25860.72
+    ],
+    "raw": [
+     "147,251.30",
+     "137,698.20",
+     "284,647.90",
+     "267,237.30",
+     "258,607.20"
+    ],
+    "status": [
+     "unverified",
+     "unverified",
+     "unverified",
+     "unverified",
+     "unverified"
+    ],
+    "notes": [
+     [],
+     [],
+     [],
+     [],
+     []
+    ]
+   },
+   "pbt": {
+    "label": "Profit before tax",
+    "drhp_label": "Profit before tax",
+    "statement": "P&L",
+    "page": 93,
+    "values": [
+     2910.6,
+     1888.76,
+     6432.83,
+     6267.43,
+     9101.28
+    ],
+    "raw": [
+     "29,106.00",
+     "18,887.60",
+     "64,328.30",
+     "62,674.30",
+     "91,012.80"
+    ],
+    "status": [
+     "verified",
+     "verified",
+     "verified",
+     "verified",
+     "verified"
+    ],
+    "notes": [
+     [
+      "also printed on page 95, 364, 369"
+     ],
+     [
+      "also printed on page 95, 364, 369"
+     ],
+     [
+      "also printed on page 95, 232, 364"
+     ],
+     [
+      "also printed on page 95, 232, 364"
+     ],
+     [
+      "also printed on page 95, 232, 364"
+     ]
+    ]
+   },
+   "tax": {
+    "label": "Total tax expense",
+    "drhp_label": "Total tax expenses",
+    "statement": "P&L",
+    "page": 93,
+    "values": [
+     736.25,
+     747.84,
+     1678.24,
+     1727.01,
+     2170.51
+    ],
+    "raw": [
+     "7,362.50",
+     "7,478.40",
+     "16,782.40",
+     "17,270.10",
+     "21,705.10"
+    ],
+    "status": [
+     "unverified",
+     "unverified",
+     "unverified",
+     "unverified",
+     "unverified"
+    ],
+    "notes": [
+     [],
+     [],
+     [],
+     [],
+     []
+    ]
+   },
+   "eps_basic": {
+    "label": "EPS – basic (₹)",
+    "drhp_label": "Basic",
+    "statement": "P&L",
+    "page": 94,
+    "values": [
+     3.3,
+     1.86,
+     7.19,
+     6.88,
+     10.43
+    ],
+    "raw": [
+     "3.30",
+     "1.86",
+     "7.19",
+     "6.88",
+     "10.43"
+    ],
+    "status": [
+     "verified",
+     "verified",
+     "verified",
+     "verified",
+     "verified"
+    ],
+    "notes": [
+     [
+      "also printed on page 133, 138, 246"
+     ],
+     [
+      "also printed on page 133, 138, 246"
+     ],
+     [
+      "also printed on page 129, 133, 138"
+     ],
+     [
+      "also printed on page 133, 138, 246"
+     ],
+     [
+      "also printed on page 133, 138, 246"
+     ]
+    ]
+   },
+   "eps_diluted": {
+    "label": "EPS – diluted (₹)",
+    "drhp_label": "Diluted",
+    "statement": "P&L",
+    "page": 94,
+    "values": [
+     3.3,
+     1.86,
+     7.19,
+     6.88,
+     10.43
+    ],
+    "raw": [
+     "3.30",
+     "1.86",
+     "7.19",
+     "6.88",
+     "10.43"
+    ],
+    "status": [
+     "unverified",
+     "unverified",
+     "unverified",
+     "unverified",
+     "unverified"
+    ],
+    "notes": [
+     [],
+     [],
+     [],
+     [],
+     []
+    ]
+   }
+  },
+  "ratios": {
+   "Interest coverage": {
+    "values": [
+     16.194988,
+     13.549067,
+     20.095316,
+     23.410892,
+     35.781519
+    ],
+    "status": [
+     "verified",
+     "verified",
+     "verified",
+     "verified",
+     "verified"
+    ],
+    "fmt": "x",
+    "formula": "(PBT + Finance cost) ÷ Finance cost"
+   }
+  },
+  "checks": [],
+  "kpi_stated": [
+   {
+    "label": "Subtotal: ",
+    "values": [
+     165937.8,
+     150902.5,
+     329565.2,
+     299983.6,
+     327836.2
+    ],
+    "raw": [
+     "1,65,937.80",
+     "1,50,902.50",
+     "3,29,565.20",
+     "2,99,983.60",
+     "3,27,836.20"
+    ],
+    "page": 132
+   },
+   {
+    "label": "Year(2) 3. EBITDA(3) ₹ in",
+    "values": [
+     40293.6,
+     34547.0,
+     93648.7,
+     86308.1,
+     106707.5
+    ],
+    "raw": [
+     "40,293.60",
+     "34,547.00",
+     "93,648.70",
+     "86,308.10",
+     "1,06,707.50"
+    ],
+    "page": 132
+   },
+   {
+    "label": "as a percentage of %",
+    "values": [
+     22.85,
+     22.06,
+     26.84,
+     26.16,
+     30.52
+    ],
+    "raw": [
+     "22.85",
+     "22.06",
+     "26.84",
+     "26.16",
+     "30.52"
+    ],
+    "page": 132
+   },
+   {
+    "label": "Total Income(4) 5. Operating ₹ in",
+    "values": [
+     29874.1,
+     28863.7,
+     74237.7,
+     56380.1,
+     84923.7
+    ],
+    "raw": [
+     "29,874.10",
+     "28,863.70",
+     "74,237.70",
+     "56,380.10",
+     "84,923.70"
+    ],
+    "page": 132
+   },
+   {
+    "label": "percentage of %",
+    "values": [
+     18.0,
+     19.13,
+     22.53,
+     18.79,
+     25.9
+    ],
+    "raw": [
+     "18.00",
+     "19.13",
+     "22.53",
+     "18.79",
+     "25.90"
+    ],
+    "page": 132
+   },
+   {
+    "label": "8. Profit after tax ₹ in",
+    "values": [
+     21743.5,
+     11409.2,
+     47545.9,
+     45404.2,
+     69307.7
+    ],
+    "raw": [
+     "21,743.50",
+     "11,409.20",
+     "47,545.90",
+     "45,404.20",
+     "69,307.70"
+    ],
+    "page": 132
+   },
+   {
+    "label": "% 90.58% NA 4.72% (34.49%) 90.59%(30) Previous Period /",
+    "values": [
+     -9.0,
+     null,
+     null,
+     null,
+     null
+    ],
+    "raw": [
+     "(9)",
+     null,
+     null,
+     null,
+     null
+    ],
+    "page": 133
+   },
+   {
+    "label": "of Total %",
+    "values": [
+     12.33,
+     7.29,
+     13.62,
+     13.76,
+     19.82
+    ],
+    "raw": [
+     "12.33",
+     "7.29",
+     "13.62",
+     "13.76",
+     "19.82"
+    ],
+    "page": 133
+   },
+   {
+    "label": "% 10.87%* 8.63%* 26.55% 30.44% 57.96%(30) employed",
+    "values": [
+     -11.0,
+     null,
+     null,
+     null,
+     null
+    ],
+    "raw": [
+     "(11)",
+     null,
+     null,
+     null,
+     null
+    ],
+    "page": 133
+   },
+   {
+    "label": "% 10.66%* 7.19%* 25.70% 29.07% 60.56%(30) Worth(12)",
+    "values": [
+     -13.0,
+     null,
+     null,
+     null,
+     null
+    ],
+    "raw": [
+     "(13)",
+     null,
+     null,
+     null,
+     null
+    ],
+    "page": 133
+   },
+   {
+    "label": "13. Capex ₹ in",
+    "values": [
+     19224.2,
+     13502.8,
+     39243.6,
+     52234.4,
+     50152.7
+    ],
+    "raw": [
+     "19,224.20",
+     "13,502.80",
+     "39,243.60",
+     "52,234.40",
+     "50,152.70"
+    ],
+    "page": 133
+   },
+   {
+    "label": "number of days Days",
+    "values": [
+     5.0,
+     11.0,
+     14.0,
+     3.0,
+     8.0
+    ],
+    "raw": [
+     "5",
+     "11",
+     "14",
+     "3",
+     "8"
+    ],
+    "page": 133
+   },
+   {
+    "label": "r/In",
+    "values": [
+     1.95,
+     1.9,
+     1.89,
+     1.76,
+     1.73
+    ],
+    "raw": [
+     "1.95",
+     "1.90",
+     "1.89",
+     "1.76",
+     "1.73"
+    ],
+    "page": 133
+   },
+   {
+    "label": "(NAV) per equity in ₹",
+    "values": [
+     31.49,
+     26.22,
+     30.39,
+     25.55,
+     21.8
+    ],
+    "raw": [
+     "31.49",
+     "26.22",
+     "30.39",
+     "25.55",
+     "21.80"
+    ],
+    "page": 133
+   },
+   {
+    "label": "Shares (EPS – in ₹ 3.30* 1.86*",
+    "values": [
+     null,
+     null,
+     7.19,
+     6.88,
+     10.43
+    ],
+    "raw": [
+     null,
+     null,
+     "7.19",
+     "6.88",
+     "10.43"
+    ],
+    "page": 133
+   },
+   {
+    "label": "Shares (EPS – in ₹ 3.30* 1.86*",
+    "values": [
+     null,
+     null,
+     7.19,
+     6.88,
+     10.43
+    ],
+    "raw": [
+     null,
+     null,
+     "7.19",
+     "6.88",
+     "10.43"
+    ],
+    "page": 133
+   },
+   {
+    "label": "MT",
+    "values": [
+     76.88,
+     72.66,
+     176.29,
+     167.49,
+     187.38
+    ],
+    "raw": [
+     "76.88",
+     "72.66",
+     "176.29",
+     "167.49",
+     "187.38"
+    ],
+    "page": 133
+   },
+   {
+    "label": "Open cast MT",
+    "values": [
+     70.55,
+     67.35,
+     165.08,
+     155.62,
+     175.41
+    ],
+    "raw": [
+     "70.55",
+     "67.35",
+     "165.08",
+     "155.62",
+     "175.41"
+    ],
+    "page": 133
+   },
+   {
+    "label": "%",
+    "values": [
+     91.77,
+     92.69,
+     93.64,
+     92.91,
+     93.61
+    ],
+    "raw": [
+     "91.77",
+     "92.69",
+     "93.64",
+     "92.91",
+     "93.61"
+    ],
+    "page": 133
+   },
+   {
+    "label": "as % of total",
+    "values": [
+     -21.0,
+     null,
+     null,
+     null,
+     null
+    ],
+    "raw": [
+     "(21)",
+     null,
+     null,
+     null,
+     null
+    ],
+    "page": 133
+   }
+  ],
+  "kpi_periods": [
+   {
+    "iso": null,
+    "label": "Col1",
+    "stub": false
+   },
+   {
+    "iso": null,
+    "label": "Col2",
+    "stub": false
+   },
+   {
+    "iso": null,
+    "label": "Col3",
+    "stub": false
+   },
+   {
+    "iso": null,
+    "label": "Col4",
+    "stub": false
+   },
+   {
+    "iso": null,
+    "label": "Col5",
+    "stub": false
+   }
+  ],
+  "kpi_page": 132,
+  "pages": {
+   "pl": 93,
+   "cf": 95,
+   "bs": 532
+  },
+  "core_verified": false
+ },
+ "emails": [
+  {
+   "subject": "Parshwanath Capital Ventures Fund | Pre-IPO & Anchor interest – South Eastern Coalfields Limited",
+   "text": "Dear Shivani Pujari and Raghavendra Bhat,\n\nI am CA Deep Dalal, Fund Manager of Parshwanath Capital Ventures Fund. I am writing to you as the Book Running Lead Manager to the proposed IPO of South Eastern Coalfields Limited, whose Draft Red Herring Prospectus dated November 1, 2026 has been filed with SEBI for listing on the Main Board of BSE and NSE.\n\nABOUT US\nParshwanath Capital Ventures Fund is a SEBI-registered Category III Alternative Investment Fund focused on India's primary markets. We invest through Pre-IPO placements, IPO Anchor Investor books, the QIB portion of IPOs and Qualified Institutional Placements (QIPs), working closely with promoters and merchant bankers through the listing journey.\n\nOUR VIEW ON SOUTH EASTERN COALFIELDS\nSouth Eastern Coalfields is one of the largest coal producers in India in terms of production in Fiscal 2026. We have studied the DRHP closely and the business fits well with our investment focus.\n\nHOW WE WOULD LIKE TO PARTICIPATE\n  1. Pre-IPO round: Should the Company consider a pre-IPO placement ahead of the RHP, we would be keen to participate.\n  2. Anchor Investor portion: As a SEBI-registered Category III AIF, we qualify as a QIB and would like to be considered for the anchor book.\n  3. QIB portion: We would also look to participate in the QIB portion of the IPO.\n\nI would be grateful if you could introduce us to the promoters of South Eastern Coalfields (President Of India, Acting Through The Ministry Of Coal and Government Of India) and keep us informed as the pre-IPO and anchor book discussions progress. A short call at your convenience would be much appreciated.\n\nI look forward to hearing from you.\n\nWarm regards,\n\nCA Deep Dalal\nFund Manager, Parshwanath Capital Ventures Fund\nSEBI-registered Category III AIF\nEmail: fundmanager@parshwanath.in\nWhatsApp: +91 83200 52970\nPhone / WhatsApp: +91 70690 06298\n\nThis email is for introduction purposes only and does not constitute an offer, solicitation or commitment to invest. Any investment is subject to the Fund's due diligence, investment committee approval and applicable SEBI regulations. To stop receiving emails from us, reply with “unsubscribe”.",
+   "html": "<!doctype html><html><head><meta charset=\"utf-8\"><meta name=\"color-scheme\" content=\"light dark\"><meta name=\"supported-color-schemes\" content=\"light dark\"></head><body style=\"margin:0;padding:0\"><table role=\"presentation\" width=\"100%\" cellpadding=\"0\" cellspacing=\"0\" style=\"border-collapse:collapse\"><tr><td align=\"center\" style=\"padding:20px 12px\"><table role=\"presentation\" width=\"640\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:100%;max-width:640px;border-collapse:collapse\"><tr><td style=\"padding:0 4px 14px 4px;border-bottom:3px double #A07A35\"><table role=\"presentation\" cellpadding=\"0\" cellspacing=\"0\" style=\"border-collapse:collapse\"><tr><td valign=\"middle\" style=\"padding-right:14px\"><img src=\"cid:pcvf-logo\" width=\"72\" height=\"72\" alt=\"Parshwanath Capital Ventures Fund\" style=\"display:block;border:0;border-radius:36px\"></td><td valign=\"middle\"><div style=\"font-family:Georgia, 'Times New Roman', Times, serif;font-size:23px;font-weight:700;letter-spacing:.6px;color:#A07A35\">PARSHWANATH</div><div style=\"font-family:Georgia, 'Times New Roman', Times, serif;font-size:15px;letter-spacing:1.4px;color:#A07A35\">CAPITAL VENTURES FUND</div><div style=\"font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:10.5px;letter-spacing:2px;text-transform:uppercase;color:#7B8491;margin-top:5px\">SEBI-registered Category III AIF &middot; Pre-IPO &middot; Anchor &middot; QIB &middot; QIP</div></td></tr></table></td></tr><tr><td style=\"padding:10px 4px;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:12px;letter-spacing:.4px;color:#7B8491;border-bottom:1px solid #B9B2A5\">Re: <b style=\"color:#A07A35\">South Eastern Coalfields Limited</b> &nbsp;|&nbsp; Mainboard IPO &nbsp;|&nbsp; DRHP dated November 1, 2026</td></tr><tr><td style=\"padding:24px 4px 22px 4px\"><p style=\"margin:0 0 14px 0;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:14.5px;line-height:1.65;\">Dear Shivani Pujari and Raghavendra Bhat,</p><p style=\"margin:0 0 14px 0;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:14.5px;line-height:1.65;\">I am CA Deep Dalal, Fund Manager of Parshwanath Capital Ventures Fund. I am writing to you as the Book Running Lead Manager to the proposed IPO of South Eastern Coalfields Limited, whose Draft Red Herring Prospectus dated November 1, 2026 has been filed with SEBI for listing on the Main Board of BSE and NSE.</p><p style=\"margin:24px 0 8px 0;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:11.5px;font-weight:700;letter-spacing:1.6px;text-transform:uppercase;color:#A07A35;\">About us</p><table role=\"presentation\" width=\"100%\" cellpadding=\"0\" cellspacing=\"0\" style=\"border-collapse:collapse;margin:0 0 6px 0\"><tr><td style=\"border-left:3px solid #A07A35;padding:4px 0 4px 16px;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:14.5px;line-height:1.65\">Parshwanath Capital Ventures Fund is a SEBI-registered Category III Alternative Investment Fund focused on India&#x27;s primary markets. We invest through Pre-IPO placements, IPO Anchor Investor books, the QIB portion of IPOs and Qualified Institutional Placements (QIPs), working closely with promoters and merchant bankers through the listing journey.</td></tr></table><p style=\"margin:24px 0 8px 0;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:11.5px;font-weight:700;letter-spacing:1.6px;text-transform:uppercase;color:#A07A35;\">Our view on South Eastern Coalfields</p><p style=\"margin:0 0 14px 0;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:14.5px;line-height:1.65;\">South Eastern Coalfields is one of the largest coal producers in India in terms of production in Fiscal 2026. We have studied the DRHP closely and the business fits well with our investment focus.</p><p style=\"margin:24px 0 8px 0;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:11.5px;font-weight:700;letter-spacing:1.6px;text-transform:uppercase;color:#A07A35;\">How we would like to participate</p><table role=\"presentation\" width=\"100%\" cellpadding=\"0\" cellspacing=\"0\" style=\"border-collapse:collapse;margin:0 0 8px 0\"><tr><td width=\"34\" valign=\"top\" style=\"padding-top:1px\"><div style=\"width:22px;height:22px;line-height:20px;border-radius:12px;border:1.5px solid #A07A35;color:#A07A35;text-align:center;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:12px;font-weight:700\">1</div></td><td style=\"font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:14.5px;line-height:1.6\"><b>Pre-IPO round.</b> Should the Company consider a pre-IPO placement ahead of the RHP, we would be keen to participate.</td></tr></table><table role=\"presentation\" width=\"100%\" cellpadding=\"0\" cellspacing=\"0\" style=\"border-collapse:collapse;margin:0 0 8px 0\"><tr><td width=\"34\" valign=\"top\" style=\"padding-top:1px\"><div style=\"width:22px;height:22px;line-height:20px;border-radius:12px;border:1.5px solid #A07A35;color:#A07A35;text-align:center;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:12px;font-weight:700\">2</div></td><td style=\"font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:14.5px;line-height:1.6\"><b>Anchor Investor portion.</b> As a SEBI-registered Category III AIF, we qualify as a QIB and would like to be considered for the anchor book.</td></tr></table><table role=\"presentation\" width=\"100%\" cellpadding=\"0\" cellspacing=\"0\" style=\"border-collapse:collapse;margin:0 0 8px 0\"><tr><td width=\"34\" valign=\"top\" style=\"padding-top:1px\"><div style=\"width:22px;height:22px;line-height:20px;border-radius:12px;border:1.5px solid #A07A35;color:#A07A35;text-align:center;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:12px;font-weight:700\">3</div></td><td style=\"font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:14.5px;line-height:1.6\"><b>QIB portion.</b> We would also look to participate in the QIB portion of the IPO.</td></tr></table><p style=\"margin:0 0 14px 0;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:14.5px;line-height:1.65;margin-top:16px\">I would be grateful if you could introduce us to the promoters of South Eastern Coalfields (President Of India, Acting Through The Ministry Of Coal and Government Of India) and keep us informed as the pre-IPO and anchor book discussions progress. A short call at your convenience would be much appreciated.</p><p style=\"margin:0 0 14px 0;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:14.5px;line-height:1.65;\">I look forward to hearing from you.</p><p style=\"margin:0 0 14px 0;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:14.5px;line-height:1.65;margin-bottom:10px\">Warm regards,</p><table role=\"presentation\" cellpadding=\"0\" cellspacing=\"0\" style=\"border-collapse:collapse;margin:0\"><tr><td valign=\"top\" style=\"padding:2px 14px 0 0\"><img src=\"cid:pcvf-logo\" width=\"64\" height=\"64\" alt=\"PCVF\" style=\"display:block;border:0;border-radius:32px\"></td><td valign=\"top\" style=\"border-left:2px solid #A07A35;padding:0 0 0 14px\"><div style=\"font-family:Georgia, 'Times New Roman', Times, serif;font-size:19px;font-weight:700\">CA Deep Dalal</div><div style=\"font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:13px;color:#7B8491;margin:2px 0 8px 0\">Fund Manager, Parshwanath Capital Ventures Fund &middot; SEBI-registered Category III AIF</div><table role=\"presentation\" cellpadding=\"0\" cellspacing=\"0\" style=\"border-collapse:collapse\"><tr><td style=\"padding:2px 14px 2px 0;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:11px;letter-spacing:1px;text-transform:uppercase;color:#A07A35;white-space:nowrap\">Email</td><td style=\"padding:2px 0;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:14px\"><a href=\"mailto:fundmanager@parshwanath.in\" style=\"color:#3B78B8;text-decoration:none\">fundmanager@parshwanath.in</a></td></tr><tr><td style=\"padding:2px 14px 2px 0;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:11px;letter-spacing:1px;text-transform:uppercase;color:#A07A35;white-space:nowrap\">WhatsApp</td><td style=\"padding:2px 0;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:14px\"><a href=\"https://wa.me/918320052970\" style=\"color:#3B78B8;text-decoration:none\">+91 83200 52970</a></td></tr><tr><td style=\"padding:2px 14px 2px 0;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:11px;letter-spacing:1px;text-transform:uppercase;color:#A07A35;white-space:nowrap\">Phone / WhatsApp</td><td style=\"padding:2px 0;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:14px\"><a href=\"https://wa.me/917069006298\" style=\"color:#3B78B8;text-decoration:none\">+91 70690 06298</a></td></tr></table></td></tr></table></td></tr><tr><td style=\"padding:12px 4px 8px 4px;border-top:1px solid #B9B2A5;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:11px;line-height:1.55;color:#7B8491\">This email is for introduction purposes only and does not constitute an offer, solicitation or commitment to invest. Any investment is subject to the Fund&#x27;s due diligence, investment committee approval and applicable SEBI regulations. To stop receiving emails from us, reply with “unsubscribe”.</td></tr></table></td></tr></table></body></html>",
+   "variant": "brlm",
+   "to": [
+    "secl.ipo@sbicaps.com"
+   ],
+   "names": [
+    "Shivani Pujari",
+    "Raghavendra Bhat"
+   ],
+   "brlm": "SBI Capital Markets Limited"
+  },
+  {
+   "subject": "Parshwanath Capital Ventures Fund | Pre-IPO & Anchor interest – South Eastern Coalfields Limited",
+   "text": "Dear Himanshu Shekhar Jha and Lokendra Parihar,\n\nI am CA Deep Dalal, Fund Manager of Parshwanath Capital Ventures Fund. I am writing to you as the Book Running Lead Manager to the proposed IPO of South Eastern Coalfields Limited, whose Draft Red Herring Prospectus dated November 1, 2026 has been filed with SEBI for listing on the Main Board of BSE and NSE.\n\nABOUT US\nParshwanath Capital Ventures Fund is a SEBI-registered Category III Alternative Investment Fund focused on India's primary markets. We invest through Pre-IPO placements, IPO Anchor Investor books, the QIB portion of IPOs and Qualified Institutional Placements (QIPs), working closely with promoters and merchant bankers through the listing journey.\n\nOUR VIEW ON SOUTH EASTERN COALFIELDS\nSouth Eastern Coalfields is one of the largest coal producers in India in terms of production in Fiscal 2026. We have studied the DRHP closely and the business fits well with our investment focus.\n\nHOW WE WOULD LIKE TO PARTICIPATE\n  1. Pre-IPO round: Should the Company consider a pre-IPO placement ahead of the RHP, we would be keen to participate.\n  2. Anchor Investor portion: As a SEBI-registered Category III AIF, we qualify as a QIB and would like to be considered for the anchor book.\n  3. QIB portion: We would also look to participate in the QIB portion of the IPO.\n\nI would be grateful if you could introduce us to the promoters of South Eastern Coalfields (President Of India, Acting Through The Ministry Of Coal and Government Of India) and keep us informed as the pre-IPO and anchor book discussions progress. A short call at your convenience would be much appreciated.\n\nI look forward to hearing from you.\n\nWarm regards,\n\nCA Deep Dalal\nFund Manager, Parshwanath Capital Ventures Fund\nSEBI-registered Category III AIF\nEmail: fundmanager@parshwanath.in\nWhatsApp: +91 83200 52970\nPhone / WhatsApp: +91 70690 06298\n\nThis email is for introduction purposes only and does not constitute an offer, solicitation or commitment to invest. Any investment is subject to the Fund's due diligence, investment committee approval and applicable SEBI regulations. To stop receiving emails from us, reply with “unsubscribe”.",
+   "html": "<!doctype html><html><head><meta charset=\"utf-8\"><meta name=\"color-scheme\" content=\"light dark\"><meta name=\"supported-color-schemes\" content=\"light dark\"></head><body style=\"margin:0;padding:0\"><table role=\"presentation\" width=\"100%\" cellpadding=\"0\" cellspacing=\"0\" style=\"border-collapse:collapse\"><tr><td align=\"center\" style=\"padding:20px 12px\"><table role=\"presentation\" width=\"640\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:100%;max-width:640px;border-collapse:collapse\"><tr><td style=\"padding:0 4px 14px 4px;border-bottom:3px double #A07A35\"><table role=\"presentation\" cellpadding=\"0\" cellspacing=\"0\" style=\"border-collapse:collapse\"><tr><td valign=\"middle\" style=\"padding-right:14px\"><img src=\"cid:pcvf-logo\" width=\"72\" height=\"72\" alt=\"Parshwanath Capital Ventures Fund\" style=\"display:block;border:0;border-radius:36px\"></td><td valign=\"middle\"><div style=\"font-family:Georgia, 'Times New Roman', Times, serif;font-size:23px;font-weight:700;letter-spacing:.6px;color:#A07A35\">PARSHWANATH</div><div style=\"font-family:Georgia, 'Times New Roman', Times, serif;font-size:15px;letter-spacing:1.4px;color:#A07A35\">CAPITAL VENTURES FUND</div><div style=\"font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:10.5px;letter-spacing:2px;text-transform:uppercase;color:#7B8491;margin-top:5px\">SEBI-registered Category III AIF &middot; Pre-IPO &middot; Anchor &middot; QIB &middot; QIP</div></td></tr></table></td></tr><tr><td style=\"padding:10px 4px;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:12px;letter-spacing:.4px;color:#7B8491;border-bottom:1px solid #B9B2A5\">Re: <b style=\"color:#A07A35\">South Eastern Coalfields Limited</b> &nbsp;|&nbsp; Mainboard IPO &nbsp;|&nbsp; DRHP dated November 1, 2026</td></tr><tr><td style=\"padding:24px 4px 22px 4px\"><p style=\"margin:0 0 14px 0;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:14.5px;line-height:1.65;\">Dear Himanshu Shekhar Jha and Lokendra Parihar,</p><p style=\"margin:0 0 14px 0;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:14.5px;line-height:1.65;\">I am CA Deep Dalal, Fund Manager of Parshwanath Capital Ventures Fund. I am writing to you as the Book Running Lead Manager to the proposed IPO of South Eastern Coalfields Limited, whose Draft Red Herring Prospectus dated November 1, 2026 has been filed with SEBI for listing on the Main Board of BSE and NSE.</p><p style=\"margin:24px 0 8px 0;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:11.5px;font-weight:700;letter-spacing:1.6px;text-transform:uppercase;color:#A07A35;\">About us</p><table role=\"presentation\" width=\"100%\" cellpadding=\"0\" cellspacing=\"0\" style=\"border-collapse:collapse;margin:0 0 6px 0\"><tr><td style=\"border-left:3px solid #A07A35;padding:4px 0 4px 16px;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:14.5px;line-height:1.65\">Parshwanath Capital Ventures Fund is a SEBI-registered Category III Alternative Investment Fund focused on India&#x27;s primary markets. We invest through Pre-IPO placements, IPO Anchor Investor books, the QIB portion of IPOs and Qualified Institutional Placements (QIPs), working closely with promoters and merchant bankers through the listing journey.</td></tr></table><p style=\"margin:24px 0 8px 0;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:11.5px;font-weight:700;letter-spacing:1.6px;text-transform:uppercase;color:#A07A35;\">Our view on South Eastern Coalfields</p><p style=\"margin:0 0 14px 0;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:14.5px;line-height:1.65;\">South Eastern Coalfields is one of the largest coal producers in India in terms of production in Fiscal 2026. We have studied the DRHP closely and the business fits well with our investment focus.</p><p style=\"margin:24px 0 8px 0;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:11.5px;font-weight:700;letter-spacing:1.6px;text-transform:uppercase;color:#A07A35;\">How we would like to participate</p><table role=\"presentation\" width=\"100%\" cellpadding=\"0\" cellspacing=\"0\" style=\"border-collapse:collapse;margin:0 0 8px 0\"><tr><td width=\"34\" valign=\"top\" style=\"padding-top:1px\"><div style=\"width:22px;height:22px;line-height:20px;border-radius:12px;border:1.5px solid #A07A35;color:#A07A35;text-align:center;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:12px;font-weight:700\">1</div></td><td style=\"font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:14.5px;line-height:1.6\"><b>Pre-IPO round.</b> Should the Company consider a pre-IPO placement ahead of the RHP, we would be keen to participate.</td></tr></table><table role=\"presentation\" width=\"100%\" cellpadding=\"0\" cellspacing=\"0\" style=\"border-collapse:collapse;margin:0 0 8px 0\"><tr><td width=\"34\" valign=\"top\" style=\"padding-top:1px\"><div style=\"width:22px;height:22px;line-height:20px;border-radius:12px;border:1.5px solid #A07A35;color:#A07A35;text-align:center;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:12px;font-weight:700\">2</div></td><td style=\"font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:14.5px;line-height:1.6\"><b>Anchor Investor portion.</b> As a SEBI-registered Category III AIF, we qualify as a QIB and would like to be considered for the anchor book.</td></tr></table><table role=\"presentation\" width=\"100%\" cellpadding=\"0\" cellspacing=\"0\" style=\"border-collapse:collapse;margin:0 0 8px 0\"><tr><td width=\"34\" valign=\"top\" style=\"padding-top:1px\"><div style=\"width:22px;height:22px;line-height:20px;border-radius:12px;border:1.5px solid #A07A35;color:#A07A35;text-align:center;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:12px;font-weight:700\">3</div></td><td style=\"font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:14.5px;line-height:1.6\"><b>QIB portion.</b> We would also look to participate in the QIB portion of the IPO.</td></tr></table><p style=\"margin:0 0 14px 0;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:14.5px;line-height:1.65;margin-top:16px\">I would be grateful if you could introduce us to the promoters of South Eastern Coalfields (President Of India, Acting Through The Ministry Of Coal and Government Of India) and keep us informed as the pre-IPO and anchor book discussions progress. A short call at your convenience would be much appreciated.</p><p style=\"margin:0 0 14px 0;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:14.5px;line-height:1.65;\">I look forward to hearing from you.</p><p style=\"margin:0 0 14px 0;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:14.5px;line-height:1.65;margin-bottom:10px\">Warm regards,</p><table role=\"presentation\" cellpadding=\"0\" cellspacing=\"0\" style=\"border-collapse:collapse;margin:0\"><tr><td valign=\"top\" style=\"padding:2px 14px 0 0\"><img src=\"cid:pcvf-logo\" width=\"64\" height=\"64\" alt=\"PCVF\" style=\"display:block;border:0;border-radius:32px\"></td><td valign=\"top\" style=\"border-left:2px solid #A07A35;padding:0 0 0 14px\"><div style=\"font-family:Georgia, 'Times New Roman', Times, serif;font-size:19px;font-weight:700\">CA Deep Dalal</div><div style=\"font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:13px;color:#7B8491;margin:2px 0 8px 0\">Fund Manager, Parshwanath Capital Ventures Fund &middot; SEBI-registered Category III AIF</div><table role=\"presentation\" cellpadding=\"0\" cellspacing=\"0\" style=\"border-collapse:collapse\"><tr><td style=\"padding:2px 14px 2px 0;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:11px;letter-spacing:1px;text-transform:uppercase;color:#A07A35;white-space:nowrap\">Email</td><td style=\"padding:2px 0;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:14px\"><a href=\"mailto:fundmanager@parshwanath.in\" style=\"color:#3B78B8;text-decoration:none\">fundmanager@parshwanath.in</a></td></tr><tr><td style=\"padding:2px 14px 2px 0;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:11px;letter-spacing:1px;text-transform:uppercase;color:#A07A35;white-space:nowrap\">WhatsApp</td><td style=\"padding:2px 0;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:14px\"><a href=\"https://wa.me/918320052970\" style=\"color:#3B78B8;text-decoration:none\">+91 83200 52970</a></td></tr><tr><td style=\"padding:2px 14px 2px 0;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:11px;letter-spacing:1px;text-transform:uppercase;color:#A07A35;white-space:nowrap\">Phone / WhatsApp</td><td style=\"padding:2px 0;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:14px\"><a href=\"https://wa.me/917069006298\" style=\"color:#3B78B8;text-decoration:none\">+91 70690 06298</a></td></tr></table></td></tr></table></td></tr><tr><td style=\"padding:12px 4px 8px 4px;border-top:1px solid #B9B2A5;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:11px;line-height:1.55;color:#7B8491\">This email is for introduction purposes only and does not constitute an offer, solicitation or commitment to invest. Any investment is subject to the Fund&#x27;s due diligence, investment committee approval and applicable SEBI regulations. To stop receiving emails from us, reply with “unsubscribe”.</td></tr></table></td></tr></table></body></html>",
+   "variant": "brlm",
+   "to": [
+    "secl.ipo@idbicapital.com"
+   ],
+   "names": [
+    "Himanshu Shekhar Jha",
+    "Lokendra Parihar"
+   ],
+   "brlm": "IDBI Capital Markets & Securities Limited"
+  },
+  {
+   "subject": "Parshwanath Capital Ventures Fund | Pre-IPO & Anchor interest – South Eastern Coalfields Limited",
+   "text": "Dear Vaibhav Shah,\n\nI am CA Deep Dalal, Fund Manager of Parshwanath Capital Ventures Fund. I am writing to you as the Book Running Lead Manager to the proposed IPO of South Eastern Coalfields Limited, whose Draft Red Herring Prospectus dated November 1, 2026 has been filed with SEBI for listing on the Main Board of BSE and NSE.\n\nABOUT US\nParshwanath Capital Ventures Fund is a SEBI-registered Category III Alternative Investment Fund focused on India's primary markets. We invest through Pre-IPO placements, IPO Anchor Investor books, the QIB portion of IPOs and Qualified Institutional Placements (QIPs), working closely with promoters and merchant bankers through the listing journey.\n\nOUR VIEW ON SOUTH EASTERN COALFIELDS\nSouth Eastern Coalfields is one of the largest coal producers in India in terms of production in Fiscal 2026. We have studied the DRHP closely and the business fits well with our investment focus.\n\nHOW WE WOULD LIKE TO PARTICIPATE\n  1. Pre-IPO round: Should the Company consider a pre-IPO placement ahead of the RHP, we would be keen to participate.\n  2. Anchor Investor portion: As a SEBI-registered Category III AIF, we qualify as a QIB and would like to be considered for the anchor book.\n  3. QIB portion: We would also look to participate in the QIB portion of the IPO.\n\nI would be grateful if you could introduce us to the promoters of South Eastern Coalfields (President Of India, Acting Through The Ministry Of Coal and Government Of India) and keep us informed as the pre-IPO and anchor book discussions progress. A short call at your convenience would be much appreciated.\n\nI look forward to hearing from you.\n\nWarm regards,\n\nCA Deep Dalal\nFund Manager, Parshwanath Capital Ventures Fund\nSEBI-registered Category III AIF\nEmail: fundmanager@parshwanath.in\nWhatsApp: +91 83200 52970\nPhone / WhatsApp: +91 70690 06298\n\nThis email is for introduction purposes only and does not constitute an offer, solicitation or commitment to invest. Any investment is subject to the Fund's due diligence, investment committee approval and applicable SEBI regulations. To stop receiving emails from us, reply with “unsubscribe”.",
+   "html": "<!doctype html><html><head><meta charset=\"utf-8\"><meta name=\"color-scheme\" content=\"light dark\"><meta name=\"supported-color-schemes\" content=\"light dark\"></head><body style=\"margin:0;padding:0\"><table role=\"presentation\" width=\"100%\" cellpadding=\"0\" cellspacing=\"0\" style=\"border-collapse:collapse\"><tr><td align=\"center\" style=\"padding:20px 12px\"><table role=\"presentation\" width=\"640\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:100%;max-width:640px;border-collapse:collapse\"><tr><td style=\"padding:0 4px 14px 4px;border-bottom:3px double #A07A35\"><table role=\"presentation\" cellpadding=\"0\" cellspacing=\"0\" style=\"border-collapse:collapse\"><tr><td valign=\"middle\" style=\"padding-right:14px\"><img src=\"cid:pcvf-logo\" width=\"72\" height=\"72\" alt=\"Parshwanath Capital Ventures Fund\" style=\"display:block;border:0;border-radius:36px\"></td><td valign=\"middle\"><div style=\"font-family:Georgia, 'Times New Roman', Times, serif;font-size:23px;font-weight:700;letter-spacing:.6px;color:#A07A35\">PARSHWANATH</div><div style=\"font-family:Georgia, 'Times New Roman', Times, serif;font-size:15px;letter-spacing:1.4px;color:#A07A35\">CAPITAL VENTURES FUND</div><div style=\"font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:10.5px;letter-spacing:2px;text-transform:uppercase;color:#7B8491;margin-top:5px\">SEBI-registered Category III AIF &middot; Pre-IPO &middot; Anchor &middot; QIB &middot; QIP</div></td></tr></table></td></tr><tr><td style=\"padding:10px 4px;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:12px;letter-spacing:.4px;color:#7B8491;border-bottom:1px solid #B9B2A5\">Re: <b style=\"color:#A07A35\">South Eastern Coalfields Limited</b> &nbsp;|&nbsp; Mainboard IPO &nbsp;|&nbsp; DRHP dated November 1, 2026</td></tr><tr><td style=\"padding:24px 4px 22px 4px\"><p style=\"margin:0 0 14px 0;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:14.5px;line-height:1.65;\">Dear Vaibhav Shah,</p><p style=\"margin:0 0 14px 0;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:14.5px;line-height:1.65;\">I am CA Deep Dalal, Fund Manager of Parshwanath Capital Ventures Fund. I am writing to you as the Book Running Lead Manager to the proposed IPO of South Eastern Coalfields Limited, whose Draft Red Herring Prospectus dated November 1, 2026 has been filed with SEBI for listing on the Main Board of BSE and NSE.</p><p style=\"margin:24px 0 8px 0;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:11.5px;font-weight:700;letter-spacing:1.6px;text-transform:uppercase;color:#A07A35;\">About us</p><table role=\"presentation\" width=\"100%\" cellpadding=\"0\" cellspacing=\"0\" style=\"border-collapse:collapse;margin:0 0 6px 0\"><tr><td style=\"border-left:3px solid #A07A35;padding:4px 0 4px 16px;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:14.5px;line-height:1.65\">Parshwanath Capital Ventures Fund is a SEBI-registered Category III Alternative Investment Fund focused on India&#x27;s primary markets. We invest through Pre-IPO placements, IPO Anchor Investor books, the QIB portion of IPOs and Qualified Institutional Placements (QIPs), working closely with promoters and merchant bankers through the listing journey.</td></tr></table><p style=\"margin:24px 0 8px 0;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:11.5px;font-weight:700;letter-spacing:1.6px;text-transform:uppercase;color:#A07A35;\">Our view on South Eastern Coalfields</p><p style=\"margin:0 0 14px 0;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:14.5px;line-height:1.65;\">South Eastern Coalfields is one of the largest coal producers in India in terms of production in Fiscal 2026. We have studied the DRHP closely and the business fits well with our investment focus.</p><p style=\"margin:24px 0 8px 0;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:11.5px;font-weight:700;letter-spacing:1.6px;text-transform:uppercase;color:#A07A35;\">How we would like to participate</p><table role=\"presentation\" width=\"100%\" cellpadding=\"0\" cellspacing=\"0\" style=\"border-collapse:collapse;margin:0 0 8px 0\"><tr><td width=\"34\" valign=\"top\" style=\"padding-top:1px\"><div style=\"width:22px;height:22px;line-height:20px;border-radius:12px;border:1.5px solid #A07A35;color:#A07A35;text-align:center;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:12px;font-weight:700\">1</div></td><td style=\"font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:14.5px;line-height:1.6\"><b>Pre-IPO round.</b> Should the Company consider a pre-IPO placement ahead of the RHP, we would be keen to participate.</td></tr></table><table role=\"presentation\" width=\"100%\" cellpadding=\"0\" cellspacing=\"0\" style=\"border-collapse:collapse;margin:0 0 8px 0\"><tr><td width=\"34\" valign=\"top\" style=\"padding-top:1px\"><div style=\"width:22px;height:22px;line-height:20px;border-radius:12px;border:1.5px solid #A07A35;color:#A07A35;text-align:center;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:12px;font-weight:700\">2</div></td><td style=\"font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:14.5px;line-height:1.6\"><b>Anchor Investor portion.</b> As a SEBI-registered Category III AIF, we qualify as a QIB and would like to be considered for the anchor book.</td></tr></table><table role=\"presentation\" width=\"100%\" cellpadding=\"0\" cellspacing=\"0\" style=\"border-collapse:collapse;margin:0 0 8px 0\"><tr><td width=\"34\" valign=\"top\" style=\"padding-top:1px\"><div style=\"width:22px;height:22px;line-height:20px;border-radius:12px;border:1.5px solid #A07A35;color:#A07A35;text-align:center;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:12px;font-weight:700\">3</div></td><td style=\"font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:14.5px;line-height:1.6\"><b>QIB portion.</b> We would also look to participate in the QIB portion of the IPO.</td></tr></table><p style=\"margin:0 0 14px 0;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:14.5px;line-height:1.65;margin-top:16px\">I would be grateful if you could introduce us to the promoters of South Eastern Coalfields (President Of India, Acting Through The Ministry Of Coal and Government Of India) and keep us informed as the pre-IPO and anchor book discussions progress. A short call at your convenience would be much appreciated.</p><p style=\"margin:0 0 14px 0;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:14.5px;line-height:1.65;\">I look forward to hearing from you.</p><p style=\"margin:0 0 14px 0;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:14.5px;line-height:1.65;margin-bottom:10px\">Warm regards,</p><table role=\"presentation\" cellpadding=\"0\" cellspacing=\"0\" style=\"border-collapse:collapse;margin:0\"><tr><td valign=\"top\" style=\"padding:2px 14px 0 0\"><img src=\"cid:pcvf-logo\" width=\"64\" height=\"64\" alt=\"PCVF\" style=\"display:block;border:0;border-radius:32px\"></td><td valign=\"top\" style=\"border-left:2px solid #A07A35;padding:0 0 0 14px\"><div style=\"font-family:Georgia, 'Times New Roman', Times, serif;font-size:19px;font-weight:700\">CA Deep Dalal</div><div style=\"font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:13px;color:#7B8491;margin:2px 0 8px 0\">Fund Manager, Parshwanath Capital Ventures Fund &middot; SEBI-registered Category III AIF</div><table role=\"presentation\" cellpadding=\"0\" cellspacing=\"0\" style=\"border-collapse:collapse\"><tr><td style=\"padding:2px 14px 2px 0;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:11px;letter-spacing:1px;text-transform:uppercase;color:#A07A35;white-space:nowrap\">Email</td><td style=\"padding:2px 0;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:14px\"><a href=\"mailto:fundmanager@parshwanath.in\" style=\"color:#3B78B8;text-decoration:none\">fundmanager@parshwanath.in</a></td></tr><tr><td style=\"padding:2px 14px 2px 0;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:11px;letter-spacing:1px;text-transform:uppercase;color:#A07A35;white-space:nowrap\">WhatsApp</td><td style=\"padding:2px 0;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:14px\"><a href=\"https://wa.me/918320052970\" style=\"color:#3B78B8;text-decoration:none\">+91 83200 52970</a></td></tr><tr><td style=\"padding:2px 14px 2px 0;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:11px;letter-spacing:1px;text-transform:uppercase;color:#A07A35;white-space:nowrap\">Phone / WhatsApp</td><td style=\"padding:2px 0;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:14px\"><a href=\"https://wa.me/917069006298\" style=\"color:#3B78B8;text-decoration:none\">+91 70690 06298</a></td></tr></table></td></tr></table></td></tr><tr><td style=\"padding:12px 4px 8px 4px;border-top:1px solid #B9B2A5;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:11px;line-height:1.55;color:#7B8491\">This email is for introduction purposes only and does not constitute an offer, solicitation or commitment to invest. Any investment is subject to the Fund&#x27;s due diligence, investment committee approval and applicable SEBI regulations. To stop receiving emails from us, reply with “unsubscribe”.</td></tr></table></td></tr></table></body></html>",
+   "variant": "brlm",
+   "to": [
+    "secl.ipo@motilaloswal.com"
+   ],
+   "names": [
+    "Vaibhav Shah"
+   ],
+   "brlm": "Motilal Oswal Investment Advisors Limited"
+  }
+ ],
+ "warnings": [
+  "Some core figures could not be cross-checked; only verified figures are used in the email."
+ ],
+ "processed_at": "2026-11-04T17:27:02+05:30"
+}
