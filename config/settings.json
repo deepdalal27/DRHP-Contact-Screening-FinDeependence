@@ -1,0 +1,19 @@
+{
+  "sender": {
+    "name": "CA Deep Dalal",
+    "designation": "Fund Manager",
+    "fund": "Parshwanath Capital Ventures Fund",
+    "fund_type": "a SEBI-registered Category III Alternative Investment Fund",
+    "fund_type_short": "SEBI-registered Category III AIF",
+    "sebi_registration": "",
+    "phone": "",
+    "email": "",
+    "website": ""
+  },
+  "sending": {
+    "approved": false,
+    "max_per_run": 15,
+    "daily_cap": 40
+  },
+  "lookback_days": 45
+}
