@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-04T18:01:57+05:30",
+ "updated_at": "2026-11-05T01:33:19+05:30",
  "companies": [
   {
    "key": "sahanaratnabh",
@@ -180,7 +180,7 @@
    "warnings": [
     "Some core figures could not be cross-checked; only verified figures are used in the email."
    ],
-   "processed_at": "2026-11-04T17:53:10+05:30"
+   "processed_at": "2026-11-05T01:22:13+05:30"
   },
   {
    "key": "gampservices",
@@ -236,7 +236,7 @@
    },
    "verified": true,
    "warnings": [],
-   "processed_at": "2026-11-04T17:53:52+05:30"
+   "processed_at": "2026-11-05T01:23:34+05:30"
   },
   {
    "key": "hungerpangs",
@@ -291,7 +291,7 @@
    },
    "verified": true,
    "warnings": [],
-   "processed_at": "2026-11-04T17:54:34+05:30"
+   "processed_at": "2026-11-05T01:24:10+05:30"
   },
   {
    "key": "paramotordigitaltechnology",
@@ -315,7 +315,7 @@
    "warnings": [
     "Financial statements could not be read from the DRHP"
    ],
-   "processed_at": "2026-11-04T17:55:08+05:30"
+   "processed_at": "2026-11-05T01:24:54+05:30"
   },
   {
    "key": "soleosenergy",
@@ -373,7 +373,7 @@
    },
    "verified": true,
    "warnings": [],
-   "processed_at": "2026-11-04T17:57:00+05:30"
+   "processed_at": "2026-11-05T01:26:06+05:30"
   },
   {
    "key": "gracerenewableenergy",
@@ -431,7 +431,7 @@
    "warnings": [
     "Some core figures could not be cross-checked; only verified figures are used in the email."
    ],
-   "processed_at": "2026-11-04T17:59:22+05:30"
+   "processed_at": "2026-11-05T01:27:10+05:30"
   },
   {
    "key": "integrumenergyinfrastructure",
@@ -490,7 +490,7 @@
    },
    "verified": true,
    "warnings": [],
-   "processed_at": "2026-11-04T18:00:09+05:30"
+   "processed_at": "2026-11-05T01:27:58+05:30"
   },
   {
    "key": "pentacleconsultantsi",
@@ -524,7 +524,7 @@
    "warnings": [
     "Some core figures could not be cross-checked; only verified figures are used in the email."
    ],
-   "processed_at": "2026-11-04T18:01:57+05:30"
+   "processed_at": "2026-11-05T01:30:44+05:30"
   },
   {
    "key": "pmconaindustries",
@@ -582,7 +582,163 @@
    },
    "verified": true,
    "warnings": [],
-   "processed_at": "2026-11-04T18:01:12+05:30"
+   "processed_at": "2026-11-05T01:29:56+05:30"
+  },
+  {
+   "key": "baangangagolddiamondi",
+   "company": "Baanganga Gold & Diamond (I) Limited",
+   "board": "Mainboard",
+   "exchange": "BSE & NSE",
+   "source": "SEBI",
+   "filed_on": "2026-10-05",
+   "doc_type": "DRHP",
+   "brlms": [
+    "DAM Capital Advisors Limited"
+   ],
+   "promoters": [
+    "Navratanmal Jeetmal Ganna",
+    "Vikas Navratanmal Ganna",
+    "Jinesh Navratanmal Ganna"
+   ],
+   "pre_ipo": true,
+   "latest": {
+    "revenue": {
+     "v": 3626.293,
+     "s": "verified"
+    },
+    "pat": {
+     "v": 111.779,
+     "s": "verified"
+    },
+    "total_equity": {
+     "v": 187.886,
+     "s": "verified"
+    },
+    "EBITDA margin": {
+     "v": 0.045711,
+     "s": "verified"
+    },
+    "PAT margin": {
+     "v": 0.030825,
+     "s": "verified"
+    },
+    "RoNW (closing)": {
+     "v": 0.59493,
+     "s": "verified"
+    },
+    "Debt / Equity": {
+     "v": 1.139734,
+     "s": "verified"
+    },
+    "Revenue growth": {
+     "v": 0.789037,
+     "s": "verified"
+    },
+    "fy": "FY26"
+   },
+   "verified": true,
+   "warnings": [],
+   "processed_at": "2026-11-05T01:32:34+05:30"
+  },
+  {
+   "key": "electromechinfraprojects",
+   "company": "Electromech Infraprojects Limited",
+   "board": "Mainboard",
+   "exchange": "BSE & NSE",
+   "source": "SEBI",
+   "filed_on": "2026-10-05",
+   "doc_type": "DRHP",
+   "brlms": [
+    "Arihant Capital Markets Limited"
+   ],
+   "promoters": [
+    "Paresh Pratap Maniar",
+    "Varun Paresh Maniar",
+    "Mitesh Pratap Maniar",
+    "Chandrika Paresh Maniar"
+   ],
+   "pre_ipo": true,
+   "latest": {
+    "revenue": {
+     "v": 427.0523,
+     "s": "verified"
+    },
+    "pat": {
+     "v": 36.1906,
+     "s": "verified"
+    },
+    "total_equity": {
+     "v": 148.715,
+     "s": "verified"
+    },
+    "EBITDA margin": {
+     "v": 0.108884,
+     "s": "verified"
+    },
+    "PAT margin": {
+     "v": 0.084745,
+     "s": "verified"
+    },
+    "RoNW (closing)": {
+     "v": 0.243355,
+     "s": "verified"
+    },
+    "Debt / Equity": {
+     "v": 0.003348,
+     "s": "verified"
+    },
+    "Revenue growth": {
+     "v": 0.045399,
+     "s": "verified"
+    },
+    "fy": "FY26"
+   },
+   "verified": true,
+   "warnings": [],
+   "processed_at": "2026-11-05T01:31:39+05:30"
+  },
+  {
+   "key": "inoxairproducts",
+   "company": "Inox Air Products Limited",
+   "board": "Mainboard",
+   "exchange": "BSE & NSE",
+   "source": "SEBI",
+   "filed_on": "2026-10-05",
+   "doc_type": "DRHP",
+   "brlms": [
+    "Kotak Mahindra Capital Company Limited",
+    "Citigroup Global Markets India Private Limited",
+    "ICICI Securities Limited",
+    "J.P. Morgan India Private Limited"
+   ],
+   "promoters": [
+    "Pavan Kumar Jain",
+    "Siddharth Jain",
+    "Prodair Corporation",
+    "Inox Chemicals LLP",
+    "Siddho Mal Trading LLP",
+    "Air Products",
+    "Chemicals",
+    "Inc",
+    "Air Products Manufacturing Corporation"
+   ],
+   "pre_ipo": false,
+   "latest": {
+    "total_equity": {
+     "v": 7268.505,
+     "s": "verified"
+    },
+    "Debt / Equity": {
+     "v": 0.187885,
+     "s": "verified"
+    },
+    "fy": "FY26"
+   },
+   "verified": false,
+   "warnings": [
+    "Some core figures could not be cross-checked; only verified figures are used in the email."
+   ],
+   "processed_at": "2026-11-05T01:33:19+05:30"
   }
  ]
 }
