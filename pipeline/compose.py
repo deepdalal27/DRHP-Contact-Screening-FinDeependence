@@ -1,19 +1,16 @@
 """The introduction email: wording, financial table and institutional HTML layout.
 
 HTML is table-based with inline styles only, so it renders the same in Gmail, Outlook and
-mobile mail apps.
+mobile mail apps, in light and dark mode.
 """
 import html
 import re
 
-NAVY = "#0B1F3A"
-NAVY_2 = "#14305A"
-GOLD = "#B8925A"
-GOLD_SOFT = "#F4ECDF"
-INK = "#1D2733"
-MUTED = "#5F6B7A"
-LINE = "#E3DCCF"
-PAPER = "#F5F2EC"
+# Mid-tone colours chosen to stay readable on white AND on dark-mode backgrounds (contrast >= 3.5:1 on both).
+GOLD = "#A07A35"     # headings, rules, fund name
+MUTED = "#7B8491"    # secondary text
+LINK = "#3B78B8"     # links
+LINE = "#B9B2A5"     # table rules (visible on both)
 SERIF = "Georgia, 'Times New Roman', Times, serif"
 SANS = "'Segoe UI', Helvetica, Arial, sans-serif"
 
@@ -244,80 +241,84 @@ def compose(rec, fin, sender, msg):
     t += ["", disclaimer]
     text = "\n".join(t)
 
-    # ---------------- HTML
+    # ---------------- HTML (dark-mode safe)
+    # No dark panels with light text and no light panels with dark text: body text takes the mail app's own
+    # default colour (black on white, white on dark), and accents use mid-tone gold / slate that read on both.
     e = html.escape
-    P = f"margin:0 0 14px 0;font-family:{SANS};font-size:14.5px;line-height:1.65;color:{INK};"
-    H = (f"margin:22px 0 8px 0;font-family:{SANS};font-size:11px;font-weight:700;letter-spacing:1.6px;"
+    P = f"margin:0 0 14px 0;font-family:{SANS};font-size:14.5px;line-height:1.65;"
+    H = (f"margin:24px 0 8px 0;font-family:{SANS};font-size:11.5px;font-weight:700;letter-spacing:1.6px;"
          f"text-transform:uppercase;color:{GOLD};")
     parts = []
     parts.append(f'<p style="{P}">{e(greet)}</p>')
     parts.append(f'<p style="{P}">{e(opening)}</p>')
     parts.append(f'<p style="{H}">About us</p>')
     parts.append(f'<table role="presentation" width="100%" cellpadding="0" cellspacing="0" style="border-collapse:collapse;margin:0 0 6px 0">'
-                 f'<tr><td style="background:{GOLD_SOFT};border-left:3px solid {GOLD};padding:14px 16px;font-family:{SANS};'
-                 f'font-size:14px;line-height:1.6;color:{INK}">{e(about_us)}</td></tr></table>')
+                 f'<tr><td style="border-left:3px solid {GOLD};padding:4px 0 4px 16px;font-family:{SANS};font-size:14.5px;line-height:1.65">'
+                 f'{e(about_us)}</td></tr></table>')
     if view:
         parts.append(f'<p style="{H}">Our view on {e(short)}</p>')
         parts.append(f'<p style="{P}">{e(view)}</p>')
     if table:
-        th = (f"padding:9px 12px;font-family:{SANS};font-size:11.5px;font-weight:700;letter-spacing:.6px;color:#FFFFFF;"
-              f"background:{NAVY};text-align:right;border-bottom:2px solid {GOLD};")
+        th = (f"padding:9px 10px;font-family:{SANS};font-size:11.5px;font-weight:700;letter-spacing:.8px;text-transform:uppercase;"
+              f"color:{GOLD};text-align:right;border-top:2px solid {GOLD};border-bottom:2px solid {GOLD};")
+        td = f"padding:8px 10px;font-family:{SANS};font-size:13.5px;border-bottom:1px solid {LINE};"
         rows_html = []
-        for i, (label, cells) in enumerate(table["rows"]):
-            bg = "#FFFFFF" if i % 2 == 0 else "#FAF7F1"
+        for label, cells in table["rows"]:
             rows_html.append(
-                f'<tr><td style="padding:8px 12px;font-family:{SANS};font-size:13px;color:{INK};background:{bg};border-bottom:1px solid {LINE}">{e(label)}</td>'
-                + "".join(f'<td style="padding:8px 12px;font-family:Consolas,\'Courier New\',monospace;font-size:13px;color:{NAVY};'
-                          f'background:{bg};border-bottom:1px solid {LINE};text-align:right;white-space:nowrap">{e(c)}</td>' for c in cells)
+                f'<tr><td style="{td}text-align:left">{e(label)}</td>'
+                + "".join(f'<td style="{td}text-align:right;white-space:nowrap;font-variant-numeric:tabular-nums">{e(c)}</td>' for c in cells)
                 + "</tr>")
         note = (f"* {e(table['stub_label'])}: interim period, not annualised. " if table["has_stub"] else "") + \
             "Source: restated financial information in the DRHP; EBITDA and ratios computed from it."
         parts.append(f'<p style="{H}">Key financials <span style="color:{MUTED};letter-spacing:.4px;text-transform:none;font-weight:400">'
                      f'(₹ crore unless stated)</span></p>')
-        parts.append(f'<table role="presentation" width="100%" cellpadding="0" cellspacing="0" style="border-collapse:collapse;'
-                     f'border:1px solid {LINE};margin:0 0 6px 0"><tr><th style="{th}text-align:left">Particulars</th>'
+        parts.append(f'<table role="presentation" width="100%" cellpadding="0" cellspacing="0" style="border-collapse:collapse;margin:0 0 6px 0">'
+                     f'<tr><th style="{th}text-align:left">Particulars</th>'
                      + "".join(f'<th style="{th}">{e(h)}</th>' for h in table["heads"]) + "</tr>" + "".join(rows_html) + "</table>")
-        parts.append(f'<p style="margin:0 0 6px 0;font-family:{SANS};font-size:11px;color:{MUTED}">{note}</p>')
+        parts.append(f'<p style="margin:0 0 6px 0;font-family:{SANS};font-size:11.5px;color:{MUTED}">{note}</p>')
     parts.append(f'<p style="{H}">How we would like to participate</p>')
     for k, (h, b) in enumerate(interest, 1):
         parts.append(f'<table role="presentation" width="100%" cellpadding="0" cellspacing="0" style="border-collapse:collapse;margin:0 0 8px 0">'
-                     f'<tr><td width="30" valign="top" style="padding-top:1px"><div style="width:22px;height:22px;line-height:22px;border-radius:11px;'
-                     f'background:{NAVY};color:#FFFFFF;text-align:center;font-family:{SANS};font-size:12px;font-weight:700">{k}</div></td>'
-                     f'<td style="font-family:{SANS};font-size:14px;line-height:1.6;color:{INK}"><b style="color:{NAVY}">{e(h)}.</b> {e(b)}</td></tr></table>')
-    parts.append(f'<p style="{P};margin-top:16px">{e(ask)}</p>')
+                     f'<tr><td width="34" valign="top" style="padding-top:1px"><div style="width:22px;height:22px;line-height:20px;border-radius:12px;'
+                     f'border:1.5px solid {GOLD};color:{GOLD};text-align:center;font-family:{SANS};font-size:12px;font-weight:700">{k}</div></td>'
+                     f'<td style="font-family:{SANS};font-size:14.5px;line-height:1.6"><b>{e(h)}.</b> {e(b)}</td></tr></table>')
+    parts.append(f'<p style="{P}margin-top:16px">{e(ask)}</p>')
     parts.append(f'<p style="{P}">I look forward to hearing from you.</p>')
-    parts.append(f'<p style="{P};margin-bottom:6px">Warm regards,</p>')
+    parts.append(f'<p style="{P}margin-bottom:10px">Warm regards,</p>')
     contact_rows = "".join(
         f'<tr><td style="padding:2px 14px 2px 0;font-family:{SANS};font-size:11px;letter-spacing:1px;text-transform:uppercase;color:{GOLD};white-space:nowrap">{e(k)}</td>'
-        f'<td style="padding:2px 0;font-family:{SANS};font-size:13.5px;color:#FFFFFF">'
-        + (f'<a href="mailto:{e(x)}" style="color:#FFFFFF;text-decoration:none">{e(x)}</a>' if "@" in x else
-           f'<a href="https://wa.me/{_digits(x)}" style="color:#FFFFFF;text-decoration:none">{e(x)}</a>' if "WhatsApp" in k else e(x))
+        f'<td style="padding:2px 0;font-family:{SANS};font-size:14px">'
+        + (f'<a href="mailto:{e(x)}" style="color:{LINK};text-decoration:none">{e(x)}</a>' if "@" in x else
+           f'<a href="https://wa.me/{_digits(x)}" style="color:{LINK};text-decoration:none">{e(x)}</a>' if "WhatsApp" in k else e(x))
         + "</td></tr>" for k, x in contacts)
     parts.append(
-        f'<table role="presentation" width="100%" cellpadding="0" cellspacing="0" style="border-collapse:collapse;margin:4px 0 0 0">'
-        f'<tr><td style="background:{NAVY};padding:18px 20px;border-top:3px solid {GOLD}">'
-        f'<div style="font-family:{SERIF};font-size:19px;color:#FFFFFF">{e(s["name"])}</div>'
-        f'<div style="font-family:{SANS};font-size:12.5px;color:#C9D3E0;margin:2px 0 12px 0">{e(s["designation"])}, {e(fund)} &middot; {e(s.get("fund_type_short", ""))}</div>'
+        f'<table role="presentation" cellpadding="0" cellspacing="0" style="border-collapse:collapse;margin:0">'
+        f'<tr><td valign="top" style="padding:2px 14px 0 0"><img src="cid:pcvf-logo" width="64" height="64" alt="PCVF" style="display:block;border:0;border-radius:32px"></td>'
+        f'<td valign="top" style="border-left:2px solid {GOLD};padding:0 0 0 14px">'
+        f'<div style="font-family:{SERIF};font-size:19px;font-weight:700">{e(s["name"])}</div>'
+        f'<div style="font-family:{SANS};font-size:13px;color:{MUTED};margin:2px 0 8px 0">{e(s["designation"])}, {e(fund)} &middot; {e(s.get("fund_type_short", ""))}</div>'
         f'<table role="presentation" cellpadding="0" cellspacing="0" style="border-collapse:collapse">{contact_rows}</table>'
         f'</td></tr></table>')
 
     body = "".join(parts)
     page = (
-        f'<!doctype html><html><body style="margin:0;padding:0;background:{PAPER}">'
-        f'<table role="presentation" width="100%" cellpadding="0" cellspacing="0" style="background:{PAPER};border-collapse:collapse">'
-        f'<tr><td align="center" style="padding:24px 12px">'
-        f'<table role="presentation" width="640" cellpadding="0" cellspacing="0" style="width:100%;max-width:640px;border-collapse:collapse;background:#FFFFFF;border:1px solid {LINE}">'
-        # letterhead
-        f'<tr><td style="background:{NAVY};padding:22px 28px 18px 28px">'
-        f'<div style="font-family:{SERIF};font-size:22px;letter-spacing:.4px;color:#FFFFFF">Parshwanath Capital Ventures Fund</div>'
-        f'<div style="font-family:{SANS};font-size:10.5px;letter-spacing:2.2px;text-transform:uppercase;color:{GOLD};margin-top:6px">'
-        f'SEBI-registered Category III AIF &nbsp;&middot;&nbsp; Pre-IPO &nbsp;&middot;&nbsp; Anchor &nbsp;&middot;&nbsp; QIB &nbsp;&middot;&nbsp; QIP</div>'
-        f'</td></tr><tr><td style="height:3px;background:{GOLD};line-height:3px;font-size:0">&nbsp;</td></tr>'
-        # subject strip
-        f'<tr><td style="background:{NAVY_2};padding:10px 28px;font-family:{SANS};font-size:12px;letter-spacing:.5px;color:#DDE4EE">'
-        f'Re: {e(company)} &nbsp;|&nbsp; {"SME IPO" if sme else "Mainboard IPO"} &nbsp;|&nbsp; DRHP{(" dated " + e(doc_date)) if doc_date else ""}</td></tr>'
-        f'<tr><td style="padding:28px 28px 26px 28px">{body}</td></tr>'
-        f'<tr><td style="padding:14px 28px 20px 28px;border-top:1px solid {LINE};font-family:{SANS};font-size:10.5px;line-height:1.55;color:{MUTED}">{e(disclaimer)}</td></tr>'
+        '<!doctype html><html><head><meta charset="utf-8"><meta name="color-scheme" content="light dark">'
+        '<meta name="supported-color-schemes" content="light dark"></head><body style="margin:0;padding:0">'
+        f'<table role="presentation" width="100%" cellpadding="0" cellspacing="0" style="border-collapse:collapse">'
+        f'<tr><td align="center" style="padding:20px 12px">'
+        f'<table role="presentation" width="640" cellpadding="0" cellspacing="0" style="width:100%;max-width:640px;border-collapse:collapse">'
+        # letterhead: logo + fund name in gold, gold rules
+        f'<tr><td style="padding:0 4px 14px 4px;border-bottom:3px double {GOLD}">'
+        f'<table role="presentation" cellpadding="0" cellspacing="0" style="border-collapse:collapse"><tr>'
+        f'<td valign="middle" style="padding-right:14px"><img src="cid:pcvf-logo" width="72" height="72" alt="Parshwanath Capital Ventures Fund" style="display:block;border:0;border-radius:36px"></td>'
+        f'<td valign="middle"><div style="font-family:{SERIF};font-size:23px;font-weight:700;letter-spacing:.6px;color:{GOLD}">PARSHWANATH</div>'
+        f'<div style="font-family:{SERIF};font-size:15px;letter-spacing:1.4px;color:{GOLD}">CAPITAL VENTURES FUND</div>'
+        f'<div style="font-family:{SANS};font-size:10.5px;letter-spacing:2px;text-transform:uppercase;color:{MUTED};margin-top:5px">'
+        f'SEBI-registered Category III AIF &middot; Pre-IPO &middot; Anchor &middot; QIB &middot; QIP</div></td></tr></table></td></tr>'
+        f'<tr><td style="padding:10px 4px;font-family:{SANS};font-size:12px;letter-spacing:.4px;color:{MUTED};border-bottom:1px solid {LINE}">'
+        f'Re: <b style="color:{GOLD}">{e(company)}</b> &nbsp;|&nbsp; {"SME IPO" if sme else "Mainboard IPO"} &nbsp;|&nbsp; DRHP{(" dated " + e(doc_date)) if doc_date else ""}</td></tr>'
+        f'<tr><td style="padding:24px 4px 22px 4px">{body}</td></tr>'
+        f'<tr><td style="padding:12px 4px 8px 4px;border-top:1px solid {LINE};font-family:{SANS};font-size:11px;line-height:1.55;color:{MUTED}">{e(disclaimer)}</td></tr>'
         f'</table></td></tr></table></body></html>')
     return {"subject": subject, "text": text, "html": page, "variant": v, "to": msg["to"], "names": msg.get("names", []),
             "brlm": msg.get("brlm")}

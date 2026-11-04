@@ -9,10 +9,14 @@ Only figures that passed the cross-checks in validate.py are quoted in an email.
 """
 import html
 import os
+from pathlib import Path
 import smtplib
 import ssl
 from email.message import EmailMessage
 from email.utils import formataddr, make_msgid, formatdate
+
+
+LOGO = Path(__file__).resolve().parent.parent / "assets" / "pcvf_logo.png"
 
 
 def crore(v, to_cr):
@@ -109,6 +113,9 @@ def send(mail, sender, gmail_user, gmail_password, cc=(), bcc=()):
     m["Message-ID"] = make_msgid(domain=gmail_user.split("@")[-1])
     m.set_content(mail["text"])
     m.add_alternative(mail["html"], subtype="html")
+    if LOGO.exists():  # the fund logo travels inside the mail (cid:pcvf-logo), so it shows without "load images"
+        m.get_payload()[1].add_related(LOGO.read_bytes(), "image", "png", cid="<pcvf-logo>", filename="pcvf_logo.png",
+                                       disposition="inline")
     with smtplib.SMTP_SSL("smtp.gmail.com", 465, context=ssl.create_default_context(), timeout=60) as s:
         s.login(gmail_user, gmail_password)
         s.send_message(m, to_addrs=list(mail["to"]) + list(cc) + list(bcc))

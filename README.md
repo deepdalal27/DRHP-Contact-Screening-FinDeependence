@@ -34,9 +34,12 @@ Whenever a company files a DRHP, this app:
    - `GMAIL_ADDRESS` = `fundmanager.pcvf@gmail.com`
    - `GMAIL_APP_PASSWORD` = the 16-character app password
 3. **GitHub Pages:** Settings → Pages → Source: **GitHub Actions**.
-4. **Turn sending on** (only after the email wording is approved): set `"approved": true` under `"sending"` in `config/settings.json`.
+Sending is switched on (`"approved": true` in `config/settings.json`). Until the two secrets exist, mails are prepared
+and shown in the app as **queued**. The first run after the secrets are added sends them (at most `daily_cap` per day).
+Set `"approved": false` to pause sending at any time.
 
-Until step 4 is done, mails are prepared and shown in the app as **awaiting approval**, and nothing is sent.
+Every mail carries the Parshwanath Capital Ventures Fund logo inline (`assets/pcvf_logo.png`). The layout uses mid-tone
+gold and slate colours and the mail app's own text colour, so it reads in both light and dark mode.
 
 ## Running by hand
 

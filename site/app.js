@@ -148,7 +148,7 @@
         <span><b>Subject:</b> ${esc(m.subject)}</span></div><iframe title="Email preview ${i + 1}" sandbox="" data-i="${i}"></iframe></div>`;
     });
     $('#detail').innerHTML = h;
-    document.querySelectorAll('#detail iframe[data-i]').forEach((fr) => { fr.srcdoc = c.emails[+fr.dataset.i].html; });
+    document.querySelectorAll('#detail iframe[data-i]').forEach((fr) => { fr.srcdoc = c.emails[+fr.dataset.i].html.replace(/cid:pcvf-logo/g, 'pcvf_logo.png'); });
   }
 
   // ---------------------------------------------------------------- outreach report

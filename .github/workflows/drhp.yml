@@ -1,6 +1,9 @@
 name: Screen new DRHPs and publish
 
 on:
+  push:
+    branches: [claude/upbeat-pascal-7a9es0]
+    paths: ['pipeline/**', 'site/**', 'config/**', 'assets/**', '.github/workflows/**']
   schedule:
     - cron: '23 */3 * * *'   # every 3 hours
   workflow_dispatch:
