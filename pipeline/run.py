@@ -13,6 +13,7 @@ import io
 import json
 import os
 import re
+import subprocess
 import sys
 import traceback
 import zipfile
@@ -31,7 +32,7 @@ STATE = ROOT / "data" / "state.json"
 OUTREACH = SITE_DATA / "outreach.json"
 SUPPRESS = ROOT / "config" / "suppression.txt"
 IST = dt.timezone(dt.timedelta(hours=5, minutes=30))
-PIPELINE_VERSION = 2  # bump to re-extract already processed DRHPs after an extraction fix
+PIPELINE_VERSION = 3  # bump to re-extract already processed DRHPs after an extraction fix
 
 
 def now():
@@ -56,31 +57,62 @@ def download_pdf(filing):
         try:
             path = _download_one(filing["key"], cand)
             filing["url"], filing["page_url"] = cand.get("url"), cand.get("page_url") or filing.get("page_url")
+            filing["doc_source"] = cand.get("source")
             return path
         except Exception as e:
             errors.append(f"{cand.get('source')}: {e}")
     raise RuntimeError("; ".join(errors))
 
 
+def _pages(path):
+    try:
+        out = subprocess.run(["pdfinfo", str(path)], capture_output=True, timeout=120).stdout.decode("utf-8", "replace")
+        m = re.search(r"^Pages:\s+(\d+)", out, re.M)
+        return int(m.group(1)) if m else 0
+    except Exception:
+        return 0
+
+
+MIN_DRHP_PAGES = 120
+
+
 def _download_one(key, filing):
     url = filing.get("url")
     if not url and filing.get("page_url"):
         url = sources.sebi_pdf_url(filing["page_url"])
-        filing["url"] = url
     if not url:
         raise RuntimeError("no document link")
     CACHE.mkdir(exist_ok=True)
-    data = sources.http_get(url, referer=filing.get("page_url") or "https://www.nseindia.com/", timeout=300)
+    data = sources.http_get(url, referer=filing.get("page_url") or "https://www.nseindia.com/", timeout=300, retries=5)
     path = CACHE / (key + ".pdf")
     if data[:2] == b"PK":
+        # NSE zips can hold the DRHP split into parts plus side documents: keep the big ones, join them in order
         z = zipfile.ZipFile(io.BytesIO(data))
-        pdfs = sorted((i for i in z.infolist() if i.filename.lower().endswith(".pdf")), key=lambda i: i.file_size, reverse=True)
-        if not pdfs:
+        parts = []
+        for i in sorted(z.infolist(), key=lambda i: i.filename):
+            if not i.filename.lower().endswith(".pdf") or re.search(r"abridged|advert|addendum|corrigendum", i.filename, re.I):
+                continue
+            pth = CACHE / f"{key}-part{len(parts)}.pdf"
+            pth.write_bytes(z.read(i))
+            parts.append((pth, _pages(pth)))
+        if not parts:
             raise RuntimeError("zip has no PDF")
-        data = z.read(pdfs[0])
-    if data[:4] != b"%PDF":
-        raise RuntimeError("download is not a PDF")
-    path.write_bytes(data)
+        biggest = max(parts, key=lambda x: x[1])
+        if biggest[1] >= MIN_DRHP_PAGES:
+            biggest[0].replace(path)
+        else:
+            subprocess.run(["pdfunite", *[str(p) for p, _ in parts], str(path)], check=True, timeout=300)
+        for pth, _ in parts:
+            pth.unlink(missing_ok=True)
+    else:
+        if data[:4] != b"%PDF":
+            raise RuntimeError("download is not a PDF")
+        path.write_bytes(data)
+    n = _pages(path)
+    if n < MIN_DRHP_PAGES:
+        path.unlink(missing_ok=True)
+        raise RuntimeError(f"document has only {n} pages (incomplete download or not the DRHP)")
+    filing["url"] = url
     return path
 
 
