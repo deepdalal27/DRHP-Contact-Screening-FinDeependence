@@ -6,9 +6,12 @@
     "fund_type": "a SEBI-registered Category III Alternative Investment Fund",
     "fund_type_short": "SEBI-registered Category III AIF",
     "sebi_registration": "",
-    "phone": "",
-    "email": "",
-    "website": ""
+    "phone": "+91 70690 06298",
+    "email": "fundmanager@parshwanath.in",
+    "website": "",
+    "whatsapp": "+91 83200 52970",
+    "from_address": "fundmanager.pcvf@gmail.com",
+    "intro": "Parshwanath Capital Ventures Fund is a SEBI-registered Category III Alternative Investment Fund focused on India's primary markets. We invest through Pre-IPO placements, IPO Anchor Investor books, the QIB portion of IPOs and Qualified Institutional Placements (QIPs), working closely with promoters and merchant bankers through the listing journey."
   },
   "sending": {
     "approved": false,

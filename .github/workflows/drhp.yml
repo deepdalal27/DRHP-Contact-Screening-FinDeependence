@@ -1,0 +1,79 @@
+name: Screen new DRHPs and publish
+
+on:
+  schedule:
+    - cron: '23 */3 * * *'   # every 3 hours
+  workflow_dispatch:
+    inputs:
+      drhp_url:
+        description: 'Optional: process one DRHP by link (PDF or ZIP)'
+        required: false
+      company:
+        description: 'Company name for that link'
+        required: false
+      board:
+        description: 'Mainboard or SME'
+        required: false
+        default: 'Mainboard'
+      no_send:
+        description: 'Prepare data and drafts only, send nothing'
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: drhp-pipeline
+  cancel-in-progress: false
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install PDF tools
+        run: sudo apt-get update -qq && sudo apt-get install -y -qq poppler-utils
+      - name: Tests
+        run: python -m unittest discover -s tests -v
+      - name: Screen DRHPs, build data, send approved mails
+        env:
+          GMAIL_ADDRESS: ${{ secrets.GMAIL_ADDRESS }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+          IN_URL: ${{ inputs.drhp_url }}
+          IN_COMPANY: ${{ inputs.company }}
+          IN_BOARD: ${{ inputs.board }}
+          IN_NO_SEND: ${{ inputs.no_send }}
+        run: |
+          args=()
+          if [ -n "$IN_URL" ]; then args+=(--url "$IN_URL" --company "$IN_COMPANY" --board "${IN_BOARD:-Mainboard}"); fi
+          if [ "$IN_NO_SEND" = "true" ]; then args+=(--no-send); fi
+          python -m pipeline.run "${args[@]}"
+      - name: Save data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add site/data data
+          if ! git diff --cached --quiet; then git commit -m "Update DRHP data and outreach log" && git push; fi
+      - uses: actions/configure-pages@v5
+        with:
+          enablement: true
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+
+  deploy:
+    needs: run
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

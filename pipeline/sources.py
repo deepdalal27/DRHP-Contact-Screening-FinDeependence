@@ -65,6 +65,8 @@ def doc_type_of(title):
         return "DRHP"
     if "notice" in t:
         return "Notice"
+    if re.fullmatch(r"[\w&.,()' -]+\b(limited|ltd\.?)", t.strip()):
+        return "DRHP"  # SEBI sometimes lists a DRHP under the bare company name
     return "Other"
 
 
@@ -96,7 +98,7 @@ def sebi_filings(pages=2):
     for h in htmls:
         for m in re.finditer(r"<tr[^>]*>\s*<td[^>]*>([A-Za-z]{3} \d{1,2}, \d{4})</td>\s*<td[^>]*>\s*<a href=['\"]([^'\"]+/filings/public-issues/[^'\"]+)['\"][^>]*title=['\"]([^'\"]+)['\"]", h, re.S):
             date, link, title = m.group(1), m.group(2), html.unescape(re.sub(r"<[^>]+>", " ", m.group(3)))
-            title = re.sub(r"\s+", " ", title).strip()
+            title = re.sub(r"\s+", " ", title.split("<a")[0]).strip()
             if link in seen:
                 continue
             seen.add(link)

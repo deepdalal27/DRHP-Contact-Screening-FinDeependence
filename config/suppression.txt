@@ -1,0 +1,1 @@
+# One email address per line. These addresses are never emailed (e.g. people who replied "unsubscribe").
