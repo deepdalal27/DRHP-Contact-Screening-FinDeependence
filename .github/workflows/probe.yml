@@ -11,8 +11,8 @@ jobs:
       - uses: actions/checkout@v4
       - run: |
           python3 tools/probe_chittorgarh.py \
-            https://www.chittorgarh.com/ \
-            https://www.chittorgarh.com/report/ \
-            https://www.chittorgarh.com/ipo/sme-ipo-drhp/ \
-            https://www.chittorgarh.com/report/sme-ipo-drhp-status/ \
-            https://www.chittorgarh.com/report/ipo-drhp-status/
+            https://www.chittorgarh.com/report/upcoming-sme-ipo-drhp-filed/154/all/ \
+            https://www.chittorgarh.com/report/sme_ipo_prospectus_document_drhp_rhp_pdf/29/ \
+            https://webnodejs.chittorgarh.com/cloud/report/data-read/154/1/1/2026/2026-27/0/ \
+            https://webnodejs.chittorgarh.com/cloud/report/data-read/29/1/1/2026/2026-27/0/ \
+            https://www.chittorgarh.com/report/upcoming-ipos-drhp-filed/158/all/
