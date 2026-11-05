@@ -14,7 +14,7 @@
     "intro": "Parshwanath Capital Ventures Fund is a SEBI-registered Category III Alternative Investment Fund focused on India's primary markets. We invest through Pre-IPO placements, IPO Anchor Investor books, the QIB portion of IPOs and Qualified Institutional Placements (QIPs), working closely with promoters and merchant bankers through the listing journey."
   },
   "sending": {
-    "approved": true,
+    "approved": false,
     "max_per_run": 15,
     "daily_cap": 40
   },
