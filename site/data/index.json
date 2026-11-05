@@ -1,6 +1,29 @@
 {
- "updated_at": "2026-11-05T07:14:22+05:30",
+ "updated_at": "2026-11-05T15:15:13+05:30",
  "companies": [
+  {
+   "key": "pradeepitglobalconsulting",
+   "company": "Pradeepit Global Consulting Limited",
+   "board": "SME",
+   "exchange": "BSE SME",
+   "source": "BSE SME",
+   "filed_on": "2026-11-04",
+   "doc_type": "DRHP",
+   "brlms": [
+    "Aftertrade Broking Pvt.ltd."
+   ],
+   "promoters": [
+    "Vinod Kumar Beli",
+    "Geeta P Ari"
+   ],
+   "pre_ipo": null,
+   "latest": {},
+   "verified": null,
+   "warnings": [
+    "BSE SME filing: contacts and figures from Chittorgarh. BSE blocks cloud servers, so the DRHP PDF could not be read automatically; open it from the link above."
+   ],
+   "processed_at": "2026-11-05T15:08:18+05:30"
+  },
   {
    "key": "sahanaratnabh",
    "company": "Sahanaratnabh Limited",
@@ -44,7 +67,7 @@
    "warnings": [
     "Some core figures could not be cross-checked; only verified figures are used in the email."
    ],
-   "processed_at": "2026-11-04T17:52:27+05:30"
+   "processed_at": "2026-11-05T15:08:32+05:30"
   },
   {
    "key": "sitaramdenimsindia",
@@ -91,7 +114,7 @@
    "warnings": [
     "Some core figures could not be cross-checked; only verified figures are used in the email."
    ],
-   "processed_at": "2026-11-04T17:52:22+05:30"
+   "processed_at": "2026-11-05T15:08:24+05:30"
   },
   {
    "key": "southeasterncoalfields",
@@ -121,7 +144,7 @@
    "warnings": [
     "Some core figures could not be cross-checked; only verified figures are used in the email."
    ],
-   "processed_at": "2026-11-04T17:52:32+05:30"
+   "processed_at": "2026-11-05T15:08:37+05:30"
   },
   {
    "key": "carlsbergindia",
@@ -180,7 +203,7 @@
    "warnings": [
     "Some core figures could not be cross-checked; only verified figures are used in the email."
    ],
-   "processed_at": "2026-11-05T07:00:54+05:30"
+   "processed_at": "2026-11-05T15:09:27+05:30"
   },
   {
    "key": "gampservices",
@@ -236,7 +259,7 @@
    },
    "verified": true,
    "warnings": [],
-   "processed_at": "2026-11-05T07:01:33+05:30"
+   "processed_at": "2026-11-05T15:10:13+05:30"
   },
   {
    "key": "hungerpangs",
@@ -291,7 +314,31 @@
    },
    "verified": true,
    "warnings": [],
-   "processed_at": "2026-11-05T07:02:09+05:30"
+   "processed_at": "2026-11-05T15:10:55+05:30"
+  },
+  {
+   "key": "mayurelectromeck",
+   "company": "Mayur Electromeck Limited",
+   "board": "SME",
+   "exchange": "BSE SME",
+   "source": "BSE SME",
+   "filed_on": "2026-10-21",
+   "doc_type": "DRHP",
+   "brlms": [
+    "Synfinx Capital Pvt.Ltd."
+   ],
+   "promoters": [
+    "Vikram Bansal",
+    "Poonam Bansal",
+    "Ojasvi Bansal"
+   ],
+   "pre_ipo": null,
+   "latest": {},
+   "verified": null,
+   "warnings": [
+    "BSE SME filing: contacts and figures from Chittorgarh. BSE blocks cloud servers, so the DRHP PDF could not be read automatically; open it from the link above."
+   ],
+   "processed_at": "2026-11-05T15:10:56+05:30"
   },
   {
    "key": "paramotordigitaltechnology",
@@ -315,7 +362,7 @@
    "warnings": [
     "Financial statements could not be read from the DRHP"
    ],
-   "processed_at": "2026-11-05T07:03:07+05:30"
+   "processed_at": "2026-11-05T15:11:30+05:30"
   },
   {
    "key": "soleosenergy",
@@ -373,7 +420,7 @@
    },
    "verified": true,
    "warnings": [],
-   "processed_at": "2026-11-05T07:06:39+05:30"
+   "processed_at": "2026-11-05T15:12:44+05:30"
   },
   {
    "key": "gracerenewableenergy",
@@ -431,7 +478,7 @@
    "warnings": [
     "Some core figures could not be cross-checked; only verified figures are used in the email."
    ],
-   "processed_at": "2026-11-05T07:07:46+05:30"
+   "processed_at": "2026-11-05T15:14:03+05:30"
   },
   {
    "key": "integrumenergyinfrastructure",
@@ -490,7 +537,7 @@
    },
    "verified": true,
    "warnings": [],
-   "processed_at": "2026-11-05T07:08:29+05:30"
+   "processed_at": "2026-11-05T15:15:13+05:30"
   },
   {
    "key": "pentacleconsultantsi",
