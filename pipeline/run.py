@@ -348,6 +348,7 @@ def main(argv=None):
                     outreach["entries"] += outreach_entries(record, mail, "sent", message_id=mid)
                     sent_today += 1
                     already |= {(record["key"], a) for a in todo}
+                    save(OUTREACH, outreach)
                     print(f"   sent to {', '.join(todo)}")
                 except Exception as e:
                     outreach["entries"] += outreach_entries(record, mail, "failed", error=str(e)[:300])
@@ -373,6 +374,7 @@ def main(argv=None):
                     outreach["entries"] += outreach_entries(record, mail, "sent", message_id=mid)
                     sent_today += 1
                     already |= {(record["key"], a) for a in todo}
+                    save(OUTREACH, outreach)
                     print(f"   sent queued mail for {record['company']} to {', '.join(todo)}")
                 except Exception as e:
                     outreach["entries"] += outreach_entries(record, mail, "failed", error=str(e)[:300])

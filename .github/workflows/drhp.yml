@@ -36,6 +36,10 @@ jobs:
     timeout-minutes: 90
     steps:
       - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref_name }}   # branch head, not the commit that triggered the run
+      - name: Use the latest outreach log (never resend what an earlier run sent)
+        run: git pull --ff-only origin "${GITHUB_REF_NAME}"
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
