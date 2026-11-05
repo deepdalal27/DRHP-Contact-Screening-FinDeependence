@@ -18,11 +18,11 @@
     "+91 22 4202 2500"
    ],
    "subject": "Parshwanath Capital Ventures Fund | Pre-IPO & Anchor interest – Baanganga Gold & Diamond (I) Limited",
-   "status": "queued",
+   "status": "skipped",
    "sent_at": null,
    "created_at": "2026-11-05T07:12:59+05:30",
    "message_id": null,
-   "error": null,
+   "error": "Investor-complaints mailbox: not used for deal outreach",
    "promoters": [
     "Navratanmal Jeetmal Ganna",
     "Vikas Navratanmal Ganna",
