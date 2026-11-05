@@ -1,479 +1,6 @@
 {
  "entries": [
   {
-   "id": "integrumenergyinfrastructure|ieil.ipo@mefcomcap.in",
-   "company_key": "integrumenergyinfrastructure",
-   "company": "Integrum Energy Infrastructure Limited",
-   "board": "Mainboard",
-   "filed_on": "2026-10-07",
-   "variant": "brlm",
-   "role": "BRLM contact",
-   "organisation": "Mefcom Capital Markets Limited",
-   "names": [
-    "Rupesh Khant",
-    "S. Padmavathi"
-   ],
-   "email": "ieil.ipo@mefcomcap.in",
-   "phones": [
-    "+91 22 3522 7026"
-   ],
-   "subject": "Parshwanath Capital Ventures Fund | Pre-IPO & Anchor interest – Integrum Energy Infrastructure Limited",
-   "status": "queued",
-   "sent_at": null,
-   "created_at": "2026-11-05T07:08:29+05:30",
-   "message_id": null,
-   "error": null,
-   "promoters": [
-    "Anand Lahoti",
-    "Shyamsundar Maheswari",
-    "Puneet Goel",
-    "Shipra Goel"
-   ],
-   "brlm_contacts": [
-    {
-     "firm": "Mefcom Capital Markets Limited",
-     "people": [
-      "Rupesh Khant",
-      "S. Padmavathi"
-     ],
-     "emails": [
-      "ieil.ipo@mefcomcap.in"
-     ],
-     "phones": [
-      "+91 22 3522 7026"
-     ]
-    },
-    {
-     "firm": "Centrum Broking Limited",
-     "people": [
-      "Pooja Sanghvi",
-      "Tarun Parmani"
-     ],
-     "emails": [
-      "ieil.ipo@centrum.co.in"
-     ],
-     "phones": [
-      "+91 22 4215 9000"
-     ]
-    },
-    {
-     "firm": "Beeline Capital Advisors Private Limited",
-     "people": [
-      "Nikhil Shah"
-     ],
-     "emails": [
-      "mb@beelinemb.com"
-     ],
-     "phones": [
-      "+91 79 49185784"
-     ]
-    }
-   ],
-   "cs": {
-    "name": "Deepa G",
-    "emails": [
-     "compliance@integrumenergy.in"
-    ],
-    "phones": [
-     "+91- 9187713438"
-    ],
-    "page": 80
-   },
-   "website": "www.integrumenergy.in",
-   "doc_url": "https://www.sebi.gov.in/sebi_data/attachdocs/oct-2026/1791371918993.PDF"
-  },
-  {
-   "id": "integrumenergyinfrastructure|ieil.ipo@centrum.co.in",
-   "company_key": "integrumenergyinfrastructure",
-   "company": "Integrum Energy Infrastructure Limited",
-   "board": "Mainboard",
-   "filed_on": "2026-10-07",
-   "variant": "brlm",
-   "role": "BRLM contact",
-   "organisation": "Centrum Broking Limited",
-   "names": [
-    "Pooja Sanghvi",
-    "Tarun Parmani"
-   ],
-   "email": "ieil.ipo@centrum.co.in",
-   "phones": [
-    "+91 22 4215 9000"
-   ],
-   "subject": "Parshwanath Capital Ventures Fund | Pre-IPO & Anchor interest – Integrum Energy Infrastructure Limited",
-   "status": "queued",
-   "sent_at": null,
-   "created_at": "2026-11-05T07:08:29+05:30",
-   "message_id": null,
-   "error": null,
-   "promoters": [
-    "Anand Lahoti",
-    "Shyamsundar Maheswari",
-    "Puneet Goel",
-    "Shipra Goel"
-   ],
-   "brlm_contacts": [
-    {
-     "firm": "Mefcom Capital Markets Limited",
-     "people": [
-      "Rupesh Khant",
-      "S. Padmavathi"
-     ],
-     "emails": [
-      "ieil.ipo@mefcomcap.in"
-     ],
-     "phones": [
-      "+91 22 3522 7026"
-     ]
-    },
-    {
-     "firm": "Centrum Broking Limited",
-     "people": [
-      "Pooja Sanghvi",
-      "Tarun Parmani"
-     ],
-     "emails": [
-      "ieil.ipo@centrum.co.in"
-     ],
-     "phones": [
-      "+91 22 4215 9000"
-     ]
-    },
-    {
-     "firm": "Beeline Capital Advisors Private Limited",
-     "people": [
-      "Nikhil Shah"
-     ],
-     "emails": [
-      "mb@beelinemb.com"
-     ],
-     "phones": [
-      "+91 79 49185784"
-     ]
-    }
-   ],
-   "cs": {
-    "name": "Deepa G",
-    "emails": [
-     "compliance@integrumenergy.in"
-    ],
-    "phones": [
-     "+91- 9187713438"
-    ],
-    "page": 80
-   },
-   "website": "www.integrumenergy.in",
-   "doc_url": "https://www.sebi.gov.in/sebi_data/attachdocs/oct-2026/1791371918993.PDF"
-  },
-  {
-   "id": "integrumenergyinfrastructure|mb@beelinemb.com",
-   "company_key": "integrumenergyinfrastructure",
-   "company": "Integrum Energy Infrastructure Limited",
-   "board": "Mainboard",
-   "filed_on": "2026-10-07",
-   "variant": "brlm",
-   "role": "BRLM contact",
-   "organisation": "Beeline Capital Advisors Private Limited",
-   "names": [
-    "Nikhil Shah"
-   ],
-   "email": "mb@beelinemb.com",
-   "phones": [
-    "+91 79 49185784"
-   ],
-   "subject": "Parshwanath Capital Ventures Fund | Pre-IPO & Anchor interest – Integrum Energy Infrastructure Limited",
-   "status": "queued",
-   "sent_at": null,
-   "created_at": "2026-11-05T07:08:29+05:30",
-   "message_id": null,
-   "error": null,
-   "promoters": [
-    "Anand Lahoti",
-    "Shyamsundar Maheswari",
-    "Puneet Goel",
-    "Shipra Goel"
-   ],
-   "brlm_contacts": [
-    {
-     "firm": "Mefcom Capital Markets Limited",
-     "people": [
-      "Rupesh Khant",
-      "S. Padmavathi"
-     ],
-     "emails": [
-      "ieil.ipo@mefcomcap.in"
-     ],
-     "phones": [
-      "+91 22 3522 7026"
-     ]
-    },
-    {
-     "firm": "Centrum Broking Limited",
-     "people": [
-      "Pooja Sanghvi",
-      "Tarun Parmani"
-     ],
-     "emails": [
-      "ieil.ipo@centrum.co.in"
-     ],
-     "phones": [
-      "+91 22 4215 9000"
-     ]
-    },
-    {
-     "firm": "Beeline Capital Advisors Private Limited",
-     "people": [
-      "Nikhil Shah"
-     ],
-     "emails": [
-      "mb@beelinemb.com"
-     ],
-     "phones": [
-      "+91 79 49185784"
-     ]
-    }
-   ],
-   "cs": {
-    "name": "Deepa G",
-    "emails": [
-     "compliance@integrumenergy.in"
-    ],
-    "phones": [
-     "+91- 9187713438"
-    ],
-    "page": 80
-   },
-   "website": "www.integrumenergy.in",
-   "doc_url": "https://www.sebi.gov.in/sebi_data/attachdocs/oct-2026/1791371918993.PDF"
-  },
-  {
-   "id": "pmconaindustries|pmcona.ipo@valmikileela.com",
-   "company_key": "pmconaindustries",
-   "company": "PM Cona Industries Limited",
-   "board": "Mainboard",
-   "filed_on": "2026-10-06",
-   "variant": "brlm",
-   "role": "BRLM contact",
-   "organisation": "Valmiki Leela Capital Private Limited",
-   "names": [
-    "Shravan Suthar",
-    "Suchit Dave"
-   ],
-   "email": "pmcona.ipo@valmikileela.com",
-   "phones": [
-    "+91 79650 90096"
-   ],
-   "subject": "Parshwanath Capital Ventures Fund | Pre-IPO & Anchor interest – PM Cona Industries Limited",
-   "status": "queued",
-   "sent_at": null,
-   "created_at": "2026-11-05T07:10:44+05:30",
-   "message_id": null,
-   "error": null,
-   "promoters": [
-    "Prakash Naraindas Motwani",
-    "Neelu Prakash Motwani",
-    "Mohit Prakash Motwani",
-    "Bhavika Mohit Motwani",
-    "Pm Family Trust"
-   ],
-   "brlm_contacts": [
-    {
-     "firm": "Valmiki Leela Capital Private Limited",
-     "people": [
-      "Shravan Suthar",
-      "Suchit Dave"
-     ],
-     "emails": [
-      "pmcona.ipo@valmikileela.com"
-     ],
-     "phones": [
-      "+91 79650 90096"
-     ]
-    }
-   ],
-   "cs": {
-    "name": "Kruti Parshwa Shah",
-    "emails": [
-     "cs@pmcona.in"
-    ],
-    "phones": [
-     "+91 99200 81694"
-    ],
-    "page": 84
-   },
-   "website": "www.pmcona.in",
-   "doc_url": "https://www.sebi.gov.in/sebi_data/attachdocs/oct-2026/1791271808233_1407.pdf"
-  },
-  {
-   "id": "pentacleconsultantsi|pentacle.ipo@socradamus.in",
-   "company_key": "pentacleconsultantsi",
-   "company": "Pentacle Consultants I Limited",
-   "board": "Mainboard",
-   "filed_on": "2026-10-06",
-   "variant": "brlm",
-   "role": "BRLM contact",
-   "organisation": "Socradamus Capital Private Limited",
-   "names": [
-    "Kritika Rupda",
-    "Anushree Patil"
-   ],
-   "email": "pentacle.ipo@socradamus.in",
-   "phones": [
-    "022 - 4740 0238"
-   ],
-   "subject": "Parshwanath Capital Ventures Fund | Pre-IPO & Anchor interest – Pentacle Consultants I Limited",
-   "status": "queued",
-   "sent_at": null,
-   "created_at": "2026-11-05T07:11:25+05:30",
-   "message_id": null,
-   "error": null,
-   "promoters": [
-    "Mahendra Pundalik More",
-    "Pallavi Mahendra More",
-    "Ganesh Pundalik More"
-   ],
-   "brlm_contacts": [
-    {
-     "firm": "Socradamus Capital Private Limited",
-     "people": [
-      "Kritika Rupda",
-      "Anushree Patil"
-     ],
-     "emails": [
-      "pentacle.ipo@socradamus.in"
-     ],
-     "phones": [
-      "022 - 4740 0238"
-     ]
-    }
-   ],
-   "cs": {
-    "name": "Dipika Kamal Somani",
-    "emails": [
-     "csdipika@pentaclelimited.com"
-    ],
-    "phones": [
-     "022 - 4522 2466"
-    ],
-    "page": 96
-   },
-   "website": "https://pentaclelimited.com/",
-   "doc_url": "https://www.sebi.gov.in/sebi_data/attachdocs/oct-2026/1791271808233_1406.pdf"
-  },
-  {
-   "id": "electromechinfraprojects|mbd@arihantcapital.com",
-   "company_key": "electromechinfraprojects",
-   "company": "Electromech Infraprojects Limited",
-   "board": "Mainboard",
-   "filed_on": "2026-10-05",
-   "variant": "brlm",
-   "role": "BRLM contact",
-   "organisation": "Arihant Capital Markets Limited",
-   "names": [
-    "Amol Kshirsagar",
-    "Satish Kumar Padmanabhan"
-   ],
-   "email": "mbd@arihantcapital.com",
-   "phones": [
-    "+91 22 4225 4800"
-   ],
-   "subject": "Parshwanath Capital Ventures Fund | Pre-IPO & Anchor interest – Electromech Infraprojects Limited",
-   "status": "queued",
-   "sent_at": null,
-   "created_at": "2026-11-05T07:12:11+05:30",
-   "message_id": null,
-   "error": null,
-   "promoters": [
-    "Paresh Pratap Maniar",
-    "Varun Paresh Maniar",
-    "Mitesh Pratap Maniar",
-    "Chandrika Paresh Maniar"
-   ],
-   "brlm_contacts": [
-    {
-     "firm": "Arihant Capital Markets Limited",
-     "people": [
-      "Amol Kshirsagar",
-      "Satish Kumar Padmanabhan"
-     ],
-     "emails": [
-      "mbd@arihantcapital.com"
-     ],
-     "phones": [
-      "+91 22 4225 4800"
-     ]
-    }
-   ],
-   "cs": {
-    "name": "Iti Tiwari",
-    "emails": [
-     "cs@electromech-infra.com"
-    ],
-    "phones": [
-     "+91 86910 88132"
-    ],
-    "page": 97
-   },
-   "website": null,
-   "doc_url": "https://www.sebi.gov.in/sebi_data/attachdocs/oct-2026/1791199559126.pdf"
-  },
-  {
-   "id": "baangangagolddiamondi|baanganga.ipo@damcapital.in",
-   "company_key": "baangangagolddiamondi",
-   "company": "Baanganga Gold & Diamond (I) Limited",
-   "board": "Mainboard",
-   "filed_on": "2026-10-05",
-   "variant": "brlm",
-   "role": "BRLM contact",
-   "organisation": "DAM Capital Advisors Limited",
-   "names": [
-    "Aanchal Wagle",
-    "Rishi Kakkad"
-   ],
-   "email": "baanganga.ipo@damcapital.in",
-   "phones": [
-    "+91 22 4202 2500"
-   ],
-   "subject": "Parshwanath Capital Ventures Fund | Pre-IPO & Anchor interest – Baanganga Gold & Diamond (I) Limited",
-   "status": "queued",
-   "sent_at": null,
-   "created_at": "2026-11-05T07:12:59+05:30",
-   "message_id": null,
-   "error": null,
-   "promoters": [
-    "Navratanmal Jeetmal Ganna",
-    "Vikas Navratanmal Ganna",
-    "Jinesh Navratanmal Ganna"
-   ],
-   "brlm_contacts": [
-    {
-     "firm": "DAM Capital Advisors Limited",
-     "people": [
-      "Aanchal Wagle",
-      "Rishi Kakkad"
-     ],
-     "emails": [
-      "baanganga.ipo@damcapital.in",
-      "complaint@damcapital.in"
-     ],
-     "phones": [
-      "+91 22 4202 2500"
-     ]
-    }
-   ],
-   "cs": {
-    "name": "Vinaya Sanjay Patil",
-    "emails": [
-     "cs@baangangajewellers.com"
-    ],
-    "phones": [
-     "022 2244 4455"
-    ],
-    "page": 97
-   },
-   "website": "www.baangangagold.com",
-   "doc_url": "https://www.sebi.gov.in/sebi_data/attachdocs/oct-2026/1791198965136.pdf"
-  },
-  {
    "id": "baangangagolddiamondi|complaint@damcapital.in",
    "company_key": "baangangagolddiamondi",
    "company": "Baanganga Gold & Diamond (I) Limited",
@@ -529,400 +56,6 @@
    },
    "website": "www.baangangagold.com",
    "doc_url": "https://www.sebi.gov.in/sebi_data/attachdocs/oct-2026/1791198965136.pdf"
-  },
-  {
-   "id": "inoxairproducts|inoxap.ipo@kotak.com",
-   "company_key": "inoxairproducts",
-   "company": "Inox Air Products Limited",
-   "board": "Mainboard",
-   "filed_on": "2026-10-05",
-   "variant": "brlm",
-   "role": "BRLM contact",
-   "organisation": "Kotak Mahindra Capital Company Limited",
-   "names": [
-    "Ganesh Rane"
-   ],
-   "email": "inoxap.ipo@kotak.com",
-   "phones": [
-    "+91 22 4336 0000"
-   ],
-   "subject": "Parshwanath Capital Ventures Fund | Pre-IPO & Anchor interest – Inox Air Products Limited",
-   "status": "queued",
-   "sent_at": null,
-   "created_at": "2026-11-05T07:14:22+05:30",
-   "message_id": null,
-   "error": null,
-   "promoters": [
-    "Pavan Kumar Jain",
-    "Siddharth Jain",
-    "Prodair Corporation",
-    "Inox Chemicals LLP",
-    "Siddho Mal Trading LLP",
-    "Air Products",
-    "Chemicals",
-    "Inc",
-    "Air Products Manufacturing Corporation"
-   ],
-   "brlm_contacts": [
-    {
-     "firm": "Kotak Mahindra Capital Company Limited",
-     "people": [
-      "Ganesh Rane"
-     ],
-     "emails": [
-      "inoxap.ipo@kotak.com"
-     ],
-     "phones": [
-      "+91 22 4336 0000"
-     ]
-    },
-    {
-     "firm": "Citigroup Global Markets India Private Limited",
-     "people": [
-      "Nilay Kala"
-     ],
-     "emails": [
-      "inoxap.ipo@citi.com"
-     ],
-     "phones": [
-      "+91 22 6175 9999"
-     ]
-    },
-    {
-     "firm": "ICICI Securities Limited",
-     "people": [
-      "Rahul Sharma",
-      "Sumit Singh"
-     ],
-     "emails": [
-      "inoxap.ipo@icicisecurities.com"
-     ],
-     "phones": [
-      "+91 22 6807 7100"
-     ]
-    },
-    {
-     "firm": "J.P. Morgan India Private Limited",
-     "people": [
-      "Varun Agrawal",
-      "Rishank Chheda"
-     ],
-     "emails": [
-      "inox_air_products_ipo@jpmorgan.com"
-     ],
-     "phones": [
-      "+91 22 6157 3000"
-     ]
-    }
-   ],
-   "cs": {
-    "name": "Vishal Madhukant Shah",
-    "emails": [
-     "secretarial@inoxap.com"
-    ],
-    "phones": [
-     "+91 22 4032 3960"
-    ],
-    "page": 97
-   },
-   "website": "https://inoxairproducts.com",
-   "doc_url": "https://www.sebi.gov.in/sebi_data/attachdocs/oct-2026/1791197450320.pdf"
-  },
-  {
-   "id": "inoxairproducts|inoxap.ipo@citi.com",
-   "company_key": "inoxairproducts",
-   "company": "Inox Air Products Limited",
-   "board": "Mainboard",
-   "filed_on": "2026-10-05",
-   "variant": "brlm",
-   "role": "BRLM contact",
-   "organisation": "Citigroup Global Markets India Private Limited",
-   "names": [
-    "Nilay Kala"
-   ],
-   "email": "inoxap.ipo@citi.com",
-   "phones": [
-    "+91 22 6175 9999"
-   ],
-   "subject": "Parshwanath Capital Ventures Fund | Pre-IPO & Anchor interest – Inox Air Products Limited",
-   "status": "queued",
-   "sent_at": null,
-   "created_at": "2026-11-05T07:14:22+05:30",
-   "message_id": null,
-   "error": null,
-   "promoters": [
-    "Pavan Kumar Jain",
-    "Siddharth Jain",
-    "Prodair Corporation",
-    "Inox Chemicals LLP",
-    "Siddho Mal Trading LLP",
-    "Air Products",
-    "Chemicals",
-    "Inc",
-    "Air Products Manufacturing Corporation"
-   ],
-   "brlm_contacts": [
-    {
-     "firm": "Kotak Mahindra Capital Company Limited",
-     "people": [
-      "Ganesh Rane"
-     ],
-     "emails": [
-      "inoxap.ipo@kotak.com"
-     ],
-     "phones": [
-      "+91 22 4336 0000"
-     ]
-    },
-    {
-     "firm": "Citigroup Global Markets India Private Limited",
-     "people": [
-      "Nilay Kala"
-     ],
-     "emails": [
-      "inoxap.ipo@citi.com"
-     ],
-     "phones": [
-      "+91 22 6175 9999"
-     ]
-    },
-    {
-     "firm": "ICICI Securities Limited",
-     "people": [
-      "Rahul Sharma",
-      "Sumit Singh"
-     ],
-     "emails": [
-      "inoxap.ipo@icicisecurities.com"
-     ],
-     "phones": [
-      "+91 22 6807 7100"
-     ]
-    },
-    {
-     "firm": "J.P. Morgan India Private Limited",
-     "people": [
-      "Varun Agrawal",
-      "Rishank Chheda"
-     ],
-     "emails": [
-      "inox_air_products_ipo@jpmorgan.com"
-     ],
-     "phones": [
-      "+91 22 6157 3000"
-     ]
-    }
-   ],
-   "cs": {
-    "name": "Vishal Madhukant Shah",
-    "emails": [
-     "secretarial@inoxap.com"
-    ],
-    "phones": [
-     "+91 22 4032 3960"
-    ],
-    "page": 97
-   },
-   "website": "https://inoxairproducts.com",
-   "doc_url": "https://www.sebi.gov.in/sebi_data/attachdocs/oct-2026/1791197450320.pdf"
-  },
-  {
-   "id": "inoxairproducts|inoxap.ipo@icicisecurities.com",
-   "company_key": "inoxairproducts",
-   "company": "Inox Air Products Limited",
-   "board": "Mainboard",
-   "filed_on": "2026-10-05",
-   "variant": "brlm",
-   "role": "BRLM contact",
-   "organisation": "ICICI Securities Limited",
-   "names": [
-    "Rahul Sharma",
-    "Sumit Singh"
-   ],
-   "email": "inoxap.ipo@icicisecurities.com",
-   "phones": [
-    "+91 22 6807 7100"
-   ],
-   "subject": "Parshwanath Capital Ventures Fund | Pre-IPO & Anchor interest – Inox Air Products Limited",
-   "status": "queued",
-   "sent_at": null,
-   "created_at": "2026-11-05T07:14:22+05:30",
-   "message_id": null,
-   "error": null,
-   "promoters": [
-    "Pavan Kumar Jain",
-    "Siddharth Jain",
-    "Prodair Corporation",
-    "Inox Chemicals LLP",
-    "Siddho Mal Trading LLP",
-    "Air Products",
-    "Chemicals",
-    "Inc",
-    "Air Products Manufacturing Corporation"
-   ],
-   "brlm_contacts": [
-    {
-     "firm": "Kotak Mahindra Capital Company Limited",
-     "people": [
-      "Ganesh Rane"
-     ],
-     "emails": [
-      "inoxap.ipo@kotak.com"
-     ],
-     "phones": [
-      "+91 22 4336 0000"
-     ]
-    },
-    {
-     "firm": "Citigroup Global Markets India Private Limited",
-     "people": [
-      "Nilay Kala"
-     ],
-     "emails": [
-      "inoxap.ipo@citi.com"
-     ],
-     "phones": [
-      "+91 22 6175 9999"
-     ]
-    },
-    {
-     "firm": "ICICI Securities Limited",
-     "people": [
-      "Rahul Sharma",
-      "Sumit Singh"
-     ],
-     "emails": [
-      "inoxap.ipo@icicisecurities.com"
-     ],
-     "phones": [
-      "+91 22 6807 7100"
-     ]
-    },
-    {
-     "firm": "J.P. Morgan India Private Limited",
-     "people": [
-      "Varun Agrawal",
-      "Rishank Chheda"
-     ],
-     "emails": [
-      "inox_air_products_ipo@jpmorgan.com"
-     ],
-     "phones": [
-      "+91 22 6157 3000"
-     ]
-    }
-   ],
-   "cs": {
-    "name": "Vishal Madhukant Shah",
-    "emails": [
-     "secretarial@inoxap.com"
-    ],
-    "phones": [
-     "+91 22 4032 3960"
-    ],
-    "page": 97
-   },
-   "website": "https://inoxairproducts.com",
-   "doc_url": "https://www.sebi.gov.in/sebi_data/attachdocs/oct-2026/1791197450320.pdf"
-  },
-  {
-   "id": "inoxairproducts|inox_air_products_ipo@jpmorgan.com",
-   "company_key": "inoxairproducts",
-   "company": "Inox Air Products Limited",
-   "board": "Mainboard",
-   "filed_on": "2026-10-05",
-   "variant": "brlm",
-   "role": "BRLM contact",
-   "organisation": "J.P. Morgan India Private Limited",
-   "names": [
-    "Varun Agrawal",
-    "Rishank Chheda"
-   ],
-   "email": "inox_air_products_ipo@jpmorgan.com",
-   "phones": [
-    "+91 22 6157 3000"
-   ],
-   "subject": "Parshwanath Capital Ventures Fund | Pre-IPO & Anchor interest – Inox Air Products Limited",
-   "status": "queued",
-   "sent_at": null,
-   "created_at": "2026-11-05T07:14:22+05:30",
-   "message_id": null,
-   "error": null,
-   "promoters": [
-    "Pavan Kumar Jain",
-    "Siddharth Jain",
-    "Prodair Corporation",
-    "Inox Chemicals LLP",
-    "Siddho Mal Trading LLP",
-    "Air Products",
-    "Chemicals",
-    "Inc",
-    "Air Products Manufacturing Corporation"
-   ],
-   "brlm_contacts": [
-    {
-     "firm": "Kotak Mahindra Capital Company Limited",
-     "people": [
-      "Ganesh Rane"
-     ],
-     "emails": [
-      "inoxap.ipo@kotak.com"
-     ],
-     "phones": [
-      "+91 22 4336 0000"
-     ]
-    },
-    {
-     "firm": "Citigroup Global Markets India Private Limited",
-     "people": [
-      "Nilay Kala"
-     ],
-     "emails": [
-      "inoxap.ipo@citi.com"
-     ],
-     "phones": [
-      "+91 22 6175 9999"
-     ]
-    },
-    {
-     "firm": "ICICI Securities Limited",
-     "people": [
-      "Rahul Sharma",
-      "Sumit Singh"
-     ],
-     "emails": [
-      "inoxap.ipo@icicisecurities.com"
-     ],
-     "phones": [
-      "+91 22 6807 7100"
-     ]
-    },
-    {
-     "firm": "J.P. Morgan India Private Limited",
-     "people": [
-      "Varun Agrawal",
-      "Rishank Chheda"
-     ],
-     "emails": [
-      "inox_air_products_ipo@jpmorgan.com"
-     ],
-     "phones": [
-      "+91 22 6157 3000"
-     ]
-    }
-   ],
-   "cs": {
-    "name": "Vishal Madhukant Shah",
-    "emails": [
-     "secretarial@inoxap.com"
-    ],
-    "phones": [
-     "+91 22 4032 3960"
-    ],
-    "page": 97
-   },
-   "website": "https://inoxairproducts.com",
-   "doc_url": "https://www.sebi.gov.in/sebi_data/attachdocs/oct-2026/1791197450320.pdf"
   },
   {
    "id": "jamnagaragroindustries|cs@jamnagaragroindustries.com",
@@ -1999,7 +1132,874 @@
    },
    "website": "https://gracerenew.com/",
    "doc_url": "https://www.sebi.gov.in/sebi_data/attachdocs/oct-2026/1791449032035.PDF"
+  },
+  {
+   "id": "integrumenergyinfrastructure|ieil.ipo@mefcomcap.in",
+   "company_key": "integrumenergyinfrastructure",
+   "company": "Integrum Energy Infrastructure Limited",
+   "board": "Mainboard",
+   "filed_on": "2026-10-07",
+   "variant": "brlm",
+   "role": "BRLM contact",
+   "organisation": "Mefcom Capital Markets Limited",
+   "names": [
+    "Rupesh Khant",
+    "S. Padmavathi"
+   ],
+   "email": "ieil.ipo@mefcomcap.in",
+   "phones": [
+    "+91 22 3522 7026"
+   ],
+   "subject": "Parshwanath Capital Ventures Fund | Pre-IPO & Anchor interest – Integrum Energy Infrastructure Limited",
+   "status": "sent",
+   "sent_at": "2026-11-05T15:30:54+05:30",
+   "created_at": "2026-11-05T15:30:54+05:30",
+   "message_id": "<179387284868.2695.7779938069475670064@gmail.com>",
+   "error": null,
+   "promoters": [
+    "Anand Lahoti",
+    "Shyamsundar Maheswari",
+    "Puneet Goel",
+    "Shipra Goel"
+   ],
+   "brlm_contacts": [
+    {
+     "firm": "Mefcom Capital Markets Limited",
+     "people": [
+      "Rupesh Khant",
+      "S. Padmavathi"
+     ],
+     "emails": [
+      "ieil.ipo@mefcomcap.in"
+     ],
+     "phones": [
+      "+91 22 3522 7026"
+     ]
+    },
+    {
+     "firm": "Centrum Broking Limited",
+     "people": [
+      "Pooja Sanghvi",
+      "Tarun Parmani"
+     ],
+     "emails": [
+      "ieil.ipo@centrum.co.in"
+     ],
+     "phones": [
+      "+91 22 4215 9000"
+     ]
+    },
+    {
+     "firm": "Beeline Capital Advisors Private Limited",
+     "people": [
+      "Nikhil Shah"
+     ],
+     "emails": [
+      "mb@beelinemb.com"
+     ],
+     "phones": [
+      "+91 79 49185784"
+     ]
+    }
+   ],
+   "cs": {
+    "name": "Deepa G",
+    "emails": [
+     "compliance@integrumenergy.in"
+    ],
+    "phones": [
+     "+91- 9187713438"
+    ],
+    "page": 80
+   },
+   "website": "www.integrumenergy.in",
+   "doc_url": "https://www.sebi.gov.in/sebi_data/attachdocs/oct-2026/1791371918993.PDF"
+  },
+  {
+   "id": "integrumenergyinfrastructure|ieil.ipo@centrum.co.in",
+   "company_key": "integrumenergyinfrastructure",
+   "company": "Integrum Energy Infrastructure Limited",
+   "board": "Mainboard",
+   "filed_on": "2026-10-07",
+   "variant": "brlm",
+   "role": "BRLM contact",
+   "organisation": "Centrum Broking Limited",
+   "names": [
+    "Pooja Sanghvi",
+    "Tarun Parmani"
+   ],
+   "email": "ieil.ipo@centrum.co.in",
+   "phones": [
+    "+91 22 4215 9000"
+   ],
+   "subject": "Parshwanath Capital Ventures Fund | Pre-IPO & Anchor interest – Integrum Energy Infrastructure Limited",
+   "status": "sent",
+   "sent_at": "2026-11-05T15:30:56+05:30",
+   "created_at": "2026-11-05T15:30:56+05:30",
+   "message_id": "<179387285411.2695.6579653261294190643@gmail.com>",
+   "error": null,
+   "promoters": [
+    "Anand Lahoti",
+    "Shyamsundar Maheswari",
+    "Puneet Goel",
+    "Shipra Goel"
+   ],
+   "brlm_contacts": [
+    {
+     "firm": "Mefcom Capital Markets Limited",
+     "people": [
+      "Rupesh Khant",
+      "S. Padmavathi"
+     ],
+     "emails": [
+      "ieil.ipo@mefcomcap.in"
+     ],
+     "phones": [
+      "+91 22 3522 7026"
+     ]
+    },
+    {
+     "firm": "Centrum Broking Limited",
+     "people": [
+      "Pooja Sanghvi",
+      "Tarun Parmani"
+     ],
+     "emails": [
+      "ieil.ipo@centrum.co.in"
+     ],
+     "phones": [
+      "+91 22 4215 9000"
+     ]
+    },
+    {
+     "firm": "Beeline Capital Advisors Private Limited",
+     "people": [
+      "Nikhil Shah"
+     ],
+     "emails": [
+      "mb@beelinemb.com"
+     ],
+     "phones": [
+      "+91 79 49185784"
+     ]
+    }
+   ],
+   "cs": {
+    "name": "Deepa G",
+    "emails": [
+     "compliance@integrumenergy.in"
+    ],
+    "phones": [
+     "+91- 9187713438"
+    ],
+    "page": 80
+   },
+   "website": "www.integrumenergy.in",
+   "doc_url": "https://www.sebi.gov.in/sebi_data/attachdocs/oct-2026/1791371918993.PDF"
+  },
+  {
+   "id": "integrumenergyinfrastructure|mb@beelinemb.com",
+   "company_key": "integrumenergyinfrastructure",
+   "company": "Integrum Energy Infrastructure Limited",
+   "board": "Mainboard",
+   "filed_on": "2026-10-07",
+   "variant": "brlm",
+   "role": "BRLM contact",
+   "organisation": "Beeline Capital Advisors Private Limited",
+   "names": [
+    "Nikhil Shah"
+   ],
+   "email": "mb@beelinemb.com",
+   "phones": [
+    "+91 79 49185784"
+   ],
+   "subject": "Parshwanath Capital Ventures Fund | Pre-IPO & Anchor interest – Integrum Energy Infrastructure Limited",
+   "status": "sent",
+   "sent_at": "2026-11-05T15:31:03+05:30",
+   "created_at": "2026-11-05T15:31:03+05:30",
+   "message_id": "<179387285677.2695.256129994000087274@gmail.com>",
+   "error": null,
+   "promoters": [
+    "Anand Lahoti",
+    "Shyamsundar Maheswari",
+    "Puneet Goel",
+    "Shipra Goel"
+   ],
+   "brlm_contacts": [
+    {
+     "firm": "Mefcom Capital Markets Limited",
+     "people": [
+      "Rupesh Khant",
+      "S. Padmavathi"
+     ],
+     "emails": [
+      "ieil.ipo@mefcomcap.in"
+     ],
+     "phones": [
+      "+91 22 3522 7026"
+     ]
+    },
+    {
+     "firm": "Centrum Broking Limited",
+     "people": [
+      "Pooja Sanghvi",
+      "Tarun Parmani"
+     ],
+     "emails": [
+      "ieil.ipo@centrum.co.in"
+     ],
+     "phones": [
+      "+91 22 4215 9000"
+     ]
+    },
+    {
+     "firm": "Beeline Capital Advisors Private Limited",
+     "people": [
+      "Nikhil Shah"
+     ],
+     "emails": [
+      "mb@beelinemb.com"
+     ],
+     "phones": [
+      "+91 79 49185784"
+     ]
+    }
+   ],
+   "cs": {
+    "name": "Deepa G",
+    "emails": [
+     "compliance@integrumenergy.in"
+    ],
+    "phones": [
+     "+91- 9187713438"
+    ],
+    "page": 80
+   },
+   "website": "www.integrumenergy.in",
+   "doc_url": "https://www.sebi.gov.in/sebi_data/attachdocs/oct-2026/1791371918993.PDF"
+  },
+  {
+   "id": "pmconaindustries|pmcona.ipo@valmikileela.com",
+   "company_key": "pmconaindustries",
+   "company": "PM Cona Industries Limited",
+   "board": "Mainboard",
+   "filed_on": "2026-10-06",
+   "variant": "brlm",
+   "role": "BRLM contact",
+   "organisation": "Valmiki Leela Capital Private Limited",
+   "names": [
+    "Shravan Suthar",
+    "Suchit Dave"
+   ],
+   "email": "pmcona.ipo@valmikileela.com",
+   "phones": [
+    "+91 79650 90096"
+   ],
+   "subject": "Parshwanath Capital Ventures Fund | Pre-IPO & Anchor interest – PM Cona Industries Limited",
+   "status": "sent",
+   "sent_at": "2026-11-05T15:32:10+05:30",
+   "created_at": "2026-11-05T15:32:10+05:30",
+   "message_id": "<179387292572.2695.11500772515091078233@gmail.com>",
+   "error": null,
+   "promoters": [
+    "Prakash Naraindas Motwani",
+    "Neelu Prakash Motwani",
+    "Mohit Prakash Motwani",
+    "Bhavika Mohit Motwani",
+    "Pm Family Trust"
+   ],
+   "brlm_contacts": [
+    {
+     "firm": "Valmiki Leela Capital Private Limited",
+     "people": [
+      "Shravan Suthar",
+      "Suchit Dave"
+     ],
+     "emails": [
+      "pmcona.ipo@valmikileela.com"
+     ],
+     "phones": [
+      "+91 79650 90096"
+     ]
+    }
+   ],
+   "cs": {
+    "name": "Kruti Parshwa Shah",
+    "emails": [
+     "cs@pmcona.in"
+    ],
+    "phones": [
+     "+91 99200 81694"
+    ],
+    "page": 84
+   },
+   "website": "www.pmcona.in",
+   "doc_url": "https://www.sebi.gov.in/sebi_data/attachdocs/oct-2026/1791271808233_1407.pdf"
+  },
+  {
+   "id": "pentacleconsultantsi|pentacle.ipo@socradamus.in",
+   "company_key": "pentacleconsultantsi",
+   "company": "Pentacle Consultants I Limited",
+   "board": "Mainboard",
+   "filed_on": "2026-10-06",
+   "variant": "brlm",
+   "role": "BRLM contact",
+   "organisation": "Socradamus Capital Private Limited",
+   "names": [
+    "Kritika Rupda",
+    "Anushree Patil"
+   ],
+   "email": "pentacle.ipo@socradamus.in",
+   "phones": [
+    "022 - 4740 0238"
+   ],
+   "subject": "Parshwanath Capital Ventures Fund | Pre-IPO & Anchor interest – Pentacle Consultants I Limited",
+   "status": "sent",
+   "sent_at": "2026-11-05T15:33:34+05:30",
+   "created_at": "2026-11-05T15:33:34+05:30",
+   "message_id": "<179387301182.2695.17362932312656258937@gmail.com>",
+   "error": null,
+   "promoters": [
+    "Mahendra Pundalik More",
+    "Pallavi Mahendra More",
+    "Ganesh Pundalik More"
+   ],
+   "brlm_contacts": [
+    {
+     "firm": "Socradamus Capital Private Limited",
+     "people": [
+      "Kritika Rupda",
+      "Anushree Patil"
+     ],
+     "emails": [
+      "pentacle.ipo@socradamus.in"
+     ],
+     "phones": [
+      "022 - 4740 0238"
+     ]
+    }
+   ],
+   "cs": {
+    "name": "Dipika Kamal Somani",
+    "emails": [
+     "csdipika@pentaclelimited.com"
+    ],
+    "phones": [
+     "022 - 4522 2466"
+    ],
+    "page": 96
+   },
+   "website": "https://pentaclelimited.com/",
+   "doc_url": "https://www.sebi.gov.in/sebi_data/attachdocs/oct-2026/1791271808233_1406.pdf"
+  },
+  {
+   "id": "baangangagolddiamondi|baanganga.ipo@damcapital.in",
+   "company_key": "baangangagolddiamondi",
+   "company": "Baanganga Gold & Diamond (I) Limited",
+   "board": "Mainboard",
+   "filed_on": "2026-10-05",
+   "variant": "brlm",
+   "role": "BRLM contact",
+   "organisation": "DAM Capital Advisors Limited",
+   "names": [
+    "Aanchal Wagle",
+    "Rishi Kakkad"
+   ],
+   "email": "baanganga.ipo@damcapital.in",
+   "phones": [
+    "+91 22 4202 2500"
+   ],
+   "subject": "Parshwanath Capital Ventures Fund | Pre-IPO & Anchor interest – Baanganga Gold & Diamond (I) Limited",
+   "status": "sent",
+   "sent_at": "2026-11-05T15:33:37+05:30",
+   "created_at": "2026-11-05T15:33:37+05:30",
+   "message_id": "<179387301442.2695.17277569797053007961@gmail.com>",
+   "error": null,
+   "promoters": [
+    "Navratanmal Jeetmal Ganna",
+    "Vikas Navratanmal Ganna",
+    "Jinesh Navratanmal Ganna"
+   ],
+   "brlm_contacts": [
+    {
+     "firm": "DAM Capital Advisors Limited",
+     "people": [
+      "Aanchal Wagle",
+      "Rishi Kakkad"
+     ],
+     "emails": [
+      "baanganga.ipo@damcapital.in",
+      "complaint@damcapital.in"
+     ],
+     "phones": [
+      "+91 22 4202 2500"
+     ]
+    }
+   ],
+   "cs": {
+    "name": "Vinaya Sanjay Patil",
+    "emails": [
+     "cs@baangangajewellers.com"
+    ],
+    "phones": [
+     "022 2244 4455"
+    ],
+    "page": 97
+   },
+   "website": "www.baangangagold.com",
+   "doc_url": "https://www.sebi.gov.in/sebi_data/attachdocs/oct-2026/1791198965136.pdf"
+  },
+  {
+   "id": "electromechinfraprojects|mbd@arihantcapital.com",
+   "company_key": "electromechinfraprojects",
+   "company": "Electromech Infraprojects Limited",
+   "board": "Mainboard",
+   "filed_on": "2026-10-05",
+   "variant": "brlm",
+   "role": "BRLM contact",
+   "organisation": "Arihant Capital Markets Limited",
+   "names": [
+    "Amol Kshirsagar",
+    "Satish Kumar Padmanabhan"
+   ],
+   "email": "mbd@arihantcapital.com",
+   "phones": [
+    "+91 22 4225 4800"
+   ],
+   "subject": "Parshwanath Capital Ventures Fund | Pre-IPO & Anchor interest – Electromech Infraprojects Limited",
+   "status": "sent",
+   "sent_at": "2026-11-05T15:33:39+05:30",
+   "created_at": "2026-11-05T15:33:39+05:30",
+   "message_id": "<179387301706.2695.9645538093876217026@gmail.com>",
+   "error": null,
+   "promoters": [
+    "Paresh Pratap Maniar",
+    "Varun Paresh Maniar",
+    "Mitesh Pratap Maniar",
+    "Chandrika Paresh Maniar"
+   ],
+   "brlm_contacts": [
+    {
+     "firm": "Arihant Capital Markets Limited",
+     "people": [
+      "Amol Kshirsagar",
+      "Satish Kumar Padmanabhan"
+     ],
+     "emails": [
+      "mbd@arihantcapital.com"
+     ],
+     "phones": [
+      "+91 22 4225 4800"
+     ]
+    }
+   ],
+   "cs": {
+    "name": "Iti Tiwari",
+    "emails": [
+     "cs@electromech-infra.com"
+    ],
+    "phones": [
+     "+91 86910 88132"
+    ],
+    "page": 97
+   },
+   "website": null,
+   "doc_url": "https://www.sebi.gov.in/sebi_data/attachdocs/oct-2026/1791199559126.pdf"
+  },
+  {
+   "id": "inoxairproducts|inoxap.ipo@kotak.com",
+   "company_key": "inoxairproducts",
+   "company": "Inox Air Products Limited",
+   "board": "Mainboard",
+   "filed_on": "2026-10-05",
+   "variant": "brlm",
+   "role": "BRLM contact",
+   "organisation": "Kotak Mahindra Capital Company Limited",
+   "names": [
+    "Ganesh Rane"
+   ],
+   "email": "inoxap.ipo@kotak.com",
+   "phones": [
+    "+91 22 4336 0000"
+   ],
+   "subject": "Parshwanath Capital Ventures Fund | Pre-IPO & Anchor interest – Inox Air Products Limited",
+   "status": "sent",
+   "sent_at": "2026-11-05T15:33:41+05:30",
+   "created_at": "2026-11-05T15:33:41+05:30",
+   "message_id": "<179387301931.2695.5349618494791226668@gmail.com>",
+   "error": null,
+   "promoters": [
+    "Pavan Kumar Jain",
+    "Siddharth Jain",
+    "Prodair Corporation",
+    "Inox Chemicals LLP",
+    "Siddho Mal Trading LLP",
+    "Air Products",
+    "Chemicals",
+    "Inc",
+    "Air Products Manufacturing Corporation"
+   ],
+   "brlm_contacts": [
+    {
+     "firm": "Kotak Mahindra Capital Company Limited",
+     "people": [
+      "Ganesh Rane"
+     ],
+     "emails": [
+      "inoxap.ipo@kotak.com"
+     ],
+     "phones": [
+      "+91 22 4336 0000"
+     ]
+    },
+    {
+     "firm": "Citigroup Global Markets India Private Limited",
+     "people": [
+      "Nilay Kala"
+     ],
+     "emails": [
+      "inoxap.ipo@citi.com"
+     ],
+     "phones": [
+      "+91 22 6175 9999"
+     ]
+    },
+    {
+     "firm": "ICICI Securities Limited",
+     "people": [
+      "Rahul Sharma",
+      "Sumit Singh"
+     ],
+     "emails": [
+      "inoxap.ipo@icicisecurities.com"
+     ],
+     "phones": [
+      "+91 22 6807 7100"
+     ]
+    },
+    {
+     "firm": "J.P. Morgan India Private Limited",
+     "people": [
+      "Varun Agrawal",
+      "Rishank Chheda"
+     ],
+     "emails": [
+      "inox_air_products_ipo@jpmorgan.com"
+     ],
+     "phones": [
+      "+91 22 6157 3000"
+     ]
+    }
+   ],
+   "cs": {
+    "name": "Vishal Madhukant Shah",
+    "emails": [
+     "secretarial@inoxap.com"
+    ],
+    "phones": [
+     "+91 22 4032 3960"
+    ],
+    "page": 97
+   },
+   "website": "https://inoxairproducts.com",
+   "doc_url": "https://www.sebi.gov.in/sebi_data/attachdocs/oct-2026/1791197450320.pdf"
+  },
+  {
+   "id": "inoxairproducts|inoxap.ipo@citi.com",
+   "company_key": "inoxairproducts",
+   "company": "Inox Air Products Limited",
+   "board": "Mainboard",
+   "filed_on": "2026-10-05",
+   "variant": "brlm",
+   "role": "BRLM contact",
+   "organisation": "Citigroup Global Markets India Private Limited",
+   "names": [
+    "Nilay Kala"
+   ],
+   "email": "inoxap.ipo@citi.com",
+   "phones": [
+    "+91 22 6175 9999"
+   ],
+   "subject": "Parshwanath Capital Ventures Fund | Pre-IPO & Anchor interest – Inox Air Products Limited",
+   "status": "sent",
+   "sent_at": "2026-11-05T15:33:44+05:30",
+   "created_at": "2026-11-05T15:33:44+05:30",
+   "message_id": "<179387302188.2695.14028170629584433594@gmail.com>",
+   "error": null,
+   "promoters": [
+    "Pavan Kumar Jain",
+    "Siddharth Jain",
+    "Prodair Corporation",
+    "Inox Chemicals LLP",
+    "Siddho Mal Trading LLP",
+    "Air Products",
+    "Chemicals",
+    "Inc",
+    "Air Products Manufacturing Corporation"
+   ],
+   "brlm_contacts": [
+    {
+     "firm": "Kotak Mahindra Capital Company Limited",
+     "people": [
+      "Ganesh Rane"
+     ],
+     "emails": [
+      "inoxap.ipo@kotak.com"
+     ],
+     "phones": [
+      "+91 22 4336 0000"
+     ]
+    },
+    {
+     "firm": "Citigroup Global Markets India Private Limited",
+     "people": [
+      "Nilay Kala"
+     ],
+     "emails": [
+      "inoxap.ipo@citi.com"
+     ],
+     "phones": [
+      "+91 22 6175 9999"
+     ]
+    },
+    {
+     "firm": "ICICI Securities Limited",
+     "people": [
+      "Rahul Sharma",
+      "Sumit Singh"
+     ],
+     "emails": [
+      "inoxap.ipo@icicisecurities.com"
+     ],
+     "phones": [
+      "+91 22 6807 7100"
+     ]
+    },
+    {
+     "firm": "J.P. Morgan India Private Limited",
+     "people": [
+      "Varun Agrawal",
+      "Rishank Chheda"
+     ],
+     "emails": [
+      "inox_air_products_ipo@jpmorgan.com"
+     ],
+     "phones": [
+      "+91 22 6157 3000"
+     ]
+    }
+   ],
+   "cs": {
+    "name": "Vishal Madhukant Shah",
+    "emails": [
+     "secretarial@inoxap.com"
+    ],
+    "phones": [
+     "+91 22 4032 3960"
+    ],
+    "page": 97
+   },
+   "website": "https://inoxairproducts.com",
+   "doc_url": "https://www.sebi.gov.in/sebi_data/attachdocs/oct-2026/1791197450320.pdf"
+  },
+  {
+   "id": "inoxairproducts|inoxap.ipo@icicisecurities.com",
+   "company_key": "inoxairproducts",
+   "company": "Inox Air Products Limited",
+   "board": "Mainboard",
+   "filed_on": "2026-10-05",
+   "variant": "brlm",
+   "role": "BRLM contact",
+   "organisation": "ICICI Securities Limited",
+   "names": [
+    "Rahul Sharma",
+    "Sumit Singh"
+   ],
+   "email": "inoxap.ipo@icicisecurities.com",
+   "phones": [
+    "+91 22 6807 7100"
+   ],
+   "subject": "Parshwanath Capital Ventures Fund | Pre-IPO & Anchor interest – Inox Air Products Limited",
+   "status": "sent",
+   "sent_at": "2026-11-05T15:33:46+05:30",
+   "created_at": "2026-11-05T15:33:46+05:30",
+   "message_id": "<179387302436.2695.13204166240872651336@gmail.com>",
+   "error": null,
+   "promoters": [
+    "Pavan Kumar Jain",
+    "Siddharth Jain",
+    "Prodair Corporation",
+    "Inox Chemicals LLP",
+    "Siddho Mal Trading LLP",
+    "Air Products",
+    "Chemicals",
+    "Inc",
+    "Air Products Manufacturing Corporation"
+   ],
+   "brlm_contacts": [
+    {
+     "firm": "Kotak Mahindra Capital Company Limited",
+     "people": [
+      "Ganesh Rane"
+     ],
+     "emails": [
+      "inoxap.ipo@kotak.com"
+     ],
+     "phones": [
+      "+91 22 4336 0000"
+     ]
+    },
+    {
+     "firm": "Citigroup Global Markets India Private Limited",
+     "people": [
+      "Nilay Kala"
+     ],
+     "emails": [
+      "inoxap.ipo@citi.com"
+     ],
+     "phones": [
+      "+91 22 6175 9999"
+     ]
+    },
+    {
+     "firm": "ICICI Securities Limited",
+     "people": [
+      "Rahul Sharma",
+      "Sumit Singh"
+     ],
+     "emails": [
+      "inoxap.ipo@icicisecurities.com"
+     ],
+     "phones": [
+      "+91 22 6807 7100"
+     ]
+    },
+    {
+     "firm": "J.P. Morgan India Private Limited",
+     "people": [
+      "Varun Agrawal",
+      "Rishank Chheda"
+     ],
+     "emails": [
+      "inox_air_products_ipo@jpmorgan.com"
+     ],
+     "phones": [
+      "+91 22 6157 3000"
+     ]
+    }
+   ],
+   "cs": {
+    "name": "Vishal Madhukant Shah",
+    "emails": [
+     "secretarial@inoxap.com"
+    ],
+    "phones": [
+     "+91 22 4032 3960"
+    ],
+    "page": 97
+   },
+   "website": "https://inoxairproducts.com",
+   "doc_url": "https://www.sebi.gov.in/sebi_data/attachdocs/oct-2026/1791197450320.pdf"
+  },
+  {
+   "id": "inoxairproducts|inox_air_products_ipo@jpmorgan.com",
+   "company_key": "inoxairproducts",
+   "company": "Inox Air Products Limited",
+   "board": "Mainboard",
+   "filed_on": "2026-10-05",
+   "variant": "brlm",
+   "role": "BRLM contact",
+   "organisation": "J.P. Morgan India Private Limited",
+   "names": [
+    "Varun Agrawal",
+    "Rishank Chheda"
+   ],
+   "email": "inox_air_products_ipo@jpmorgan.com",
+   "phones": [
+    "+91 22 6157 3000"
+   ],
+   "subject": "Parshwanath Capital Ventures Fund | Pre-IPO & Anchor interest – Inox Air Products Limited",
+   "status": "sent",
+   "sent_at": "2026-11-05T15:33:50+05:30",
+   "created_at": "2026-11-05T15:33:50+05:30",
+   "message_id": "<179387302688.2695.4032357762861637390@gmail.com>",
+   "error": null,
+   "promoters": [
+    "Pavan Kumar Jain",
+    "Siddharth Jain",
+    "Prodair Corporation",
+    "Inox Chemicals LLP",
+    "Siddho Mal Trading LLP",
+    "Air Products",
+    "Chemicals",
+    "Inc",
+    "Air Products Manufacturing Corporation"
+   ],
+   "brlm_contacts": [
+    {
+     "firm": "Kotak Mahindra Capital Company Limited",
+     "people": [
+      "Ganesh Rane"
+     ],
+     "emails": [
+      "inoxap.ipo@kotak.com"
+     ],
+     "phones": [
+      "+91 22 4336 0000"
+     ]
+    },
+    {
+     "firm": "Citigroup Global Markets India Private Limited",
+     "people": [
+      "Nilay Kala"
+     ],
+     "emails": [
+      "inoxap.ipo@citi.com"
+     ],
+     "phones": [
+      "+91 22 6175 9999"
+     ]
+    },
+    {
+     "firm": "ICICI Securities Limited",
+     "people": [
+      "Rahul Sharma",
+      "Sumit Singh"
+     ],
+     "emails": [
+      "inoxap.ipo@icicisecurities.com"
+     ],
+     "phones": [
+      "+91 22 6807 7100"
+     ]
+    },
+    {
+     "firm": "J.P. Morgan India Private Limited",
+     "people": [
+      "Varun Agrawal",
+      "Rishank Chheda"
+     ],
+     "emails": [
+      "inox_air_products_ipo@jpmorgan.com"
+     ],
+     "phones": [
+      "+91 22 6157 3000"
+     ]
+    }
+   ],
+   "cs": {
+    "name": "Vishal Madhukant Shah",
+    "emails": [
+     "secretarial@inoxap.com"
+    ],
+    "phones": [
+     "+91 22 4032 3960"
+    ],
+    "page": 97
+   },
+   "website": "https://inoxairproducts.com",
+   "doc_url": "https://www.sebi.gov.in/sebi_data/attachdocs/oct-2026/1791197450320.pdf"
   }
  ],
- "updated_at": "2026-11-05T15:21:31+05:30"
+ "updated_at": "2026-11-05T15:33:50+05:30"
 }
