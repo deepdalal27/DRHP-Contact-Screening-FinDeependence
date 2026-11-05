@@ -62,3 +62,19 @@ gold and slate colours and the mail app's own text colour, so it reads in both l
 
 Follow-up notes you type in the Outreach tab are stored in your browser only, so use **Backup notes** now and then.
 The repository is public, so `site/data/outreach.json` (who was mailed, with contacts taken from public DRHPs) is publicly readable.
+
+## Operating guide (day to day)
+
+| You want to… | Do this |
+|---|---|
+| See new DRHPs, figures and contacts | Open the app (link above). It refreshes every 3 hours. |
+| See who was mailed | App → **Outreach** tab. Set the follow-up stage, next date and notes there; **Download Excel** for a copy. Use **Backup notes** now and then (notes live in your browser). |
+| Pause all mailing | In `config/settings.json` set `"approved": false` under `"sending"` and commit. Set it back to `true` to resume. |
+| Stop mailing one person | Add their email on a new line in `config/suppression.txt` (e.g. after an "unsubscribe" reply). |
+| Change the fund profile PDF | Upload the new PDF to Drive, share it "Anyone with the link – Viewer", and put its file id in `config/settings.json` → `fund_profile.drive_file_id` and `view_url`. |
+| Change the wording, contacts or SEBI no. | `config/settings.json` → `sender` (intro text, phone, WhatsApp, email, registration). Layout/wording lives in `pipeline/compose.py`. |
+| Change the daily limit | `config/settings.json` → `sending.daily_cap` (default 40; Gmail allows ~500/day). |
+| Run now instead of waiting | GitHub → **Actions** → *Screen new DRHPs and publish* → **Run workflow**. Optionally paste a DRHP link (PDF/ZIP) to add one company by hand. |
+| Gmail password changed / mails show "failed" | Create a new App Password and update the `GMAIL_APP_PASSWORD` secret (Settings → Secrets and variables → Actions). |
+
+Mail is sent only when `approved` is `true` **and** both secrets `GMAIL_ADDRESS` and `GMAIL_APP_PASSWORD` exist. Until then mails wait as **queued** in the Outreach tab and go out on the first run after the secrets are added.
