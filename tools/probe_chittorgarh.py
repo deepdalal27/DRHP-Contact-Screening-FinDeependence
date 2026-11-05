@@ -1,23 +1,23 @@
-"""Diagnostic: inspect Chittorgarh SME DRHP reports (run in GitHub Actions)."""
-import re, sys, urllib.request, html as H
-UA = "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36"
-def get(u):
-    req = urllib.request.Request(u, headers={"User-Agent": UA, "Referer": "https://www.chittorgarh.com/", "Accept": "*/*"})
-    try:
-        with urllib.request.urlopen(req, timeout=40) as r:
-            return r.status, r.read().decode("utf-8", "replace")
-    except Exception as e:
-        return getattr(e, "code", 0), str(e)
-for u in sys.argv[1:]:
-    st, body = get(u)
-    print(f"=== {u} -> {st} {len(body)}")
-    print("  scripts:", re.findall(r'<script[^>]+src="([^"]+)"', body)[:15])
-    for kw in ("reportTableData", "data-read", "webnodejs", "api/", "__NUXT", "self.__next_f", "application/json", "drhp_status", "Filing Date"):
-        i = body.find(kw)
-        print(f"  [{kw}] at {i}:", body[max(0, i-200):i+400].replace("\n", " ") if i >= 0 else "-")
-    i = body.find("<table")
-    print("  table at", i, body[i:i+1500].replace("\n", " ") if i >= 0 else "")
-    txt = H.unescape(re.sub(r"<[^>]+>", " ", re.sub(r"<(script|style)[^>]*>.*?</\1>", " ", body, flags=re.S)))
-    txt = re.sub(r"\s+", " ", txt)
-    j = txt.find("DRHP")
-    print("  text:", txt[j:j+2500])
+"""Diagnostic: capture the JSON calls Chittorgarh's report pages make (run in GitHub Actions)."""
+import sys
+from playwright.sync_api import sync_playwright
+with sync_playwright() as p:
+    b = p.chromium.launch()
+    pg = b.new_page(user_agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36")
+    def on_resp(r):
+        ct = r.headers.get("content-type", "")
+        if "json" in ct or "webnodejs" in r.url or "/api/" in r.url:
+            try:
+                body = r.text()
+            except Exception as e:
+                body = f"<{e}>"
+            print(f"  RESP {r.status} {r.request.method} {r.url}\n    {body[:1500]}")
+    pg.on("response", on_resp)
+    for u in sys.argv[1:]:
+        print("=== ", u)
+        pg.goto(u, wait_until="networkidle", timeout=90000)
+        pg.wait_for_timeout(4000)
+        rows = pg.eval_on_selector_all("table tr", "els => els.slice(0,6).map(e => e.innerText.replace(/\\s+/g,' ') + ' || ' + [...e.querySelectorAll('a')].map(a=>a.href).join(' '))")
+        for r in rows:
+            print("  ROW", r[:400])
+    b.close()
