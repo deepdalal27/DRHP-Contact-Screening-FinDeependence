@@ -356,6 +356,27 @@ def main(argv=None):
                 outreach["entries"] += outreach_entries(record, mail, "awaiting approval" if not sending.get("approved") else "queued")
 
     records = [load(p, None) for p in sorted(COMPANIES.glob("*.json"))]
+    # send mails still queued from earlier runs (e.g. prepared before sending was switched on)
+    if can_send:
+        queued = {(e["company_key"], e["email"]) for e in outreach["entries"] if e.get("status") in ("queued", "awaiting approval", "failed")}
+        for record in [r for r in records if r]:
+            for mail in record.get("emails") or []:
+                todo = [a for a in mail["to"] if (record["key"], a) in queued and (record["key"], a) not in already
+                        and not (mail.get("variant") == "brlm" and mailer.NOT_DEAL_MAILBOX.search(a.split("@")[0]))]
+                if not todo or sent_today >= sending.get("daily_cap", 40):
+                    continue
+                mail = {**mail, "to": todo}
+                ids = {f"{record['key']}|{a}" for a in todo}
+                outreach["entries"] = [e for e in outreach["entries"] if e["id"] not in ids]
+                try:
+                    mid = mailer.send(mail, sender, user, pw)
+                    outreach["entries"] += outreach_entries(record, mail, "sent", message_id=mid)
+                    sent_today += 1
+                    already |= {(record["key"], a) for a in todo}
+                    print(f"   sent queued mail for {record['company']} to {', '.join(todo)}")
+                except Exception as e:
+                    outreach["entries"] += outreach_entries(record, mail, "failed", error=str(e)[:300])
+                    print(f"   send failed: {e}")
     write_index([r for r in records if r])
     outreach["updated_at"] = now()
     save(OUTREACH, outreach)
