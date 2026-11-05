@@ -9,6 +9,7 @@ Only figures that passed the cross-checks in validate.py are quoted in an email.
 """
 import html
 import os
+import re
 from pathlib import Path
 import smtplib
 import ssl
@@ -72,6 +73,10 @@ def highlights(fin):
     return out, fy
 
 
+# investor-grievance / complaints mailboxes exist for the public, not for deal conversations
+NOT_DEAL_MAILBOX = re.compile(r"complain|grievance|griev|redress|investor|^ig$|^igrc|helpdesk|support|^rta|query|queries", re.I)
+
+
 def choose_recipients(rec, suppressed=()):
     """Return list of messages to send: [{variant, to:[...], names:[...], brlm}]"""
     sup = {s.lower() for s in suppressed}
@@ -87,7 +92,11 @@ def choose_recipients(rec, suppressed=()):
         return [{"variant": "promoter", "to": emails, "names": list(dict.fromkeys(names))}]
     out = []
     for b in (rec.get("general") or {}).get("brlms") or []:
-        to = [e for e in b.get("emails", []) if e not in sup]
+        grievance = set(b.get("grievance_emails") or [])
+        to = [e for e in b.get("emails", []) if e not in sup and e not in grievance and not NOT_DEAL_MAILBOX.search(e.split("@")[0])]
+        # prefer the IPO-specific deal mailbox (e.g. gamp.ipo@...) when the DRHP prints one
+        deal = [e for e in to if re.search(r"ipo|issue|deal|mb|ecm|ib|merchant", e.split("@")[0])]
+        to = (deal or to)[:1]
         if to:
             out.append({"variant": "brlm", "to": to[:2], "names": b.get("contact_persons") or [], "brlm": b.get("name")})
     if out:

@@ -102,3 +102,12 @@ class PromoterEmails(unittest.TestCase):
         self.assertEqual([e["email"] for e in got["Manish Bagadia"]], ["manish@gracerenew.com"])
         self.assertEqual([e["email"] for e in got["Harsh Bagadia"]], ["harshbagadia@gmail.com"])
         self.assertNotIn("Carlsberg A/s", got)
+
+
+class BrlmMailbox(unittest.TestCase):
+    def test_complaint_box_not_used(self):
+        rec = {"promoter_emails": {}, "general": {"brlms": [{"name": "DAM Capital", "emails": ["baanganga.ipo@damcapital.in", "complaint@damcapital.in"],
+                                                             "grievance_emails": [], "contact_persons": ["X"]}], "cs": {}}}
+        self.assertEqual(choose_recipients(rec)[0]["to"], ["baanganga.ipo@damcapital.in"])
+        rec["general"]["brlms"][0]["emails"] = ["complaint@damcapital.in"]
+        self.assertEqual(choose_recipients(rec), [])
