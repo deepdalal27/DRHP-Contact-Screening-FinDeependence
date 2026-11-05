@@ -1,6 +1,29 @@
 {
- "updated_at": "2026-11-05T15:15:13+05:30",
+ "updated_at": "2026-11-05T15:21:31+05:30",
  "companies": [
+  {
+   "key": "jamnagaragroindustries",
+   "company": "Jamnagar Agro Industries Limited",
+   "board": "SME",
+   "exchange": "BSE SME",
+   "source": "BSE SME",
+   "filed_on": "2026-11-05",
+   "doc_type": "DRHP",
+   "brlms": [
+    "Vatsa Capital Venture Pvt.ltd."
+   ],
+   "promoters": [
+    "Jatinkumar Pujara",
+    "Hemakshi Pujara"
+   ],
+   "pre_ipo": null,
+   "latest": {},
+   "verified": null,
+   "warnings": [
+    "BSE SME filing: contacts and figures from Chittorgarh. BSE blocks cloud servers, so the DRHP PDF could not be read automatically; open it from the link above."
+   ],
+   "processed_at": "2026-11-05T15:15:37+05:30"
+  },
   {
    "key": "pradeepitglobalconsulting",
    "company": "Pradeepit Global Consulting Limited",
@@ -22,7 +45,7 @@
    "warnings": [
     "BSE SME filing: contacts and figures from Chittorgarh. BSE blocks cloud servers, so the DRHP PDF could not be read automatically; open it from the link above."
    ],
-   "processed_at": "2026-11-05T15:08:18+05:30"
+   "processed_at": "2026-11-05T15:15:43+05:30"
   },
   {
    "key": "sahanaratnabh",
@@ -67,7 +90,7 @@
    "warnings": [
     "Some core figures could not be cross-checked; only verified figures are used in the email."
    ],
-   "processed_at": "2026-11-05T15:08:32+05:30"
+   "processed_at": "2026-11-05T15:15:56+05:30"
   },
   {
    "key": "sitaramdenimsindia",
@@ -114,7 +137,7 @@
    "warnings": [
     "Some core figures could not be cross-checked; only verified figures are used in the email."
    ],
-   "processed_at": "2026-11-05T15:08:24+05:30"
+   "processed_at": "2026-11-05T15:15:48+05:30"
   },
   {
    "key": "southeasterncoalfields",
@@ -144,7 +167,7 @@
    "warnings": [
     "Some core figures could not be cross-checked; only verified figures are used in the email."
    ],
-   "processed_at": "2026-11-05T15:08:37+05:30"
+   "processed_at": "2026-11-05T15:16:01+05:30"
   },
   {
    "key": "carlsbergindia",
@@ -203,7 +226,7 @@
    "warnings": [
     "Some core figures could not be cross-checked; only verified figures are used in the email."
    ],
-   "processed_at": "2026-11-05T15:09:27+05:30"
+   "processed_at": "2026-11-05T15:16:47+05:30"
   },
   {
    "key": "gampservices",
@@ -259,7 +282,7 @@
    },
    "verified": true,
    "warnings": [],
-   "processed_at": "2026-11-05T15:10:13+05:30"
+   "processed_at": "2026-11-05T15:17:38+05:30"
   },
   {
    "key": "hungerpangs",
@@ -314,7 +337,7 @@
    },
    "verified": true,
    "warnings": [],
-   "processed_at": "2026-11-05T15:10:55+05:30"
+   "processed_at": "2026-11-05T15:18:22+05:30"
   },
   {
    "key": "mayurelectromeck",
@@ -338,7 +361,7 @@
    "warnings": [
     "BSE SME filing: contacts and figures from Chittorgarh. BSE blocks cloud servers, so the DRHP PDF could not be read automatically; open it from the link above."
    ],
-   "processed_at": "2026-11-05T15:10:56+05:30"
+   "processed_at": "2026-11-05T15:18:23+05:30"
   },
   {
    "key": "paramotordigitaltechnology",
@@ -362,7 +385,7 @@
    "warnings": [
     "Financial statements could not be read from the DRHP"
    ],
-   "processed_at": "2026-11-05T15:11:30+05:30"
+   "processed_at": "2026-11-05T15:18:55+05:30"
   },
   {
    "key": "soleosenergy",
@@ -420,7 +443,7 @@
    },
    "verified": true,
    "warnings": [],
-   "processed_at": "2026-11-05T15:12:44+05:30"
+   "processed_at": "2026-11-05T15:20:11+05:30"
   },
   {
    "key": "gracerenewableenergy",
@@ -478,7 +501,7 @@
    "warnings": [
     "Some core figures could not be cross-checked; only verified figures are used in the email."
    ],
-   "processed_at": "2026-11-05T15:14:03+05:30"
+   "processed_at": "2026-11-05T15:21:29+05:30"
   },
   {
    "key": "integrumenergyinfrastructure",

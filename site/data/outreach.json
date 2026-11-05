@@ -1,6 +1,251 @@
 {
  "entries": [
   {
+   "id": "integrumenergyinfrastructure|ieil.ipo@mefcomcap.in",
+   "company_key": "integrumenergyinfrastructure",
+   "company": "Integrum Energy Infrastructure Limited",
+   "board": "Mainboard",
+   "filed_on": "2026-10-07",
+   "variant": "brlm",
+   "role": "BRLM contact",
+   "organisation": "Mefcom Capital Markets Limited",
+   "names": [
+    "Rupesh Khant",
+    "S. Padmavathi"
+   ],
+   "email": "ieil.ipo@mefcomcap.in",
+   "phones": [
+    "+91 22 3522 7026"
+   ],
+   "subject": "Parshwanath Capital Ventures Fund | Pre-IPO & Anchor interest – Integrum Energy Infrastructure Limited",
+   "status": "queued",
+   "sent_at": null,
+   "created_at": "2026-11-05T07:08:29+05:30",
+   "message_id": null,
+   "error": null,
+   "promoters": [
+    "Anand Lahoti",
+    "Shyamsundar Maheswari",
+    "Puneet Goel",
+    "Shipra Goel"
+   ],
+   "brlm_contacts": [
+    {
+     "firm": "Mefcom Capital Markets Limited",
+     "people": [
+      "Rupesh Khant",
+      "S. Padmavathi"
+     ],
+     "emails": [
+      "ieil.ipo@mefcomcap.in"
+     ],
+     "phones": [
+      "+91 22 3522 7026"
+     ]
+    },
+    {
+     "firm": "Centrum Broking Limited",
+     "people": [
+      "Pooja Sanghvi",
+      "Tarun Parmani"
+     ],
+     "emails": [
+      "ieil.ipo@centrum.co.in"
+     ],
+     "phones": [
+      "+91 22 4215 9000"
+     ]
+    },
+    {
+     "firm": "Beeline Capital Advisors Private Limited",
+     "people": [
+      "Nikhil Shah"
+     ],
+     "emails": [
+      "mb@beelinemb.com"
+     ],
+     "phones": [
+      "+91 79 49185784"
+     ]
+    }
+   ],
+   "cs": {
+    "name": "Deepa G",
+    "emails": [
+     "compliance@integrumenergy.in"
+    ],
+    "phones": [
+     "+91- 9187713438"
+    ],
+    "page": 80
+   },
+   "website": "www.integrumenergy.in",
+   "doc_url": "https://www.sebi.gov.in/sebi_data/attachdocs/oct-2026/1791371918993.PDF"
+  },
+  {
+   "id": "integrumenergyinfrastructure|ieil.ipo@centrum.co.in",
+   "company_key": "integrumenergyinfrastructure",
+   "company": "Integrum Energy Infrastructure Limited",
+   "board": "Mainboard",
+   "filed_on": "2026-10-07",
+   "variant": "brlm",
+   "role": "BRLM contact",
+   "organisation": "Centrum Broking Limited",
+   "names": [
+    "Pooja Sanghvi",
+    "Tarun Parmani"
+   ],
+   "email": "ieil.ipo@centrum.co.in",
+   "phones": [
+    "+91 22 4215 9000"
+   ],
+   "subject": "Parshwanath Capital Ventures Fund | Pre-IPO & Anchor interest – Integrum Energy Infrastructure Limited",
+   "status": "queued",
+   "sent_at": null,
+   "created_at": "2026-11-05T07:08:29+05:30",
+   "message_id": null,
+   "error": null,
+   "promoters": [
+    "Anand Lahoti",
+    "Shyamsundar Maheswari",
+    "Puneet Goel",
+    "Shipra Goel"
+   ],
+   "brlm_contacts": [
+    {
+     "firm": "Mefcom Capital Markets Limited",
+     "people": [
+      "Rupesh Khant",
+      "S. Padmavathi"
+     ],
+     "emails": [
+      "ieil.ipo@mefcomcap.in"
+     ],
+     "phones": [
+      "+91 22 3522 7026"
+     ]
+    },
+    {
+     "firm": "Centrum Broking Limited",
+     "people": [
+      "Pooja Sanghvi",
+      "Tarun Parmani"
+     ],
+     "emails": [
+      "ieil.ipo@centrum.co.in"
+     ],
+     "phones": [
+      "+91 22 4215 9000"
+     ]
+    },
+    {
+     "firm": "Beeline Capital Advisors Private Limited",
+     "people": [
+      "Nikhil Shah"
+     ],
+     "emails": [
+      "mb@beelinemb.com"
+     ],
+     "phones": [
+      "+91 79 49185784"
+     ]
+    }
+   ],
+   "cs": {
+    "name": "Deepa G",
+    "emails": [
+     "compliance@integrumenergy.in"
+    ],
+    "phones": [
+     "+91- 9187713438"
+    ],
+    "page": 80
+   },
+   "website": "www.integrumenergy.in",
+   "doc_url": "https://www.sebi.gov.in/sebi_data/attachdocs/oct-2026/1791371918993.PDF"
+  },
+  {
+   "id": "integrumenergyinfrastructure|mb@beelinemb.com",
+   "company_key": "integrumenergyinfrastructure",
+   "company": "Integrum Energy Infrastructure Limited",
+   "board": "Mainboard",
+   "filed_on": "2026-10-07",
+   "variant": "brlm",
+   "role": "BRLM contact",
+   "organisation": "Beeline Capital Advisors Private Limited",
+   "names": [
+    "Nikhil Shah"
+   ],
+   "email": "mb@beelinemb.com",
+   "phones": [
+    "+91 79 49185784"
+   ],
+   "subject": "Parshwanath Capital Ventures Fund | Pre-IPO & Anchor interest – Integrum Energy Infrastructure Limited",
+   "status": "queued",
+   "sent_at": null,
+   "created_at": "2026-11-05T07:08:29+05:30",
+   "message_id": null,
+   "error": null,
+   "promoters": [
+    "Anand Lahoti",
+    "Shyamsundar Maheswari",
+    "Puneet Goel",
+    "Shipra Goel"
+   ],
+   "brlm_contacts": [
+    {
+     "firm": "Mefcom Capital Markets Limited",
+     "people": [
+      "Rupesh Khant",
+      "S. Padmavathi"
+     ],
+     "emails": [
+      "ieil.ipo@mefcomcap.in"
+     ],
+     "phones": [
+      "+91 22 3522 7026"
+     ]
+    },
+    {
+     "firm": "Centrum Broking Limited",
+     "people": [
+      "Pooja Sanghvi",
+      "Tarun Parmani"
+     ],
+     "emails": [
+      "ieil.ipo@centrum.co.in"
+     ],
+     "phones": [
+      "+91 22 4215 9000"
+     ]
+    },
+    {
+     "firm": "Beeline Capital Advisors Private Limited",
+     "people": [
+      "Nikhil Shah"
+     ],
+     "emails": [
+      "mb@beelinemb.com"
+     ],
+     "phones": [
+      "+91 79 49185784"
+     ]
+    }
+   ],
+   "cs": {
+    "name": "Deepa G",
+    "emails": [
+     "compliance@integrumenergy.in"
+    ],
+    "phones": [
+     "+91- 9187713438"
+    ],
+    "page": 80
+   },
+   "website": "www.integrumenergy.in",
+   "doc_url": "https://www.sebi.gov.in/sebi_data/attachdocs/oct-2026/1791371918993.PDF"
+  },
+  {
    "id": "pmconaindustries|pmcona.ipo@valmikileela.com",
    "company_key": "pmconaindustries",
    "company": "PM Cona Industries Limited",
@@ -680,6 +925,51 @@
    "doc_url": "https://www.sebi.gov.in/sebi_data/attachdocs/oct-2026/1791197450320.pdf"
   },
   {
+   "id": "jamnagaragroindustries|cs@jamnagaragroindustries.com",
+   "company_key": "jamnagaragroindustries",
+   "company": "Jamnagar Agro Industries Limited",
+   "board": "SME",
+   "filed_on": "2026-11-05",
+   "variant": "company",
+   "role": "Company Secretary / IR",
+   "organisation": "Jamnagar Agro Industries Limited",
+   "names": [],
+   "email": "cs@jamnagaragroindustries.com",
+   "phones": [
+    "0288-2570179"
+   ],
+   "subject": "Parshwanath Capital Ventures Fund | Pre-IPO & Anchor interest – Jamnagar Agro Industries Limited",
+   "status": "sent",
+   "sent_at": "2026-11-05T15:15:42+05:30",
+   "created_at": "2026-11-05T15:15:42+05:30",
+   "message_id": "<179387193767.2471.6728880205111955662@gmail.com>",
+   "error": null,
+   "promoters": [
+    "Jatinkumar Pujara",
+    "Hemakshi Pujara"
+   ],
+   "brlm_contacts": [
+    {
+     "firm": "Vatsa Capital Venture Pvt.ltd.",
+     "people": [],
+     "emails": [],
+     "phones": []
+    }
+   ],
+   "cs": {
+    "name": null,
+    "emails": [
+     "cs@jamnagaragroindustries.com"
+    ],
+    "phones": [
+     "0288-2570179"
+    ],
+    "page": null
+   },
+   "website": "https://jamnagaragroindustries.com/",
+   "doc_url": "https://www.bsesme.com/download/331369/SME_IPO%20InPrinciple/JAIDRHP_20261105045926.zip"
+  },
+  {
    "id": "pradeepitglobalconsulting|compliance.officer@in.pgcdigitl.ai",
    "company_key": "pradeepitglobalconsulting",
    "company": "Pradeepit Global Consulting Limited",
@@ -694,10 +984,10 @@
     "9900085366"
    ],
    "subject": "Parshwanath Capital Ventures Fund | Pre-IPO & Anchor interest – Pradeepit Global Consulting Limited",
-   "status": "queued",
-   "sent_at": null,
-   "created_at": "2026-11-05T15:08:18+05:30",
-   "message_id": null,
+   "status": "sent",
+   "sent_at": "2026-11-05T15:15:45+05:30",
+   "created_at": "2026-11-05T15:15:45+05:30",
+   "message_id": "<179387194317.2471.3837987796300686554@gmail.com>",
    "error": null,
    "promoters": [
     "Vinod Kumar Beli",
@@ -741,10 +1031,10 @@
     "+91 22 6648 1818"
    ],
    "subject": "Parshwanath Capital Ventures Fund | Pre-IPO & Anchor interest – Sitaram Denims India Limited",
-   "status": "queued",
-   "sent_at": null,
-   "created_at": "2026-11-05T15:08:24+05:30",
-   "message_id": null,
+   "status": "sent",
+   "sent_at": "2026-11-05T15:15:50+05:30",
+   "created_at": "2026-11-05T15:15:50+05:30",
+   "message_id": "<179387194867.2471.4605692486099905374@gmail.com>",
    "error": null,
    "promoters": [
     "Anil Kumar Nuwal",
@@ -796,10 +1086,10 @@
     "+91 98196 58586"
    ],
    "subject": "Parshwanath Capital Ventures Fund | Pre-IPO & Anchor interest – Sahanaratnabh Limited",
-   "status": "queued",
-   "sent_at": null,
-   "created_at": "2026-11-05T15:08:32+05:30",
-   "message_id": null,
+   "status": "sent",
+   "sent_at": "2026-11-05T15:15:58+05:30",
+   "created_at": "2026-11-05T15:15:58+05:30",
+   "message_id": "<179387195630.2471.7681944801547819425@gmail.com>",
    "error": null,
    "promoters": [
     "Bheeni Agrawal",
@@ -844,10 +1134,10 @@
     "+91 22 4006 9807"
    ],
    "subject": "Parshwanath Capital Ventures Fund | Pre-IPO & Anchor interest – South Eastern Coalfields Limited",
-   "status": "queued",
-   "sent_at": null,
-   "created_at": "2026-11-05T15:08:37+05:30",
-   "message_id": null,
+   "status": "sent",
+   "sent_at": "2026-11-05T15:16:03+05:30",
+   "created_at": "2026-11-05T15:16:03+05:30",
+   "message_id": "<179387196175.2471.5874624838475458044@gmail.com>",
    "error": null,
    "promoters": [
     "President Of India",
@@ -935,10 +1225,10 @@
     "+91 22 40691953"
    ],
    "subject": "Parshwanath Capital Ventures Fund | Pre-IPO & Anchor interest – South Eastern Coalfields Limited",
-   "status": "queued",
-   "sent_at": null,
-   "created_at": "2026-11-05T15:08:37+05:30",
-   "message_id": null,
+   "status": "sent",
+   "sent_at": "2026-11-05T15:16:05+05:30",
+   "created_at": "2026-11-05T15:16:05+05:30",
+   "message_id": "<179387196353.2471.9901279395903290212@gmail.com>",
    "error": null,
    "promoters": [
     "President Of India",
@@ -1025,10 +1315,10 @@
     "+91 22 7193 4380"
    ],
    "subject": "Parshwanath Capital Ventures Fund | Pre-IPO & Anchor interest – South Eastern Coalfields Limited",
-   "status": "queued",
-   "sent_at": null,
-   "created_at": "2026-11-05T15:08:37+05:30",
-   "message_id": null,
+   "status": "sent",
+   "sent_at": "2026-11-05T15:16:07+05:30",
+   "created_at": "2026-11-05T15:16:07+05:30",
+   "message_id": "<179387196541.2471.12491994388221487178@gmail.com>",
    "error": null,
    "promoters": [
     "President Of India",
@@ -1115,10 +1405,10 @@
     "+91 22 4336 0000"
    ],
    "subject": "Parshwanath Capital Ventures Fund | Pre-IPO & Anchor interest – Carlsberg India Limited",
-   "status": "queued",
-   "sent_at": null,
-   "created_at": "2026-11-05T15:09:27+05:30",
-   "message_id": null,
+   "status": "sent",
+   "sent_at": "2026-11-05T15:16:49+05:30",
+   "created_at": "2026-11-05T15:16:49+05:30",
+   "message_id": "<179387200741.2471.7854323736928556241@gmail.com>",
    "error": null,
    "promoters": [
     "Carlsberg A/s",
@@ -1192,10 +1482,10 @@
     "+91 22 6175 9999"
    ],
    "subject": "Parshwanath Capital Ventures Fund | Pre-IPO & Anchor interest – Carlsberg India Limited",
-   "status": "queued",
-   "sent_at": null,
-   "created_at": "2026-11-05T15:09:27+05:30",
-   "message_id": null,
+   "status": "sent",
+   "sent_at": "2026-11-05T15:16:52+05:30",
+   "created_at": "2026-11-05T15:16:52+05:30",
+   "message_id": "<179387200927.2471.3857125453665700514@gmail.com>",
    "error": null,
    "promoters": [
     "Carlsberg A/s",
@@ -1269,10 +1559,10 @@
     "+ 91 22 6157 3000"
    ],
    "subject": "Parshwanath Capital Ventures Fund | Pre-IPO & Anchor interest – Carlsberg India Limited",
-   "status": "queued",
-   "sent_at": null,
-   "created_at": "2026-11-05T15:09:27+05:30",
-   "message_id": null,
+   "status": "sent",
+   "sent_at": "2026-11-05T15:16:54+05:30",
+   "created_at": "2026-11-05T15:16:54+05:30",
+   "message_id": "<179387201235.2471.11165038693093550155@gmail.com>",
    "error": null,
    "promoters": [
     "Carlsberg A/s",
@@ -1347,10 +1637,10 @@
     "+91 79650 90100"
    ],
    "subject": "Parshwanath Capital Ventures Fund | Pre-IPO & Anchor interest – GAMP Services Limited",
-   "status": "queued",
-   "sent_at": null,
-   "created_at": "2026-11-05T15:10:13+05:30",
-   "message_id": null,
+   "status": "sent",
+   "sent_at": "2026-11-05T15:17:40+05:30",
+   "created_at": "2026-11-05T15:17:40+05:30",
+   "message_id": "<179387205860.2471.5175121162655729713@gmail.com>",
    "error": null,
    "promoters": [
     "Sanjeevkumar Mahendrakumar Patel",
@@ -1402,10 +1692,10 @@
     "+91 18008 898711"
    ],
    "subject": "Parshwanath Capital Ventures Fund | Pre-IPO & Anchor interest – Hunger Pangs Limited",
-   "status": "queued",
-   "sent_at": null,
-   "created_at": "2026-11-05T15:10:55+05:30",
-   "message_id": null,
+   "status": "sent",
+   "sent_at": "2026-11-05T15:18:23+05:30",
+   "created_at": "2026-11-05T15:18:23+05:30",
+   "message_id": "<179387210211.2471.6695670665666698006@gmail.com>",
    "error": null,
    "promoters": [
     "Ankit Virendra Gupta",
@@ -1451,10 +1741,10 @@
    "email": "mayur@mayurelectromeck.com",
    "phones": [],
    "subject": "Parshwanath Capital Ventures Fund | Pre-IPO & Anchor interest – Mayur Electromeck Limited",
-   "status": "queued",
-   "sent_at": null,
-   "created_at": "2026-11-05T15:10:56+05:30",
-   "message_id": null,
+   "status": "sent",
+   "sent_at": "2026-11-05T15:18:25+05:30",
+   "created_at": "2026-11-05T15:18:25+05:30",
+   "message_id": "<179387210381.2471.17817526063775219146@gmail.com>",
    "error": null,
    "promoters": [
     "Vikram Bansal",
@@ -1498,10 +1788,10 @@
     "+91 22 7193 4380"
    ],
    "subject": "Parshwanath Capital Ventures Fund | Pre-IPO & Anchor interest – Paramotor Digital Technology Limited",
-   "status": "queued",
-   "sent_at": null,
-   "created_at": "2026-11-05T15:11:30+05:30",
-   "message_id": null,
+   "status": "sent",
+   "sent_at": "2026-11-05T15:18:57+05:30",
+   "created_at": "2026-11-05T15:18:57+05:30",
+   "message_id": "<179387213539.2471.16780536868314298487@gmail.com>",
    "error": null,
    "promoters": [
     "Sonia Pankaj Asher",
@@ -1557,10 +1847,10 @@
     "+ 91 22 4332 0736"
    ],
    "subject": "Parshwanath Capital Ventures Fund | Pre-IPO & Anchor interest – Paramotor Digital Technology Limited",
-   "status": "queued",
-   "sent_at": null,
-   "created_at": "2026-11-05T15:11:30+05:30",
-   "message_id": null,
+   "status": "sent",
+   "sent_at": "2026-11-05T15:18:59+05:30",
+   "created_at": "2026-11-05T15:18:59+05:30",
+   "message_id": "<179387213713.2471.12004991750442364005@gmail.com>",
    "error": null,
    "promoters": [
     "Sonia Pankaj Asher",
@@ -1615,10 +1905,10 @@
     "+91 79 49185784"
    ],
    "subject": "Parshwanath Capital Ventures Fund | Pre-IPO & Anchor interest – Soleos Energy Limited",
-   "status": "queued",
-   "sent_at": null,
-   "created_at": "2026-11-05T15:12:44+05:30",
-   "message_id": null,
+   "status": "sent",
+   "sent_at": "2026-11-05T15:20:13+05:30",
+   "created_at": "2026-11-05T15:20:13+05:30",
+   "message_id": "<179387221153.2471.10360954380265674046@gmail.com>",
    "error": null,
    "promoters": [
     "Bhaveshkumar C Rathod",
@@ -1672,10 +1962,10 @@
     "+91 22 6912 0027"
    ],
    "subject": "Parshwanath Capital Ventures Fund | Pre-IPO & Anchor interest – Grace Renewable Energy Limited",
-   "status": "queued",
-   "sent_at": null,
-   "created_at": "2026-11-05T15:14:03+05:30",
-   "message_id": null,
+   "status": "sent",
+   "sent_at": "2026-11-05T15:21:31+05:30",
+   "created_at": "2026-11-05T15:21:31+05:30",
+   "message_id": "<179387228968.2471.5792640399220506569@gmail.com>",
    "error": null,
    "promoters": [
     "Manish Bagadia",
@@ -1709,252 +1999,7 @@
    },
    "website": "https://gracerenew.com/",
    "doc_url": "https://www.sebi.gov.in/sebi_data/attachdocs/oct-2026/1791449032035.PDF"
-  },
-  {
-   "id": "integrumenergyinfrastructure|ieil.ipo@mefcomcap.in",
-   "company_key": "integrumenergyinfrastructure",
-   "company": "Integrum Energy Infrastructure Limited",
-   "board": "Mainboard",
-   "filed_on": "2026-10-07",
-   "variant": "brlm",
-   "role": "BRLM contact",
-   "organisation": "Mefcom Capital Markets Limited",
-   "names": [
-    "Rupesh Khant",
-    "S. Padmavathi"
-   ],
-   "email": "ieil.ipo@mefcomcap.in",
-   "phones": [
-    "+91 22 3522 7026"
-   ],
-   "subject": "Parshwanath Capital Ventures Fund | Pre-IPO & Anchor interest – Integrum Energy Infrastructure Limited",
-   "status": "queued",
-   "sent_at": null,
-   "created_at": "2026-11-05T15:15:13+05:30",
-   "message_id": null,
-   "error": null,
-   "promoters": [
-    "Anand Lahoti",
-    "Shyamsundar Maheswari",
-    "Puneet Goel",
-    "Shipra Goel"
-   ],
-   "brlm_contacts": [
-    {
-     "firm": "Mefcom Capital Markets Limited",
-     "people": [
-      "Rupesh Khant",
-      "S. Padmavathi"
-     ],
-     "emails": [
-      "ieil.ipo@mefcomcap.in"
-     ],
-     "phones": [
-      "+91 22 3522 7026"
-     ]
-    },
-    {
-     "firm": "Centrum Broking Limited",
-     "people": [
-      "Pooja Sanghvi",
-      "Tarun Parmani"
-     ],
-     "emails": [
-      "ieil.ipo@centrum.co.in"
-     ],
-     "phones": [
-      "+91 22 4215 9000"
-     ]
-    },
-    {
-     "firm": "Beeline Capital Advisors Private Limited",
-     "people": [
-      "Nikhil Shah"
-     ],
-     "emails": [
-      "mb@beelinemb.com"
-     ],
-     "phones": [
-      "+91 79 49185784"
-     ]
-    }
-   ],
-   "cs": {
-    "name": "Deepa G",
-    "emails": [
-     "compliance@integrumenergy.in"
-    ],
-    "phones": [
-     "+91- 9187713438"
-    ],
-    "page": 80
-   },
-   "website": "www.integrumenergy.in",
-   "doc_url": "https://www.sebi.gov.in/sebi_data/attachdocs/oct-2026/1791371918993.PDF"
-  },
-  {
-   "id": "integrumenergyinfrastructure|ieil.ipo@centrum.co.in",
-   "company_key": "integrumenergyinfrastructure",
-   "company": "Integrum Energy Infrastructure Limited",
-   "board": "Mainboard",
-   "filed_on": "2026-10-07",
-   "variant": "brlm",
-   "role": "BRLM contact",
-   "organisation": "Centrum Broking Limited",
-   "names": [
-    "Pooja Sanghvi",
-    "Tarun Parmani"
-   ],
-   "email": "ieil.ipo@centrum.co.in",
-   "phones": [
-    "+91 22 4215 9000"
-   ],
-   "subject": "Parshwanath Capital Ventures Fund | Pre-IPO & Anchor interest – Integrum Energy Infrastructure Limited",
-   "status": "queued",
-   "sent_at": null,
-   "created_at": "2026-11-05T15:15:13+05:30",
-   "message_id": null,
-   "error": null,
-   "promoters": [
-    "Anand Lahoti",
-    "Shyamsundar Maheswari",
-    "Puneet Goel",
-    "Shipra Goel"
-   ],
-   "brlm_contacts": [
-    {
-     "firm": "Mefcom Capital Markets Limited",
-     "people": [
-      "Rupesh Khant",
-      "S. Padmavathi"
-     ],
-     "emails": [
-      "ieil.ipo@mefcomcap.in"
-     ],
-     "phones": [
-      "+91 22 3522 7026"
-     ]
-    },
-    {
-     "firm": "Centrum Broking Limited",
-     "people": [
-      "Pooja Sanghvi",
-      "Tarun Parmani"
-     ],
-     "emails": [
-      "ieil.ipo@centrum.co.in"
-     ],
-     "phones": [
-      "+91 22 4215 9000"
-     ]
-    },
-    {
-     "firm": "Beeline Capital Advisors Private Limited",
-     "people": [
-      "Nikhil Shah"
-     ],
-     "emails": [
-      "mb@beelinemb.com"
-     ],
-     "phones": [
-      "+91 79 49185784"
-     ]
-    }
-   ],
-   "cs": {
-    "name": "Deepa G",
-    "emails": [
-     "compliance@integrumenergy.in"
-    ],
-    "phones": [
-     "+91- 9187713438"
-    ],
-    "page": 80
-   },
-   "website": "www.integrumenergy.in",
-   "doc_url": "https://www.sebi.gov.in/sebi_data/attachdocs/oct-2026/1791371918993.PDF"
-  },
-  {
-   "id": "integrumenergyinfrastructure|mb@beelinemb.com",
-   "company_key": "integrumenergyinfrastructure",
-   "company": "Integrum Energy Infrastructure Limited",
-   "board": "Mainboard",
-   "filed_on": "2026-10-07",
-   "variant": "brlm",
-   "role": "BRLM contact",
-   "organisation": "Beeline Capital Advisors Private Limited",
-   "names": [
-    "Nikhil Shah"
-   ],
-   "email": "mb@beelinemb.com",
-   "phones": [
-    "+91 79 49185784"
-   ],
-   "subject": "Parshwanath Capital Ventures Fund | Pre-IPO & Anchor interest – Integrum Energy Infrastructure Limited",
-   "status": "queued",
-   "sent_at": null,
-   "created_at": "2026-11-05T15:15:13+05:30",
-   "message_id": null,
-   "error": null,
-   "promoters": [
-    "Anand Lahoti",
-    "Shyamsundar Maheswari",
-    "Puneet Goel",
-    "Shipra Goel"
-   ],
-   "brlm_contacts": [
-    {
-     "firm": "Mefcom Capital Markets Limited",
-     "people": [
-      "Rupesh Khant",
-      "S. Padmavathi"
-     ],
-     "emails": [
-      "ieil.ipo@mefcomcap.in"
-     ],
-     "phones": [
-      "+91 22 3522 7026"
-     ]
-    },
-    {
-     "firm": "Centrum Broking Limited",
-     "people": [
-      "Pooja Sanghvi",
-      "Tarun Parmani"
-     ],
-     "emails": [
-      "ieil.ipo@centrum.co.in"
-     ],
-     "phones": [
-      "+91 22 4215 9000"
-     ]
-    },
-    {
-     "firm": "Beeline Capital Advisors Private Limited",
-     "people": [
-      "Nikhil Shah"
-     ],
-     "emails": [
-      "mb@beelinemb.com"
-     ],
-     "phones": [
-      "+91 79 49185784"
-     ]
-    }
-   ],
-   "cs": {
-    "name": "Deepa G",
-    "emails": [
-     "compliance@integrumenergy.in"
-    ],
-    "phones": [
-     "+91- 9187713438"
-    ],
-    "page": 80
-   },
-   "website": "www.integrumenergy.in",
-   "doc_url": "https://www.sebi.gov.in/sebi_data/attachdocs/oct-2026/1791371918993.PDF"
   }
  ],
- "updated_at": "2026-11-05T15:15:13+05:30"
+ "updated_at": "2026-11-05T15:21:31+05:30"
 }
