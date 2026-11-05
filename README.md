@@ -4,7 +4,7 @@ For **Parshwanath Capital Ventures Fund** (SEBI-registered Category III AIF) · 
 
 Whenever a company files a DRHP, this app:
 
-1. **Finds the filing.** It checks SEBI's *Draft Offer Documents* page, NSE's offer-document feeds (Mainboard and NSE Emerge SME) and BSE SME every 3 hours.
+1. **Finds the filing.** Every 3 hours it checks SEBI's *Draft Offer Documents* page, NSE's offer-document feeds (Mainboard and NSE Emerge SME) and, for BSE SME, Chittorgarh's *Upcoming SME IPO – DRHP filed* report. BSE blocks cloud servers, so a BSE SME DRHP PDF cannot be read automatically: those companies are listed with Chittorgarh's contact details and financial snapshot (marked as not cross-checked), and their mail goes to the company's compliance email.
 2. **Reads the whole DRHP PDF** and extracts:
    - company details, CIN, website, promoters and their board designations, and the business overview;
    - the **Company Secretary**, every **BRLM** (contact persons, deal email, phone, SEBI registration) and the **Registrar**;
@@ -37,6 +37,8 @@ Whenever a company files a DRHP, this app:
 Sending is switched on (`"approved": true` in `config/settings.json`). Until the two secrets exist, mails are prepared
 and shown in the app as **queued**. The first run after the secrets are added sends them (at most `daily_cap` per day).
 Set `"approved": false` to pause sending at any time.
+
+Every mail carries the fund's SEBI registration number, a **View Fund Profile** button (the Pitch Deck on Google Drive, shared view-only with anyone who has the link), and the same PDF as an attachment. Change it under `fund_profile` in `config/settings.json`.
 
 Every mail carries the Parshwanath Capital Ventures Fund logo inline (`assets/pcvf_logo.png`). The layout uses mid-tone
 gold and slate colours and the mail app's own text colour, so it reads in both light and dark mode.

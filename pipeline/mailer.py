@@ -116,10 +116,38 @@ def send(mail, sender, gmail_user, gmail_password, cc=(), bcc=()):
     if LOGO.exists():  # the fund logo travels inside the mail (cid:pcvf-logo), so it shows without "load images"
         m.get_payload()[1].add_related(LOGO.read_bytes(), "image", "png", cid="<pcvf-logo>", filename="pcvf_logo.png",
                                        disposition="inline")
+    prof = sender.get("fund_profile") or {}
+    pdf = fund_profile_pdf(prof) if prof.get("attach") else None
+    if pdf:
+        m.add_attachment(pdf, maintype="application", subtype="pdf", filename=prof.get("attachment_name") or "Fund_Profile.pdf")
     with smtplib.SMTP_SSL("smtp.gmail.com", 465, context=ssl.create_default_context(), timeout=60) as s:
         s.login(gmail_user, gmail_password)
         s.send_message(m, to_addrs=list(mail["to"]) + list(cc) + list(bcc))
     return m["Message-ID"]
+
+
+_PROFILE_CACHE = {}
+
+
+def fund_profile_pdf(prof):
+    """The fund profile PDF from Google Drive (shared 'anyone with the link can view'), fetched once per run.
+    If it cannot be fetched the mail still goes out with the Drive link."""
+    fid = prof.get("drive_file_id")
+    if not fid:
+        return None
+    if fid not in _PROFILE_CACHE:
+        data = None
+        try:
+            import urllib.request
+            req = urllib.request.Request(f"https://drive.google.com/uc?export=download&id={fid}", headers={"User-Agent": "Mozilla/5.0"})
+            with urllib.request.urlopen(req, timeout=60) as r:
+                data = r.read()
+            if data[:4] != b"%PDF":
+                data = None
+        except Exception as e:
+            print(f"   fund profile download failed: {e}")
+        _PROFILE_CACHE[fid] = data
+    return _PROFILE_CACHE[fid]
 
 
 def credentials():

@@ -170,16 +170,17 @@ def compose(rec, fin, sender, msg):
         greet = "Dear " + (msg["names"][0] if msg["names"] else "Investor Relations team") + ","
 
     when = f" dated {doc_date}" if doc_date else ""
+    docname = cover.get("document_type") if cover.get("document_type") == "draft offer document" else "Draft Red Herring Prospectus"
     if v == "promoter":
-        opening = (f"Congratulations on filing the Draft Red Herring Prospectus{when} with {filed_with} for the proposed listing of "
+        opening = (f"Congratulations on filing the {docname}{when} with {filed_with} for the proposed listing of "
                    f"{short} on {listing}. I am {s['name']}, {s['designation']} of {fund}, and I am writing to introduce our Fund "
                    f"and express our interest in participating in {short}'s fund-raise.")
     elif v == "brlm":
         opening = (f"I am {s['name']}, {s['designation']} of {fund}. I am writing to you as the Book Running Lead Manager to the "
-                   f"proposed IPO of {company}, whose Draft Red Herring Prospectus{when} has been filed with {filed_with} for listing on {listing}.")
+                   f"proposed IPO of {company}, whose {docname}{when} has been filed with {filed_with} for listing on {listing}.")
     else:
         opening = (f"I am {s['name']}, {s['designation']} of {fund}. I am writing in connection with the proposed IPO of {company}, "
-                   f"following the filing of its Draft Red Herring Prospectus{when} with {filed_with} for listing on {listing}.")
+                   f"following the filing of its {docname}{when} with {filed_with} for listing on {listing}.")
 
     about_us = s["intro"]
     view = None
@@ -235,6 +236,8 @@ def compose(rec, fin, sender, msg):
         t.append("")
     t.append("HOW WE WOULD LIKE TO PARTICIPATE")
     t += [f"  {k}. {h}: {b}" for k, (h, b) in enumerate(interest, 1)]
+    if (s.get("fund_profile") or {}).get("view_url"):
+        t += ["", "FUND PROFILE", f"View our fund profile (PDF): {s['fund_profile']['view_url']}" + (" (also attached)" if s["fund_profile"].get("attach") else "")]
     t += ["", ask, "", "I look forward to hearing from you.", "", "Warm regards,", "", s["name"], f"{s['designation']}, {fund}",
           s.get("fund_type_short", "")]
     t += [f"{k}: {x}" for k, x in contacts]
@@ -282,6 +285,16 @@ def compose(rec, fin, sender, msg):
                      f'<tr><td width="34" valign="top" style="padding-top:1px"><div style="width:22px;height:22px;line-height:20px;border-radius:12px;'
                      f'border:1.5px solid {GOLD};color:{GOLD};text-align:center;font-family:{SANS};font-size:12px;font-weight:700">{k}</div></td>'
                      f'<td style="font-family:{SANS};font-size:14.5px;line-height:1.6"><b>{e(h)}.</b> {e(b)}</td></tr></table>')
+    prof = s.get("fund_profile") or {}
+    if prof.get("view_url"):
+        parts.append(f'<p style="{H}">Fund profile</p>')
+        parts.append(
+            f'<table role="presentation" cellpadding="0" cellspacing="0" style="border-collapse:collapse;margin:0 0 6px 0"><tr>'
+            f'<td style="border:1.5px solid {GOLD};border-radius:6px;padding:10px 18px">'
+            f'<a href="{e(prof["view_url"])}" style="font-family:{SANS};font-size:14px;font-weight:700;color:{GOLD};text-decoration:none">'
+            f'View Fund Profile (PDF) &rarr;</a></td></tr></table>'
+            f'<p style="margin:6px 0 0 0;font-family:{SANS};font-size:12px;color:{MUTED}">'
+            + ("Also attached to this email. " if prof.get("attach") else "") + "Opens in Google Drive with view access; no sign-in needed.</p>")
     parts.append(f'<p style="{P}margin-top:16px">{e(ask)}</p>')
     parts.append(f'<p style="{P}">I look forward to hearing from you.</p>')
     parts.append(f'<p style="{P}margin-bottom:10px">Warm regards,</p>')
@@ -307,16 +320,18 @@ def compose(rec, fin, sender, msg):
         f'<table role="presentation" width="100%" cellpadding="0" cellspacing="0" style="border-collapse:collapse">'
         f'<tr><td align="center" style="padding:20px 12px">'
         f'<table role="presentation" width="640" cellpadding="0" cellspacing="0" style="width:100%;max-width:640px;border-collapse:collapse">'
-        # letterhead: logo + fund name in gold, gold rules
-        f'<tr><td style="padding:0 4px 14px 4px;border-bottom:3px double {GOLD}">'
-        f'<table role="presentation" cellpadding="0" cellspacing="0" style="border-collapse:collapse"><tr>'
-        f'<td valign="middle" style="padding-right:14px"><img src="cid:pcvf-logo" width="72" height="72" alt="Parshwanath Capital Ventures Fund" style="display:block;border:0;border-radius:36px"></td>'
-        f'<td valign="middle"><div style="font-family:{SERIF};font-size:23px;font-weight:700;letter-spacing:.6px;color:{GOLD}">PARSHWANATH</div>'
-        f'<div style="font-family:{SERIF};font-size:15px;letter-spacing:1.4px;color:{GOLD}">CAPITAL VENTURES FUND</div>'
-        f'<div style="font-family:{SANS};font-size:10.5px;letter-spacing:2px;text-transform:uppercase;color:{MUTED};margin-top:5px">'
-        f'SEBI-registered Category III AIF &middot; Pre-IPO &middot; Anchor &middot; QIB &middot; QIP</div></td></tr></table></td></tr>'
+        # letterhead: fund logo centred above the full fund name, gold double rule underneath
+        f'<tr><td align="center" style="padding:0 4px 16px 4px;border-bottom:3px double {GOLD};text-align:center">'
+        f'<img src="cid:pcvf-logo" width="96" height="96" alt="Parshwanath Capital Ventures Fund logo" '
+        f'style="display:block;margin:0 auto 10px auto;border:0;width:96px;height:96px;border-radius:48px">'
+        f'<div style="font-family:{SERIF};font-size:24px;font-weight:700;letter-spacing:1.2px;color:{GOLD};line-height:1.25">'
+        f'Parshwanath Capital Ventures Fund</div>'
+        f'<div style="font-family:{SANS};font-size:10.5px;letter-spacing:2.2px;text-transform:uppercase;color:{MUTED};margin-top:6px">'
+        f'SEBI-registered Category III AIF &middot; Pre-IPO &middot; Anchor &middot; QIB &middot; QIP</div>'
+        + (f'<div style="font-family:{SANS};font-size:11px;letter-spacing:1px;color:{MUTED};margin-top:4px">SEBI Regn. No. {e(s["sebi_registration"])}</div>' if s.get("sebi_registration") else "")
+        + '</td></tr>'
         f'<tr><td style="padding:10px 4px;font-family:{SANS};font-size:12px;letter-spacing:.4px;color:{MUTED};border-bottom:1px solid {LINE}">'
-        f'Re: <b style="color:{GOLD}">{e(company)}</b> &nbsp;|&nbsp; {"SME IPO" if sme else "Mainboard IPO"} &nbsp;|&nbsp; DRHP{(" dated " + e(doc_date)) if doc_date else ""}</td></tr>'
+        f'Re: <b style="color:{GOLD}">{e(company)}</b> &nbsp;|&nbsp; {"SME IPO" if sme else "Mainboard IPO"} &nbsp;|&nbsp; {"DRHP" + (" dated " + e(doc_date) if doc_date else "") if docname != "draft offer document" else "Draft offer document"}</td></tr>'
         f'<tr><td style="padding:24px 4px 22px 4px">{body}</td></tr>'
         f'<tr><td style="padding:12px 4px 8px 4px;border-top:1px solid {LINE};font-family:{SANS};font-size:11px;line-height:1.55;color:{MUTED}">{e(disclaimer)}</td></tr>'
         f'</table></td></tr></table></body></html>')

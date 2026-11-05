@@ -75,12 +75,13 @@
         ['Debt / Equity', fmtRatio(ra('Debt / Equity'), 'x')], ['Revenue growth', fmtRatio(ra('Revenue growth'), 'pct')]);
     }
     const docLink = c.doc_url || c.page_url;
+    const cgLink = c.via && c.page_url ? `<a class="btn" href="${esc(c.page_url)}" target="_blank" rel="noopener">Chittorgarh ↗</a>` : '';
     let h = `<div class="panel-head"><div><h2>${esc(c.company)} <span class="pill ${c.board === 'SME' ? 'SME' : 'MB'}">${esc(c.board)}</span>
       ${f.core_verified ? '<span class="pill ok">Figures cross-checked</span>' : '<span class="pill warn">Check figures</span>'}
       ${c.pre_ipo_placement ? `<span class="pill teal">Pre-IPO placement${c.pre_ipo_limit_pct ? ' ≤' + c.pre_ipo_limit_pct + '%' : ''}</span>` : ''}</h2>
       <p class="muted">${esc(c.document_type || 'DRHP')}${c.document_date ? ' dated ' + esc(c.document_date) : ''} · filed with ${esc(c.source)}${c.also_on && c.also_on.length ? ' (also on ' + esc(c.also_on.join(', ')) + ')' : ''} on ${fmtDate(c.filed_on)} · ${c.pages || '?'} pages
       ${c.exchange ? ' · listing: ' + esc(c.exchange) : ''}</p></div>
-      <div class="row">${docLink ? `<a class="btn" href="${esc(docLink)}" target="_blank" rel="noopener">Open DRHP ↗</a>` : ''}${c.website ? `<a class="btn" href="${esc(/^https?:/.test(c.website) ? c.website : 'https://' + c.website)}" target="_blank" rel="noopener">Website ↗</a>` : ''}</div></div>`;
+      <div class="row">${docLink ? `<a class="btn" href="${esc(docLink)}" target="_blank" rel="noopener">Open DRHP ↗</a>` : ''}${cgLink}${c.website ? `<a class="btn" href="${esc(/^https?:/.test(c.website) ? c.website : 'https://' + c.website)}" target="_blank" rel="noopener">Website ↗</a>` : ''}</div></div>`;
     if (c.warnings && c.warnings.length) h += `<div class="warnbox">${c.warnings.map(esc).join('<br>')}</div>`;
     if (facts.length) h += `<div class="facts">${facts.map(([k, v]) => `<div class="fact"><small>${esc(k)}</small><b>${v}</b></div>`).join('')}</div>`;
 
@@ -93,7 +94,7 @@
     (c.promoters || []).forEach((p) => {
       h += contactCard('Promoter', esc(p.name), [p.designation ? esc(p.designation) : '', ...(p.emails || []).map(mail), !(p.emails || []).length ? '<span class="muted">Personal email not printed in DRHP</span>' : '']);
     });
-    if (c.cs) h += contactCard('Company Secretary & Compliance Officer', esc(c.cs.name || '–'), [...(c.cs.emails || []).map(mail), ...(c.cs.phones || []).map((p) => telLink(p) + waLink(p))], `DRHP page ${c.cs.page}`);
+    if (c.cs) h += contactCard(c.via ? 'Company contact (compliance)' : 'Company Secretary & Compliance Officer', esc(c.cs.name || c.company), [...(c.cs.emails || []).map(mail), ...(c.cs.phones || []).map((p) => telLink(p) + waLink(p))], `DRHP page ${c.cs.page}`);
     (c.brlms || []).forEach((b) => {
       h += contactCard('Book Running Lead Manager', esc(b.name || 'BRLM'), [
         b.contact_persons && b.contact_persons.length ? 'Contact: <b>' + b.contact_persons.map(esc).join(', ') + '</b>' : '',
@@ -105,6 +106,7 @@
       c.registrar.contact_persons && c.registrar.contact_persons.length ? 'Contact: ' + c.registrar.contact_persons.map(esc).join(', ') : '',
       ...(c.registrar.emails || []).slice(0, 2).map(mail), ...(c.registrar.phones || []).map(telLink)], `DRHP page ${c.registrar.page}`);
     h += `</div>`;
+    if (c.via) h += `<p class="small muted">Via ${esc(c.via)}${c.status ? ' · ' + esc(c.status) : ''}${c.industry ? ' · ' + esc(c.industry) : ''}${c.issue_size ? ' · Issue: ' + esc(c.issue_size) : ''}${c.address ? '<br>' + esc(c.address) : ''}</p>`;
     if (c.cin) h += `<p class="small muted">CIN ${esc(c.cin)}${c.icdr_regulation ? ' · ICDR Regulation ' + esc(c.icdr_regulation) : ''}${c.fresh_issue ? ' · Fresh issue' : ''}${c.ofs ? ' · Offer for sale' : ''}</p>`;
 
     // financials
@@ -135,6 +137,12 @@
       }
     } else {
       h += `<h3 class="sec">Financials</h3><p class="muted">${esc(f.reason || 'Not available')}</p>`;
+      const x = f.external;
+      if (x && x.rows && x.rows.length) {
+        h += `<div class="tbl"><table><thead><tr><th>${esc(x.source)} snapshot (${esc(x.unit)})</th>${x.periods.map((p) => `<th class="num">${esc(p)}</th>`).join('')}</tr></thead><tbody>` +
+          x.rows.map((r) => `<tr><td>${esc(r.label)}</td>${x.periods.map((_, j) => `<td class="num">${r.values[j] == null ? '–' : cr(r.values[j])}<span class="dot unverified" title="As published by ${esc(x.source)}; not cross-checked"></span></td>`).join('')}</tr>`).join('') +
+          `</tbody></table></div><p class="small muted">Shown for reference only and never quoted in emails. Open the DRHP for the restated statements.</p>`;
+      }
     }
 
     // emails

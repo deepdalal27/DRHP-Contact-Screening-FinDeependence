@@ -201,11 +201,11 @@ def chittorgarh_details(page_url):
     if m:
         seg = m.group(1)
         em = re.findall(r"[\w.+-]+@[\w-]+(?:\.[\w-]+)+", seg)
-        ph = re.findall(r"(?<![\w,])(?:\+?91[\s-]?)?\d[\d\s-]{8,12}\d(?![\w])", seg)
-        addr = seg
-        for x in em + ph:
-            addr = addr.replace(x, " ")
-        out["contact"] = {"emails": [e.lower() for e in em], "phones": [p.strip() for p in ph], "address": re.sub(r"\s+", " ", addr).strip(" ,")}
+        before = seg.split(em[0])[0].strip() if em else seg
+        pm = re.search(r"((?:\+?91[-\s]?)?\d[\d-]{6,13}\d)\s*$", before)
+        phone = pm.group(1) if pm and 10 <= len(re.sub(r"\D", "", pm.group(1))) <= 12 else None
+        addr = before[:pm.start()] if pm and phone else before
+        out["contact"] = {"emails": [e.lower() for e in em], "phones": [phone] if phone else [], "address": addr.strip(" ,")}
     # company website: the link right after the "Contact Details" block
     i = body.find("Contact Details")
     if i >= 0:
@@ -224,10 +224,6 @@ def chittorgarh_details(page_url):
             vals = [float(x.replace(",", "")) for x in nums.split()]
             rows.append({"label": lab.strip(), "values": vals[:len(dates)]})
         out["financials"] = {"periods": dates, "rows": rows}
-    m = re.search(r"(?:About|Business Overview)\s+" + re.escape(txt[:0]) + r"(.{40,900}?)(?:\+ Read More|Competitive Strengths|Company Financials)", txt)
-    out["about"] = m.group(1).strip() if m else None
-    m = re.search(r"(\S[^.]{0,120}?(?:is|are) (?:engaged|a |an |in the business)[^.]{20,400}\.)", txt)
-    out["about"] = out["about"] or (m.group(1).strip() if m else None)
     return out
 
 

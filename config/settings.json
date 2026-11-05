@@ -5,7 +5,7 @@
     "fund": "Parshwanath Capital Ventures Fund",
     "fund_type": "a SEBI-registered Category III Alternative Investment Fund",
     "fund_type_short": "SEBI-registered Category III AIF",
-    "sebi_registration": "",
+    "sebi_registration": "IN/AIF3/25-26/2108",
     "phone": "+91 70690 06298",
     "email": "fundmanager@parshwanath.in",
     "website": "",
@@ -18,5 +18,12 @@
     "max_per_run": 15,
     "daily_cap": 40
   },
-  "lookback_days": 45
+  "lookback_days": 45,
+  "fund_profile": {
+    "title": "Fund Profile – Parshwanath Capital Ventures Fund",
+    "drive_file_id": "1yQX3TH3nmyqzt6rICyliVYFCP1okKqVv",
+    "view_url": "https://drive.google.com/file/d/1yQX3TH3nmyqzt6rICyliVYFCP1okKqVv/view?usp=sharing",
+    "attachment_name": "Parshwanath_Capital_Ventures_Fund_Profile.pdf",
+    "attach": true
+  }
 }

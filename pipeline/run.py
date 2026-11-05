@@ -32,7 +32,7 @@ STATE = ROOT / "data" / "state.json"
 OUTREACH = SITE_DATA / "outreach.json"
 SUPPRESS = ROOT / "config" / "suppression.txt"
 IST = dt.timezone(dt.timedelta(hours=5, minutes=30))
-PIPELINE_VERSION = 3  # bump to re-extract already processed DRHPs after an extraction fix
+PIPELINE_VERSION = 4  # bump to re-extract already processed DRHPs after an extraction fix
 
 
 def now():
@@ -173,6 +173,43 @@ def build_record(filing, rec, fin, sender, suppressed):
     }
 
 
+def build_bse_record(filing, det, sender, suppressed):
+    """BSE SME filing whose DRHP sits on bsesme.com (not downloadable from cloud servers): company details,
+    contacts and a financial snapshot from Chittorgarh. Its figures are shown but never quoted in emails."""
+    name = filing["company"]
+    contact = det.get("contact") or {}
+    lms = det.get("lead_managers") or ([filing["lead_manager"]] if filing.get("lead_manager") else [])
+    cover = {"company": name, "promoters": det.get("promoters") or [], "board": "SME", "exchange": "BSE SME",
+             "document_type": "draft offer document", "document_date": None, "pre_ipo_placement": False, "website": det.get("website")}
+    rec = {"cover": cover, "display_name": name, "exchange_filed": "BSE (SME platform)", "business": None, "promoter_emails": {},
+           "general": {"cs": {"name": None, "emails": contact.get("emails", []), "phones": contact.get("phones", []), "page": None},
+                       "brlms": [{"name": lm, "contact_persons": [], "emails": [], "phones": [], "grievance_emails": [],
+                                  "website": None, "sebi_reg": None, "page": None} for lm in lms],
+                       "registrar": det.get("registrar")}}
+    msgs = mailer.choose_recipients(rec, suppressed)
+    emails = [mailer.compose(rec, {"ok": False}, sender, m) for m in msgs]
+    snap = det.get("financials") or {}
+    industry = filing.get("industry")
+    return {
+        "key": filing["key"], "company": name, "short": short_name(name), "board": "SME", "exchange": "BSE SME",
+        "source": "BSE SME", "via": "Chittorgarh", "also_on": [], "filed_on": filing.get("filed_on"), "doc_type": "DRHP",
+        "document_type": "Draft offer document", "document_date": None, "status": filing.get("status"),
+        "doc_url": det.get("drhp_url"), "page_url": filing.get("page_url"), "pages": None,
+        "cin": None, "website": det.get("website"), "icdr_regulation": None, "fresh_issue": None, "ofs": None,
+        "pre_ipo_placement": None, "pre_ipo_limit_pct": None, "issue_size": filing.get("issue_size"), "industry": industry,
+        "address": contact.get("address"),
+        "promoters": [{"name": p, "designation": None, "emails": []} for p in cover["promoters"]],
+        "cs": rec["general"]["cs"], "brlms": rec["general"]["brlms"], "registrar": det.get("registrar"),
+        "business": None, "business_summary": f"{short_name(name)} operates in {industry}." if industry else None,
+        "financials": {"ok": False, "reason": "The DRHP is hosted on bsesme.com, which blocks automated downloads; the snapshot below is Chittorgarh's summary of the DRHP (not cross-checked by us).",
+                       "external": {"source": "Chittorgarh", "unit": "₹ crore", "periods": snap.get("periods", []), "rows": snap.get("rows", [])}},
+        "emails": emails,
+        "warnings": ["BSE SME filing: contacts and figures from Chittorgarh. BSE blocks cloud servers, so the DRHP PDF could not be read automatically; open it from the link above."]
+                    + ([] if msgs else ["No usable email found for the company."]),
+        "processed_at": now(),
+    }
+
+
 def write_index(records):
     idx = []
     for r in records:
@@ -231,7 +268,7 @@ def main(argv=None):
     args = ap.parse_args(argv)
 
     settings = load(ROOT / "config" / "settings.json", {})
-    sender = settings["sender"]
+    sender = {**settings["sender"], "fund_profile": settings.get("fund_profile")}
     sending = settings.get("sending", {})
     suppressed = [x.strip().lower() for x in (SUPPRESS.read_text().splitlines() if SUPPRESS.exists() else []) if x.strip() and not x.startswith("#")]
     state = load(STATE, {"processed": {}})
@@ -262,11 +299,27 @@ def main(argv=None):
         done += 1
         print(f"→ {f['company']} ({f['source']}, {f['filed_on']})")
         try:
-            pdf = download_pdf(f)
-            rec = extract(pdf)
-            fin = build(rec)
-            rec.pop("_doc", None)
-            record = build_record(f, rec, fin, sender, suppressed)
+            record = None
+            if f.get("via") == "chittorgarh":
+                det = sources.chittorgarh_details(f["page_url"])
+                f["url"] = det.get("drhp_url")
+                if f["url"] and not re.search(r"bsesme\.com|bseindia\.com", f["url"]):
+                    try:  # DRHP hosted outside BSE (e.g. on the lead manager's site): read it in full
+                        pdf = download_pdf({**f, "alternates": []})
+                        rec = extract(pdf)
+                        fin = build(rec)
+                        rec.pop("_doc", None)
+                        record = build_record(f, rec, fin, sender, suppressed)
+                    except Exception as e:
+                        print(f"   full DRHP not readable ({e}); using Chittorgarh details")
+                if record is None:
+                    record = build_bse_record(f, det, sender, suppressed)
+            else:
+                pdf = download_pdf(f)
+                rec = extract(pdf)
+                fin = build(rec)
+                rec.pop("_doc", None)
+                record = build_record(f, rec, fin, sender, suppressed)
         except Exception as e:
             traceback.print_exc()
             state["processed"][f["key"]] = {"ref": f.get("url") or f.get("page_url"), "error": str(e)[:300], "at": now(), "company": f["company"],
