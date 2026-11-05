@@ -144,36 +144,91 @@ def nse_filings(index):
     return out
 
 
-# ------------------------------------------------------------------ BSE SME (best effort)
-BSE_ENDPOINTS = [
-    "https://api.bseindia.com/BseIndiaAPI/api/DraftOfferDoc/w?Type=SME",
-    "https://api.bseindia.com/BseIndiaAPI/api/DRHPData/w?type=SME",
-]
+# ------------------------------------------------------------------ BSE SME via Chittorgarh
+# BSE (bseindia.com / bsesme.com) refuses connections from cloud servers, so BSE SME draft filings are
+# discovered through Chittorgarh's "Upcoming SME IPO - DRHP filed" report, and the company details come
+# from Chittorgarh's IPO page (the DRHP itself sits on bsesme.com, which cloud servers cannot download).
+CG_LIST = "https://webnodejs.chittorgarh.com/cloud/report/data-read/154/1/11/{y}/{y}-{y2}/0/all/0?search="
+CG_HEADERS_REF = "https://www.chittorgarh.com/report/upcoming-sme-ipo-drhp-filed/154/all/"
+
+
+def _strip(h):
+    return re.sub(r"\s+", " ", html.unescape(re.sub(r"<[^>]+>", " ", h or ""))).strip()
 
 
 def bse_sme_filings():
-    for url in BSE_ENDPOINTS:
-        try:
-            raw = http_get(url, referer="https://www.bseindia.com/", accept="application/json", retries=1)
-            data = json.loads(raw)
-        except Exception as e:
-            ERRORS.append(f"BSE SME ({url.split('/api/')[-1]}): {e}")
+    y = dt.date.today().year
+    try:
+        rows = json.loads(http_get(CG_LIST.format(y=y, y2=str(y + 1)[2:]), referer=CG_HEADERS_REF, accept="application/json"))["reportTableData"]
+    except Exception as e:
+        ERRORS.append(f"Chittorgarh (BSE SME list): {e}")
+        return []
+    out = []
+    for r in rows:
+        if "BSE" not in (r.get("Exchange") or "") or not r.get("DRHP Filing Date"):
             continue
-        rows = data.get("Table") if isinstance(data, dict) else data
-        out = []
-        for r in rows or []:
-            name = r.get("CompanyName") or r.get("Company_Name") or r.get("COMPANYNAME") or r.get("SCRIP_NAME")
-            link = r.get("FileURL") or r.get("Attachment") or r.get("ATTACHMENTNAME") or r.get("DRHPLink")
-            date = r.get("FilingDate") or r.get("Date") or r.get("DT_TM") or r.get("Filing_Date")
-            if not name or not link:
-                continue
-            if not link.startswith("http"):
-                link = "https://www.bseindia.com/" + link.lstrip("/")
-            out.append({"source": "BSE SME", "company": name.strip(), "board": "SME", "filed_on": _date((date or "")[:10]) or _date(date),
-                        "doc_type": "DRHP", "title": "Draft offer document", "url": link, "page_url": None})
-        if out:
-            return out
-    return []
+        name = _strip(r.get("Company")).replace("Ltd.", "Limited").replace("Ltd", "Limited").replace("Limitedd", "Limited")
+        out.append({"source": "BSE SME", "company": name, "board": "SME", "filed_on": _date(r.get("DRHP Filing Date")),
+                    "doc_type": "DRHP", "title": "Draft offer document (BSE SME)", "url": None,
+                    "page_url": f"https://www.chittorgarh.com/ipo/{r.get('~URLRewrite_Folder_Name')}/{r.get('~id')}/",
+                    "status": r.get("Status"), "lead_manager": _strip(r.get("Left Lead Manager")),
+                    "industry": r.get("Industry"), "issue_size": _strip((r.get("Estimated Issue Size") or "").replace("<br>", "; ")),
+                    "via": "chittorgarh"})
+    return out
+
+
+def chittorgarh_details(page_url):
+    """Company contact details, promoters, lead managers, registrar, DRHP link and the financial snapshot
+    from a Chittorgarh IPO page."""
+    h = http_get(page_url, referer=CG_HEADERS_REF).decode("utf-8", "replace")
+    body = re.sub(r"<(script|style)[^>]*>.*?</\1>", " ", h, flags=re.S)
+    txt = _strip(body)
+    out = {"page_url": page_url}
+    m = re.search(r'href="(https?://[^"]+)"[^>]*>[^<]*(?:DRHP|Draft)[^<]*<', body, re.I) or \
+        re.search(r'href="(https?://[^"]*(?:DRHP|drhp|Draft)[^"]*\.(?:pdf|zip))"', body)
+    out["drhp_url"] = html.unescape(m.group(1)) if m else None
+    m = re.search(r"Company Promoters?:\s*(.+?)\.(?:\s|$)", txt)
+    out["promoters"] = [x.strip() for x in re.split(r",\s*|\s+and\s+", m.group(1)) if x.strip()] if m else []
+    m = re.search(r"IPO Lead Manager\(s\)\s*(.+?)\s*Lead Manager Reports", txt)
+    out["lead_managers"] = [x.strip() for x in re.split(r"\s{2,}|(?<=Ltd\.)\s+(?=[A-Z])|(?<=Limited)\s+(?=[A-Z])", m.group(1)) if x.strip()] if m else []
+    m = re.search(r"IPO Registrar\s*(.+?)\s*Visit Website", txt)
+    if m:
+        seg = m.group(1)
+        em = re.findall(r"[\w.+-]+@[\w-]+(?:\.[\w-]+)+", seg)
+        out["registrar"] = {"name": re.split(r"\s\d", seg)[0].strip(), "emails": em,
+                            "phones": re.findall(r"\d[\d\- ]{8,}\d", seg)[:3]}
+    m = re.search(r"Contact Details\s*(.+?)\s*Visit Website", txt)
+    if m:
+        seg = m.group(1)
+        em = re.findall(r"[\w.+-]+@[\w-]+(?:\.[\w-]+)+", seg)
+        ph = re.findall(r"(?<![\w,])(?:\+?91[\s-]?)?\d[\d\s-]{8,12}\d(?![\w])", seg)
+        addr = seg
+        for x in em + ph:
+            addr = addr.replace(x, " ")
+        out["contact"] = {"emails": [e.lower() for e in em], "phones": [p.strip() for p in ph], "address": re.sub(r"\s+", " ", addr).strip(" ,")}
+    # company website: the link right after the "Contact Details" block
+    i = body.find("Contact Details")
+    if i >= 0:
+        m = re.search(r'href="(https?://(?!www\.chittorgarh)[^"]+)"[^>]*>\s*Visit Website', body[i:i + 6000])
+        out["website"] = m.group(1) if m else None
+    # financial snapshot (₹ crore, as published by Chittorgarh)
+    m = re.search(r"Period Ended\s+(.+?)\s+Amount in ₹ Crore", txt)
+    if m:
+        seg = m.group(1)
+        dates = re.findall(r"\d{1,2} [A-Z][a-z]{2} \d{4}", seg)
+        rest = seg
+        for d in dates:
+            rest = rest.replace(d, " ", 1)
+        rows = []
+        for lab, nums in re.findall(r"([A-Za-z][A-Za-z &/]+?)\s+((?:-?[\d,]+\.\d+\s*)+)", rest):
+            vals = [float(x.replace(",", "")) for x in nums.split()]
+            rows.append({"label": lab.strip(), "values": vals[:len(dates)]})
+        out["financials"] = {"periods": dates, "rows": rows}
+    m = re.search(r"(?:About|Business Overview)\s+" + re.escape(txt[:0]) + r"(.{40,900}?)(?:\+ Read More|Competitive Strengths|Company Financials)", txt)
+    out["about"] = m.group(1).strip() if m else None
+    m = re.search(r"(\S[^.]{0,120}?(?:is|are) (?:engaged|a |an |in the business)[^.]{20,400}\.)", txt)
+    out["about"] = out["about"] or (m.group(1).strip() if m else None)
+    return out
 
 
 def all_filings(since_days=45):
