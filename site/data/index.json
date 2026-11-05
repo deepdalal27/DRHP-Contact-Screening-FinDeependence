@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-05T15:33:50+05:30",
+ "updated_at": "2026-11-05T15:45:18+05:30",
  "companies": [
   {
    "key": "jamnagaragroindustries",
@@ -45,7 +45,7 @@
    "warnings": [
     "BSE SME filing: contacts and figures from Chittorgarh. BSE blocks cloud servers, so the DRHP PDF could not be read automatically; open it from the link above."
    ],
-   "processed_at": "2026-11-05T15:25:05+05:30"
+   "processed_at": "2026-11-05T15:34:59+05:30"
   },
   {
    "key": "sahanaratnabh",
@@ -226,7 +226,7 @@
    "warnings": [
     "Some core figures could not be cross-checked; only verified figures are used in the email."
    ],
-   "processed_at": "2026-11-05T15:25:43+05:30"
+   "processed_at": "2026-11-05T15:35:37+05:30"
   },
   {
    "key": "gampservices",
@@ -282,7 +282,7 @@
    },
    "verified": true,
    "warnings": [],
-   "processed_at": "2026-11-05T15:26:26+05:30"
+   "processed_at": "2026-11-05T15:36:51+05:30"
   },
   {
    "key": "hungerpangs",
@@ -337,7 +337,7 @@
    },
    "verified": true,
    "warnings": [],
-   "processed_at": "2026-11-05T15:27:06+05:30"
+   "processed_at": "2026-11-05T15:37:37+05:30"
   },
   {
    "key": "mayurelectromeck",
@@ -361,7 +361,7 @@
    "warnings": [
     "BSE SME filing: contacts and figures from Chittorgarh. BSE blocks cloud servers, so the DRHP PDF could not be read automatically; open it from the link above."
    ],
-   "processed_at": "2026-11-05T15:27:07+05:30"
+   "processed_at": "2026-11-05T15:37:37+05:30"
   },
   {
    "key": "paramotordigitaltechnology",
@@ -385,7 +385,7 @@
    "warnings": [
     "Financial statements could not be read from the DRHP"
    ],
-   "processed_at": "2026-11-05T15:27:37+05:30"
+   "processed_at": "2026-11-05T15:38:06+05:30"
   },
   {
    "key": "soleosenergy",
@@ -443,7 +443,7 @@
    },
    "verified": true,
    "warnings": [],
-   "processed_at": "2026-11-05T15:28:47+05:30"
+   "processed_at": "2026-11-05T15:39:17+05:30"
   },
   {
    "key": "gracerenewableenergy",
@@ -501,7 +501,7 @@
    "warnings": [
     "Some core figures could not be cross-checked; only verified figures are used in the email."
    ],
-   "processed_at": "2026-11-05T15:30:01+05:30"
+   "processed_at": "2026-11-05T15:41:25+05:30"
   },
   {
    "key": "integrumenergyinfrastructure",
@@ -560,7 +560,7 @@
    },
    "verified": true,
    "warnings": [],
-   "processed_at": "2026-11-05T15:30:48+05:30"
+   "processed_at": "2026-11-05T15:42:22+05:30"
   },
   {
    "key": "pentacleconsultantsi",
@@ -594,7 +594,7 @@
    "warnings": [
     "Some core figures could not be cross-checked; only verified figures are used in the email."
    ],
-   "processed_at": "2026-11-05T15:33:31+05:30"
+   "processed_at": "2026-11-05T15:44:15+05:30"
   },
   {
    "key": "pmconaindustries",
@@ -652,7 +652,7 @@
    },
    "verified": true,
    "warnings": [],
-   "processed_at": "2026-11-05T15:32:05+05:30"
+   "processed_at": "2026-11-05T15:43:28+05:30"
   },
   {
    "key": "baangangagolddiamondi",
@@ -765,7 +765,7 @@
    },
    "verified": true,
    "warnings": [],
-   "processed_at": "2026-11-05T07:12:11+05:30"
+   "processed_at": "2026-11-05T15:45:14+05:30"
   },
   {
    "key": "inoxairproducts",

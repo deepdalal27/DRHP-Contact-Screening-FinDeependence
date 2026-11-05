@@ -1999,7 +1999,63 @@
    },
    "website": "https://inoxairproducts.com",
    "doc_url": "https://www.sebi.gov.in/sebi_data/attachdocs/oct-2026/1791197450320.pdf"
+  },
+  {
+   "id": "electromechinfraprojects|cs@electromech-infra.com",
+   "company_key": "electromechinfraprojects",
+   "company": "Electromech Infraprojects Limited",
+   "board": "Mainboard",
+   "filed_on": "2026-10-05",
+   "variant": "company",
+   "role": "Company Secretary / IR",
+   "organisation": "Electromech Infraprojects Limited",
+   "names": [
+    "Iti Tiwari"
+   ],
+   "email": "cs@electromech-infra.com",
+   "phones": [
+    "+91 86910 88132"
+   ],
+   "subject": "Parshwanath Capital Ventures Fund | Pre-IPO & Anchor interest – Electromech Infraprojects Limited",
+   "status": "sent",
+   "sent_at": "2026-11-05T15:45:17+05:30",
+   "created_at": "2026-11-05T15:45:17+05:30",
+   "message_id": "<179387371447.2610.5064049155113685730@gmail.com>",
+   "error": null,
+   "promoters": [
+    "Paresh Pratap Maniar",
+    "Varun Paresh Maniar",
+    "Mitesh Pratap Maniar",
+    "Chandrika Paresh Maniar"
+   ],
+   "brlm_contacts": [
+    {
+     "firm": "Arihant Capital Markets Limited",
+     "people": [
+      "Amol Kshirsagar",
+      "Satish Kumar Padmanabhan"
+     ],
+     "emails": [
+      "mbd@arihantcapital.com"
+     ],
+     "phones": [
+      "+91 22 4225 4800"
+     ]
+    }
+   ],
+   "cs": {
+    "name": "Iti Tiwari",
+    "emails": [
+     "cs@electromech-infra.com"
+    ],
+    "phones": [
+     "+91 86910 88132"
+    ],
+    "page": 97
+   },
+   "website": null,
+   "doc_url": "https://www.sebi.gov.in/sebi_data/attachdocs/oct-2026/1791199559126.pdf"
   }
  ],
- "updated_at": "2026-11-05T15:33:50+05:30"
+ "updated_at": "2026-11-05T15:45:18+05:30"
 }
