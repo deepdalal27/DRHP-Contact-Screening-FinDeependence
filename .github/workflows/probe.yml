@@ -1,0 +1,18 @@
+name: Probe data sources
+on:
+  push:
+    branches: [claude/upbeat-pascal-7a9es0]
+    paths: ['tools/probe_*.py', '.github/workflows/probe.yml']
+  workflow_dispatch:
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: |
+          python3 tools/probe_chittorgarh.py \
+            https://www.chittorgarh.com/ \
+            https://www.chittorgarh.com/report/ \
+            https://www.chittorgarh.com/ipo/sme-ipo-drhp/ \
+            https://www.chittorgarh.com/report/sme-ipo-drhp-status/ \
+            https://www.chittorgarh.com/report/ipo-drhp-status/
