@@ -1,0 +1,875 @@
+{
+ "key": "vetrivelexplosives",
+ "company": "Vetrivel Explosives Limited",
+ "short": "Vetrivel Explosives",
+ "board": "SME",
+ "exchange": "NSE Emerge",
+ "source": "NSE Emerge",
+ "also_on": [],
+ "filed_on": "2026-09-30",
+ "doc_type": "DRHP",
+ "document_type": "Draft Red Herring Prospectus",
+ "document_date": "September 30, 2026",
+ "doc_url": "https://nsearchives.nseindia.com/emerge/corporates/content/AD_IPO_7831_30092026222828.zip",
+ "page_url": null,
+ "pages": 323,
+ "cin": "U24292TZ1999PLC009092",
+ "website": "https://vetrivelexplosives.com/",
+ "icdr_regulation": null,
+ "fresh_issue": true,
+ "ofs": true,
+ "pre_ipo_placement": false,
+ "pre_ipo_limit_pct": null,
+ "promoters": [
+  {
+   "name": "Vijayakannan Ramalingam",
+   "designation": "Chairman",
+   "emails": []
+  },
+  {
+   "name": "Vetrivel Ramalingam",
+   "designation": null,
+   "emails": []
+  },
+  {
+   "name": "Premalatha Rangasamy Mudaliar",
+   "designation": null,
+   "emails": []
+  }
+ ],
+ "cs": null,
+ "brlms": [
+  {
+   "name": "GYR Capital Advisors Private Limited",
+   "contact_persons": [
+    "Mohit Baid"
+   ],
+   "emails": [
+    "vetrivelexplosives.ipo@gyrcapitaladvisors.in"
+   ],
+   "grievance_emails": [
+    "investors@gyrcapitaladvisors.com"
+   ],
+   "phones": [
+    "+91 8777564648"
+   ],
+   "website": "www.gyrcapitaladvisors.com",
+   "sebi_reg": "INM000012810",
+   "page": 54
+  }
+ ],
+ "registrar": {
+  "name": "Integrated Registry Management Services Private Limited",
+  "emails": [
+   "smeipo@integratedindia.in",
+   "giri@integratedindia.in"
+  ],
+  "phones": [
+   "044-28140801"
+  ],
+  "contact_persons": [
+   "S Giridhar"
+  ],
+  "page": 54
+ },
+ "business": {
+  "text": "Our Company, Vetrivel Explosives Limited, is an integrated manufacturer of industrial explosives, explosive accessories and blasting systems with an operating history of over 25 years since our incorporation in 1999. We cater to the requirements of the mining, quarrying, infrastructure, construction, tunnelling, oil exploration, and water development sectors.",
+  "page": 105
+ },
+ "business_summary": "Vetrivel Explosives, Vetrivel Explosives Limited, is an integrated manufacturer of industrial explosives, explosive accessories and blasting systems with an operating history of over 25 years since its incorporation in 1999.",
+ "financials": {
+  "ok": true,
+  "unit_in_drhp": "lakhs",
+  "source": "Summary Financial Information",
+  "periods": [
+   {
+    "iso": "2026-03-31",
+    "label": "FY26",
+    "stub": false
+   },
+   {
+    "iso": "2025-03-31",
+    "label": "FY25",
+    "stub": false
+   },
+   {
+    "iso": "2024-03-31",
+    "label": "FY24",
+    "stub": false
+   }
+  ],
+  "items": {
+   "total_income": {
+    "label": "Total income",
+    "drhp_label": "Total Income (A)",
+    "statement": "P&L",
+    "page": 48,
+    "values": [
+     232.3647,
+     292.1564,
+     252.1578
+    ],
+    "raw": [
+     "23,236.47",
+     "29,215.64",
+     "25,215.78"
+    ],
+    "status": [
+     "verified",
+     "verified",
+     "verified"
+    ],
+    "notes": [
+     [
+      "also printed on page 85, 87, 106"
+     ],
+     [
+      "also printed on page 85, 87, 106"
+     ],
+     [
+      "also printed on page 85, 87, 106"
+     ]
+    ]
+   },
+   "finance_cost": {
+    "label": "Finance cost",
+    "drhp_label": "Finance costs XXIX",
+    "statement": "P&L",
+    "page": 48,
+    "values": [
+     11.9287,
+     11.3651,
+     7.6326
+    ],
+    "raw": [
+     "1,192.87",
+     "1,136.51",
+     "763.26"
+    ],
+    "status": [
+     "verified",
+     "verified",
+     "verified"
+    ],
+    "notes": [
+     [
+      "also printed on page 161, 192, 213"
+     ],
+     [
+      "also printed on page 161, 192, 213"
+     ],
+     [
+      "also printed on page 161, 192, 213"
+     ]
+    ]
+   },
+   "depreciation": {
+    "label": "Depreciation & amortisation",
+    "drhp_label": "Depreciation expense XXX",
+    "statement": "P&L",
+    "page": 48,
+    "values": [
+     7.6679,
+     6.0497,
+     4.6392
+    ],
+    "raw": [
+     "766.79",
+     "604.97",
+     "463.92"
+    ],
+    "status": [
+     "verified",
+     "verified",
+     "verified"
+    ],
+    "notes": [
+     [
+      "also printed on page 49, 161, 162"
+     ],
+     [
+      "also printed on page 49, 161, 162"
+     ],
+     [
+      "also printed on page 49, 161, 162"
+     ]
+    ]
+   },
+   "total_expenses": {
+    "label": "Total expenses",
+    "drhp_label": "Total Expenses (B)",
+    "statement": "P&L",
+    "page": 48,
+    "values": [
+     212.5296,
+     278.6657,
+     237.9314
+    ],
+    "raw": [
+     "21,252.96",
+     "27,866.57",
+     "23,793.14"
+    ],
+    "status": [
+     "unverified",
+     "unverified",
+     "unverified"
+    ],
+    "notes": [
+     [],
+     [],
+     []
+    ]
+   },
+   "pbt": {
+    "label": "Profit before tax",
+    "drhp_label": "C Profit before tax (A-B)",
+    "statement": "P&L",
+    "page": 48,
+    "values": [
+     19.8351,
+     13.4907,
+     14.2264
+    ],
+    "raw": [
+     "1,983.51",
+     "1,349.07",
+     "1,422.64"
+    ],
+    "status": [
+     "verified",
+     "verified",
+     "verified"
+    ],
+    "notes": [
+     [
+      "PBT − tax = PAT",
+      "also printed on page 49, 161, 162"
+     ],
+     [
+      "PBT − tax = PAT",
+      "also printed on page 49, 161, 162"
+     ],
+     [
+      "PBT − tax = PAT",
+      "also printed on page 49, 161, 162"
+     ]
+    ]
+   },
+   "tax": {
+    "label": "Total tax expense",
+    "drhp_label": "Total Tax Expenses (D)",
+    "statement": "P&L",
+    "page": 48,
+    "values": [
+     5.2034,
+     3.5223,
+     3.6901
+    ],
+    "raw": [
+     "520.34",
+     "352.23",
+     "369.01"
+    ],
+    "status": [
+     "verified",
+     "verified",
+     "verified"
+    ],
+    "notes": [
+     [
+      "PBT − tax = PAT"
+     ],
+     [
+      "PBT − tax = PAT"
+     ],
+     [
+      "PBT − tax = PAT"
+     ]
+    ]
+   },
+   "pat": {
+    "label": "Profit after tax (PAT)",
+    "drhp_label": "E Profit for the year (C-D)",
+    "statement": "P&L",
+    "page": 48,
+    "values": [
+     14.6317,
+     9.9684,
+     10.5363
+    ],
+    "raw": [
+     "1,463.17",
+     "996.84",
+     "1,053.63"
+    ],
+    "status": [
+     "verified",
+     "verified",
+     "verified"
+    ],
+    "notes": [
+     [
+      "PBT − tax = PAT",
+      "also printed on page 85, 87, 106",
+      "matches DRHP KPI table (page 85)"
+     ],
+     [
+      "PBT − tax = PAT",
+      "also printed on page 85, 87, 106",
+      "matches DRHP KPI table (page 85)"
+     ],
+     [
+      "PBT − tax = PAT",
+      "also printed on page 85, 87, 106",
+      "matches DRHP KPI table (page 85)"
+     ]
+    ]
+   },
+   "eps_basic": {
+    "label": "EPS – basic (₹)",
+    "drhp_label": "i. Basic",
+    "statement": "P&L",
+    "page": 48,
+    "values": [
+     9.14,
+     6.23,
+     6.59
+    ],
+    "raw": [
+     "9.14",
+     "6.23",
+     "6.59"
+    ],
+    "status": [
+     "verified",
+     "verified",
+     "verified"
+    ],
+    "notes": [
+     [
+      "also printed on page 82, 161, 193"
+     ],
+     [
+      "also printed on page 82, 161, 193"
+     ],
+     [
+      "also printed on page 161, 193, 200"
+     ]
+    ]
+   },
+   "eps_diluted": {
+    "label": "EPS – diluted (₹)",
+    "drhp_label": "ii. Diluted",
+    "statement": "P&L",
+    "page": 48,
+    "values": [
+     9.14,
+     6.23,
+     6.59
+    ],
+    "raw": [
+     "9.14",
+     "6.23",
+     "6.59"
+    ],
+    "status": [
+     "unverified",
+     "unverified",
+     "unverified"
+    ],
+    "notes": [
+     [],
+     [],
+     []
+    ]
+   },
+   "share_capital": {
+    "label": "Equity share capital",
+    "drhp_label": "a. Share Capital V",
+    "statement": "Balance sheet",
+    "page": 47,
+    "values": [
+     16.0,
+     16.0,
+     16.0
+    ],
+    "raw": [
+     "1,600.00",
+     "1,600.00",
+     "1,600.00"
+    ],
+    "status": [
+     "unverified",
+     "unverified",
+     "unverified"
+    ],
+    "notes": [
+     [],
+     [],
+     []
+    ]
+   },
+   "other_equity": {
+    "label": "Other equity",
+    "drhp_label": "b. Reserves & Surplus VI",
+    "statement": "Balance sheet",
+    "page": 47,
+    "values": [
+     94.0968,
+     63.9671,
+     31.5257
+    ],
+    "raw": [
+     "9,409.68",
+     "6,396.71",
+     "3,152.57"
+    ],
+    "status": [
+     "unverified",
+     "unverified",
+     "unverified"
+    ],
+    "notes": [
+     [],
+     [],
+     []
+    ]
+   },
+   "inventories": {
+    "label": "Inventories",
+    "drhp_label": "a. Inventories XVII",
+    "statement": "Balance sheet",
+    "page": 47,
+    "values": [
+     111.0988,
+     80.1171,
+     46.5758
+    ],
+    "raw": [
+     "11,109.88",
+     "8,011.71",
+     "4,657.58"
+    ],
+    "status": [
+     "verified",
+     "verified",
+     "verified"
+    ],
+    "notes": [
+     [
+      "also printed on page 160, 219"
+     ],
+     [
+      "also printed on page 160, 219, 220"
+     ],
+     [
+      "also printed on page 160, 220"
+     ]
+    ]
+   },
+   "trade_receivables": {
+    "label": "Trade receivables",
+    "drhp_label": "b. Trade Receivables XVIII",
+    "statement": "Balance sheet",
+    "page": 47,
+    "values": [
+     10.5894,
+     11.6918,
+     9.4109
+    ],
+    "raw": [
+     "1,058.94",
+     "1,169.18",
+     "941.09"
+    ],
+    "status": [
+     "verified",
+     "verified",
+     "verified"
+    ],
+    "notes": [
+     [
+      "also printed on page 160, 185, 220"
+     ],
+     [
+      "also printed on page 160, 185, 220"
+     ],
+     [
+      "also printed on page 160, 185, 220"
+     ]
+    ]
+   },
+   "cfo": {
+    "label": "Net cash from operating activities",
+    "drhp_label": "Net Cash Flow from/(used in) Operating Activities: (A)",
+    "statement": "Cash flow",
+    "page": 49,
+    "values": [
+     19.0306,
+     -19.7741,
+     10.0539
+    ],
+    "raw": [
+     "1,903.06",
+     "(1,977.41)",
+     "1,005.39"
+    ],
+    "status": [
+     "verified",
+     "verified",
+     "verified"
+    ],
+    "notes": [
+     [
+      "also printed on page 162"
+     ],
+     [
+      "also printed on page 30, 162, 221"
+     ],
+     [
+      "also printed on page 30, 162, 221"
+     ]
+    ]
+   },
+   "cfi": {
+    "label": "Net cash from investing activities",
+    "drhp_label": "Net Cash Flow from/(used in) Investing Activities: (B)",
+    "statement": "Cash flow",
+    "page": 49,
+    "values": [
+     -10.6985,
+     -12.8857,
+     -11.7413
+    ],
+    "raw": [
+     "(1,069.85)",
+     "(1,288.57)",
+     "(1,174.13)"
+    ],
+    "status": [
+     "unverified",
+     "unverified",
+     "unverified"
+    ],
+    "notes": [
+     [],
+     [],
+     []
+    ]
+   },
+   "cff": {
+    "label": "Net cash from financing activities",
+    "drhp_label": "Net Cash Flow from/(used in) Financing Activities (C)",
+    "statement": "Cash flow",
+    "page": 49,
+    "values": [
+     -9.0108,
+     24.9076,
+     8.7579
+    ],
+    "raw": [
+     "(901.08)",
+     "2,490.76",
+     "875.79"
+    ],
+    "status": [
+     "unverified",
+     "unverified",
+     "unverified"
+    ],
+    "notes": [
+     [],
+     [],
+     []
+    ]
+   },
+   "borrowings": {
+    "label": "Total borrowings",
+    "drhp_label": "a. Long-term Borrowings VII (2) Non - Current Liabilities) + a. Short Term Borrowings IX (3) Current Liabilities)",
+    "statement": "Balance sheet",
+    "page": 47,
+    "values": [
+     106.7794,
+     105.14,
+     70.8753
+    ],
+    "raw": [
+     null,
+     null,
+     null
+    ],
+    "status": [
+     "unverified",
+     "verified",
+     "verified"
+    ],
+    "notes": [
+     [
+      "sum of borrowing lines"
+     ],
+     [
+      "sum of borrowing lines",
+      "also printed on page 219"
+     ],
+     [
+      "sum of borrowing lines",
+      "also printed on page 219"
+     ]
+    ]
+   }
+  },
+  "ratios": {
+   "Interest coverage": {
+    "values": [
+     2.662805,
+     2.187029,
+     2.8639
+    ],
+    "status": [
+     "verified",
+     "verified",
+     "verified"
+    ],
+    "fmt": "x",
+    "formula": "(PBT + Finance cost) ÷ Finance cost"
+   },
+   "PAT growth": {
+    "values": [
+     0.467808,
+     -0.053899,
+     null
+    ],
+    "status": [
+     "verified",
+     "verified",
+     null
+    ],
+    "fmt": "pct",
+    "formula": "FY26 vs FY25"
+   }
+  },
+  "checks": [
+   {
+    "period": "FY26",
+    "check": "Profit before tax − Tax = Profit after tax",
+    "ok": true,
+    "lhs": 1463.17,
+    "rhs": 1463.17
+   },
+   {
+    "period": "FY25",
+    "check": "Profit before tax − Tax = Profit after tax",
+    "ok": true,
+    "lhs": 996.8399999999999,
+    "rhs": 996.84
+   },
+   {
+    "period": "FY24",
+    "check": "Profit before tax − Tax = Profit after tax",
+    "ok": true,
+    "lhs": 1053.63,
+    "rhs": 1053.63
+   }
+  ],
+  "kpi_stated": [
+   {
+    "label": "Revenue from Operations (₹ in Lakhs) (1)",
+    "values": [
+     23209.77,
+     29015.68,
+     25082.11
+    ],
+    "raw": [
+     "23,209.77",
+     "29,015.68",
+     "25,082.11"
+    ],
+    "page": 85
+   },
+   {
+    "label": "Total Income (₹ in Lakhs) (3)",
+    "values": [
+     23236.47,
+     29215.64,
+     25215.78
+    ],
+    "raw": [
+     "23,236.47",
+     "29,215.64",
+     "25,215.78"
+    ],
+    "page": 85
+   },
+   {
+    "label": "EBITDA (₹ in Lakhs) (4)",
+    "values": [
+     3943.17,
+     3090.55,
+     2649.82
+    ],
+    "raw": [
+     "3,943.17",
+     "3,090.55",
+     "2,649.82"
+    ],
+    "page": 85
+   },
+   {
+    "label": "EBITDA Margin (%) (5)",
+    "values": [
+     16.97,
+     10.58,
+     10.51
+    ],
+    "raw": [
+     "16.97",
+     "10.58",
+     "10.51"
+    ],
+    "page": 85
+   },
+   {
+    "label": "Profit After Tax (₹ in Lakhs) (6)",
+    "values": [
+     1463.17,
+     996.84,
+     1053.63
+    ],
+    "raw": [
+     "1,463.17",
+     "996.84",
+     "1,053.63"
+    ],
+    "page": 85
+   },
+   {
+    "label": "PAT Margin (%) (7)",
+    "values": [
+     6.3,
+     3.44,
+     4.2
+    ],
+    "raw": [
+     "6.30",
+     "3.44",
+     "4.20"
+    ],
+    "page": 85
+   },
+   {
+    "label": "Net Worth (₹ in Lakhs) (8)",
+    "values": [
+     11009.68,
+     7996.71,
+     4752.57
+    ],
+    "raw": [
+     "11,009.68",
+     "7,996.71",
+     "4,752.57"
+    ],
+    "page": 85
+   },
+   {
+    "label": "Return on Equity (“RoE”) (%) (9)",
+    "values": [
+     15.4,
+     15.64,
+     24.93
+    ],
+    "raw": [
+     "15.40",
+     "15.64",
+     "24.93"
+    ],
+    "page": 85
+   },
+   {
+    "label": "Return on Capital Employed (“RoCE”) (%) (10)",
+    "values": [
+     14.58,
+     13.34,
+     18.25
+    ],
+    "raw": [
+     "14.58",
+     "13.34",
+     "18.25"
+    ],
+    "page": 85
+   },
+   {
+    "label": "Net Asset Value per Equity Share (₹) (11)",
+    "values": [
+     68.81,
+     49.98,
+     29.7
+    ],
+    "raw": [
+     "68.81",
+     "49.98",
+     "29.70"
+    ],
+    "page": 85
+   },
+   {
+    "label": "Debt-Equity Ratio (in times) (12)",
+    "values": [
+     0.97,
+     1.31,
+     1.49
+    ],
+    "raw": [
+     "0.97",
+     "1.31",
+     "1.49"
+    ],
+    "page": 85
+   }
+  ],
+  "kpi_periods": [
+   {
+    "iso": "2026-03-31",
+    "label": "FY26",
+    "stub": false
+   },
+   {
+    "iso": "2025-03-31",
+    "label": "FY25",
+    "stub": false
+   },
+   {
+    "iso": "2024-03-31",
+    "label": "FY24",
+    "stub": false
+   }
+  ],
+  "kpi_page": 85,
+  "pages": {
+   "bs": 47,
+   "pl": 48,
+   "cf": 49
+  },
+  "core_verified": false
+ },
+ "emails": [
+  {
+   "subject": "Parshwanath Capital Ventures Fund | Pre-IPO & Anchor interest – Vetrivel Explosives Limited",
+   "text": "Dear Mohit Baid,\n\nI am CA Deep Dalal, Fund Manager of Parshwanath Capital Ventures Fund. I am writing to you as the Book Running Lead Manager to the proposed IPO of Vetrivel Explosives Limited, whose Draft Red Herring Prospectus dated September 30, 2026 has been filed with NSE (Emerge) for listing on NSE Emerge.\n\nABOUT US\nParshwanath Capital Ventures Fund is a SEBI-registered Category III Alternative Investment Fund focused on India's primary markets. We invest through Pre-IPO placements, IPO Anchor Investor books, the QIB portion of IPOs and Qualified Institutional Placements (QIPs), working closely with promoters and merchant bankers through the listing journey.\n\nOUR VIEW ON VETRIVEL EXPLOSIVES\nVetrivel Explosives, Vetrivel Explosives Limited, is an integrated manufacturer of industrial explosives, explosive accessories and blasting systems with an operating history of over 25 years since its incorporation in 1999. We have studied the DRHP closely and the business fits well with our investment focus.\n\nHOW WE WOULD LIKE TO PARTICIPATE\n  1. Pre-IPO round: Should the Company consider a pre-IPO placement ahead of the RHP, we would be keen to participate.\n  2. Anchor Investor portion: As a SEBI-registered Category III AIF, we qualify as a QIB and would like to be considered for the anchor book of the SME IPO.\n  3. QIB portion: We would also look to participate in the QIB portion of the IPO.\n\nFUND PROFILE\nView our fund profile (PDF): https://drive.google.com/file/d/1yQX3TH3nmyqzt6rICyliVYFCP1okKqVv/view?usp=sharing (also attached)\n\nI would be grateful if you could introduce us to the promoters of Vetrivel Explosives (Vijayakannan Ramalingam, Vetrivel Ramalingam and Premalatha Rangasamy Mudaliar) and keep us informed as the pre-IPO and anchor book discussions progress. A short call at your convenience would be much appreciated.\n\nI look forward to hearing from you.\n\nWarm regards,\n\nCA Deep Dalal\nFund Manager, Parshwanath Capital Ventures Fund\nSEBI-registered Category III AIF\nEmail: fundmanager@parshwanath.in\nWhatsApp: +91 83200 52970\nPhone / WhatsApp: +91 70690 06298\nSEBI Reg. No.: IN/AIF3/25-26/2108\n\nThis email is for introduction purposes only and does not constitute an offer, solicitation or commitment to invest. Any investment is subject to the Fund's due diligence, investment committee approval and applicable SEBI regulations. To stop receiving emails from us, reply with “unsubscribe”.",
+   "html": "<!doctype html><html><head><meta charset=\"utf-8\"><meta name=\"color-scheme\" content=\"light dark\"><meta name=\"supported-color-schemes\" content=\"light dark\"></head><body style=\"margin:0;padding:0\"><table role=\"presentation\" width=\"100%\" cellpadding=\"0\" cellspacing=\"0\" style=\"border-collapse:collapse\"><tr><td align=\"center\" style=\"padding:20px 12px\"><table role=\"presentation\" width=\"640\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:100%;max-width:640px;border-collapse:collapse\"><tr><td align=\"center\" style=\"padding:0 4px 16px 4px;border-bottom:3px double #A07A35;text-align:center\"><img src=\"cid:pcvf-logo\" width=\"96\" height=\"96\" alt=\"Parshwanath Capital Ventures Fund logo\" style=\"display:block;margin:0 auto 10px auto;border:0;width:96px;height:96px;border-radius:48px\"><div style=\"font-family:Georgia, 'Times New Roman', Times, serif;font-size:24px;font-weight:700;letter-spacing:1.2px;color:#A07A35;line-height:1.25\">Parshwanath Capital Ventures Fund</div><div style=\"font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:10.5px;letter-spacing:2.2px;text-transform:uppercase;color:#7B8491;margin-top:6px\">SEBI-registered Category III AIF &middot; Pre-IPO &middot; Anchor &middot; QIB &middot; QIP</div><div style=\"font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:11px;letter-spacing:1px;color:#7B8491;margin-top:4px\">SEBI Regn. No. IN/AIF3/25-26/2108</div></td></tr><tr><td style=\"padding:10px 4px;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:12px;letter-spacing:.4px;color:#7B8491;border-bottom:1px solid #B9B2A5\">Re: <b style=\"color:#A07A35\">Vetrivel Explosives Limited</b> &nbsp;|&nbsp; SME IPO &nbsp;|&nbsp; DRHP dated September 30, 2026</td></tr><tr><td style=\"padding:24px 4px 22px 4px\"><p style=\"margin:0 0 14px 0;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:14.5px;line-height:1.65;\">Dear Mohit Baid,</p><p style=\"margin:0 0 14px 0;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:14.5px;line-height:1.65;\">I am CA Deep Dalal, Fund Manager of Parshwanath Capital Ventures Fund. I am writing to you as the Book Running Lead Manager to the proposed IPO of Vetrivel Explosives Limited, whose Draft Red Herring Prospectus dated September 30, 2026 has been filed with NSE (Emerge) for listing on NSE Emerge.</p><p style=\"margin:24px 0 8px 0;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:11.5px;font-weight:700;letter-spacing:1.6px;text-transform:uppercase;color:#A07A35;\">About us</p><table role=\"presentation\" width=\"100%\" cellpadding=\"0\" cellspacing=\"0\" style=\"border-collapse:collapse;margin:0 0 6px 0\"><tr><td style=\"border-left:3px solid #A07A35;padding:4px 0 4px 16px;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:14.5px;line-height:1.65\">Parshwanath Capital Ventures Fund is a SEBI-registered Category III Alternative Investment Fund focused on India&#x27;s primary markets. We invest through Pre-IPO placements, IPO Anchor Investor books, the QIB portion of IPOs and Qualified Institutional Placements (QIPs), working closely with promoters and merchant bankers through the listing journey.</td></tr></table><p style=\"margin:24px 0 8px 0;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:11.5px;font-weight:700;letter-spacing:1.6px;text-transform:uppercase;color:#A07A35;\">Our view on Vetrivel Explosives</p><p style=\"margin:0 0 14px 0;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:14.5px;line-height:1.65;\">Vetrivel Explosives, Vetrivel Explosives Limited, is an integrated manufacturer of industrial explosives, explosive accessories and blasting systems with an operating history of over 25 years since its incorporation in 1999. We have studied the DRHP closely and the business fits well with our investment focus.</p><p style=\"margin:24px 0 8px 0;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:11.5px;font-weight:700;letter-spacing:1.6px;text-transform:uppercase;color:#A07A35;\">How we would like to participate</p><table role=\"presentation\" width=\"100%\" cellpadding=\"0\" cellspacing=\"0\" style=\"border-collapse:collapse;margin:0 0 8px 0\"><tr><td width=\"34\" valign=\"top\" style=\"padding-top:1px\"><div style=\"width:22px;height:22px;line-height:20px;border-radius:12px;border:1.5px solid #A07A35;color:#A07A35;text-align:center;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:12px;font-weight:700\">1</div></td><td style=\"font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:14.5px;line-height:1.6\"><b>Pre-IPO round.</b> Should the Company consider a pre-IPO placement ahead of the RHP, we would be keen to participate.</td></tr></table><table role=\"presentation\" width=\"100%\" cellpadding=\"0\" cellspacing=\"0\" style=\"border-collapse:collapse;margin:0 0 8px 0\"><tr><td width=\"34\" valign=\"top\" style=\"padding-top:1px\"><div style=\"width:22px;height:22px;line-height:20px;border-radius:12px;border:1.5px solid #A07A35;color:#A07A35;text-align:center;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:12px;font-weight:700\">2</div></td><td style=\"font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:14.5px;line-height:1.6\"><b>Anchor Investor portion.</b> As a SEBI-registered Category III AIF, we qualify as a QIB and would like to be considered for the anchor book of the SME IPO.</td></tr></table><table role=\"presentation\" width=\"100%\" cellpadding=\"0\" cellspacing=\"0\" style=\"border-collapse:collapse;margin:0 0 8px 0\"><tr><td width=\"34\" valign=\"top\" style=\"padding-top:1px\"><div style=\"width:22px;height:22px;line-height:20px;border-radius:12px;border:1.5px solid #A07A35;color:#A07A35;text-align:center;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:12px;font-weight:700\">3</div></td><td style=\"font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:14.5px;line-height:1.6\"><b>QIB portion.</b> We would also look to participate in the QIB portion of the IPO.</td></tr></table><p style=\"margin:24px 0 8px 0;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:11.5px;font-weight:700;letter-spacing:1.6px;text-transform:uppercase;color:#A07A35;\">Fund profile</p><table role=\"presentation\" cellpadding=\"0\" cellspacing=\"0\" style=\"border-collapse:collapse;margin:0 0 6px 0\"><tr><td style=\"border:1.5px solid #A07A35;border-radius:6px;padding:10px 18px\"><a href=\"https://drive.google.com/file/d/1yQX3TH3nmyqzt6rICyliVYFCP1okKqVv/view?usp=sharing\" style=\"font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:14px;font-weight:700;color:#A07A35;text-decoration:none\">View Fund Profile (PDF) &rarr;</a></td></tr></table><p style=\"margin:6px 0 0 0;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:12px;color:#7B8491\">Also attached to this email. Opens in Google Drive with view access; no sign-in needed.</p><p style=\"margin:0 0 14px 0;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:14.5px;line-height:1.65;margin-top:16px\">I would be grateful if you could introduce us to the promoters of Vetrivel Explosives (Vijayakannan Ramalingam, Vetrivel Ramalingam and Premalatha Rangasamy Mudaliar) and keep us informed as the pre-IPO and anchor book discussions progress. A short call at your convenience would be much appreciated.</p><p style=\"margin:0 0 14px 0;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:14.5px;line-height:1.65;\">I look forward to hearing from you.</p><p style=\"margin:0 0 14px 0;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:14.5px;line-height:1.65;margin-bottom:10px\">Warm regards,</p><table role=\"presentation\" cellpadding=\"0\" cellspacing=\"0\" style=\"border-collapse:collapse;margin:0\"><tr><td valign=\"top\" style=\"padding:2px 14px 0 0\"><img src=\"cid:pcvf-logo\" width=\"64\" height=\"64\" alt=\"PCVF\" style=\"display:block;border:0;border-radius:32px\"></td><td valign=\"top\" style=\"border-left:2px solid #A07A35;padding:0 0 0 14px\"><div style=\"font-family:Georgia, 'Times New Roman', Times, serif;font-size:19px;font-weight:700\">CA Deep Dalal</div><div style=\"font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:13px;color:#7B8491;margin:2px 0 8px 0\">Fund Manager, Parshwanath Capital Ventures Fund &middot; SEBI-registered Category III AIF</div><table role=\"presentation\" cellpadding=\"0\" cellspacing=\"0\" style=\"border-collapse:collapse\"><tr><td style=\"padding:2px 14px 2px 0;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:11px;letter-spacing:1px;text-transform:uppercase;color:#A07A35;white-space:nowrap\">Email</td><td style=\"padding:2px 0;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:14px\"><a href=\"mailto:fundmanager@parshwanath.in\" style=\"color:#3B78B8;text-decoration:none\">fundmanager@parshwanath.in</a></td></tr><tr><td style=\"padding:2px 14px 2px 0;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:11px;letter-spacing:1px;text-transform:uppercase;color:#A07A35;white-space:nowrap\">WhatsApp</td><td style=\"padding:2px 0;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:14px\"><a href=\"https://wa.me/918320052970\" style=\"color:#3B78B8;text-decoration:none\">+91 83200 52970</a></td></tr><tr><td style=\"padding:2px 14px 2px 0;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:11px;letter-spacing:1px;text-transform:uppercase;color:#A07A35;white-space:nowrap\">Phone / WhatsApp</td><td style=\"padding:2px 0;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:14px\"><a href=\"https://wa.me/917069006298\" style=\"color:#3B78B8;text-decoration:none\">+91 70690 06298</a></td></tr><tr><td style=\"padding:2px 14px 2px 0;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:11px;letter-spacing:1px;text-transform:uppercase;color:#A07A35;white-space:nowrap\">SEBI Reg. No.</td><td style=\"padding:2px 0;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:14px\">IN/AIF3/25-26/2108</td></tr></table></td></tr></table></td></tr><tr><td style=\"padding:12px 4px 8px 4px;border-top:1px solid #B9B2A5;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:11px;line-height:1.55;color:#7B8491\">This email is for introduction purposes only and does not constitute an offer, solicitation or commitment to invest. Any investment is subject to the Fund&#x27;s due diligence, investment committee approval and applicable SEBI regulations. To stop receiving emails from us, reply with “unsubscribe”.</td></tr></table></td></tr></table></body></html>",
+   "variant": "brlm",
+   "to": [
+    "vetrivelexplosives.ipo@gyrcapitaladvisors.in"
+   ],
+   "names": [
+    "Mohit Baid"
+   ],
+   "brlm": "GYR Capital Advisors Private Limited"
+  }
+ ],
+ "warnings": [
+  "Some core figures could not be cross-checked; only verified figures are used in the email."
+ ],
+ "processed_at": "2026-11-08T03:29:16+05:30"
+}

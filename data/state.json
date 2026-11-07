@@ -337,6 +337,98 @@
    "at": "2026-11-07T23:24:11+05:30",
    "company": "Sunil Gold India Limited",
    "version": 4
+  },
+  "momaiart": {
+   "ref": "https://www.sebi.gov.in/sebi_data/attachdocs/oct-2026/1791356151210.PDF",
+   "listing_ref": "https://www.sebi.gov.in/filings/public-issues/sep-2026/momai-art-limited-drhp_105066.html",
+   "at": "2026-11-08T03:27:56+05:30",
+   "company": "Momai Art Limited",
+   "version": 4
+  },
+  "sarvafoamindustries": {
+   "ref": "https://www.sebi.gov.in/sebi_data/attachdocs/oct-2026/1791286434593.pdf",
+   "listing_ref": "https://www.sebi.gov.in/filings/public-issues/sep-2026/sarva-foam-industries-limited-drhp_105054.html",
+   "at": "2026-11-08T03:28:34+05:30",
+   "company": "Sarva Foam Industries Limited",
+   "version": 4
+  },
+  "vardhmanappliances": {
+   "ref": "https://nsearchives.nseindia.com/corporate/AD_IPO_7804_30092026122817.zip",
+   "listing_ref": "https://nsearchives.nseindia.com/corporate/AD_IPO_7804_30092026122817.zip",
+   "at": "2026-11-08T03:28:39+05:30",
+   "company": "Vardhman Appliances Limited",
+   "version": 4
+  },
+  "aitmcventures": {
+   "ref": "https://nsearchives.nseindia.com/corporate/AAITMC_UDRHP.pdf",
+   "listing_ref": "https://nsearchives.nseindia.com/corporate/AAITMC_UDRHP.pdf",
+   "at": "2026-11-08T03:28:50+05:30",
+   "company": "AITMC Ventures Limited",
+   "version": 4
+  },
+  "oremetalloysandcastings": {
+   "ref": "https://nsearchives.nseindia.com/emerge/corporates/content/AD_IPO_7826_30092026213847.zip",
+   "listing_ref": "https://nsearchives.nseindia.com/emerge/corporates/content/AD_IPO_7826_30092026213847.zip",
+   "error": "NSE Emerge: zip has no PDF",
+   "at": "2026-11-08T03:28:57+05:30",
+   "company": "Oremet Alloys And Castings Limited",
+   "attempts": 1,
+   "version": 4
+  },
+  "itwingsinfosystem": {
+   "ref": "https://nsearchives.nseindia.com/emerge/corporates/content/AD_IPO_7819_30092026192415.zip",
+   "listing_ref": "https://nsearchives.nseindia.com/emerge/corporates/content/AD_IPO_7819_30092026192415.zip",
+   "error": "NSE Emerge: zip has no PDF",
+   "at": "2026-11-08T03:28:59+05:30",
+   "company": "Itwings Infosystem Limited",
+   "attempts": 1,
+   "version": 4
+  },
+  "suntekaxpressindia": {
+   "ref": "https://nsearchives.nseindia.com/emerge/corporates/content/AD_IPO_7830_30092026223019.zip",
+   "listing_ref": "https://nsearchives.nseindia.com/emerge/corporates/content/AD_IPO_7830_30092026223019.zip",
+   "at": "2026-11-08T03:29:05+05:30",
+   "company": "Suntek Axpress India Limited",
+   "version": 4
+  },
+  "abacuslifestylebrands": {
+   "ref": "https://nsearchives.nseindia.com/emerge/corporates/content/AD_IPO_7838_30092026234827.zip",
+   "listing_ref": "https://nsearchives.nseindia.com/emerge/corporates/content/AD_IPO_7838_30092026234827.zip",
+   "error": "NSE Emerge: document has only 6 pages (incomplete download or not the DRHP)",
+   "at": "2026-11-08T03:29:08+05:30",
+   "company": "Abacus Lifestyle Brands Limited",
+   "attempts": 1,
+   "version": 4
+  },
+  "sabariconstructiontechnologies": {
+   "ref": "https://nsearchives.nseindia.com/emerge/corporates/content/AD_IPO_7833_30092026225803.zip",
+   "listing_ref": "https://nsearchives.nseindia.com/emerge/corporates/content/AD_IPO_7833_30092026225803.zip",
+   "at": "2026-11-08T03:29:13+05:30",
+   "company": "Sabari Construction Technologies Limited",
+   "version": 4
+  },
+  "vetrivelexplosives": {
+   "ref": "https://nsearchives.nseindia.com/emerge/corporates/content/AD_IPO_7831_30092026222828.zip",
+   "listing_ref": "https://nsearchives.nseindia.com/emerge/corporates/content/AD_IPO_7831_30092026222828.zip",
+   "at": "2026-11-08T03:29:16+05:30",
+   "company": "Vetrivel Explosives Limited",
+   "version": 4
+  },
+  "lasertechnologies": {
+   "ref": "https://nsearchives.nseindia.com/emerge/corporates/content/AD_IPO_7849_01102026121239.zip",
+   "listing_ref": "https://nsearchives.nseindia.com/emerge/corporates/content/AD_IPO_7849_01102026121239.zip",
+   "error": "NSE Emerge: zip has no PDF",
+   "at": "2026-11-08T03:29:25+05:30",
+   "company": "Laser Technologies Limited",
+   "attempts": 1,
+   "version": 4
+  },
+  "sbiplprojects": {
+   "ref": "https://nsearchives.nseindia.com/emerge/corporates/content/AD_IPO_7846_01102026011300.zip",
+   "listing_ref": "https://nsearchives.nseindia.com/emerge/corporates/content/AD_IPO_7846_01102026011300.zip",
+   "at": "2026-11-08T03:29:29+05:30",
+   "company": "Sbipl Projects Limited",
+   "version": 4
   }
  }
 }

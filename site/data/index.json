@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-07T23:24:11+05:30",
+ "updated_at": "2026-11-08T03:30:09+05:30",
  "companies": [
   {
    "key": "hindustancocacolaholdings",
@@ -2179,6 +2179,228 @@
    "processed_at": "2026-11-07T23:21:47+05:30"
   },
   {
+   "key": "aitmcventures",
+   "company": "AITMC Ventures Limited",
+   "board": "Mainboard",
+   "exchange": "BSE & NSE",
+   "source": "NSE",
+   "filed_on": "2026-09-30",
+   "doc_type": "DRHP",
+   "brlms": [],
+   "promoters": [
+    "Deep",
+    "Preet Sandhuu"
+   ],
+   "pre_ipo": false,
+   "latest": {
+    "revenue": {
+     "v": 106.7559,
+     "s": "verified"
+    },
+    "pat": {
+     "v": 13.3834,
+     "s": "verified"
+    },
+    "total_equity": {
+     "v": 70.3072,
+     "s": "verified"
+    },
+    "EBITDA margin": {
+     "v": 0.262582,
+     "s": "verified"
+    },
+    "PAT margin": {
+     "v": 0.125364,
+     "s": "verified"
+    },
+    "RoNW (closing)": {
+     "v": 0.190356,
+     "s": "verified"
+    },
+    "Debt / Equity": {
+     "v": 0.599873,
+     "s": "verified"
+    },
+    "Revenue growth": {
+     "v": 0.220486,
+     "s": "verified"
+    },
+    "fy": "FY26"
+   },
+   "verified": true,
+   "warnings": [],
+   "processed_at": "2026-11-08T03:28:50+05:30"
+  },
+  {
+   "key": "momaiart",
+   "company": "Momai Art Limited",
+   "board": "Mainboard",
+   "exchange": null,
+   "source": "SEBI",
+   "filed_on": "2026-09-30",
+   "doc_type": "DRHP",
+   "brlms": [
+    "Marwadi Chandarana Intermediaries Brokers Private Limited"
+   ],
+   "promoters": [
+    "Nikhil Tulsidas Vaya",
+    "Rahul Tulsibhai Vaya",
+    "Atul Jentilal Patt"
+   ],
+   "pre_ipo": false,
+   "latest": {
+    "revenue": {
+     "v": 662.23,
+     "s": "verified"
+    },
+    "pat": {
+     "v": 39.005,
+     "s": "mismatch"
+    },
+    "total_equity": {
+     "v": 50.807,
+     "s": "verified"
+    },
+    "EBITDA margin": {
+     "v": 0.090923,
+     "s": "verified"
+    },
+    "PAT margin": {
+     "v": 0.058899,
+     "s": "mismatch"
+    },
+    "RoNW (closing)": {
+     "v": 0.767709,
+     "s": "mismatch"
+    },
+    "Debt / Equity": {
+     "v": 1.737438,
+     "s": "verified"
+    },
+    "Revenue growth": {
+     "v": 0.189205,
+     "s": "verified"
+    },
+    "fy": "FY26"
+   },
+   "verified": false,
+   "warnings": [
+    "Some core figures could not be cross-checked; only verified figures are used in the email."
+   ],
+   "processed_at": "2026-11-08T03:27:56+05:30"
+  },
+  {
+   "key": "sabariconstructiontechnologies",
+   "company": "Sabari Construction Technologies Limited",
+   "board": "SME",
+   "exchange": "NSE Emerge",
+   "source": "NSE Emerge",
+   "filed_on": "2026-09-30",
+   "doc_type": "DRHP",
+   "brlms": [],
+   "promoters": [
+    "Mr. Vangatachalapathy K",
+    "Mr. A Arunsakdeeban",
+    "Mrs. Preethi Vangat"
+   ],
+   "pre_ipo": false,
+   "latest": {
+    "pat": {
+     "v": 56.6267,
+     "s": "verified"
+    },
+    "fy": "FY26"
+   },
+   "verified": false,
+   "warnings": [
+    "Some core figures could not be cross-checked; only verified figures are used in the email.",
+    "No usable email found for promoters, BRLM or the company."
+   ],
+   "processed_at": "2026-11-08T03:29:13+05:30"
+  },
+  {
+   "key": "sarvafoamindustries",
+   "company": "Sarva Foam Industries Limited",
+   "board": "Mainboard",
+   "exchange": "BSE & NSE",
+   "source": "SEBI",
+   "filed_on": "2026-09-30",
+   "doc_type": "DRHP",
+   "brlms": [
+    "Beeline Capital Advisors Private Limited"
+   ],
+   "promoters": [
+    "Kunal Giani"
+   ],
+   "pre_ipo": true,
+   "latest": {
+    "revenue": {
+     "v": 206.121,
+     "s": "verified"
+    },
+    "pat": {
+     "v": 17.927,
+     "s": "verified"
+    },
+    "total_equity": {
+     "v": 72.16,
+     "s": "verified"
+    },
+    "EBITDA margin": {
+     "v": 0.160532,
+     "s": "verified"
+    },
+    "PAT margin": {
+     "v": 0.086973,
+     "s": "verified"
+    },
+    "RoNW (closing)": {
+     "v": 0.248434,
+     "s": "verified"
+    },
+    "Debt / Equity": {
+     "v": 1.368265,
+     "s": "verified"
+    },
+    "Revenue growth": {
+     "v": 0.178899,
+     "s": "verified"
+    },
+    "fy": "FY26"
+   },
+   "verified": false,
+   "warnings": [
+    "Some core figures could not be cross-checked; only verified figures are used in the email."
+   ],
+   "processed_at": "2026-11-08T03:28:34+05:30"
+  },
+  {
+   "key": "sbiplprojects",
+   "company": "Sbipl Projects Limited",
+   "board": "SME",
+   "exchange": "NSE Emerge",
+   "source": "NSE Emerge",
+   "filed_on": "2026-09-30",
+   "doc_type": "DRHP",
+   "brlms": [
+    "Hem Securities Limited"
+   ],
+   "promoters": [
+    "Surender Pal",
+    "Suramveer",
+    "Vishal Choudhary"
+   ],
+   "pre_ipo": false,
+   "latest": {
+    "fy": "FY26"
+   },
+   "verified": false,
+   "warnings": [
+    "Some core figures could not be cross-checked; only verified figures are used in the email."
+   ],
+   "processed_at": "2026-11-08T03:29:29+05:30"
+  },
+  {
    "key": "sunilgoldindia",
    "company": "Sunil Gold India Limited",
    "board": "Mainboard",
@@ -2233,6 +2455,143 @@
    "verified": true,
    "warnings": [],
    "processed_at": "2026-11-07T23:24:11+05:30"
+  },
+  {
+   "key": "suntekaxpressindia",
+   "company": "Suntek Axpress India Limited",
+   "board": "SME",
+   "exchange": "NSE Emerge",
+   "source": "NSE Emerge",
+   "filed_on": "2026-09-30",
+   "doc_type": "DRHP",
+   "brlms": [],
+   "promoters": [
+    "Mr. Khushi Ram Sharma",
+    "Mrs. Renu K Sharma",
+    "Mr. Sunil Khushiram Sharma"
+   ],
+   "pre_ipo": true,
+   "latest": {
+    "revenue": {
+     "v": 182.19,
+     "s": "verified"
+    },
+    "pat": {
+     "v": 8.503,
+     "s": "verified"
+    },
+    "EBITDA margin": {
+     "v": 0.069081,
+     "s": "verified"
+    },
+    "PAT margin": {
+     "v": 0.046671,
+     "s": "verified"
+    },
+    "Revenue growth": {
+     "v": 0.159732,
+     "s": "verified"
+    },
+    "fy": "FY26"
+   },
+   "verified": false,
+   "warnings": [
+    "Some core figures could not be cross-checked; only verified figures are used in the email.",
+    "No usable email found for promoters, BRLM or the company."
+   ],
+   "processed_at": "2026-11-08T03:29:05+05:30"
+  },
+  {
+   "key": "vardhmanappliances",
+   "company": "Vardhman Appliances Limited",
+   "board": "Mainboard",
+   "exchange": "BSE & NSE",
+   "source": "NSE",
+   "filed_on": "2026-09-30",
+   "doc_type": "DRHP",
+   "brlms": [
+    "IDBI Capital Markets & Securities Limited",
+    "Pantomath Capital Advisors Private Limited^"
+   ],
+   "promoters": [
+    "Parmod Kumar Jain",
+    "Subodh Kumar Jain",
+    "Vinod Kumar Jain",
+    "Piyush Jain",
+    "Akhil Jain",
+    "Siddharth Jain",
+    "Sambhav Jain",
+    "Vineet Jain"
+   ],
+   "pre_ipo": true,
+   "latest": {
+    "revenue": {
+     "v": 869.618,
+     "s": "verified"
+    },
+    "pat": {
+     "v": 22.485,
+     "s": "verified"
+    },
+    "total_equity": {
+     "v": 100.472,
+     "s": "verified"
+    },
+    "EBITDA margin": {
+     "v": 0.059753,
+     "s": "verified"
+    },
+    "PAT margin": {
+     "v": 0.025856,
+     "s": "verified"
+    },
+    "RoNW (closing)": {
+     "v": 0.223794,
+     "s": "verified"
+    },
+    "Debt / Equity": {
+     "v": 1.216548,
+     "s": "verified"
+    },
+    "Revenue growth": {
+     "v": 0.040296,
+     "s": "verified"
+    },
+    "fy": "FY26"
+   },
+   "verified": true,
+   "warnings": [],
+   "processed_at": "2026-11-08T03:28:39+05:30"
+  },
+  {
+   "key": "vetrivelexplosives",
+   "company": "Vetrivel Explosives Limited",
+   "board": "SME",
+   "exchange": "NSE Emerge",
+   "source": "NSE Emerge",
+   "filed_on": "2026-09-30",
+   "doc_type": "DRHP",
+   "brlms": [
+    "GYR Capital Advisors Private Limited"
+   ],
+   "promoters": [
+    "Vijayakannan Ramalingam",
+    "Vetrivel Ramalingam",
+    "Premalatha Rangasamy Mudaliar"
+   ],
+   "pre_ipo": false,
+   "latest": {
+    "pat": {
+     "v": 14.6317,
+     "s": "verified"
+    },
+    "fy": "FY26"
+   },
+   "verified": false,
+   "warnings": [
+    "Some core figures could not be cross-checked; only verified figures are used in the email."
+   ],
+   "processed_at": "2026-11-08T03:29:16+05:30"
   },
   {
    "key": "vinirengineering",
