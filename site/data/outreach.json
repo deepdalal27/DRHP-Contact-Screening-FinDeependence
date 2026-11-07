@@ -4674,7 +4674,665 @@
    },
    "website": "https://inoxclean.com",
    "doc_url": "https://www.sebi.gov.in/sebi_data/attachdocs/oct-2026/1791185432391_1401.pdf"
+  },
+  {
+   "id": "rudragreenshiprecycling|rudra.ipo@cumulativecapital.group",
+   "company_key": "rudragreenshiprecycling",
+   "company": "Rudra Green Ship Recycling Limited",
+   "board": "Mainboard",
+   "filed_on": "2026-10-05",
+   "variant": "brlm",
+   "role": "BRLM contact",
+   "organisation": "Cumulative Capital Private Limited",
+   "names": [
+    "Swapnilsagar Vithalani",
+    "Aditya Benke"
+   ],
+   "email": "rudra.ipo@cumulativecapital.group",
+   "phones": [
+    "+91 981 966 2664",
+    "84259 00196"
+   ],
+   "subject": "Parshwanath Capital Ventures Fund | Pre-IPO & Anchor interest – Rudra Green Ship Recycling Limited",
+   "status": "sent",
+   "sent_at": "2026-11-07T15:53:32+05:30",
+   "created_at": "2026-11-07T15:53:32+05:30",
+   "message_id": "<179404700808.2486.8378489582412682654@gmail.com>",
+   "error": null,
+   "promoters": [
+    "Ashokkumar Jagdishram Gupta",
+    "Shamarani Ashokkumar Gupta",
+    "Sahil Ashok Gupta",
+    "Shrishti Nikhilkumar Gupta",
+    "Sonthalia Steel Rolling Mills Private Limited"
+   ],
+   "brlm_contacts": [
+    {
+     "firm": "Cumulative Capital Private Limited",
+     "people": [
+      "Swapnilsagar Vithalani",
+      "Aditya Benke"
+     ],
+     "emails": [
+      "rudra.ipo@cumulativecapital.group"
+     ],
+     "phones": [
+      "+91 981 966 2664",
+      "84259 00196"
+     ]
+    }
+   ],
+   "cs": {
+    "name": "Vidhi Ankit Pala",
+    "emails": [
+     "cs@rudragreenshiprecycling.com"
+    ],
+    "phones": [
+     "+91 97277 84172"
+    ],
+    "page": 83
+   },
+   "website": "www.rudragreenshiprecycling.com",
+   "doc_url": "https://www.sebi.gov.in/sebi_data/attachdocs/oct-2026/1791185432391_1400.pdf"
+  },
+  {
+   "id": "sanghvihousingandinfrastructure|ipo@afsl.co.in",
+   "company_key": "sanghvihousingandinfrastructure",
+   "company": "Sanghvi Housing and Infrastructure Limited",
+   "board": "Mainboard",
+   "filed_on": "2026-10-05",
+   "variant": "brlm",
+   "role": "BRLM contact",
+   "organisation": "Aryaman Financial Services Limited",
+   "names": [
+    "Vatsal Ganatra"
+   ],
+   "email": "ipo@afsl.co.in",
+   "phones": [
+    "22-6216 6999"
+   ],
+   "subject": "Parshwanath Capital Ventures Fund | Pre-IPO & Anchor interest – Sanghvi Housing and Infrastructure Limited",
+   "status": "sent",
+   "sent_at": "2026-11-07T15:53:54+05:30",
+   "created_at": "2026-11-07T15:53:54+05:30",
+   "message_id": "<179404703262.2486.46143084444372124@gmail.com>",
+   "error": null,
+   "promoters": [
+    "Prithviraj Sankalchand Sanghvi",
+    "Pakshal Prithviraj Sanghvi"
+   ],
+   "brlm_contacts": [
+    {
+     "firm": "Aryaman Financial Services Limited",
+     "people": [
+      "Vatsal Ganatra"
+     ],
+     "emails": [
+      "ipo@afsl.co.in"
+     ],
+     "phones": [
+      "22-6216 6999"
+     ]
+    }
+   ],
+   "cs": {
+    "name": null,
+    "emails": [
+     "shil@sanghvirealty.com"
+    ],
+    "phones": [
+     "+91 90040 48434"
+    ],
+    "page": 75
+   },
+   "website": "www.sanghvirealty.com",
+   "doc_url": "https://www.sebi.gov.in/sebi_data/attachdocs/oct-2026/1791191031146.pdf"
+  },
+  {
+   "id": "tenty|mbk@gretexgroup.com",
+   "company_key": "tenty",
+   "company": "Tenty Limited",
+   "board": "Mainboard",
+   "filed_on": "2026-10-05",
+   "variant": "brlm",
+   "role": "BRLM contact",
+   "organisation": "Gretex Corporate Services Limited",
+   "names": [
+    "Pradip Agarwal",
+    "Rishika Rander"
+   ],
+   "email": "mbk@gretexgroup.com",
+   "phones": [
+    "+91 022 69308500"
+   ],
+   "subject": "Parshwanath Capital Ventures Fund | Pre-IPO & Anchor interest – Tenty Limited",
+   "status": "sent",
+   "sent_at": "2026-11-07T15:54:54+05:30",
+   "created_at": "2026-11-07T15:54:54+05:30",
+   "message_id": "<179404709254.2486.1994945299350550840@gmail.com>",
+   "error": null,
+   "promoters": [
+    "Ashok Goyal",
+    "Nishi Goyal",
+    "Kanishk Goyal",
+    "Neelam Goyal",
+    "Giriraj Ratan Kothari",
+    "Asish Kothari",
+    "Anil Kamboj",
+    "Ranks Fiscals Private Limited"
+   ],
+   "brlm_contacts": [
+    {
+     "firm": "Gretex Corporate Services Limited",
+     "people": [
+      "Pradip Agarwal",
+      "Rishika Rander"
+     ],
+     "emails": [
+      "mbk@gretexgroup.com"
+     ],
+     "phones": [
+      "+91 022 69308500"
+     ]
+    }
+   ],
+   "cs": {
+    "name": "Sunita Shah",
+    "emails": [
+     "cs@tentylimited.com"
+    ],
+    "phones": [
+     "+91 9147111833"
+    ],
+    "page": 89
+   },
+   "website": "www.tentylimited.com",
+   "doc_url": "https://www.sebi.gov.in/sebi_data/attachdocs/oct-2026/1791199771360.pdf"
+  },
+  {
+   "id": "tanviexportsindia|ipo@afsl.co.in",
+   "company_key": "tanviexportsindia",
+   "company": "Tanvi Exports India Limited",
+   "board": "Mainboard",
+   "filed_on": "2026-10-05",
+   "variant": "brlm",
+   "role": "BRLM contact",
+   "organisation": "Aryaman Financial Services Limited",
+   "names": [
+    "Vatsal Ganatra"
+   ],
+   "email": "ipo@afsl.co.in",
+   "phones": [
+    "+91 22 6216 6999"
+   ],
+   "subject": "Parshwanath Capital Ventures Fund | Pre-IPO & Anchor interest – Tanvi Exports India Limited",
+   "status": "sent",
+   "sent_at": "2026-11-07T15:56:10+05:30",
+   "created_at": "2026-11-07T15:56:10+05:30",
+   "message_id": "<179404716908.2486.15364218473718313495@gmail.com>",
+   "error": null,
+   "promoters": [
+    "Bipinbhai Gordhanbhai Viradiya",
+    "Raj Ashokbhai Bhalara",
+    "Mayur Bhupatbhai Limbasiya",
+    "Hiteshbhai Mohanbhai Sardhara",
+    "Hareshbhai Mohanbhai Sardhara"
+   ],
+   "brlm_contacts": [
+    {
+     "firm": "Aryaman Financial Services Limited",
+     "people": [
+      "Vatsal Ganatra"
+     ],
+     "emails": [
+      "ipo@afsl.co.in"
+     ],
+     "phones": [
+      "+91 22 6216 6999"
+     ]
+    }
+   ],
+   "cs": {
+    "name": "Minal Vinodray Lakhalani",
+    "emails": [
+     "investor.relations@tanviexports.com"
+    ],
+    "phones": [
+     "+91 281-6173222"
+    ],
+    "page": 88
+   },
+   "website": "www.tanviexports.com",
+   "doc_url": "https://www.sebi.gov.in/sebi_data/attachdocs/oct-2026/1791185432391_1397.pdf"
+  },
+  {
+   "id": "kataline|kataline.ipo@incredcapital.com",
+   "company_key": "kataline",
+   "company": "Kataline Limited",
+   "board": "Mainboard",
+   "filed_on": "2026-10-05",
+   "variant": "brlm",
+   "role": "BRLM contact",
+   "organisation": "InCred Capital Financial Services Limited",
+   "names": [],
+   "email": "kataline.ipo@incredcapital.com",
+   "phones": [
+    "+91 22 4161 1500"
+   ],
+   "subject": "Parshwanath Capital Ventures Fund | Pre-IPO & Anchor interest – Kataline Limited",
+   "status": "sent",
+   "sent_at": "2026-11-07T15:58:06+05:30",
+   "created_at": "2026-11-07T15:58:06+05:30",
+   "message_id": "<179404728462.2486.3770844208629282590@gmail.com>",
+   "error": null,
+   "promoters": [
+    "Amit Arvind Thatte",
+    "Ketaki Amit Thatte",
+    "Abhishek Amit Thatte"
+   ],
+   "brlm_contacts": [
+    {
+     "firm": "InCred Capital Financial Services Limited",
+     "people": [],
+     "emails": [
+      "kataline.ipo@incredcapital.com"
+     ],
+     "phones": [
+      "+91 22 4161 1500"
+     ]
+    },
+    {
+     "firm": "Ashika Capital Limited",
+     "people": [
+      "Mayank Jain"
+     ],
+     "emails": [
+      "kataline.ipo@ashikagroup.com"
+     ],
+     "phones": [
+      "+91 22 6372 0000"
+     ]
+    }
+   ],
+   "cs": {
+    "name": "Milind Suryakant Rao",
+    "emails": [
+     "cs@katalineindia.com"
+    ],
+    "phones": [
+     "+91 712 223 3968"
+    ],
+    "page": 91
+   },
+   "website": "www.katalineindia.com",
+   "doc_url": "https://www.sebi.gov.in/sebi_data/attachdocs/oct-2026/1791181536748.pdf"
+  },
+  {
+   "id": "kataline|kataline.ipo@ashikagroup.com",
+   "company_key": "kataline",
+   "company": "Kataline Limited",
+   "board": "Mainboard",
+   "filed_on": "2026-10-05",
+   "variant": "brlm",
+   "role": "BRLM contact",
+   "organisation": "Ashika Capital Limited",
+   "names": [
+    "Mayank Jain"
+   ],
+   "email": "kataline.ipo@ashikagroup.com",
+   "phones": [
+    "+91 22 6372 0000"
+   ],
+   "subject": "Parshwanath Capital Ventures Fund | Pre-IPO & Anchor interest – Kataline Limited",
+   "status": "sent",
+   "sent_at": "2026-11-07T15:58:08+05:30",
+   "created_at": "2026-11-07T15:58:08+05:30",
+   "message_id": "<179404728630.2486.12842476981666186986@gmail.com>",
+   "error": null,
+   "promoters": [
+    "Amit Arvind Thatte",
+    "Ketaki Amit Thatte",
+    "Abhishek Amit Thatte"
+   ],
+   "brlm_contacts": [
+    {
+     "firm": "InCred Capital Financial Services Limited",
+     "people": [],
+     "emails": [
+      "kataline.ipo@incredcapital.com"
+     ],
+     "phones": [
+      "+91 22 4161 1500"
+     ]
+    },
+    {
+     "firm": "Ashika Capital Limited",
+     "people": [
+      "Mayank Jain"
+     ],
+     "emails": [
+      "kataline.ipo@ashikagroup.com"
+     ],
+     "phones": [
+      "+91 22 6372 0000"
+     ]
+    }
+   ],
+   "cs": {
+    "name": "Milind Suryakant Rao",
+    "emails": [
+     "cs@katalineindia.com"
+    ],
+    "phones": [
+     "+91 712 223 3968"
+    ],
+    "page": 91
+   },
+   "website": "www.katalineindia.com",
+   "doc_url": "https://www.sebi.gov.in/sebi_data/attachdocs/oct-2026/1791181536748.pdf"
+  },
+  {
+   "id": "shreejikrupaproject|skpl.ipo@rathi.com",
+   "company_key": "shreejikrupaproject",
+   "company": "Shreejikrupa Project Limited",
+   "board": "Mainboard",
+   "filed_on": "2026-10-05",
+   "variant": "brlm",
+   "role": "BRLM contact",
+   "organisation": "Anand Rathi Advisors Limited",
+   "names": [
+    "Ankisha Sawant",
+    "Suhani Bafna"
+   ],
+   "email": "skpl.ipo@rathi.com",
+   "phones": [
+    "+91 22 4047 7000"
+   ],
+   "subject": "Parshwanath Capital Ventures Fund | Pre-IPO & Anchor interest – Shreejikrupa Project Limited",
+   "status": "sent",
+   "sent_at": "2026-11-07T16:00:35+05:30",
+   "created_at": "2026-11-07T16:00:35+05:30",
+   "message_id": "<179404743407.2486.6301793642316367074@gmail.com>",
+   "error": null,
+   "promoters": [
+    "Karsan Bachu Varsani",
+    "Kevin Karsan Varsani",
+    "Sanjay Kumar Varsani",
+    "Smit Kumanbhai Varsani",
+    "Kumanlal Bachubhai Varsani",
+    "Girishbhai Bachubhai Varsani"
+   ],
+   "brlm_contacts": [
+    {
+     "firm": "Anand Rathi Advisors Limited",
+     "people": [
+      "Ankisha Sawant",
+      "Suhani Bafna"
+     ],
+     "emails": [
+      "skpl.ipo@rathi.com"
+     ],
+     "phones": [
+      "+91 22 4047 7000"
+     ]
+    },
+    {
+     "firm": "Intensive Fiscal Services Private Limited",
+     "people": [
+      "Harish Khajanchi",
+      "Anand Rawal"
+     ],
+     "emails": [
+      "shreejikrupa.ipo@intensivefiscal.com"
+     ],
+     "phones": [
+      "+91 22 2287 0443"
+     ]
+    }
+   ],
+   "cs": null,
+   "website": "www.shreejikrupa.co",
+   "doc_url": "https://nsearchives.nseindia.com/corporate/AD_IPO_7792_29092026225136.zip"
+  },
+  {
+   "id": "shreejikrupaproject|shreejikrupa.ipo@intensivefiscal.com",
+   "company_key": "shreejikrupaproject",
+   "company": "Shreejikrupa Project Limited",
+   "board": "Mainboard",
+   "filed_on": "2026-10-05",
+   "variant": "brlm",
+   "role": "BRLM contact",
+   "organisation": "Intensive Fiscal Services Private Limited",
+   "names": [
+    "Harish Khajanchi",
+    "Anand Rawal"
+   ],
+   "email": "shreejikrupa.ipo@intensivefiscal.com",
+   "phones": [
+    "+91 22 2287 0443"
+   ],
+   "subject": "Parshwanath Capital Ventures Fund | Pre-IPO & Anchor interest – Shreejikrupa Project Limited",
+   "status": "sent",
+   "sent_at": "2026-11-07T16:00:38+05:30",
+   "created_at": "2026-11-07T16:00:38+05:30",
+   "message_id": "<179404743582.2486.9239862119253181178@gmail.com>",
+   "error": null,
+   "promoters": [
+    "Karsan Bachu Varsani",
+    "Kevin Karsan Varsani",
+    "Sanjay Kumar Varsani",
+    "Smit Kumanbhai Varsani",
+    "Kumanlal Bachubhai Varsani",
+    "Girishbhai Bachubhai Varsani"
+   ],
+   "brlm_contacts": [
+    {
+     "firm": "Anand Rathi Advisors Limited",
+     "people": [
+      "Ankisha Sawant",
+      "Suhani Bafna"
+     ],
+     "emails": [
+      "skpl.ipo@rathi.com"
+     ],
+     "phones": [
+      "+91 22 4047 7000"
+     ]
+    },
+    {
+     "firm": "Intensive Fiscal Services Private Limited",
+     "people": [
+      "Harish Khajanchi",
+      "Anand Rawal"
+     ],
+     "emails": [
+      "shreejikrupa.ipo@intensivefiscal.com"
+     ],
+     "phones": [
+      "+91 22 2287 0443"
+     ]
+    }
+   ],
+   "cs": null,
+   "website": "www.shreejikrupa.co",
+   "doc_url": "https://nsearchives.nseindia.com/corporate/AD_IPO_7792_29092026225136.zip"
+  },
+  {
+   "id": "pciinfraprojects|pciinfraprojects.ipo@shareindia.co.in",
+   "company_key": "pciinfraprojects",
+   "company": "PCI Infraprojects Limited",
+   "board": "Mainboard",
+   "filed_on": "2026-10-05",
+   "variant": "brlm",
+   "role": "BRLM contact",
+   "organisation": "Share India Capital Services Private Limited",
+   "names": [
+    "Prapti Abbey",
+    "Kunal Bansal"
+   ],
+   "email": "pciinfraprojects.ipo@shareindia.co.in",
+   "phones": [
+    "+91-120-6483000"
+   ],
+   "subject": "Parshwanath Capital Ventures Fund | Pre-IPO & Anchor interest – PCI Infraprojects Limited",
+   "status": "sent",
+   "sent_at": "2026-11-07T16:02:19+05:30",
+   "created_at": "2026-11-07T16:02:19+05:30",
+   "message_id": "<179404753747.2486.18182064197573792982@gmail.com>",
+   "error": null,
+   "promoters": [
+    "Ankit Tayal",
+    "Mohit Sharma"
+   ],
+   "brlm_contacts": [
+    {
+     "firm": "Share India Capital Services Private Limited",
+     "people": [
+      "Prapti Abbey",
+      "Kunal Bansal"
+     ],
+     "emails": [
+      "pciinfraprojects.ipo@shareindia.co.in"
+     ],
+     "phones": [
+      "+91-120-6483000"
+     ]
+    }
+   ],
+   "cs": {
+    "name": "Himanshu Malik",
+    "emails": [
+     "compliance@pciinfra.in"
+    ],
+    "phones": [
+     "0120-6849502"
+    ],
+    "page": 93
+   },
+   "website": "www.pciinfra.in",
+   "doc_url": "https://www.sebi.gov.in/sebi_data/attachdocs/oct-2026/1791181047209.pdf"
+  },
+  {
+   "id": "anarockpropertyconsultants|anarock.ipo@icicisecurities.com",
+   "company_key": "anarockpropertyconsultants",
+   "company": "Anarock Property Consultants Limited",
+   "board": "Mainboard",
+   "filed_on": "2026-10-05",
+   "variant": "brlm",
+   "role": "BRLM contact",
+   "organisation": "ICICI Securities Limited",
+   "names": [
+    "Soumavo Sarkar"
+   ],
+   "email": "anarock.ipo@icicisecurities.com",
+   "phones": [
+    "+ 91 22 6807 7100",
+    "+ 91 22 4646 4728",
+    "+ 91 22 4031 7000"
+   ],
+   "subject": "Parshwanath Capital Ventures Fund | Pre-IPO & Anchor interest – Anarock Property Consultants Limited",
+   "status": "sent",
+   "sent_at": "2026-11-07T16:03:35+05:30",
+   "created_at": "2026-11-07T16:03:35+05:30",
+   "message_id": "<179404761388.2486.3992625843698250418@gmail.com>",
+   "error": null,
+   "promoters": [
+    "Anuj Puri",
+    "Rohin Raja Shah",
+    "Priti Puri",
+    "Nita Shah",
+    "Khushi Trust",
+    "Peter Properties Limited"
+   ],
+   "brlm_contacts": [
+    {
+     "firm": "ICICI Securities Limited",
+     "people": [
+      "Soumavo Sarkar"
+     ],
+     "emails": [
+      "anarock.ipo@icicisecurities.com",
+      "customercare@icicisecurities.com",
+      "anarock.ipo@iiflcap.com",
+      "ig.ib@iiflcap.com",
+      "anarock.ipo@360.one",
+      "mbinvestorcomplaints@360.one"
+     ],
+     "phones": [
+      "+ 91 22 6807 7100",
+      "+ 91 22 4646 4728",
+      "+ 91 22 4031 7000"
+     ]
+    }
+   ],
+   "cs": {
+    "name": "Anshita Kathal",
+    "emails": [
+     "secretarial@anarock.com"
+    ],
+    "phones": [
+     "+91 22 4293 4224"
+    ],
+    "page": 93
+   },
+   "website": "www.anarock.com",
+   "doc_url": "https://www.sebi.gov.in/sebi_data/attachdocs/oct-2026/1791177470161.pdf"
+  },
+  {
+   "id": "pioneerfabricators|pioneer.ipo@indiacp.com",
+   "company_key": "pioneerfabricators",
+   "company": "Pioneer Fabricators Limited",
+   "board": "Mainboard",
+   "filed_on": "2026-10-01",
+   "variant": "brlm",
+   "role": "BRLM contact",
+   "organisation": "Corporate Professionals Capital Private Limited",
+   "names": [
+    "Mr. Manoj Kumar",
+    "Ms. Ruchika Sharma"
+   ],
+   "email": "pioneer.ipo@indiacp.com",
+   "phones": [
+    "011-40622200"
+   ],
+   "subject": "Parshwanath Capital Ventures Fund | Pre-IPO & Anchor interest – Pioneer Fabricators Limited",
+   "status": "sent",
+   "sent_at": "2026-11-07T16:04:28+05:30",
+   "created_at": "2026-11-07T16:04:28+05:30",
+   "message_id": "<179404766739.2486.3567011586305145925@gmail.com>",
+   "error": null,
+   "promoters": [
+    "Mr. Prakher Rajeev",
+    "Mrs. Seema Agarwal"
+   ],
+   "brlm_contacts": [
+    {
+     "firm": "Corporate Professionals Capital Private Limited",
+     "people": [
+      "Mr. Manoj Kumar",
+      "Ms. Ruchika Sharma"
+     ],
+     "emails": [
+      "pioneer.ipo@indiacp.com"
+     ],
+     "phones": [
+      "011-40622200"
+     ]
+    }
+   ],
+   "cs": {
+    "name": "Ms. Sonal Jain",
+    "emails": [
+     "cs@pioengg.com"
+    ],
+    "phones": [
+     "+91-9756796581"
+    ],
+    "page": 78
+   },
+   "website": "www.pioengg.com",
+   "doc_url": "https://www.sebi.gov.in/sebi_data/attachdocs/nov-2026/1793963648030.pdf"
   }
  ],
- "updated_at": "2026-11-07T14:16:57+05:30"
+ "updated_at": "2026-11-07T16:04:29+05:30"
 }

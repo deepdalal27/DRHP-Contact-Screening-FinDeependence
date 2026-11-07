@@ -130,15 +130,15 @@
    "ref": "https://nsearchives.nseindia.com/corporate/AD_IPO_7990_07112026090107.zip",
    "listing_ref": "https://nsearchives.nseindia.com/corporate/AD_IPO_7990_07112026090107.zip",
    "error": "NSE: zip has no PDF",
-   "at": "2026-11-07T14:03:30+05:30",
+   "at": "2026-11-07T15:52:55+05:30",
    "company": "Il Jin Electronics (India) Limited",
-   "attempts": 1,
+   "attempts": 2,
    "version": 4
   },
   "hindustancocacolaholdings": {
-   "ref": "https://nsearchives.nseindia.com/corporate/Registration_07112026133959_DRHP.pdf",
-   "listing_ref": "https://nsearchives.nseindia.com/corporate/Registration_07112026133959_DRHP.pdf",
-   "at": "2026-11-07T14:03:33+05:30",
+   "ref": "https://nsearchives.nseindia.com/corporate/AD_IPO_7991_07112026140313.zip",
+   "listing_ref": "https://nsearchives.nseindia.com/corporate/AD_IPO_7991_07112026140313.zip",
+   "at": "2026-11-07T15:52:59+05:30",
    "company": "Hindustan Coca Cola Holdings Ltd",
    "version": 4
   },
@@ -189,6 +189,76 @@
    "listing_ref": "https://www.sebi.gov.in/filings/public-issues/oct-2026/inox-clean-energy-limited-drhp_105010.html",
    "at": "2026-11-07T14:16:22+05:30",
    "company": "Inox Clean Energy Limited",
+   "version": 4
+  },
+  "rudragreenshiprecycling": {
+   "ref": "https://www.sebi.gov.in/sebi_data/attachdocs/oct-2026/1791185432391_1400.pdf",
+   "listing_ref": "https://www.sebi.gov.in/filings/public-issues/oct-2026/rudra-green-ship-recycling-limited-drhp_105008.html",
+   "at": "2026-11-07T15:53:28+05:30",
+   "company": "Rudra Green Ship Recycling Limited",
+   "version": 4
+  },
+  "sanghvihousingandinfrastructure": {
+   "ref": "https://www.sebi.gov.in/sebi_data/attachdocs/oct-2026/1791191031146.pdf",
+   "listing_ref": "https://www.sebi.gov.in/filings/public-issues/oct-2026/sanghvi-housing-and-infrastructure-limited-drhp_105004.html",
+   "at": "2026-11-07T15:53:52+05:30",
+   "company": "Sanghvi Housing and Infrastructure Limited",
+   "version": 4
+  },
+  "tenty": {
+   "ref": "https://www.sebi.gov.in/sebi_data/attachdocs/oct-2026/1791199771360.pdf",
+   "listing_ref": "https://www.sebi.gov.in/filings/public-issues/oct-2026/tenty-limited-drhp_105006.html",
+   "at": "2026-11-07T15:54:52+05:30",
+   "company": "Tenty Limited",
+   "version": 4
+  },
+  "tanviexportsindia": {
+   "ref": "https://www.sebi.gov.in/sebi_data/attachdocs/oct-2026/1791185432391_1397.pdf",
+   "listing_ref": "https://www.sebi.gov.in/filings/public-issues/oct-2026/tanvi-exports-india-limited-drhp_105002.html",
+   "at": "2026-11-07T15:56:09+05:30",
+   "company": "Tanvi Exports India Limited",
+   "version": 4
+  },
+  "nntdevelopers": {
+   "ref": "https://www.sebi.gov.in/sebi_data/attachdocs/oct-2026/1791185432391_1396.pdf",
+   "listing_ref": "https://www.sebi.gov.in/filings/public-issues/oct-2026/nnt-developers-limited-drhp_105000.html",
+   "at": "2026-11-07T15:57:06+05:30",
+   "company": "NNT Developers Limited",
+   "version": 4
+  },
+  "kataline": {
+   "ref": "https://www.sebi.gov.in/sebi_data/attachdocs/oct-2026/1791181536748.pdf",
+   "listing_ref": "https://www.sebi.gov.in/filings/public-issues/oct-2026/kataline-limited-drhp_104993.html",
+   "at": "2026-11-07T15:58:04+05:30",
+   "company": "Kataline Limited",
+   "version": 4
+  },
+  "shreejikrupaproject": {
+   "ref": "https://nsearchives.nseindia.com/corporate/AD_IPO_7792_29092026225136.zip",
+   "listing_ref": "https://www.sebi.gov.in/filings/public-issues/oct-2026/shreejikrupa-project-limited-drhp_104991.html",
+   "at": "2026-11-07T16:00:34+05:30",
+   "company": "Shreejikrupa Project Limited",
+   "version": 4
+  },
+  "pciinfraprojects": {
+   "ref": "https://www.sebi.gov.in/sebi_data/attachdocs/oct-2026/1791181047209.pdf",
+   "listing_ref": "https://www.sebi.gov.in/filings/public-issues/oct-2026/pci-infraprojects-limited-drhp_104989.html",
+   "at": "2026-11-07T16:02:17+05:30",
+   "company": "PCI Infraprojects Limited",
+   "version": 4
+  },
+  "anarockpropertyconsultants": {
+   "ref": "https://www.sebi.gov.in/sebi_data/attachdocs/oct-2026/1791177470161.pdf",
+   "listing_ref": "https://www.sebi.gov.in/filings/public-issues/oct-2026/anarock-property-consultants-limited-drhp_104988.html",
+   "at": "2026-11-07T16:03:33+05:30",
+   "company": "Anarock Property Consultants Limited",
+   "version": 4
+  },
+  "pioneerfabricators": {
+   "ref": "https://www.sebi.gov.in/sebi_data/attachdocs/nov-2026/1793963648030.pdf",
+   "listing_ref": "https://www.sebi.gov.in/filings/public-issues/oct-2026/pioneer-fabricators-limited-drhp_105666.html",
+   "at": "2026-11-07T16:04:27+05:30",
+   "company": "Pioneer Fabricators Limited",
    "version": 4
   }
  }
