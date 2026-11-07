@@ -130,9 +130,9 @@
    "ref": "https://nsearchives.nseindia.com/corporate/AD_IPO_7990_07112026090107.zip",
    "listing_ref": "https://nsearchives.nseindia.com/corporate/AD_IPO_7990_07112026090107.zip",
    "error": "NSE: zip has no PDF",
-   "at": "2026-11-07T15:52:55+05:30",
+   "at": "2026-11-07T23:16:33+05:30",
    "company": "Il Jin Electronics (India) Limited",
-   "attempts": 2,
+   "attempts": 3,
    "version": 4
   },
   "hindustancocacolaholdings": {
@@ -259,6 +259,83 @@
    "listing_ref": "https://www.sebi.gov.in/filings/public-issues/oct-2026/pioneer-fabricators-limited-drhp_105666.html",
    "at": "2026-11-07T16:04:27+05:30",
    "company": "Pioneer Fabricators Limited",
+   "version": 4
+  },
+  "kianmexport": {
+   "ref": "https://www.sebi.gov.in/sebi_data/attachdocs/oct-2026/1790854214439_1393.pdf",
+   "listing_ref": "https://www.sebi.gov.in/filings/public-issues/oct-2026/kian-m-export-limited-drhp_104874.html",
+   "at": "2026-11-07T23:17:20+05:30",
+   "company": "Kian-M Export Limited",
+   "version": 4
+  },
+  "jagatjitagriengineering": {
+   "ref": "https://www.sebi.gov.in/sebi_data/attachdocs/oct-2026/1790859620068.pdf",
+   "listing_ref": "https://www.sebi.gov.in/filings/public-issues/oct-2026/jagatjit-agri-engineering-limited-drhp_104866.html",
+   "at": "2026-11-07T23:18:06+05:30",
+   "company": "Jagatjit Agri Engineering Limited",
+   "version": 4
+  },
+  "ekkaaelectronicsindia": {
+   "ref": "https://www.sebi.gov.in/sebi_data/attachdocs/oct-2026/1790859034640.pdf",
+   "listing_ref": "https://www.sebi.gov.in/filings/public-issues/oct-2026/ekkaa-electronics-india-limited-drhp_104862.html",
+   "at": "2026-11-07T23:18:54+05:30",
+   "company": "Ekkaa Electronics (India) Limited",
+   "version": 4
+  },
+  "koolkingindustriesindia": {
+   "ref": "https://www.sebi.gov.in/sebi_data/attachdocs/oct-2026/1790839813298_1380.pdf",
+   "listing_ref": "https://www.sebi.gov.in/filings/public-issues/oct-2026/koolking-industries-india-limited-drhp_104848.html",
+   "at": "2026-11-07T23:19:29+05:30",
+   "company": "Koolking Industries India Limited",
+   "version": 4
+  },
+  "saiinfinium": {
+   "ref": "https://www.sebi.gov.in/sebi_data/attachdocs/oct-2026/1790839813298_1381.pdf",
+   "listing_ref": "https://www.sebi.gov.in/filings/public-issues/oct-2026/sai-infinium-limited-drhp_104850.html",
+   "at": "2026-11-07T23:20:12+05:30",
+   "company": "SAI Infinium Limited",
+   "version": 4
+  },
+  "jinfratech": {
+   "ref": "https://www.sebi.gov.in/sebi_data/attachdocs/oct-2026/1790839813298_1379.pdf",
+   "listing_ref": "https://www.sebi.gov.in/filings/public-issues/oct-2026/j-infratech-limited-drhp_104846.html",
+   "at": "2026-11-07T23:21:19+05:30",
+   "company": "J Infratech Limited",
+   "version": 4
+  },
+  "royalchain": {
+   "ref": "https://www.sebi.gov.in/sebi_data/attachdocs/oct-2026/1790844520797.pdf",
+   "listing_ref": "https://www.sebi.gov.in/filings/public-issues/oct-2026/royal-chain-limited-drhp_104015.html",
+   "at": "2026-11-07T23:21:45+05:30",
+   "company": "Royal Chain Limited",
+   "version": 4
+  },
+  "srgnarrowfab": {
+   "ref": "https://www.bsesme.com/download/379941/SME_IPO%20InPrinciple/DRHPSRGNarrowBSE_20261001001108.pdf",
+   "listing_ref": "https://www.chittorgarh.com/ipo/srgnarrow-fab-ipo/3379/",
+   "at": "2026-11-07T23:21:47+05:30",
+   "company": "S.R.G.NARROW FAB Limited",
+   "version": 4
+  },
+  "vinirengineering": {
+   "ref": "https://www.sebi.gov.in/sebi_data/attachdocs/oct-2026/1791784998372.pdf",
+   "listing_ref": "https://www.sebi.gov.in/filings/public-issues/sep-2026/vinir-engineering-limited-drhp_105148.html",
+   "at": "2026-11-07T23:22:19+05:30",
+   "company": "Vinir Engineering Limited",
+   "version": 4
+  },
+  "vishakharenewables": {
+   "ref": "https://www.sebi.gov.in/sebi_data/attachdocs/oct-2026/1791449383064.PDF",
+   "listing_ref": "https://www.sebi.gov.in/filings/public-issues/sep-2026/vishakha-renewables-limited-drhp_105101.html",
+   "at": "2026-11-07T23:23:32+05:30",
+   "company": "Vishakha Renewables Limited",
+   "version": 4
+  },
+  "sunilgoldindia": {
+   "ref": "https://www.sebi.gov.in/sebi_data/attachdocs/oct-2026/1791374354312.pdf",
+   "listing_ref": "https://www.sebi.gov.in/filings/public-issues/sep-2026/sunil-gold-india-limited-drhp_105078.html",
+   "at": "2026-11-07T23:24:11+05:30",
+   "company": "Sunil Gold India Limited",
    "version": 4
   }
  }
