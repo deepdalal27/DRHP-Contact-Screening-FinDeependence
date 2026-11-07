@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-07T01:11:36+05:30",
+ "updated_at": "2026-11-07T06:38:47+05:30",
  "companies": [
   {
    "key": "jamnagaragroindustries",
@@ -22,7 +22,7 @@
    "warnings": [
     "BSE SME filing: contacts and figures from Chittorgarh. BSE blocks cloud servers, so the DRHP PDF could not be read automatically; open it from the link above."
    ],
-   "processed_at": "2026-11-07T01:03:24+05:30"
+   "processed_at": "2026-11-07T06:28:17+05:30"
   },
   {
    "key": "pradeepitglobalconsulting",
@@ -45,7 +45,7 @@
    "warnings": [
     "BSE SME filing: contacts and figures from Chittorgarh. BSE blocks cloud servers, so the DRHP PDF could not be read automatically; open it from the link above."
    ],
-   "processed_at": "2026-11-07T01:04:12+05:30"
+   "processed_at": "2026-11-07T06:29:39+05:30"
   },
   {
    "key": "southeasterncoalfields",
@@ -75,7 +75,7 @@
    "warnings": [
     "Some core figures could not be cross-checked; only verified figures are used in the email."
    ],
-   "processed_at": "2026-11-07T01:04:12+05:30"
+   "processed_at": "2026-11-07T06:29:38+05:30"
   },
   {
    "key": "sahanaratnabh",
@@ -226,7 +226,7 @@
    "warnings": [
     "Some core figures could not be cross-checked; only verified figures are used in the email."
    ],
-   "processed_at": "2026-11-07T01:04:47+05:30"
+   "processed_at": "2026-11-07T06:30:10+05:30"
   },
   {
    "key": "gampservices",
@@ -282,7 +282,7 @@
    },
    "verified": true,
    "warnings": [],
-   "processed_at": "2026-11-07T01:05:29+05:30"
+   "processed_at": "2026-11-07T06:30:46+05:30"
   },
   {
    "key": "hungerpangs",
@@ -337,7 +337,7 @@
    },
    "verified": true,
    "warnings": [],
-   "processed_at": "2026-11-07T01:06:14+05:30"
+   "processed_at": "2026-11-07T06:31:37+05:30"
   },
   {
    "key": "mayurelectromeck",
@@ -361,7 +361,7 @@
    "warnings": [
     "BSE SME filing: contacts and figures from Chittorgarh. BSE blocks cloud servers, so the DRHP PDF could not be read automatically; open it from the link above."
    ],
-   "processed_at": "2026-11-07T01:06:15+05:30"
+   "processed_at": "2026-11-07T06:31:38+05:30"
   },
   {
    "key": "paramotordigitaltechnology",
@@ -385,7 +385,7 @@
    "warnings": [
     "Financial statements could not be read from the DRHP"
    ],
-   "processed_at": "2026-11-07T01:06:43+05:30"
+   "processed_at": "2026-11-07T06:32:04+05:30"
   },
   {
    "key": "soleosenergy",
@@ -501,7 +501,7 @@
    "warnings": [
     "Some core figures could not be cross-checked; only verified figures are used in the email."
    ],
-   "processed_at": "2026-11-07T01:09:49+05:30"
+   "processed_at": "2026-11-07T06:36:31+05:30"
   },
   {
    "key": "integrumenergyinfrastructure",
@@ -560,7 +560,7 @@
    },
    "verified": true,
    "warnings": [],
-   "processed_at": "2026-11-07T01:10:36+05:30"
+   "processed_at": "2026-11-07T06:37:11+05:30"
   },
   {
    "key": "pentacleconsultantsi",
@@ -652,7 +652,7 @@
    },
    "verified": true,
    "warnings": [],
-   "processed_at": "2026-11-07T01:11:36+05:30"
+   "processed_at": "2026-11-07T06:38:47+05:30"
   },
   {
    "key": "baangangagolddiamondi",

@@ -5,9 +5,7 @@
  "board": "Mainboard",
  "exchange": "BSE & NSE",
  "source": "SEBI",
- "also_on": [
-  "NSE"
- ],
+ "also_on": [],
  "filed_on": "2026-10-06",
  "doc_type": "DRHP",
  "document_type": "Draft Red Herring Prospectus",
@@ -1536,5 +1534,5 @@
   }
  ],
  "warnings": [],
- "processed_at": "2026-11-07T01:11:36+05:30"
+ "processed_at": "2026-11-07T06:38:47+05:30"
 }
