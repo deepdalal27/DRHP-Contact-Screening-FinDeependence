@@ -290,7 +290,8 @@ def main(argv=None):
     already = {(e["company_key"], e["email"]) for e in outreach["entries"] if e.get("status") == "sent"}
     for f in filings:
         prev = state["processed"].get(f["key"])
-        if prev and prev.get("ref") == (f.get("url") or f.get("page_url")) and not args.url \
+        listing_ref = f.get("url") or f.get("page_url")  # how the filing is listed; stable between runs
+        if prev and listing_ref in (prev.get("listing_ref"), prev.get("ref")) and not args.url \
                 and prev.get("version", 1) >= PIPELINE_VERSION \
                 and (not prev.get("error") or prev.get("attempts", 1) >= 3):
             continue  # already done (failed documents are retried up to 3 times)
@@ -322,14 +323,14 @@ def main(argv=None):
                 record = build_record(f, rec, fin, sender, suppressed)
         except Exception as e:
             traceback.print_exc()
-            state["processed"][f["key"]] = {"ref": f.get("url") or f.get("page_url"), "error": str(e)[:300], "at": now(), "company": f["company"],
+            state["processed"][f["key"]] = {"ref": f.get("url") or f.get("page_url"), "listing_ref": listing_ref, "error": str(e)[:300], "at": now(), "company": f["company"],
                                             "attempts": (prev or {}).get("attempts", 0) + 1, "version": PIPELINE_VERSION}
             continue
         finally:
             for p in CACHE.glob("*.pdf"):
                 p.unlink()
         save(COMPANIES / f"{record['key']}.json", record)
-        state["processed"][f["key"]] = {"ref": f.get("url") or f.get("page_url"), "at": now(), "company": record["company"],
+        state["processed"][f["key"]] = {"ref": f.get("url") or f.get("page_url"), "listing_ref": listing_ref, "at": now(), "company": record["company"],
                                         "version": PIPELINE_VERSION}
         # drop rows for this company that were never sent: they are rebuilt from the fresh extraction
         outreach["entries"] = [e for e in outreach["entries"] if e["company_key"] != record["key"] or e.get("status") == "sent"]

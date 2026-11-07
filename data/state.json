@@ -4,43 +4,50 @@
    "ref": "https://nsearchives.nseindia.com/corporate/AD_IPO_7976_03112026230716.zip",
    "at": "2026-11-05T15:15:48+05:30",
    "company": "Sitaram Denims India Limited",
-   "version": 4
+   "version": 4,
+   "listing_ref": "https://nsearchives.nseindia.com/corporate/AD_IPO_7976_03112026230716.zip"
   },
   "sahanaratnabh": {
    "ref": "https://nsearchives.nseindia.com/emerge/corporates/content/AD_IPO_7977_04112026053912.zip",
    "at": "2026-11-05T15:15:56+05:30",
    "company": "Sahanaratnabh Limited",
-   "version": 4
+   "version": 4,
+   "listing_ref": "https://nsearchives.nseindia.com/emerge/corporates/content/AD_IPO_7977_04112026053912.zip"
   },
   "southeasterncoalfields": {
    "ref": "https://www.sebi.gov.in/sebi_data/attachdocs/nov-2026/1793877677653.pdf",
    "at": "2026-11-07T06:29:38+05:30",
    "company": "South Eastern Coalfields Limited",
-   "version": 4
+   "version": 4,
+   "listing_ref": "https://www.sebi.gov.in/filings/public-issues/nov-2026/south-eastern-coalfields-limited-drhp_105620.html"
   },
   "carlsbergindia": {
    "ref": "https://www.sebi.gov.in/sebi_data/attachdocs/oct-2026/1793273741929.pdf",
    "at": "2026-11-07T06:30:10+05:30",
    "company": "Carlsberg India Limited",
-   "version": 4
+   "version": 4,
+   "listing_ref": "https://www.sebi.gov.in/filings/public-issues/oct-2026/carlsberg-india-limited-udrhp-1_105485.html"
   },
   "gampservices": {
    "ref": "https://www.sebi.gov.in/sebi_data/attachdocs/nov-2026/1793678977908.pdf",
    "at": "2026-11-07T06:30:46+05:30",
    "company": "GAMP Services Limited",
-   "version": 4
+   "version": 4,
+   "listing_ref": "https://www.sebi.gov.in/filings/public-issues/oct-2026/gamp-services-limited-drhp_105424.html"
   },
   "hungerpangs": {
    "ref": "https://www.sebi.gov.in/sebi_data/attachdocs/oct-2026/1792579400603.pdf",
    "at": "2026-11-07T06:31:37+05:30",
    "company": "Hunger Pangs Limited",
-   "version": 4
+   "version": 4,
+   "listing_ref": "https://www.sebi.gov.in/filings/public-issues/oct-2026/hunger-pangs-limited-drhp_105347.html"
   },
   "paramotordigitaltechnology": {
    "ref": "https://www.sebi.gov.in/sebi_data/attachdocs/oct-2026/1791979527596.pdf",
    "at": "2026-11-07T06:32:04+05:30",
    "company": "Paramotor Digital Technology Limited",
-   "version": 4
+   "version": 4,
+   "listing_ref": "https://www.sebi.gov.in/filings/public-issues/oct-2026/paramotor-digital-technology-limited-udrhp-i_105258.html"
   },
   "soleosenergy": {
    "ref": "https://www.sebi.gov.in/filings/public-issues/oct-2026/soleos-energy-limited-drhp_105196.html",
@@ -48,67 +55,78 @@
    "at": "2026-11-07T06:35:19+05:30",
    "company": "Soleos Energy Limited",
    "attempts": 1,
-   "version": 4
+   "version": 4,
+   "listing_ref": "https://www.sebi.gov.in/filings/public-issues/oct-2026/soleos-energy-limited-drhp_105196.html"
   },
   "gracerenewableenergy": {
    "ref": "https://www.sebi.gov.in/sebi_data/attachdocs/oct-2026/1791449032035.PDF",
    "at": "2026-11-07T06:36:31+05:30",
    "company": "Grace Renewable Energy Limited",
-   "version": 4
+   "version": 4,
+   "listing_ref": "https://www.sebi.gov.in/filings/public-issues/oct-2026/grace-renewable-energy-limited-drhp_105099.html"
   },
   "integrumenergyinfrastructure": {
    "ref": "https://www.sebi.gov.in/sebi_data/attachdocs/oct-2026/1791371918993.PDF",
    "at": "2026-11-07T06:37:11+05:30",
    "company": "Integrum Energy Infrastructure Limited",
-   "version": 4
+   "version": 4,
+   "listing_ref": "https://www.sebi.gov.in/filings/public-issues/oct-2026/integrum-energy-infrastructure-limited-drhp_105075.html"
   },
   "pmconaindustries": {
    "ref": "https://www.sebi.gov.in/sebi_data/attachdocs/oct-2026/1791271808233_1407.pdf",
    "at": "2026-11-07T06:38:47+05:30",
    "company": "PM Cona Industries Limited",
-   "version": 4
+   "version": 4,
+   "listing_ref": "https://www.sebi.gov.in/filings/public-issues/oct-2026/pm-cona-industries-limited_105041.html"
   },
   "pentacleconsultantsi": {
    "ref": "https://www.sebi.gov.in/sebi_data/attachdocs/oct-2026/1791271808233_1406.pdf",
    "at": "2026-11-05T16:45:17+05:30",
    "company": "Pentacle Consultants I Limited",
-   "version": 4
+   "version": 4,
+   "listing_ref": "https://www.sebi.gov.in/filings/public-issues/oct-2026/pentacle-consultants-i-limited_105039.html"
   },
   "electromechinfraprojects": {
    "ref": "https://www.sebi.gov.in/sebi_data/attachdocs/oct-2026/1791199559126.pdf",
    "at": "2026-11-05T16:46:09+05:30",
    "company": "Electromech Infraprojects Limited",
-   "version": 4
+   "version": 4,
+   "listing_ref": "https://www.sebi.gov.in/filings/public-issues/oct-2026/electromech-infraprojects-limited-drhp_105027.html"
   },
   "baangangagolddiamondi": {
    "ref": "https://www.sebi.gov.in/sebi_data/attachdocs/oct-2026/1791198965136.pdf",
    "at": "2026-11-05T07:12:59+05:30",
    "company": "Baanganga Gold & Diamond (I) Limited",
-   "version": 3
+   "version": 3,
+   "listing_ref": "https://www.sebi.gov.in/filings/public-issues/oct-2026/baanganga-gold-and-diamond-i-limited-drhp_105025.html"
   },
   "inoxairproducts": {
    "ref": "https://www.sebi.gov.in/sebi_data/attachdocs/oct-2026/1791197450320.pdf",
    "at": "2026-11-05T07:14:22+05:30",
    "company": "Inox Air Products Limited",
-   "version": 3
+   "version": 3,
+   "listing_ref": "https://www.sebi.gov.in/filings/public-issues/oct-2026/inox-air-products-limited-drhp_105024.html"
   },
   "jamnagaragroindustries": {
    "ref": "https://www.bsesme.com/download/331369/SME_IPO%20InPrinciple/JAIDRHP_20261105045926.zip",
    "at": "2026-11-07T06:28:17+05:30",
    "company": "Jamnagar Agro Industries Limited",
-   "version": 4
+   "version": 4,
+   "listing_ref": "https://www.chittorgarh.com/ipo/jamnagar-agro-industries-ipo/3397/"
   },
   "pradeepitglobalconsulting": {
    "ref": "https://www.bsesme.com/download/331470/SME_IPO%20InPrinciple/DRHP_20261104172630.zip",
    "at": "2026-11-07T06:29:39+05:30",
    "company": "Pradeepit Global Consulting Limited",
-   "version": 4
+   "version": 4,
+   "listing_ref": "https://www.chittorgarh.com/ipo/pradeepit-global-consulting-ipo/3396/"
   },
   "mayurelectromeck": {
    "ref": "https://www.bsesme.com/download/374828/SME_IPO%20InPrinciple/DRHP_20261022231644.zip",
    "at": "2026-11-07T06:31:38+05:30",
    "company": "Mayur Electromeck Limited",
-   "version": 4
+   "version": 4,
+   "listing_ref": "https://www.chittorgarh.com/ipo/mayur-electromeck-ipo/3392/"
   }
  }
 }
