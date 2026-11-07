@@ -1,63 +1,6 @@
 {
  "entries": [
   {
-   "id": "baangangagolddiamondi|complaint@damcapital.in",
-   "company_key": "baangangagolddiamondi",
-   "company": "Baanganga Gold & Diamond (I) Limited",
-   "board": "Mainboard",
-   "filed_on": "2026-10-05",
-   "variant": "brlm",
-   "role": "BRLM contact",
-   "organisation": "DAM Capital Advisors Limited",
-   "names": [
-    "Aanchal Wagle",
-    "Rishi Kakkad"
-   ],
-   "email": "complaint@damcapital.in",
-   "phones": [
-    "+91 22 4202 2500"
-   ],
-   "subject": "Parshwanath Capital Ventures Fund | Pre-IPO & Anchor interest – Baanganga Gold & Diamond (I) Limited",
-   "status": "skipped",
-   "sent_at": null,
-   "created_at": "2026-11-05T07:12:59+05:30",
-   "message_id": null,
-   "error": "Investor-complaints mailbox: not used for deal outreach",
-   "promoters": [
-    "Navratanmal Jeetmal Ganna",
-    "Vikas Navratanmal Ganna",
-    "Jinesh Navratanmal Ganna"
-   ],
-   "brlm_contacts": [
-    {
-     "firm": "DAM Capital Advisors Limited",
-     "people": [
-      "Aanchal Wagle",
-      "Rishi Kakkad"
-     ],
-     "emails": [
-      "baanganga.ipo@damcapital.in",
-      "complaint@damcapital.in"
-     ],
-     "phones": [
-      "+91 22 4202 2500"
-     ]
-    }
-   ],
-   "cs": {
-    "name": "Vinaya Sanjay Patil",
-    "emails": [
-     "cs@baangangajewellers.com"
-    ],
-    "phones": [
-     "022 2244 4455"
-    ],
-    "page": 97
-   },
-   "website": "www.baangangagold.com",
-   "doc_url": "https://www.sebi.gov.in/sebi_data/attachdocs/oct-2026/1791198965136.pdf"
-  },
-  {
    "id": "jamnagaragroindustries|cs@jamnagaragroindustries.com",
    "company_key": "jamnagaragroindustries",
    "company": "Jamnagar Agro Industries Limited",
@@ -2055,7 +1998,2683 @@
    },
    "website": null,
    "doc_url": "https://www.sebi.gov.in/sebi_data/attachdocs/oct-2026/1791199559126.pdf"
+  },
+  {
+   "id": "hindustancocacolaholdings|hcch.ipo@kotak.com",
+   "company_key": "hindustancocacolaholdings",
+   "company": "Hindustan Coca Cola Holdings Ltd",
+   "board": "Mainboard",
+   "filed_on": "2026-11-06",
+   "variant": "brlm",
+   "role": "BRLM contact",
+   "organisation": "Kotak Mahindra Capital Company Limited",
+   "names": [
+    "Ganesh Rane"
+   ],
+   "email": "hcch.ipo@kotak.com",
+   "phones": [
+    "+ 91-22 4336 0000"
+   ],
+   "subject": "Parshwanath Capital Ventures Fund | Pre-IPO & Anchor interest – Hindustan Coca Cola Holdings Ltd",
+   "status": "sent",
+   "sent_at": "2026-11-07T14:03:41+05:30",
+   "created_at": "2026-11-07T14:03:41+05:30",
+   "message_id": "<179404041367.2463.9041817755468792800@gmail.com>",
+   "error": null,
+   "promoters": [
+    "The Coca-cola Company",
+    "Hindustan Coca-cola Overseas Holdings Pte. LTD",
+    "Jubilant Beverages Limited",
+    "Jubilant Bevco Limited",
+    "Shyam Sunder Bhartia",
+    "Hari Shanker Bhartia",
+    "Arjun Shanker Bhartia",
+    "Shamit Bhartia",
+    "Shyam Sunder Bhartia Family Trust",
+    "Hari Shanker Bhartia Family Trust"
+   ],
+   "brlm_contacts": [
+    {
+     "firm": "Kotak Mahindra Capital Company Limited",
+     "people": [
+      "Ganesh Rane"
+     ],
+     "emails": [
+      "hcch.ipo@kotak.com"
+     ],
+     "phones": [
+      "+ 91-22 4336 0000"
+     ]
+    },
+    {
+     "firm": "Citigroup Global Markets India Private Limited",
+     "people": [
+      "Ashwath Vohra",
+      "Nilay Kala"
+     ],
+     "emails": [
+      "hcch.ipo@citi.com"
+     ],
+     "phones": [
+      "+91-22 6175 9999"
+     ]
+    },
+    {
+     "firm": "J.P. Morgan India Private Limited",
+     "people": [
+      "Vidit Jain",
+      "Rishank Chheda"
+     ],
+     "emails": [
+      "hcch_ipo@morganstanley.com"
+     ],
+     "phones": [
+      "+91-22 6118 1000"
+     ]
+    },
+    {
+     "firm": null,
+     "people": [],
+     "emails": [],
+     "phones": []
+    },
+    {
+     "firm": "Axis Capital Limited",
+     "people": [
+      "Tosit Agarwal",
+      "Pavan Naik"
+     ],
+     "emails": [
+      "hcch.ipo@axiscap.in"
+     ],
+     "phones": [
+      "+91- 22 4325 2183"
+     ]
+    },
+    {
+     "firm": "Goldman Sachs (India) Securities Private Limited",
+     "people": [
+      "Rohan Johar",
+      "Siddhant Choudhary"
+     ],
+     "emails": [
+      "hcchipo@gs.com"
+     ],
+     "phones": [
+      "+91 22 6616 9000"
+     ]
+    },
+    {
+     "firm": "IIFL Capital Services Limited",
+     "people": [
+      "Nishita Mody",
+      "Pawan Kumar Jain"
+     ],
+     "emails": [
+      "hcch.ipo@iiflcap.com"
+     ],
+     "phones": [
+      "+ 91 22 4646 4728"
+     ]
+    }
+   ],
+   "cs": null,
+   "website": null,
+   "doc_url": "https://nsearchives.nseindia.com/corporate/Registration_07112026133959_DRHP.pdf"
+  },
+  {
+   "id": "hindustancocacolaholdings|hcch.ipo@citi.com",
+   "company_key": "hindustancocacolaholdings",
+   "company": "Hindustan Coca Cola Holdings Ltd",
+   "board": "Mainboard",
+   "filed_on": "2026-11-06",
+   "variant": "brlm",
+   "role": "BRLM contact",
+   "organisation": "Citigroup Global Markets India Private Limited",
+   "names": [
+    "Ashwath Vohra",
+    "Nilay Kala"
+   ],
+   "email": "hcch.ipo@citi.com",
+   "phones": [
+    "+91-22 6175 9999"
+   ],
+   "subject": "Parshwanath Capital Ventures Fund | Pre-IPO & Anchor interest – Hindustan Coca Cola Holdings Ltd",
+   "status": "sent",
+   "sent_at": "2026-11-07T14:03:45+05:30",
+   "created_at": "2026-11-07T14:03:45+05:30",
+   "message_id": "<179404042105.2463.637852492128868311@gmail.com>",
+   "error": null,
+   "promoters": [
+    "The Coca-cola Company",
+    "Hindustan Coca-cola Overseas Holdings Pte. LTD",
+    "Jubilant Beverages Limited",
+    "Jubilant Bevco Limited",
+    "Shyam Sunder Bhartia",
+    "Hari Shanker Bhartia",
+    "Arjun Shanker Bhartia",
+    "Shamit Bhartia",
+    "Shyam Sunder Bhartia Family Trust",
+    "Hari Shanker Bhartia Family Trust"
+   ],
+   "brlm_contacts": [
+    {
+     "firm": "Kotak Mahindra Capital Company Limited",
+     "people": [
+      "Ganesh Rane"
+     ],
+     "emails": [
+      "hcch.ipo@kotak.com"
+     ],
+     "phones": [
+      "+ 91-22 4336 0000"
+     ]
+    },
+    {
+     "firm": "Citigroup Global Markets India Private Limited",
+     "people": [
+      "Ashwath Vohra",
+      "Nilay Kala"
+     ],
+     "emails": [
+      "hcch.ipo@citi.com"
+     ],
+     "phones": [
+      "+91-22 6175 9999"
+     ]
+    },
+    {
+     "firm": "J.P. Morgan India Private Limited",
+     "people": [
+      "Vidit Jain",
+      "Rishank Chheda"
+     ],
+     "emails": [
+      "hcch_ipo@morganstanley.com"
+     ],
+     "phones": [
+      "+91-22 6118 1000"
+     ]
+    },
+    {
+     "firm": null,
+     "people": [],
+     "emails": [],
+     "phones": []
+    },
+    {
+     "firm": "Axis Capital Limited",
+     "people": [
+      "Tosit Agarwal",
+      "Pavan Naik"
+     ],
+     "emails": [
+      "hcch.ipo@axiscap.in"
+     ],
+     "phones": [
+      "+91- 22 4325 2183"
+     ]
+    },
+    {
+     "firm": "Goldman Sachs (India) Securities Private Limited",
+     "people": [
+      "Rohan Johar",
+      "Siddhant Choudhary"
+     ],
+     "emails": [
+      "hcchipo@gs.com"
+     ],
+     "phones": [
+      "+91 22 6616 9000"
+     ]
+    },
+    {
+     "firm": "IIFL Capital Services Limited",
+     "people": [
+      "Nishita Mody",
+      "Pawan Kumar Jain"
+     ],
+     "emails": [
+      "hcch.ipo@iiflcap.com"
+     ],
+     "phones": [
+      "+ 91 22 4646 4728"
+     ]
+    }
+   ],
+   "cs": null,
+   "website": null,
+   "doc_url": "https://nsearchives.nseindia.com/corporate/Registration_07112026133959_DRHP.pdf"
+  },
+  {
+   "id": "hindustancocacolaholdings|hcch_ipo@morganstanley.com",
+   "company_key": "hindustancocacolaholdings",
+   "company": "Hindustan Coca Cola Holdings Ltd",
+   "board": "Mainboard",
+   "filed_on": "2026-11-06",
+   "variant": "brlm",
+   "role": "BRLM contact",
+   "organisation": "J.P. Morgan India Private Limited",
+   "names": [
+    "Vidit Jain",
+    "Rishank Chheda"
+   ],
+   "email": "hcch_ipo@morganstanley.com",
+   "phones": [
+    "+91-22 6118 1000"
+   ],
+   "subject": "Parshwanath Capital Ventures Fund | Pre-IPO & Anchor interest – Hindustan Coca Cola Holdings Ltd",
+   "status": "sent",
+   "sent_at": "2026-11-07T14:03:49+05:30",
+   "created_at": "2026-11-07T14:03:49+05:30",
+   "message_id": "<179404042536.2463.9270126684093872440@gmail.com>",
+   "error": null,
+   "promoters": [
+    "The Coca-cola Company",
+    "Hindustan Coca-cola Overseas Holdings Pte. LTD",
+    "Jubilant Beverages Limited",
+    "Jubilant Bevco Limited",
+    "Shyam Sunder Bhartia",
+    "Hari Shanker Bhartia",
+    "Arjun Shanker Bhartia",
+    "Shamit Bhartia",
+    "Shyam Sunder Bhartia Family Trust",
+    "Hari Shanker Bhartia Family Trust"
+   ],
+   "brlm_contacts": [
+    {
+     "firm": "Kotak Mahindra Capital Company Limited",
+     "people": [
+      "Ganesh Rane"
+     ],
+     "emails": [
+      "hcch.ipo@kotak.com"
+     ],
+     "phones": [
+      "+ 91-22 4336 0000"
+     ]
+    },
+    {
+     "firm": "Citigroup Global Markets India Private Limited",
+     "people": [
+      "Ashwath Vohra",
+      "Nilay Kala"
+     ],
+     "emails": [
+      "hcch.ipo@citi.com"
+     ],
+     "phones": [
+      "+91-22 6175 9999"
+     ]
+    },
+    {
+     "firm": "J.P. Morgan India Private Limited",
+     "people": [
+      "Vidit Jain",
+      "Rishank Chheda"
+     ],
+     "emails": [
+      "hcch_ipo@morganstanley.com"
+     ],
+     "phones": [
+      "+91-22 6118 1000"
+     ]
+    },
+    {
+     "firm": null,
+     "people": [],
+     "emails": [],
+     "phones": []
+    },
+    {
+     "firm": "Axis Capital Limited",
+     "people": [
+      "Tosit Agarwal",
+      "Pavan Naik"
+     ],
+     "emails": [
+      "hcch.ipo@axiscap.in"
+     ],
+     "phones": [
+      "+91- 22 4325 2183"
+     ]
+    },
+    {
+     "firm": "Goldman Sachs (India) Securities Private Limited",
+     "people": [
+      "Rohan Johar",
+      "Siddhant Choudhary"
+     ],
+     "emails": [
+      "hcchipo@gs.com"
+     ],
+     "phones": [
+      "+91 22 6616 9000"
+     ]
+    },
+    {
+     "firm": "IIFL Capital Services Limited",
+     "people": [
+      "Nishita Mody",
+      "Pawan Kumar Jain"
+     ],
+     "emails": [
+      "hcch.ipo@iiflcap.com"
+     ],
+     "phones": [
+      "+ 91 22 4646 4728"
+     ]
+    }
+   ],
+   "cs": null,
+   "website": null,
+   "doc_url": "https://nsearchives.nseindia.com/corporate/Registration_07112026133959_DRHP.pdf"
+  },
+  {
+   "id": "hindustancocacolaholdings|hcch.ipo@axiscap.in",
+   "company_key": "hindustancocacolaholdings",
+   "company": "Hindustan Coca Cola Holdings Ltd",
+   "board": "Mainboard",
+   "filed_on": "2026-11-06",
+   "variant": "brlm",
+   "role": "BRLM contact",
+   "organisation": "Axis Capital Limited",
+   "names": [
+    "Tosit Agarwal",
+    "Pavan Naik"
+   ],
+   "email": "hcch.ipo@axiscap.in",
+   "phones": [
+    "+91- 22 4325 2183"
+   ],
+   "subject": "Parshwanath Capital Ventures Fund | Pre-IPO & Anchor interest – Hindustan Coca Cola Holdings Ltd",
+   "status": "sent",
+   "sent_at": "2026-11-07T14:03:53+05:30",
+   "created_at": "2026-11-07T14:03:53+05:30",
+   "message_id": "<179404042959.2463.15847760149543449304@gmail.com>",
+   "error": null,
+   "promoters": [
+    "The Coca-cola Company",
+    "Hindustan Coca-cola Overseas Holdings Pte. LTD",
+    "Jubilant Beverages Limited",
+    "Jubilant Bevco Limited",
+    "Shyam Sunder Bhartia",
+    "Hari Shanker Bhartia",
+    "Arjun Shanker Bhartia",
+    "Shamit Bhartia",
+    "Shyam Sunder Bhartia Family Trust",
+    "Hari Shanker Bhartia Family Trust"
+   ],
+   "brlm_contacts": [
+    {
+     "firm": "Kotak Mahindra Capital Company Limited",
+     "people": [
+      "Ganesh Rane"
+     ],
+     "emails": [
+      "hcch.ipo@kotak.com"
+     ],
+     "phones": [
+      "+ 91-22 4336 0000"
+     ]
+    },
+    {
+     "firm": "Citigroup Global Markets India Private Limited",
+     "people": [
+      "Ashwath Vohra",
+      "Nilay Kala"
+     ],
+     "emails": [
+      "hcch.ipo@citi.com"
+     ],
+     "phones": [
+      "+91-22 6175 9999"
+     ]
+    },
+    {
+     "firm": "J.P. Morgan India Private Limited",
+     "people": [
+      "Vidit Jain",
+      "Rishank Chheda"
+     ],
+     "emails": [
+      "hcch_ipo@morganstanley.com"
+     ],
+     "phones": [
+      "+91-22 6118 1000"
+     ]
+    },
+    {
+     "firm": null,
+     "people": [],
+     "emails": [],
+     "phones": []
+    },
+    {
+     "firm": "Axis Capital Limited",
+     "people": [
+      "Tosit Agarwal",
+      "Pavan Naik"
+     ],
+     "emails": [
+      "hcch.ipo@axiscap.in"
+     ],
+     "phones": [
+      "+91- 22 4325 2183"
+     ]
+    },
+    {
+     "firm": "Goldman Sachs (India) Securities Private Limited",
+     "people": [
+      "Rohan Johar",
+      "Siddhant Choudhary"
+     ],
+     "emails": [
+      "hcchipo@gs.com"
+     ],
+     "phones": [
+      "+91 22 6616 9000"
+     ]
+    },
+    {
+     "firm": "IIFL Capital Services Limited",
+     "people": [
+      "Nishita Mody",
+      "Pawan Kumar Jain"
+     ],
+     "emails": [
+      "hcch.ipo@iiflcap.com"
+     ],
+     "phones": [
+      "+ 91 22 4646 4728"
+     ]
+    }
+   ],
+   "cs": null,
+   "website": null,
+   "doc_url": "https://nsearchives.nseindia.com/corporate/Registration_07112026133959_DRHP.pdf"
+  },
+  {
+   "id": "hindustancocacolaholdings|hcchipo@gs.com",
+   "company_key": "hindustancocacolaholdings",
+   "company": "Hindustan Coca Cola Holdings Ltd",
+   "board": "Mainboard",
+   "filed_on": "2026-11-06",
+   "variant": "brlm",
+   "role": "BRLM contact",
+   "organisation": "Goldman Sachs (India) Securities Private Limited",
+   "names": [
+    "Rohan Johar",
+    "Siddhant Choudhary"
+   ],
+   "email": "hcchipo@gs.com",
+   "phones": [
+    "+91 22 6616 9000"
+   ],
+   "subject": "Parshwanath Capital Ventures Fund | Pre-IPO & Anchor interest – Hindustan Coca Cola Holdings Ltd",
+   "status": "sent",
+   "sent_at": "2026-11-07T14:03:57+05:30",
+   "created_at": "2026-11-07T14:03:57+05:30",
+   "message_id": "<179404043304.2463.8976339466633302071@gmail.com>",
+   "error": null,
+   "promoters": [
+    "The Coca-cola Company",
+    "Hindustan Coca-cola Overseas Holdings Pte. LTD",
+    "Jubilant Beverages Limited",
+    "Jubilant Bevco Limited",
+    "Shyam Sunder Bhartia",
+    "Hari Shanker Bhartia",
+    "Arjun Shanker Bhartia",
+    "Shamit Bhartia",
+    "Shyam Sunder Bhartia Family Trust",
+    "Hari Shanker Bhartia Family Trust"
+   ],
+   "brlm_contacts": [
+    {
+     "firm": "Kotak Mahindra Capital Company Limited",
+     "people": [
+      "Ganesh Rane"
+     ],
+     "emails": [
+      "hcch.ipo@kotak.com"
+     ],
+     "phones": [
+      "+ 91-22 4336 0000"
+     ]
+    },
+    {
+     "firm": "Citigroup Global Markets India Private Limited",
+     "people": [
+      "Ashwath Vohra",
+      "Nilay Kala"
+     ],
+     "emails": [
+      "hcch.ipo@citi.com"
+     ],
+     "phones": [
+      "+91-22 6175 9999"
+     ]
+    },
+    {
+     "firm": "J.P. Morgan India Private Limited",
+     "people": [
+      "Vidit Jain",
+      "Rishank Chheda"
+     ],
+     "emails": [
+      "hcch_ipo@morganstanley.com"
+     ],
+     "phones": [
+      "+91-22 6118 1000"
+     ]
+    },
+    {
+     "firm": null,
+     "people": [],
+     "emails": [],
+     "phones": []
+    },
+    {
+     "firm": "Axis Capital Limited",
+     "people": [
+      "Tosit Agarwal",
+      "Pavan Naik"
+     ],
+     "emails": [
+      "hcch.ipo@axiscap.in"
+     ],
+     "phones": [
+      "+91- 22 4325 2183"
+     ]
+    },
+    {
+     "firm": "Goldman Sachs (India) Securities Private Limited",
+     "people": [
+      "Rohan Johar",
+      "Siddhant Choudhary"
+     ],
+     "emails": [
+      "hcchipo@gs.com"
+     ],
+     "phones": [
+      "+91 22 6616 9000"
+     ]
+    },
+    {
+     "firm": "IIFL Capital Services Limited",
+     "people": [
+      "Nishita Mody",
+      "Pawan Kumar Jain"
+     ],
+     "emails": [
+      "hcch.ipo@iiflcap.com"
+     ],
+     "phones": [
+      "+ 91 22 4646 4728"
+     ]
+    }
+   ],
+   "cs": null,
+   "website": null,
+   "doc_url": "https://nsearchives.nseindia.com/corporate/Registration_07112026133959_DRHP.pdf"
+  },
+  {
+   "id": "hindustancocacolaholdings|hcch.ipo@iiflcap.com",
+   "company_key": "hindustancocacolaholdings",
+   "company": "Hindustan Coca Cola Holdings Ltd",
+   "board": "Mainboard",
+   "filed_on": "2026-11-06",
+   "variant": "brlm",
+   "role": "BRLM contact",
+   "organisation": "IIFL Capital Services Limited",
+   "names": [
+    "Nishita Mody",
+    "Pawan Kumar Jain"
+   ],
+   "email": "hcch.ipo@iiflcap.com",
+   "phones": [
+    "+ 91 22 4646 4728"
+   ],
+   "subject": "Parshwanath Capital Ventures Fund | Pre-IPO & Anchor interest – Hindustan Coca Cola Holdings Ltd",
+   "status": "sent",
+   "sent_at": "2026-11-07T14:04:00+05:30",
+   "created_at": "2026-11-07T14:04:00+05:30",
+   "message_id": "<179404043733.2463.10178498901358650084@gmail.com>",
+   "error": null,
+   "promoters": [
+    "The Coca-cola Company",
+    "Hindustan Coca-cola Overseas Holdings Pte. LTD",
+    "Jubilant Beverages Limited",
+    "Jubilant Bevco Limited",
+    "Shyam Sunder Bhartia",
+    "Hari Shanker Bhartia",
+    "Arjun Shanker Bhartia",
+    "Shamit Bhartia",
+    "Shyam Sunder Bhartia Family Trust",
+    "Hari Shanker Bhartia Family Trust"
+   ],
+   "brlm_contacts": [
+    {
+     "firm": "Kotak Mahindra Capital Company Limited",
+     "people": [
+      "Ganesh Rane"
+     ],
+     "emails": [
+      "hcch.ipo@kotak.com"
+     ],
+     "phones": [
+      "+ 91-22 4336 0000"
+     ]
+    },
+    {
+     "firm": "Citigroup Global Markets India Private Limited",
+     "people": [
+      "Ashwath Vohra",
+      "Nilay Kala"
+     ],
+     "emails": [
+      "hcch.ipo@citi.com"
+     ],
+     "phones": [
+      "+91-22 6175 9999"
+     ]
+    },
+    {
+     "firm": "J.P. Morgan India Private Limited",
+     "people": [
+      "Vidit Jain",
+      "Rishank Chheda"
+     ],
+     "emails": [
+      "hcch_ipo@morganstanley.com"
+     ],
+     "phones": [
+      "+91-22 6118 1000"
+     ]
+    },
+    {
+     "firm": null,
+     "people": [],
+     "emails": [],
+     "phones": []
+    },
+    {
+     "firm": "Axis Capital Limited",
+     "people": [
+      "Tosit Agarwal",
+      "Pavan Naik"
+     ],
+     "emails": [
+      "hcch.ipo@axiscap.in"
+     ],
+     "phones": [
+      "+91- 22 4325 2183"
+     ]
+    },
+    {
+     "firm": "Goldman Sachs (India) Securities Private Limited",
+     "people": [
+      "Rohan Johar",
+      "Siddhant Choudhary"
+     ],
+     "emails": [
+      "hcchipo@gs.com"
+     ],
+     "phones": [
+      "+91 22 6616 9000"
+     ]
+    },
+    {
+     "firm": "IIFL Capital Services Limited",
+     "people": [
+      "Nishita Mody",
+      "Pawan Kumar Jain"
+     ],
+     "emails": [
+      "hcch.ipo@iiflcap.com"
+     ],
+     "phones": [
+      "+ 91 22 4646 4728"
+     ]
+    }
+   ],
+   "cs": null,
+   "website": null,
+   "doc_url": "https://nsearchives.nseindia.com/corporate/Registration_07112026133959_DRHP.pdf"
+  },
+  {
+   "id": "bssponge|cs@bsstmx.com",
+   "company_key": "bssponge",
+   "company": "B S Sponge Limited",
+   "board": "Mainboard",
+   "filed_on": "2026-10-05",
+   "variant": "company",
+   "role": "Company Secretary / IR",
+   "organisation": "B S Sponge Limited",
+   "names": [
+    "Himanshu Pandey"
+   ],
+   "email": "cs@bsstmx.com",
+   "phones": [
+    "+91 62647 98833"
+   ],
+   "subject": "Parshwanath Capital Ventures Fund | Pre-IPO & Anchor interest – B S Sponge Limited",
+   "status": "sent",
+   "sent_at": "2026-11-07T14:10:10+05:30",
+   "created_at": "2026-11-07T14:10:10+05:30",
+   "message_id": "<179404080570.2463.15480407761847182199@gmail.com>",
+   "error": null,
+   "promoters": [
+    "Parmanand Agarwal",
+    "Ashish Agarwal",
+    "Richhi Agarwal",
+    "Bijay Kumar Agarwal",
+    "Nachiketa Gift-ads Private Limited"
+   ],
+   "brlm_contacts": [],
+   "cs": {
+    "name": "Himanshu Pandey",
+    "emails": [
+     "cs@bsstmx.com"
+    ],
+    "phones": [
+     "+91 62647 98833"
+    ],
+    "page": 83
+   },
+   "website": "www.bsstmx.com",
+   "doc_url": "https://www.sebi.gov.in/sebi_data/attachdocs/oct-2026/1791197285629.pdf"
+  },
+  {
+   "id": "everbrandsindia|everbrands.ipo@motilaloswal.com",
+   "company_key": "everbrandsindia",
+   "company": "Everbrands India Limited",
+   "board": "Mainboard",
+   "filed_on": "2026-10-05",
+   "variant": "brlm",
+   "role": "BRLM contact",
+   "organisation": "Motilal Oswal Investment Advisors Limited",
+   "names": [
+    "Kunal Thakkar",
+    "Vaibhav Shah"
+   ],
+   "email": "everbrands.ipo@motilaloswal.com",
+   "phones": [
+    "+91 22 7193 4380"
+   ],
+   "subject": "Parshwanath Capital Ventures Fund | Pre-IPO & Anchor interest – Everbrands India Limited",
+   "status": "sent",
+   "sent_at": "2026-11-07T14:10:50+05:30",
+   "created_at": "2026-11-07T14:10:50+05:30",
+   "message_id": "<179404084732.2463.514597425305613022@gmail.com>",
+   "error": null,
+   "promoters": [
+    "Sameer Sain",
+    "Atul Kapur",
+    "Evergroup Limited"
+   ],
+   "brlm_contacts": [
+    {
+     "firm": "Motilal Oswal Investment Advisors Limited",
+     "people": [
+      "Kunal Thakkar",
+      "Vaibhav Shah"
+     ],
+     "emails": [
+      "everbrands.ipo@motilaloswal.com"
+     ],
+     "phones": [
+      "+91 22 7193 4380"
+     ]
+    },
+    {
+     "firm": "ICICI Securities Limited",
+     "people": [
+      "Soumavo Sarkar",
+      "Rahul Sharma"
+     ],
+     "emails": [
+      "everbrands.ipo@icicisecurities.com"
+     ],
+     "phones": [
+      "+91 22 6807 7100"
+     ]
+    },
+    {
+     "firm": "Nuvama Wealth Management Limited",
+     "people": [
+      "Lokesh Shah",
+      "Pari Vaya"
+     ],
+     "emails": [
+      "everbrands.ipo@nuvama.com"
+     ],
+     "phones": [
+      "+91 22 4009 4400"
+     ]
+    }
+   ],
+   "cs": {
+    "name": null,
+    "emails": [
+     "investor@everbrands.in"
+    ],
+    "phones": [
+     "+91 92173 33455"
+    ],
+    "page": 85
+   },
+   "website": "www.everbrands.in",
+   "doc_url": "https://www.sebi.gov.in/sebi_data/attachdocs/oct-2026/1791197042793.pdf"
+  },
+  {
+   "id": "everbrandsindia|everbrands.ipo@icicisecurities.com",
+   "company_key": "everbrandsindia",
+   "company": "Everbrands India Limited",
+   "board": "Mainboard",
+   "filed_on": "2026-10-05",
+   "variant": "brlm",
+   "role": "BRLM contact",
+   "organisation": "ICICI Securities Limited",
+   "names": [
+    "Soumavo Sarkar",
+    "Rahul Sharma"
+   ],
+   "email": "everbrands.ipo@icicisecurities.com",
+   "phones": [
+    "+91 22 6807 7100"
+   ],
+   "subject": "Parshwanath Capital Ventures Fund | Pre-IPO & Anchor interest – Everbrands India Limited",
+   "status": "sent",
+   "sent_at": "2026-11-07T14:10:54+05:30",
+   "created_at": "2026-11-07T14:10:54+05:30",
+   "message_id": "<179404085072.2463.14994367347747917363@gmail.com>",
+   "error": null,
+   "promoters": [
+    "Sameer Sain",
+    "Atul Kapur",
+    "Evergroup Limited"
+   ],
+   "brlm_contacts": [
+    {
+     "firm": "Motilal Oswal Investment Advisors Limited",
+     "people": [
+      "Kunal Thakkar",
+      "Vaibhav Shah"
+     ],
+     "emails": [
+      "everbrands.ipo@motilaloswal.com"
+     ],
+     "phones": [
+      "+91 22 7193 4380"
+     ]
+    },
+    {
+     "firm": "ICICI Securities Limited",
+     "people": [
+      "Soumavo Sarkar",
+      "Rahul Sharma"
+     ],
+     "emails": [
+      "everbrands.ipo@icicisecurities.com"
+     ],
+     "phones": [
+      "+91 22 6807 7100"
+     ]
+    },
+    {
+     "firm": "Nuvama Wealth Management Limited",
+     "people": [
+      "Lokesh Shah",
+      "Pari Vaya"
+     ],
+     "emails": [
+      "everbrands.ipo@nuvama.com"
+     ],
+     "phones": [
+      "+91 22 4009 4400"
+     ]
+    }
+   ],
+   "cs": {
+    "name": null,
+    "emails": [
+     "investor@everbrands.in"
+    ],
+    "phones": [
+     "+91 92173 33455"
+    ],
+    "page": 85
+   },
+   "website": "www.everbrands.in",
+   "doc_url": "https://www.sebi.gov.in/sebi_data/attachdocs/oct-2026/1791197042793.pdf"
+  },
+  {
+   "id": "everbrandsindia|everbrands.ipo@nuvama.com",
+   "company_key": "everbrandsindia",
+   "company": "Everbrands India Limited",
+   "board": "Mainboard",
+   "filed_on": "2026-10-05",
+   "variant": "brlm",
+   "role": "BRLM contact",
+   "organisation": "Nuvama Wealth Management Limited",
+   "names": [
+    "Lokesh Shah",
+    "Pari Vaya"
+   ],
+   "email": "everbrands.ipo@nuvama.com",
+   "phones": [
+    "+91 22 4009 4400"
+   ],
+   "subject": "Parshwanath Capital Ventures Fund | Pre-IPO & Anchor interest – Everbrands India Limited",
+   "status": "sent",
+   "sent_at": "2026-11-07T14:10:58+05:30",
+   "created_at": "2026-11-07T14:10:58+05:30",
+   "message_id": "<179404085410.2463.3818791668385397769@gmail.com>",
+   "error": null,
+   "promoters": [
+    "Sameer Sain",
+    "Atul Kapur",
+    "Evergroup Limited"
+   ],
+   "brlm_contacts": [
+    {
+     "firm": "Motilal Oswal Investment Advisors Limited",
+     "people": [
+      "Kunal Thakkar",
+      "Vaibhav Shah"
+     ],
+     "emails": [
+      "everbrands.ipo@motilaloswal.com"
+     ],
+     "phones": [
+      "+91 22 7193 4380"
+     ]
+    },
+    {
+     "firm": "ICICI Securities Limited",
+     "people": [
+      "Soumavo Sarkar",
+      "Rahul Sharma"
+     ],
+     "emails": [
+      "everbrands.ipo@icicisecurities.com"
+     ],
+     "phones": [
+      "+91 22 6807 7100"
+     ]
+    },
+    {
+     "firm": "Nuvama Wealth Management Limited",
+     "people": [
+      "Lokesh Shah",
+      "Pari Vaya"
+     ],
+     "emails": [
+      "everbrands.ipo@nuvama.com"
+     ],
+     "phones": [
+      "+91 22 4009 4400"
+     ]
+    }
+   ],
+   "cs": {
+    "name": null,
+    "emails": [
+     "investor@everbrands.in"
+    ],
+    "phones": [
+     "+91 92173 33455"
+    ],
+    "page": 85
+   },
+   "website": "www.everbrands.in",
+   "doc_url": "https://www.sebi.gov.in/sebi_data/attachdocs/oct-2026/1791197042793.pdf"
+  },
+  {
+   "id": "arete22|mb@unistonecapital.com",
+   "company_key": "arete22",
+   "company": "Arete 22 Limited",
+   "board": "Mainboard",
+   "filed_on": "2026-10-05",
+   "variant": "brlm",
+   "role": "BRLM contact",
+   "organisation": "Unistone Capital Private Limited",
+   "names": [
+    "Saloni Mehta",
+    "Chintan Shah"
+   ],
+   "email": "mb@unistonecapital.com",
+   "phones": [
+    "+91 22 4604 6494"
+   ],
+   "subject": "Parshwanath Capital Ventures Fund | Pre-IPO & Anchor interest – Arete 22 Limited",
+   "status": "sent",
+   "sent_at": "2026-11-07T14:11:59+05:30",
+   "created_at": "2026-11-07T14:11:59+05:30",
+   "message_id": "<179404091699.2463.6344605206752811865@gmail.com>",
+   "error": null,
+   "promoters": [
+    "Pawan Kumar Gupta",
+    "Abhishek Gupta",
+    "Konica Gupta",
+    "Naveen Gupta"
+   ],
+   "brlm_contacts": [
+    {
+     "firm": "Unistone Capital Private Limited",
+     "people": [
+      "Saloni Mehta",
+      "Chintan Shah"
+     ],
+     "emails": [
+      "mb@unistonecapital.com"
+     ],
+     "phones": [
+      "+91 22 4604 6494"
+     ]
+    }
+   ],
+   "cs": {
+    "name": "Deepika Rathi",
+    "emails": [
+     "cs@arete22.in"
+    ],
+    "phones": [
+     "+91 8142288666"
+    ],
+    "page": 83
+   },
+   "website": "www.arete22.com",
+   "doc_url": "https://www.sebi.gov.in/sebi_data/attachdocs/oct-2026/1791185432391_1404.pdf"
+  },
+  {
+   "id": "pesinstallations|pesinstallations.ipo@turnaroundmb.com",
+   "company_key": "pesinstallations",
+   "company": "PES Installations Limited",
+   "board": "Mainboard",
+   "filed_on": "2026-10-05",
+   "variant": "brlm",
+   "role": "BRLM contact",
+   "organisation": "Turnaround Corporate Advisors Private Limited",
+   "names": [
+    "Mr. Rajveer Singh"
+   ],
+   "email": "pesinstallations.ipo@turnaroundmb.com",
+   "phones": [
+    "+91-8287356934"
+   ],
+   "subject": "Parshwanath Capital Ventures Fund | Pre-IPO & Anchor interest – PES Installations Limited",
+   "status": "sent",
+   "sent_at": "2026-11-07T14:12:33+05:30",
+   "created_at": "2026-11-07T14:12:33+05:30",
+   "message_id": "<179404095031.2463.7068128183416357908@gmail.com>",
+   "error": null,
+   "promoters": [
+    "Raghunandan Paul Chadha",
+    "Pankaj Chadha",
+    "Gaurav Chadha"
+   ],
+   "brlm_contacts": [
+    {
+     "firm": "Turnaround Corporate Advisors Private Limited",
+     "people": [
+      "Mr. Rajveer Singh"
+     ],
+     "emails": [
+      "pesinstallations.ipo@turnaroundmb.com"
+     ],
+     "phones": [
+      "+91-8287356934"
+     ]
+    }
+   ],
+   "cs": {
+    "name": "Sanchit Agarwal",
+    "emails": [
+     "cs@pesinstallations.com"
+    ],
+    "phones": [
+     "+91-7372918164",
+     "+91-11-41-094-094"
+    ],
+    "page": 82
+   },
+   "website": "www.pesinstallations.com",
+   "doc_url": "https://www.sebi.gov.in/sebi_data/attachdocs/oct-2026/1791199916309.pdf"
+  },
+  {
+   "id": "deonenergy|deon.ipo@valmikileela.com",
+   "company_key": "deonenergy",
+   "company": "Deon Energy Limited",
+   "board": "Mainboard",
+   "filed_on": "2026-10-05",
+   "variant": "brlm",
+   "role": "BRLM contact",
+   "organisation": "Valmiki Leela Capital Private Limited",
+   "names": [
+    "Ranu Sharma",
+    "Disha Patel"
+   ],
+   "email": "deon.ipo@valmikileela.com",
+   "phones": [
+    "+91 79650 90100"
+   ],
+   "subject": "Parshwanath Capital Ventures Fund | Pre-IPO & Anchor interest – Deon Energy Limited",
+   "status": "sent",
+   "sent_at": "2026-11-07T14:13:08+05:30",
+   "created_at": "2026-11-07T14:13:08+05:30",
+   "message_id": "<179404098534.2463.1837881709216259973@gmail.com>",
+   "error": null,
+   "promoters": [
+    "Dharmesh Ashokbhai Makadiya",
+    "Kalariya Chiragbhai Dineshbhai",
+    "Kalariya Archanaben",
+    "Bhargav Chaturbhai Kavar"
+   ],
+   "brlm_contacts": [
+    {
+     "firm": "Valmiki Leela Capital Private Limited",
+     "people": [
+      "Ranu Sharma",
+      "Disha Patel"
+     ],
+     "emails": [
+      "deon.ipo@valmikileela.com"
+     ],
+     "phones": [
+      "+91 79650 90100"
+     ]
+    }
+   ],
+   "cs": {
+    "name": "Dhrupa Jigarkumar Thakkar",
+    "emails": [
+     "compliance@deonenergy.in"
+    ],
+    "phones": [
+     "+91 7041848277"
+    ],
+    "page": 101
+   },
+   "website": "www.deonenergy.in",
+   "doc_url": "https://www.sebi.gov.in/sebi_data/attachdocs/oct-2026/1791185432391_1402.pdf"
+  },
+  {
+   "id": "rathodjewellerymanufacturing|ib@hemsecurities.com",
+   "company_key": "rathodjewellerymanufacturing",
+   "company": "Rathod Jewellery Manufacturing Limited",
+   "board": "Mainboard",
+   "filed_on": "2026-10-05",
+   "variant": "brlm",
+   "role": "BRLM contact",
+   "organisation": "Hem Securities Limited",
+   "names": [
+    "Roshni Lahoti"
+   ],
+   "email": "ib@hemsecurities.com",
+   "phones": [
+    "+91 22 4906 0000"
+   ],
+   "subject": "Parshwanath Capital Ventures Fund | Pre-IPO & Anchor interest – Rathod Jewellery Manufacturing Limited",
+   "status": "sent",
+   "sent_at": "2026-11-07T14:15:15+05:30",
+   "created_at": "2026-11-07T14:15:15+05:30",
+   "message_id": "<179404111059.2463.10073685861658136395@gmail.com>",
+   "error": null,
+   "promoters": [
+    "Chandrakant Hanjarimal Rathod",
+    "Rupali Chandrakant Rathod",
+    "Reeva Chandrakant Rathod",
+    "Hridhay Chandrakant Rathod"
+   ],
+   "brlm_contacts": [
+    {
+     "firm": "Hem Securities Limited",
+     "people": [
+      "Roshni Lahoti"
+     ],
+     "emails": [
+      "ib@hemsecurities.com"
+     ],
+     "phones": [
+      "+91 22 4906 0000"
+     ]
+    }
+   ],
+   "cs": {
+    "name": "Poorva Hemant Garware",
+    "emails": [
+     "cs@rathodjewellery.in"
+    ],
+    "phones": [
+     "+91 230-2460701"
+    ],
+    "page": 90
+   },
+   "website": null,
+   "doc_url": "https://www.sebi.gov.in/sebi_data/attachdocs/oct-2026/1791185432391_1403.pdf"
+  },
+  {
+   "id": "inoxcleanenergy|inoxclean@nuvama.com",
+   "company_key": "inoxcleanenergy",
+   "company": "Inox Clean Energy Limited",
+   "board": "Mainboard",
+   "filed_on": "2026-10-05",
+   "variant": "brlm",
+   "role": "BRLM contact",
+   "organisation": "Nuvama Wealth Management Limited",
+   "names": [
+    "Lokesh Shah",
+    "Gourav Rathi"
+   ],
+   "email": "inoxclean@nuvama.com",
+   "phones": [
+    "+91 22 4009 4400"
+   ],
+   "subject": "Parshwanath Capital Ventures Fund | Pre-IPO & Anchor interest – Inox Clean Energy Limited",
+   "status": "sent",
+   "sent_at": "2026-11-07T14:16:25+05:30",
+   "created_at": "2026-11-07T14:16:25+05:30",
+   "message_id": "<179404118282.2463.5939798242924880280@gmail.com>",
+   "error": null,
+   "promoters": [
+    "Devansh Jain",
+    "Avarna Jain"
+   ],
+   "brlm_contacts": [
+    {
+     "firm": "Nuvama Wealth Management Limited",
+     "people": [
+      "Lokesh Shah",
+      "Gourav Rathi"
+     ],
+     "emails": [
+      "inoxclean@nuvama.com"
+     ],
+     "phones": [
+      "+91 22 4009 4400"
+     ]
+    },
+    {
+     "firm": "CLSA India Private Limited",
+     "people": [
+      "Akhil Viswatmula",
+      "Bhakti"
+     ],
+     "emails": [
+      "inoxclean.ipo@clsa.com"
+     ],
+     "phones": [
+      "+91 22 6650 5050"
+     ]
+    },
+    {
+     "firm": "Emirates NBD Capital India Private Limited",
+     "people": [
+      "Suryaj Sekhar"
+     ],
+     "emails": [
+      "inoxclean.ipo@emiratesnbd.com"
+     ],
+     "phones": [
+      "+91 22 6278 5535"
+     ]
+    },
+    {
+     "firm": "HSBC Securities and Capital Markets (India)",
+     "people": [
+      "Harsh Thakkar",
+      "Harshit Tayal"
+     ],
+     "emails": [
+      "inoxcleanipo@hsbc.co.in"
+     ],
+     "phones": [
+      "+91 22 6864 1289"
+     ]
+    },
+    {
+     "firm": "ICICI Securities Limited",
+     "people": [
+      "Aboli Pitre",
+      "Hitesh Malhotra"
+     ],
+     "emails": [
+      "inoxclean.ipo@icicisecurities.com"
+     ],
+     "phones": [
+      "+91 22 6807 7100"
+     ]
+    },
+    {
+     "firm": "IIFL Capital Services Limited (formerly",
+     "people": [
+      "Aditya Raturi",
+      "Pawan Kumar"
+     ],
+     "emails": [
+      "inoxcleanenergy.ipo@iiflcap.com"
+     ],
+     "phones": [
+      "+91 22 4646 4728"
+     ]
+    },
+    {
+     "firm": "JM Financial Limited",
+     "people": [
+      "Prachee Dhuri"
+     ],
+     "emails": [
+      "inoxcleanenergy.ipo@jmfl.com"
+     ],
+     "phones": [
+      "+91 22 6630 3030"
+     ]
+    },
+    {
+     "firm": null,
+     "people": [
+      "Ritu Sharma",
+      "Shashank Pisat"
+     ],
+     "emails": [
+      "inoxcleanipo@motilaloswal.com"
+     ],
+     "phones": [
+      "+91 22 7193 4380"
+     ]
+    },
+    {
+     "firm": "UBS Securities India Private Limited",
+     "people": [
+      "Keshav Modi",
+      "Pavan Teja Macharla"
+     ],
+     "emails": [
+      "ol-inoxcleanenergy_ipo@ubs.com"
+     ],
+     "phones": [
+      "+91 22 6155 6000"
+     ]
+    }
+   ],
+   "cs": {
+    "name": "Tarun Kumar",
+    "emails": [
+     "investors@inoxclean.com"
+    ],
+    "phones": [
+     "+91 0265 6198111",
+     "0120 6149600"
+    ],
+    "page": 119
+   },
+   "website": "https://inoxclean.com",
+   "doc_url": "https://www.sebi.gov.in/sebi_data/attachdocs/oct-2026/1791185432391_1401.pdf"
+  },
+  {
+   "id": "inoxcleanenergy|inoxclean.ipo@clsa.com",
+   "company_key": "inoxcleanenergy",
+   "company": "Inox Clean Energy Limited",
+   "board": "Mainboard",
+   "filed_on": "2026-10-05",
+   "variant": "brlm",
+   "role": "BRLM contact",
+   "organisation": "CLSA India Private Limited",
+   "names": [
+    "Akhil Viswatmula",
+    "Bhakti"
+   ],
+   "email": "inoxclean.ipo@clsa.com",
+   "phones": [
+    "+91 22 6650 5050"
+   ],
+   "subject": "Parshwanath Capital Ventures Fund | Pre-IPO & Anchor interest – Inox Clean Energy Limited",
+   "status": "sent",
+   "sent_at": "2026-11-07T14:16:28+05:30",
+   "created_at": "2026-11-07T14:16:28+05:30",
+   "message_id": "<179404118514.2463.15196645722047761170@gmail.com>",
+   "error": null,
+   "promoters": [
+    "Devansh Jain",
+    "Avarna Jain"
+   ],
+   "brlm_contacts": [
+    {
+     "firm": "Nuvama Wealth Management Limited",
+     "people": [
+      "Lokesh Shah",
+      "Gourav Rathi"
+     ],
+     "emails": [
+      "inoxclean@nuvama.com"
+     ],
+     "phones": [
+      "+91 22 4009 4400"
+     ]
+    },
+    {
+     "firm": "CLSA India Private Limited",
+     "people": [
+      "Akhil Viswatmula",
+      "Bhakti"
+     ],
+     "emails": [
+      "inoxclean.ipo@clsa.com"
+     ],
+     "phones": [
+      "+91 22 6650 5050"
+     ]
+    },
+    {
+     "firm": "Emirates NBD Capital India Private Limited",
+     "people": [
+      "Suryaj Sekhar"
+     ],
+     "emails": [
+      "inoxclean.ipo@emiratesnbd.com"
+     ],
+     "phones": [
+      "+91 22 6278 5535"
+     ]
+    },
+    {
+     "firm": "HSBC Securities and Capital Markets (India)",
+     "people": [
+      "Harsh Thakkar",
+      "Harshit Tayal"
+     ],
+     "emails": [
+      "inoxcleanipo@hsbc.co.in"
+     ],
+     "phones": [
+      "+91 22 6864 1289"
+     ]
+    },
+    {
+     "firm": "ICICI Securities Limited",
+     "people": [
+      "Aboli Pitre",
+      "Hitesh Malhotra"
+     ],
+     "emails": [
+      "inoxclean.ipo@icicisecurities.com"
+     ],
+     "phones": [
+      "+91 22 6807 7100"
+     ]
+    },
+    {
+     "firm": "IIFL Capital Services Limited (formerly",
+     "people": [
+      "Aditya Raturi",
+      "Pawan Kumar"
+     ],
+     "emails": [
+      "inoxcleanenergy.ipo@iiflcap.com"
+     ],
+     "phones": [
+      "+91 22 4646 4728"
+     ]
+    },
+    {
+     "firm": "JM Financial Limited",
+     "people": [
+      "Prachee Dhuri"
+     ],
+     "emails": [
+      "inoxcleanenergy.ipo@jmfl.com"
+     ],
+     "phones": [
+      "+91 22 6630 3030"
+     ]
+    },
+    {
+     "firm": null,
+     "people": [
+      "Ritu Sharma",
+      "Shashank Pisat"
+     ],
+     "emails": [
+      "inoxcleanipo@motilaloswal.com"
+     ],
+     "phones": [
+      "+91 22 7193 4380"
+     ]
+    },
+    {
+     "firm": "UBS Securities India Private Limited",
+     "people": [
+      "Keshav Modi",
+      "Pavan Teja Macharla"
+     ],
+     "emails": [
+      "ol-inoxcleanenergy_ipo@ubs.com"
+     ],
+     "phones": [
+      "+91 22 6155 6000"
+     ]
+    }
+   ],
+   "cs": {
+    "name": "Tarun Kumar",
+    "emails": [
+     "investors@inoxclean.com"
+    ],
+    "phones": [
+     "+91 0265 6198111",
+     "0120 6149600"
+    ],
+    "page": 119
+   },
+   "website": "https://inoxclean.com",
+   "doc_url": "https://www.sebi.gov.in/sebi_data/attachdocs/oct-2026/1791185432391_1401.pdf"
+  },
+  {
+   "id": "inoxcleanenergy|inoxclean.ipo@emiratesnbd.com",
+   "company_key": "inoxcleanenergy",
+   "company": "Inox Clean Energy Limited",
+   "board": "Mainboard",
+   "filed_on": "2026-10-05",
+   "variant": "brlm",
+   "role": "BRLM contact",
+   "organisation": "Emirates NBD Capital India Private Limited",
+   "names": [
+    "Suryaj Sekhar"
+   ],
+   "email": "inoxclean.ipo@emiratesnbd.com",
+   "phones": [
+    "+91 22 6278 5535"
+   ],
+   "subject": "Parshwanath Capital Ventures Fund | Pre-IPO & Anchor interest – Inox Clean Energy Limited",
+   "status": "sent",
+   "sent_at": "2026-11-07T14:16:32+05:30",
+   "created_at": "2026-11-07T14:16:32+05:30",
+   "message_id": "<179404118843.2463.16894869711642452930@gmail.com>",
+   "error": null,
+   "promoters": [
+    "Devansh Jain",
+    "Avarna Jain"
+   ],
+   "brlm_contacts": [
+    {
+     "firm": "Nuvama Wealth Management Limited",
+     "people": [
+      "Lokesh Shah",
+      "Gourav Rathi"
+     ],
+     "emails": [
+      "inoxclean@nuvama.com"
+     ],
+     "phones": [
+      "+91 22 4009 4400"
+     ]
+    },
+    {
+     "firm": "CLSA India Private Limited",
+     "people": [
+      "Akhil Viswatmula",
+      "Bhakti"
+     ],
+     "emails": [
+      "inoxclean.ipo@clsa.com"
+     ],
+     "phones": [
+      "+91 22 6650 5050"
+     ]
+    },
+    {
+     "firm": "Emirates NBD Capital India Private Limited",
+     "people": [
+      "Suryaj Sekhar"
+     ],
+     "emails": [
+      "inoxclean.ipo@emiratesnbd.com"
+     ],
+     "phones": [
+      "+91 22 6278 5535"
+     ]
+    },
+    {
+     "firm": "HSBC Securities and Capital Markets (India)",
+     "people": [
+      "Harsh Thakkar",
+      "Harshit Tayal"
+     ],
+     "emails": [
+      "inoxcleanipo@hsbc.co.in"
+     ],
+     "phones": [
+      "+91 22 6864 1289"
+     ]
+    },
+    {
+     "firm": "ICICI Securities Limited",
+     "people": [
+      "Aboli Pitre",
+      "Hitesh Malhotra"
+     ],
+     "emails": [
+      "inoxclean.ipo@icicisecurities.com"
+     ],
+     "phones": [
+      "+91 22 6807 7100"
+     ]
+    },
+    {
+     "firm": "IIFL Capital Services Limited (formerly",
+     "people": [
+      "Aditya Raturi",
+      "Pawan Kumar"
+     ],
+     "emails": [
+      "inoxcleanenergy.ipo@iiflcap.com"
+     ],
+     "phones": [
+      "+91 22 4646 4728"
+     ]
+    },
+    {
+     "firm": "JM Financial Limited",
+     "people": [
+      "Prachee Dhuri"
+     ],
+     "emails": [
+      "inoxcleanenergy.ipo@jmfl.com"
+     ],
+     "phones": [
+      "+91 22 6630 3030"
+     ]
+    },
+    {
+     "firm": null,
+     "people": [
+      "Ritu Sharma",
+      "Shashank Pisat"
+     ],
+     "emails": [
+      "inoxcleanipo@motilaloswal.com"
+     ],
+     "phones": [
+      "+91 22 7193 4380"
+     ]
+    },
+    {
+     "firm": "UBS Securities India Private Limited",
+     "people": [
+      "Keshav Modi",
+      "Pavan Teja Macharla"
+     ],
+     "emails": [
+      "ol-inoxcleanenergy_ipo@ubs.com"
+     ],
+     "phones": [
+      "+91 22 6155 6000"
+     ]
+    }
+   ],
+   "cs": {
+    "name": "Tarun Kumar",
+    "emails": [
+     "investors@inoxclean.com"
+    ],
+    "phones": [
+     "+91 0265 6198111",
+     "0120 6149600"
+    ],
+    "page": 119
+   },
+   "website": "https://inoxclean.com",
+   "doc_url": "https://www.sebi.gov.in/sebi_data/attachdocs/oct-2026/1791185432391_1401.pdf"
+  },
+  {
+   "id": "inoxcleanenergy|inoxcleanipo@hsbc.co.in",
+   "company_key": "inoxcleanenergy",
+   "company": "Inox Clean Energy Limited",
+   "board": "Mainboard",
+   "filed_on": "2026-10-05",
+   "variant": "brlm",
+   "role": "BRLM contact",
+   "organisation": "HSBC Securities and Capital Markets (India)",
+   "names": [
+    "Harsh Thakkar",
+    "Harshit Tayal"
+   ],
+   "email": "inoxcleanipo@hsbc.co.in",
+   "phones": [
+    "+91 22 6864 1289"
+   ],
+   "subject": "Parshwanath Capital Ventures Fund | Pre-IPO & Anchor interest – Inox Clean Energy Limited",
+   "status": "sent",
+   "sent_at": "2026-11-07T14:16:37+05:30",
+   "created_at": "2026-11-07T14:16:37+05:30",
+   "message_id": "<179404119278.2463.4552222967924267206@gmail.com>",
+   "error": null,
+   "promoters": [
+    "Devansh Jain",
+    "Avarna Jain"
+   ],
+   "brlm_contacts": [
+    {
+     "firm": "Nuvama Wealth Management Limited",
+     "people": [
+      "Lokesh Shah",
+      "Gourav Rathi"
+     ],
+     "emails": [
+      "inoxclean@nuvama.com"
+     ],
+     "phones": [
+      "+91 22 4009 4400"
+     ]
+    },
+    {
+     "firm": "CLSA India Private Limited",
+     "people": [
+      "Akhil Viswatmula",
+      "Bhakti"
+     ],
+     "emails": [
+      "inoxclean.ipo@clsa.com"
+     ],
+     "phones": [
+      "+91 22 6650 5050"
+     ]
+    },
+    {
+     "firm": "Emirates NBD Capital India Private Limited",
+     "people": [
+      "Suryaj Sekhar"
+     ],
+     "emails": [
+      "inoxclean.ipo@emiratesnbd.com"
+     ],
+     "phones": [
+      "+91 22 6278 5535"
+     ]
+    },
+    {
+     "firm": "HSBC Securities and Capital Markets (India)",
+     "people": [
+      "Harsh Thakkar",
+      "Harshit Tayal"
+     ],
+     "emails": [
+      "inoxcleanipo@hsbc.co.in"
+     ],
+     "phones": [
+      "+91 22 6864 1289"
+     ]
+    },
+    {
+     "firm": "ICICI Securities Limited",
+     "people": [
+      "Aboli Pitre",
+      "Hitesh Malhotra"
+     ],
+     "emails": [
+      "inoxclean.ipo@icicisecurities.com"
+     ],
+     "phones": [
+      "+91 22 6807 7100"
+     ]
+    },
+    {
+     "firm": "IIFL Capital Services Limited (formerly",
+     "people": [
+      "Aditya Raturi",
+      "Pawan Kumar"
+     ],
+     "emails": [
+      "inoxcleanenergy.ipo@iiflcap.com"
+     ],
+     "phones": [
+      "+91 22 4646 4728"
+     ]
+    },
+    {
+     "firm": "JM Financial Limited",
+     "people": [
+      "Prachee Dhuri"
+     ],
+     "emails": [
+      "inoxcleanenergy.ipo@jmfl.com"
+     ],
+     "phones": [
+      "+91 22 6630 3030"
+     ]
+    },
+    {
+     "firm": null,
+     "people": [
+      "Ritu Sharma",
+      "Shashank Pisat"
+     ],
+     "emails": [
+      "inoxcleanipo@motilaloswal.com"
+     ],
+     "phones": [
+      "+91 22 7193 4380"
+     ]
+    },
+    {
+     "firm": "UBS Securities India Private Limited",
+     "people": [
+      "Keshav Modi",
+      "Pavan Teja Macharla"
+     ],
+     "emails": [
+      "ol-inoxcleanenergy_ipo@ubs.com"
+     ],
+     "phones": [
+      "+91 22 6155 6000"
+     ]
+    }
+   ],
+   "cs": {
+    "name": "Tarun Kumar",
+    "emails": [
+     "investors@inoxclean.com"
+    ],
+    "phones": [
+     "+91 0265 6198111",
+     "0120 6149600"
+    ],
+    "page": 119
+   },
+   "website": "https://inoxclean.com",
+   "doc_url": "https://www.sebi.gov.in/sebi_data/attachdocs/oct-2026/1791185432391_1401.pdf"
+  },
+  {
+   "id": "inoxcleanenergy|inoxclean.ipo@icicisecurities.com",
+   "company_key": "inoxcleanenergy",
+   "company": "Inox Clean Energy Limited",
+   "board": "Mainboard",
+   "filed_on": "2026-10-05",
+   "variant": "brlm",
+   "role": "BRLM contact",
+   "organisation": "ICICI Securities Limited",
+   "names": [
+    "Aboli Pitre",
+    "Hitesh Malhotra"
+   ],
+   "email": "inoxclean.ipo@icicisecurities.com",
+   "phones": [
+    "+91 22 6807 7100"
+   ],
+   "subject": "Parshwanath Capital Ventures Fund | Pre-IPO & Anchor interest – Inox Clean Energy Limited",
+   "status": "sent",
+   "sent_at": "2026-11-07T14:16:41+05:30",
+   "created_at": "2026-11-07T14:16:41+05:30",
+   "message_id": "<179404119703.2463.10398972446426335490@gmail.com>",
+   "error": null,
+   "promoters": [
+    "Devansh Jain",
+    "Avarna Jain"
+   ],
+   "brlm_contacts": [
+    {
+     "firm": "Nuvama Wealth Management Limited",
+     "people": [
+      "Lokesh Shah",
+      "Gourav Rathi"
+     ],
+     "emails": [
+      "inoxclean@nuvama.com"
+     ],
+     "phones": [
+      "+91 22 4009 4400"
+     ]
+    },
+    {
+     "firm": "CLSA India Private Limited",
+     "people": [
+      "Akhil Viswatmula",
+      "Bhakti"
+     ],
+     "emails": [
+      "inoxclean.ipo@clsa.com"
+     ],
+     "phones": [
+      "+91 22 6650 5050"
+     ]
+    },
+    {
+     "firm": "Emirates NBD Capital India Private Limited",
+     "people": [
+      "Suryaj Sekhar"
+     ],
+     "emails": [
+      "inoxclean.ipo@emiratesnbd.com"
+     ],
+     "phones": [
+      "+91 22 6278 5535"
+     ]
+    },
+    {
+     "firm": "HSBC Securities and Capital Markets (India)",
+     "people": [
+      "Harsh Thakkar",
+      "Harshit Tayal"
+     ],
+     "emails": [
+      "inoxcleanipo@hsbc.co.in"
+     ],
+     "phones": [
+      "+91 22 6864 1289"
+     ]
+    },
+    {
+     "firm": "ICICI Securities Limited",
+     "people": [
+      "Aboli Pitre",
+      "Hitesh Malhotra"
+     ],
+     "emails": [
+      "inoxclean.ipo@icicisecurities.com"
+     ],
+     "phones": [
+      "+91 22 6807 7100"
+     ]
+    },
+    {
+     "firm": "IIFL Capital Services Limited (formerly",
+     "people": [
+      "Aditya Raturi",
+      "Pawan Kumar"
+     ],
+     "emails": [
+      "inoxcleanenergy.ipo@iiflcap.com"
+     ],
+     "phones": [
+      "+91 22 4646 4728"
+     ]
+    },
+    {
+     "firm": "JM Financial Limited",
+     "people": [
+      "Prachee Dhuri"
+     ],
+     "emails": [
+      "inoxcleanenergy.ipo@jmfl.com"
+     ],
+     "phones": [
+      "+91 22 6630 3030"
+     ]
+    },
+    {
+     "firm": null,
+     "people": [
+      "Ritu Sharma",
+      "Shashank Pisat"
+     ],
+     "emails": [
+      "inoxcleanipo@motilaloswal.com"
+     ],
+     "phones": [
+      "+91 22 7193 4380"
+     ]
+    },
+    {
+     "firm": "UBS Securities India Private Limited",
+     "people": [
+      "Keshav Modi",
+      "Pavan Teja Macharla"
+     ],
+     "emails": [
+      "ol-inoxcleanenergy_ipo@ubs.com"
+     ],
+     "phones": [
+      "+91 22 6155 6000"
+     ]
+    }
+   ],
+   "cs": {
+    "name": "Tarun Kumar",
+    "emails": [
+     "investors@inoxclean.com"
+    ],
+    "phones": [
+     "+91 0265 6198111",
+     "0120 6149600"
+    ],
+    "page": 119
+   },
+   "website": "https://inoxclean.com",
+   "doc_url": "https://www.sebi.gov.in/sebi_data/attachdocs/oct-2026/1791185432391_1401.pdf"
+  },
+  {
+   "id": "inoxcleanenergy|inoxcleanenergy.ipo@iiflcap.com",
+   "company_key": "inoxcleanenergy",
+   "company": "Inox Clean Energy Limited",
+   "board": "Mainboard",
+   "filed_on": "2026-10-05",
+   "variant": "brlm",
+   "role": "BRLM contact",
+   "organisation": "IIFL Capital Services Limited (formerly",
+   "names": [
+    "Aditya Raturi",
+    "Pawan Kumar"
+   ],
+   "email": "inoxcleanenergy.ipo@iiflcap.com",
+   "phones": [
+    "+91 22 4646 4728"
+   ],
+   "subject": "Parshwanath Capital Ventures Fund | Pre-IPO & Anchor interest – Inox Clean Energy Limited",
+   "status": "sent",
+   "sent_at": "2026-11-07T14:16:44+05:30",
+   "created_at": "2026-11-07T14:16:44+05:30",
+   "message_id": "<179404120131.2463.16278612336519686358@gmail.com>",
+   "error": null,
+   "promoters": [
+    "Devansh Jain",
+    "Avarna Jain"
+   ],
+   "brlm_contacts": [
+    {
+     "firm": "Nuvama Wealth Management Limited",
+     "people": [
+      "Lokesh Shah",
+      "Gourav Rathi"
+     ],
+     "emails": [
+      "inoxclean@nuvama.com"
+     ],
+     "phones": [
+      "+91 22 4009 4400"
+     ]
+    },
+    {
+     "firm": "CLSA India Private Limited",
+     "people": [
+      "Akhil Viswatmula",
+      "Bhakti"
+     ],
+     "emails": [
+      "inoxclean.ipo@clsa.com"
+     ],
+     "phones": [
+      "+91 22 6650 5050"
+     ]
+    },
+    {
+     "firm": "Emirates NBD Capital India Private Limited",
+     "people": [
+      "Suryaj Sekhar"
+     ],
+     "emails": [
+      "inoxclean.ipo@emiratesnbd.com"
+     ],
+     "phones": [
+      "+91 22 6278 5535"
+     ]
+    },
+    {
+     "firm": "HSBC Securities and Capital Markets (India)",
+     "people": [
+      "Harsh Thakkar",
+      "Harshit Tayal"
+     ],
+     "emails": [
+      "inoxcleanipo@hsbc.co.in"
+     ],
+     "phones": [
+      "+91 22 6864 1289"
+     ]
+    },
+    {
+     "firm": "ICICI Securities Limited",
+     "people": [
+      "Aboli Pitre",
+      "Hitesh Malhotra"
+     ],
+     "emails": [
+      "inoxclean.ipo@icicisecurities.com"
+     ],
+     "phones": [
+      "+91 22 6807 7100"
+     ]
+    },
+    {
+     "firm": "IIFL Capital Services Limited (formerly",
+     "people": [
+      "Aditya Raturi",
+      "Pawan Kumar"
+     ],
+     "emails": [
+      "inoxcleanenergy.ipo@iiflcap.com"
+     ],
+     "phones": [
+      "+91 22 4646 4728"
+     ]
+    },
+    {
+     "firm": "JM Financial Limited",
+     "people": [
+      "Prachee Dhuri"
+     ],
+     "emails": [
+      "inoxcleanenergy.ipo@jmfl.com"
+     ],
+     "phones": [
+      "+91 22 6630 3030"
+     ]
+    },
+    {
+     "firm": null,
+     "people": [
+      "Ritu Sharma",
+      "Shashank Pisat"
+     ],
+     "emails": [
+      "inoxcleanipo@motilaloswal.com"
+     ],
+     "phones": [
+      "+91 22 7193 4380"
+     ]
+    },
+    {
+     "firm": "UBS Securities India Private Limited",
+     "people": [
+      "Keshav Modi",
+      "Pavan Teja Macharla"
+     ],
+     "emails": [
+      "ol-inoxcleanenergy_ipo@ubs.com"
+     ],
+     "phones": [
+      "+91 22 6155 6000"
+     ]
+    }
+   ],
+   "cs": {
+    "name": "Tarun Kumar",
+    "emails": [
+     "investors@inoxclean.com"
+    ],
+    "phones": [
+     "+91 0265 6198111",
+     "0120 6149600"
+    ],
+    "page": 119
+   },
+   "website": "https://inoxclean.com",
+   "doc_url": "https://www.sebi.gov.in/sebi_data/attachdocs/oct-2026/1791185432391_1401.pdf"
+  },
+  {
+   "id": "inoxcleanenergy|inoxcleanenergy.ipo@jmfl.com",
+   "company_key": "inoxcleanenergy",
+   "company": "Inox Clean Energy Limited",
+   "board": "Mainboard",
+   "filed_on": "2026-10-05",
+   "variant": "brlm",
+   "role": "BRLM contact",
+   "organisation": "JM Financial Limited",
+   "names": [
+    "Prachee Dhuri"
+   ],
+   "email": "inoxcleanenergy.ipo@jmfl.com",
+   "phones": [
+    "+91 22 6630 3030"
+   ],
+   "subject": "Parshwanath Capital Ventures Fund | Pre-IPO & Anchor interest – Inox Clean Energy Limited",
+   "status": "sent",
+   "sent_at": "2026-11-07T14:16:48+05:30",
+   "created_at": "2026-11-07T14:16:48+05:30",
+   "message_id": "<179404120478.2463.706653374946228359@gmail.com>",
+   "error": null,
+   "promoters": [
+    "Devansh Jain",
+    "Avarna Jain"
+   ],
+   "brlm_contacts": [
+    {
+     "firm": "Nuvama Wealth Management Limited",
+     "people": [
+      "Lokesh Shah",
+      "Gourav Rathi"
+     ],
+     "emails": [
+      "inoxclean@nuvama.com"
+     ],
+     "phones": [
+      "+91 22 4009 4400"
+     ]
+    },
+    {
+     "firm": "CLSA India Private Limited",
+     "people": [
+      "Akhil Viswatmula",
+      "Bhakti"
+     ],
+     "emails": [
+      "inoxclean.ipo@clsa.com"
+     ],
+     "phones": [
+      "+91 22 6650 5050"
+     ]
+    },
+    {
+     "firm": "Emirates NBD Capital India Private Limited",
+     "people": [
+      "Suryaj Sekhar"
+     ],
+     "emails": [
+      "inoxclean.ipo@emiratesnbd.com"
+     ],
+     "phones": [
+      "+91 22 6278 5535"
+     ]
+    },
+    {
+     "firm": "HSBC Securities and Capital Markets (India)",
+     "people": [
+      "Harsh Thakkar",
+      "Harshit Tayal"
+     ],
+     "emails": [
+      "inoxcleanipo@hsbc.co.in"
+     ],
+     "phones": [
+      "+91 22 6864 1289"
+     ]
+    },
+    {
+     "firm": "ICICI Securities Limited",
+     "people": [
+      "Aboli Pitre",
+      "Hitesh Malhotra"
+     ],
+     "emails": [
+      "inoxclean.ipo@icicisecurities.com"
+     ],
+     "phones": [
+      "+91 22 6807 7100"
+     ]
+    },
+    {
+     "firm": "IIFL Capital Services Limited (formerly",
+     "people": [
+      "Aditya Raturi",
+      "Pawan Kumar"
+     ],
+     "emails": [
+      "inoxcleanenergy.ipo@iiflcap.com"
+     ],
+     "phones": [
+      "+91 22 4646 4728"
+     ]
+    },
+    {
+     "firm": "JM Financial Limited",
+     "people": [
+      "Prachee Dhuri"
+     ],
+     "emails": [
+      "inoxcleanenergy.ipo@jmfl.com"
+     ],
+     "phones": [
+      "+91 22 6630 3030"
+     ]
+    },
+    {
+     "firm": null,
+     "people": [
+      "Ritu Sharma",
+      "Shashank Pisat"
+     ],
+     "emails": [
+      "inoxcleanipo@motilaloswal.com"
+     ],
+     "phones": [
+      "+91 22 7193 4380"
+     ]
+    },
+    {
+     "firm": "UBS Securities India Private Limited",
+     "people": [
+      "Keshav Modi",
+      "Pavan Teja Macharla"
+     ],
+     "emails": [
+      "ol-inoxcleanenergy_ipo@ubs.com"
+     ],
+     "phones": [
+      "+91 22 6155 6000"
+     ]
+    }
+   ],
+   "cs": {
+    "name": "Tarun Kumar",
+    "emails": [
+     "investors@inoxclean.com"
+    ],
+    "phones": [
+     "+91 0265 6198111",
+     "0120 6149600"
+    ],
+    "page": 119
+   },
+   "website": "https://inoxclean.com",
+   "doc_url": "https://www.sebi.gov.in/sebi_data/attachdocs/oct-2026/1791185432391_1401.pdf"
+  },
+  {
+   "id": "inoxcleanenergy|inoxcleanipo@motilaloswal.com",
+   "company_key": "inoxcleanenergy",
+   "company": "Inox Clean Energy Limited",
+   "board": "Mainboard",
+   "filed_on": "2026-10-05",
+   "variant": "brlm",
+   "role": "BRLM contact",
+   "organisation": null,
+   "names": [
+    "Ritu Sharma",
+    "Shashank Pisat"
+   ],
+   "email": "inoxcleanipo@motilaloswal.com",
+   "phones": [
+    "+91 22 7193 4380"
+   ],
+   "subject": "Parshwanath Capital Ventures Fund | Pre-IPO & Anchor interest – Inox Clean Energy Limited",
+   "status": "sent",
+   "sent_at": "2026-11-07T14:16:53+05:30",
+   "created_at": "2026-11-07T14:16:53+05:30",
+   "message_id": "<179404120877.2463.8854185701618422528@gmail.com>",
+   "error": null,
+   "promoters": [
+    "Devansh Jain",
+    "Avarna Jain"
+   ],
+   "brlm_contacts": [
+    {
+     "firm": "Nuvama Wealth Management Limited",
+     "people": [
+      "Lokesh Shah",
+      "Gourav Rathi"
+     ],
+     "emails": [
+      "inoxclean@nuvama.com"
+     ],
+     "phones": [
+      "+91 22 4009 4400"
+     ]
+    },
+    {
+     "firm": "CLSA India Private Limited",
+     "people": [
+      "Akhil Viswatmula",
+      "Bhakti"
+     ],
+     "emails": [
+      "inoxclean.ipo@clsa.com"
+     ],
+     "phones": [
+      "+91 22 6650 5050"
+     ]
+    },
+    {
+     "firm": "Emirates NBD Capital India Private Limited",
+     "people": [
+      "Suryaj Sekhar"
+     ],
+     "emails": [
+      "inoxclean.ipo@emiratesnbd.com"
+     ],
+     "phones": [
+      "+91 22 6278 5535"
+     ]
+    },
+    {
+     "firm": "HSBC Securities and Capital Markets (India)",
+     "people": [
+      "Harsh Thakkar",
+      "Harshit Tayal"
+     ],
+     "emails": [
+      "inoxcleanipo@hsbc.co.in"
+     ],
+     "phones": [
+      "+91 22 6864 1289"
+     ]
+    },
+    {
+     "firm": "ICICI Securities Limited",
+     "people": [
+      "Aboli Pitre",
+      "Hitesh Malhotra"
+     ],
+     "emails": [
+      "inoxclean.ipo@icicisecurities.com"
+     ],
+     "phones": [
+      "+91 22 6807 7100"
+     ]
+    },
+    {
+     "firm": "IIFL Capital Services Limited (formerly",
+     "people": [
+      "Aditya Raturi",
+      "Pawan Kumar"
+     ],
+     "emails": [
+      "inoxcleanenergy.ipo@iiflcap.com"
+     ],
+     "phones": [
+      "+91 22 4646 4728"
+     ]
+    },
+    {
+     "firm": "JM Financial Limited",
+     "people": [
+      "Prachee Dhuri"
+     ],
+     "emails": [
+      "inoxcleanenergy.ipo@jmfl.com"
+     ],
+     "phones": [
+      "+91 22 6630 3030"
+     ]
+    },
+    {
+     "firm": null,
+     "people": [
+      "Ritu Sharma",
+      "Shashank Pisat"
+     ],
+     "emails": [
+      "inoxcleanipo@motilaloswal.com"
+     ],
+     "phones": [
+      "+91 22 7193 4380"
+     ]
+    },
+    {
+     "firm": "UBS Securities India Private Limited",
+     "people": [
+      "Keshav Modi",
+      "Pavan Teja Macharla"
+     ],
+     "emails": [
+      "ol-inoxcleanenergy_ipo@ubs.com"
+     ],
+     "phones": [
+      "+91 22 6155 6000"
+     ]
+    }
+   ],
+   "cs": {
+    "name": "Tarun Kumar",
+    "emails": [
+     "investors@inoxclean.com"
+    ],
+    "phones": [
+     "+91 0265 6198111",
+     "0120 6149600"
+    ],
+    "page": 119
+   },
+   "website": "https://inoxclean.com",
+   "doc_url": "https://www.sebi.gov.in/sebi_data/attachdocs/oct-2026/1791185432391_1401.pdf"
+  },
+  {
+   "id": "inoxcleanenergy|ol-inoxcleanenergy_ipo@ubs.com",
+   "company_key": "inoxcleanenergy",
+   "company": "Inox Clean Energy Limited",
+   "board": "Mainboard",
+   "filed_on": "2026-10-05",
+   "variant": "brlm",
+   "role": "BRLM contact",
+   "organisation": "UBS Securities India Private Limited",
+   "names": [
+    "Keshav Modi",
+    "Pavan Teja Macharla"
+   ],
+   "email": "ol-inoxcleanenergy_ipo@ubs.com",
+   "phones": [
+    "+91 22 6155 6000"
+   ],
+   "subject": "Parshwanath Capital Ventures Fund | Pre-IPO & Anchor interest – Inox Clean Energy Limited",
+   "status": "sent",
+   "sent_at": "2026-11-07T14:16:57+05:30",
+   "created_at": "2026-11-07T14:16:57+05:30",
+   "message_id": "<179404121315.2463.10616608226752684684@gmail.com>",
+   "error": null,
+   "promoters": [
+    "Devansh Jain",
+    "Avarna Jain"
+   ],
+   "brlm_contacts": [
+    {
+     "firm": "Nuvama Wealth Management Limited",
+     "people": [
+      "Lokesh Shah",
+      "Gourav Rathi"
+     ],
+     "emails": [
+      "inoxclean@nuvama.com"
+     ],
+     "phones": [
+      "+91 22 4009 4400"
+     ]
+    },
+    {
+     "firm": "CLSA India Private Limited",
+     "people": [
+      "Akhil Viswatmula",
+      "Bhakti"
+     ],
+     "emails": [
+      "inoxclean.ipo@clsa.com"
+     ],
+     "phones": [
+      "+91 22 6650 5050"
+     ]
+    },
+    {
+     "firm": "Emirates NBD Capital India Private Limited",
+     "people": [
+      "Suryaj Sekhar"
+     ],
+     "emails": [
+      "inoxclean.ipo@emiratesnbd.com"
+     ],
+     "phones": [
+      "+91 22 6278 5535"
+     ]
+    },
+    {
+     "firm": "HSBC Securities and Capital Markets (India)",
+     "people": [
+      "Harsh Thakkar",
+      "Harshit Tayal"
+     ],
+     "emails": [
+      "inoxcleanipo@hsbc.co.in"
+     ],
+     "phones": [
+      "+91 22 6864 1289"
+     ]
+    },
+    {
+     "firm": "ICICI Securities Limited",
+     "people": [
+      "Aboli Pitre",
+      "Hitesh Malhotra"
+     ],
+     "emails": [
+      "inoxclean.ipo@icicisecurities.com"
+     ],
+     "phones": [
+      "+91 22 6807 7100"
+     ]
+    },
+    {
+     "firm": "IIFL Capital Services Limited (formerly",
+     "people": [
+      "Aditya Raturi",
+      "Pawan Kumar"
+     ],
+     "emails": [
+      "inoxcleanenergy.ipo@iiflcap.com"
+     ],
+     "phones": [
+      "+91 22 4646 4728"
+     ]
+    },
+    {
+     "firm": "JM Financial Limited",
+     "people": [
+      "Prachee Dhuri"
+     ],
+     "emails": [
+      "inoxcleanenergy.ipo@jmfl.com"
+     ],
+     "phones": [
+      "+91 22 6630 3030"
+     ]
+    },
+    {
+     "firm": null,
+     "people": [
+      "Ritu Sharma",
+      "Shashank Pisat"
+     ],
+     "emails": [
+      "inoxcleanipo@motilaloswal.com"
+     ],
+     "phones": [
+      "+91 22 7193 4380"
+     ]
+    },
+    {
+     "firm": "UBS Securities India Private Limited",
+     "people": [
+      "Keshav Modi",
+      "Pavan Teja Macharla"
+     ],
+     "emails": [
+      "ol-inoxcleanenergy_ipo@ubs.com"
+     ],
+     "phones": [
+      "+91 22 6155 6000"
+     ]
+    }
+   ],
+   "cs": {
+    "name": "Tarun Kumar",
+    "emails": [
+     "investors@inoxclean.com"
+    ],
+    "phones": [
+     "+91 0265 6198111",
+     "0120 6149600"
+    ],
+    "page": 119
+   },
+   "website": "https://inoxclean.com",
+   "doc_url": "https://www.sebi.gov.in/sebi_data/attachdocs/oct-2026/1791185432391_1401.pdf"
   }
  ],
- "updated_at": "2026-11-07T06:38:47+05:30"
+ "updated_at": "2026-11-07T14:16:57+05:30"
 }

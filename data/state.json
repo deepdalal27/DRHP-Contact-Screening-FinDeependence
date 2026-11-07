@@ -50,13 +50,11 @@
    "listing_ref": "https://www.sebi.gov.in/filings/public-issues/oct-2026/paramotor-digital-technology-limited-udrhp-i_105258.html"
   },
   "soleosenergy": {
-   "ref": "https://www.sebi.gov.in/filings/public-issues/oct-2026/soleos-energy-limited-drhp_105196.html",
-   "error": "SEBI: GET https://www.sebi.gov.in/sebi_data/attachdocs/oct-2026/1791886399419.pdf failed: IncompleteRead(772599 bytes read, 17875988 more expected); NSE: zip has no PDF",
-   "at": "2026-11-07T06:35:19+05:30",
+   "ref": "https://www.sebi.gov.in/sebi_data/attachdocs/oct-2026/1791886399419.pdf",
+   "listing_ref": "https://www.sebi.gov.in/filings/public-issues/oct-2026/soleos-energy-limited-drhp_105196.html",
+   "at": "2026-11-07T14:07:49+05:30",
    "company": "Soleos Energy Limited",
-   "attempts": 1,
-   "version": 4,
-   "listing_ref": "https://www.sebi.gov.in/filings/public-issues/oct-2026/soleos-energy-limited-drhp_105196.html"
+   "version": 4
   },
   "gracerenewableenergy": {
    "ref": "https://www.sebi.gov.in/sebi_data/attachdocs/oct-2026/1791449032035.PDF",
@@ -95,17 +93,17 @@
   },
   "baangangagolddiamondi": {
    "ref": "https://www.sebi.gov.in/sebi_data/attachdocs/oct-2026/1791198965136.pdf",
-   "at": "2026-11-05T07:12:59+05:30",
+   "listing_ref": "https://www.sebi.gov.in/filings/public-issues/oct-2026/baanganga-gold-and-diamond-i-limited-drhp_105025.html",
+   "at": "2026-11-07T14:08:43+05:30",
    "company": "Baanganga Gold & Diamond (I) Limited",
-   "version": 3,
-   "listing_ref": "https://www.sebi.gov.in/filings/public-issues/oct-2026/baanganga-gold-and-diamond-i-limited-drhp_105025.html"
+   "version": 4
   },
   "inoxairproducts": {
    "ref": "https://www.sebi.gov.in/sebi_data/attachdocs/oct-2026/1791197450320.pdf",
-   "at": "2026-11-05T07:14:22+05:30",
+   "listing_ref": "https://www.sebi.gov.in/filings/public-issues/oct-2026/inox-air-products-limited-drhp_105024.html",
+   "at": "2026-11-07T14:09:30+05:30",
    "company": "Inox Air Products Limited",
-   "version": 3,
-   "listing_ref": "https://www.sebi.gov.in/filings/public-issues/oct-2026/inox-air-products-limited-drhp_105024.html"
+   "version": 4
   },
   "jamnagaragroindustries": {
    "ref": "https://www.bsesme.com/download/331369/SME_IPO%20InPrinciple/JAIDRHP_20261105045926.zip",
@@ -127,6 +125,71 @@
    "company": "Mayur Electromeck Limited",
    "version": 4,
    "listing_ref": "https://www.chittorgarh.com/ipo/mayur-electromeck-ipo/3392/"
+  },
+  "iljinelectronicsindia": {
+   "ref": "https://nsearchives.nseindia.com/corporate/AD_IPO_7990_07112026090107.zip",
+   "listing_ref": "https://nsearchives.nseindia.com/corporate/AD_IPO_7990_07112026090107.zip",
+   "error": "NSE: zip has no PDF",
+   "at": "2026-11-07T14:03:30+05:30",
+   "company": "Il Jin Electronics (India) Limited",
+   "attempts": 1,
+   "version": 4
+  },
+  "hindustancocacolaholdings": {
+   "ref": "https://nsearchives.nseindia.com/corporate/Registration_07112026133959_DRHP.pdf",
+   "listing_ref": "https://nsearchives.nseindia.com/corporate/Registration_07112026133959_DRHP.pdf",
+   "at": "2026-11-07T14:03:33+05:30",
+   "company": "Hindustan Coca Cola Holdings Ltd",
+   "version": 4
+  },
+  "bssponge": {
+   "ref": "https://www.sebi.gov.in/sebi_data/attachdocs/oct-2026/1791197285629.pdf",
+   "listing_ref": "https://www.sebi.gov.in/filings/public-issues/oct-2026/b-s-sponge-limited-drhp_105023.html",
+   "at": "2026-11-07T14:10:05+05:30",
+   "company": "B S Sponge Limited",
+   "version": 4
+  },
+  "everbrandsindia": {
+   "ref": "https://www.sebi.gov.in/sebi_data/attachdocs/oct-2026/1791197042793.pdf",
+   "listing_ref": "https://www.sebi.gov.in/filings/public-issues/oct-2026/everbrands-india-limited-drhp_105022.html",
+   "at": "2026-11-07T14:10:47+05:30",
+   "company": "Everbrands India Limited",
+   "version": 4
+  },
+  "arete22": {
+   "ref": "https://www.sebi.gov.in/sebi_data/attachdocs/oct-2026/1791185432391_1404.pdf",
+   "listing_ref": "https://www.sebi.gov.in/filings/public-issues/oct-2026/arete-22-limited-drhp_105016.html",
+   "at": "2026-11-07T14:11:56+05:30",
+   "company": "Arete 22 Limited",
+   "version": 4
+  },
+  "pesinstallations": {
+   "ref": "https://www.sebi.gov.in/sebi_data/attachdocs/oct-2026/1791199916309.pdf",
+   "listing_ref": "https://www.sebi.gov.in/filings/public-issues/oct-2026/pes-installations-limited-drhp_105018.html",
+   "at": "2026-11-07T14:12:30+05:30",
+   "company": "PES Installations Limited",
+   "version": 4
+  },
+  "deonenergy": {
+   "ref": "https://www.sebi.gov.in/sebi_data/attachdocs/oct-2026/1791185432391_1402.pdf",
+   "listing_ref": "https://www.sebi.gov.in/filings/public-issues/oct-2026/deon-energy-limited-drhp_105012.html",
+   "at": "2026-11-07T14:13:05+05:30",
+   "company": "Deon Energy Limited",
+   "version": 4
+  },
+  "rathodjewellerymanufacturing": {
+   "ref": "https://www.sebi.gov.in/sebi_data/attachdocs/oct-2026/1791185432391_1403.pdf",
+   "listing_ref": "https://www.sebi.gov.in/filings/public-issues/oct-2026/rathod-jewellery-manufacturing-limited-drhp_105014.html",
+   "at": "2026-11-07T14:15:10+05:30",
+   "company": "Rathod Jewellery Manufacturing Limited",
+   "version": 4
+  },
+  "inoxcleanenergy": {
+   "ref": "https://www.sebi.gov.in/sebi_data/attachdocs/oct-2026/1791185432391_1401.pdf",
+   "listing_ref": "https://www.sebi.gov.in/filings/public-issues/oct-2026/inox-clean-energy-limited-drhp_105010.html",
+   "at": "2026-11-07T14:16:22+05:30",
+   "company": "Inox Clean Energy Limited",
+   "version": 4
   }
  }
 }
