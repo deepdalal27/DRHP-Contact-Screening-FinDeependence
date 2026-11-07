@@ -1,0 +1,84 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>DRHP Contact Screener · FinDeependence</title>
+<link rel="icon" href="logo_circle.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,600;12..96,800&family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@500;700&display=swap">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="bar">
+  <div class="wrap">
+    <div class="brand"><img src="logo_circle.png" alt="FinDeependence logo"><div><div class="lbl">FinDeependence</div><h1>DRHP Contact Screener</h1><span>New DRHPs · financials · promoter &amp; BRLM contacts · Parshwanath Capital Ventures Fund outreach</span></div></div>
+    <nav class="tabs" id="tabs">
+      <button data-v="drhp" class="on">DRHPs</button>
+      <button data-v="outreach">Outreach</button>
+      <button data-v="contacts">Contacts</button>
+      <button data-v="about">How it works</button>
+    </nav>
+  </div>
+</header>
+
+<main class="wrap">
+  <div id="status" class="notice" hidden></div>
+
+  <section class="view" id="v-drhp">
+    <div class="apply">
+      <aside class="rail">
+        <div class="rail-head">
+          <h2>DRHPs filed</h2>
+          <select id="boardFilter" aria-label="Board">
+            <option value="">All</option><option value="Mainboard">Mainboard</option><option value="SME">SME</option>
+          </select>
+        </div>
+        <input type="search" id="q" placeholder="Company, promoter or BRLM" aria-label="Search">
+        <div class="ipo-list" id="list"><p class="muted">Loading…</p></div>
+      </aside>
+      <div class="panel" id="detail"><p class="muted">Loading…</p></div>
+    </div>
+  </section>
+
+  <section class="view" id="v-outreach" hidden>
+    <div class="panel">
+      <div class="panel-head">
+        <div><h2>Outreach report</h2><p class="muted">Every introduction mail: whom it went to, for which company, and how to reach them again. Track the follow-up stage, next date and notes for each contact. Your follow-up notes are saved in this browser, so download a backup now and then.</p></div>
+        <div class="row"><button class="primary" id="oXlsx">Download Excel</button><button id="oBackup">Backup notes</button>
+          <label class="btnlike"><input type="file" id="oRestore" accept=".json,application/json" hidden><span class="fakebtn" role="button" tabindex="0" id="oRestoreBtn">Restore notes</span></label></div>
+      </div>
+      <div class="tiles" id="oTiles"></div>
+      <div class="filters">
+        <label class="wide">Search <input type="search" id="oQ" placeholder="Company, person, email"></label>
+        <label>Mail status <select id="oSt"><option value="">All</option><option value="sent">Sent</option><option value="awaiting approval">Awaiting approval</option><option value="queued">Queued</option><option value="failed">Failed</option><option value="skipped">Skipped</option></select></label>
+        <label>Follow-up stage <select id="oStage"><option value="">All stages</option></select></label>
+        <label>Board <select id="oBoard"><option value="">Mainboard + SME</option><option>Mainboard</option><option>SME</option></select></label>
+        <label class="check"><input type="checkbox" id="oDue"> Follow-up due</label>
+      </div>
+      <div class="tbl"><table id="oTable"></table></div>
+    </div>
+  </section>
+
+  <section class="view" id="v-contacts" hidden>
+    <div class="panel">
+      <div class="panel-head">
+        <div><h2>Contacts directory</h2><p class="muted">Every merchant banker (BRLM) and company contact found in the DRHPs, with the deals each BRLM is handling. Useful for building BRLM relationships beyond a single IPO.</p></div>
+        <button class="primary" id="cXlsx">Download Excel</button>
+      </div>
+      <nav class="tabs sub" id="cViews"><button data-cv="brlm" class="on">BRLMs</button><button data-cv="company">Companies</button></nav>
+      <div class="filters"><label class="wide">Search <input type="search" id="cQ" placeholder="Firm, person, company"></label></div>
+      <div class="tbl"><table id="cTable"></table></div>
+    </div>
+  </section>
+
+  <section class="view" id="v-about" hidden>
+    <div class="panel" id="about"></div>
+  </section>
+</main>
+<div id="toast" role="status" aria-live="polite"></div>
+<p class="byline">FinDeependence · CA Deep Dalal · Chartered Accountant · Fund Manager</p>
+<script src="https://cdn.jsdelivr.net/npm/exceljs@4.4.0/dist/exceljs.min.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
