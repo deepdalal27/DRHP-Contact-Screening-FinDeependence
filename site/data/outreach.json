@@ -7054,7 +7054,280 @@
    },
    "website": "https://steamequipments.com/",
    "doc_url": "https://www.bsesme.com/download/374440/SME_IPO%20InPrinciple/DRHP_20260930033428.zip"
+  },
+  {
+   "id": "bonbonventures|legal@bonbonventures.com",
+   "company_key": "bonbonventures",
+   "company": "Bon Bon Ventures Limited",
+   "board": "SME",
+   "filed_on": "2026-09-30",
+   "variant": "company",
+   "role": "Company Secretary / IR",
+   "organisation": "Bon Bon Ventures Limited",
+   "names": [],
+   "email": "legal@bonbonventures.com",
+   "phones": [
+    "9653247219"
+   ],
+   "subject": "Parshwanath Capital Ventures Fund | Pre-IPO & Anchor interest – Bon Bon Ventures Limited",
+   "status": "sent",
+   "sent_at": "2026-11-08T19:05:24+05:30",
+   "created_at": "2026-11-08T19:05:24+05:30",
+   "message_id": "<179414491972.2496.5992033563845692038@gmail.com>",
+   "error": null,
+   "promoters": [
+    "Birenkumar Dahyalal Limbachiya",
+    "Manish Dahyalal Limbachiya",
+    "Damini Biren Limbachiya",
+    "Chandni Biren Limbachiya",
+    "Anjana M Limbachiya"
+   ],
+   "brlm_contacts": [
+    {
+     "firm": "Sobhagya Capital Options Pvt.Ltd.",
+     "people": [],
+     "emails": [],
+     "phones": []
+    }
+   ],
+   "cs": {
+    "name": null,
+    "emails": [
+     "legal@bonbonventures.com"
+    ],
+    "phones": [
+     "9653247219"
+    ],
+    "page": null
+   },
+   "website": "https://bonbonuniform.com/",
+   "doc_url": "https://www.bsesme.com/download/312523/SME_IPO%20InPrinciple/FinalDPBonBon300926_20260930192426.pdf"
+  },
+  {
+   "id": "gorantlageosynthetic|alagarsamy@gorantlageos.com",
+   "company_key": "gorantlageosynthetic",
+   "company": "Gorantla Geosynthetic Limited",
+   "board": "SME",
+   "filed_on": "2026-09-30",
+   "variant": "company",
+   "role": "Company Secretary / IR",
+   "organisation": "Gorantla Geosynthetic Limited",
+   "names": [],
+   "email": "alagarsamy@gorantlageos.com",
+   "phones": [],
+   "subject": "Parshwanath Capital Ventures Fund | Pre-IPO & Anchor interest – Gorantla Geosynthetic Limited",
+   "status": "sent",
+   "sent_at": "2026-11-08T19:05:27+05:30",
+   "created_at": "2026-11-08T19:05:27+05:30",
+   "message_id": "<179414492550.2496.11213116189333626821@gmail.com>",
+   "error": null,
+   "promoters": [
+    "Praveenkumar Gorantla 📰 Gorantla Geosynthetic Ltd"
+   ],
+   "brlm_contacts": [
+    {
+     "firm": "Rarever Financial Advisors Pvt.ltd.",
+     "people": [],
+     "emails": [],
+     "phones": []
+    }
+   ],
+   "cs": {
+    "name": null,
+    "emails": [
+     "alagarsamy@gorantlageos.com"
+    ],
+    "phones": [],
+    "page": null
+   },
+   "website": "https://www.gorantlageos.com/",
+   "doc_url": "https://www.bsesme.com/download/367050/SME_IPO%20InPrinciple/DRHP_20260930194616.pdf"
+  },
+  {
+   "id": "weldorcncmachines|investors@weldorcncmachines.com",
+   "company_key": "weldorcncmachines",
+   "company": "Weldor CNC Machines Limited",
+   "board": "SME",
+   "filed_on": "2026-09-30",
+   "variant": "company",
+   "role": "Company Secretary / IR",
+   "organisation": "Weldor CNC Machines Limited",
+   "names": [],
+   "email": "investors@weldorcncmachines.com",
+   "phones": [
+    "9274396173"
+   ],
+   "subject": "Parshwanath Capital Ventures Fund | Pre-IPO & Anchor interest – Weldor CNC Machines Limited",
+   "status": "sent",
+   "sent_at": "2026-11-08T19:05:30+05:30",
+   "created_at": "2026-11-08T19:05:30+05:30",
+   "message_id": "<179414492845.2496.8975022490232222596@gmail.com>",
+   "error": null,
+   "promoters": [
+    "Maheshkumar Gordhandas Vaghela",
+    "Nikunj Maheshkumar Vaghela",
+    "Minaben Maheshkumar Vaghela"
+   ],
+   "brlm_contacts": [
+    {
+     "firm": "Seren Capital Pvt.Ltd.",
+     "people": [],
+     "emails": [],
+     "phones": []
+    }
+   ],
+   "cs": {
+    "name": null,
+    "emails": [
+     "investors@weldorcncmachines.com"
+    ],
+    "phones": [
+     "9274396173"
+    ],
+    "page": null
+   },
+   "website": "https://weldorcncmachines.com/",
+   "doc_url": "https://www.bsesme.com/download/335142/SME_IPO%20InPrinciple/DRHP_DAP_Weldor_CNC_Limited_20260930191850.zip"
+  },
+  {
+   "id": "sceptremedicalindia|cs@sceptremedical.com",
+   "company_key": "sceptremedicalindia",
+   "company": "Sceptre Medical (India) Limited",
+   "board": "SME",
+   "filed_on": "2026-09-30",
+   "variant": "company",
+   "role": "Company Secretary / IR",
+   "organisation": "Sceptre Medical (India) Limited",
+   "names": [],
+   "email": "cs@sceptremedical.com",
+   "phones": [],
+   "subject": "Parshwanath Capital Ventures Fund | Pre-IPO & Anchor interest – Sceptre Medical (India) Limited",
+   "status": "sent",
+   "sent_at": "2026-11-08T19:05:33+05:30",
+   "created_at": "2026-11-08T19:05:33+05:30",
+   "message_id": "<179414493145.2496.3673098174488312368@gmail.com>",
+   "error": null,
+   "promoters": [
+    "Sanjay Manocha",
+    "Yogesh Sachdeva",
+    "Kartik Palta",
+    "Sukesh Arora",
+    "Archna Manocha",
+    "Mona Sachdeva",
+    "Charu Palta",
+    "Siddharth Manocha"
+   ],
+   "brlm_contacts": [
+    {
+     "firm": "Unicon Capital Services Pvt.Ltd.",
+     "people": [],
+     "emails": [],
+     "phones": []
+    }
+   ],
+   "cs": {
+    "name": null,
+    "emails": [
+     "cs@sceptremedical.com"
+    ],
+    "phones": [],
+    "page": null
+   },
+   "website": "https://www.sceptremedical.com/",
+   "doc_url": "https://www.bsesme.com/download/360138/SME_IPO%20InPrinciple/DRHPSMIL_20260930212116.pdf"
+  },
+  {
+   "id": "microfilterpolymers|cs@aeleacommodities.com",
+   "company_key": "microfilterpolymers",
+   "company": "Microfilter Polymers Limited",
+   "board": "SME",
+   "filed_on": "2026-09-30",
+   "variant": "company",
+   "role": "Company Secretary / IR",
+   "organisation": "Microfilter Polymers Limited",
+   "names": [],
+   "email": "cs@aeleacommodities.com",
+   "phones": [
+    "9112113706"
+   ],
+   "subject": "Parshwanath Capital Ventures Fund | Pre-IPO & Anchor interest – Microfilter Polymers Limited",
+   "status": "sent",
+   "sent_at": "2026-11-08T19:05:36+05:30",
+   "created_at": "2026-11-08T19:05:36+05:30",
+   "message_id": "<179414493433.2496.12403910036073600689@gmail.com>",
+   "error": null,
+   "promoters": [
+    "Shailendra Mangal",
+    "Ritu Mangal",
+    "Samrudhi Mangal"
+   ],
+   "brlm_contacts": [
+    {
+     "firm": "Aftertrade Broking Pvt.ltd.",
+     "people": [],
+     "emails": [],
+     "phones": []
+    }
+   ],
+   "cs": {
+    "name": null,
+    "emails": [
+     "cs@aeleacommodities.com"
+    ],
+    "phones": [
+     "9112113706"
+    ],
+    "page": null
+   },
+   "website": "https://microfilter.org/",
+   "doc_url": "https://www.bsesme.com/download/332532/SME_IPO%20InPrinciple/DRHP_Microfilter_20260930214033.zip"
+  },
+  {
+   "id": "rajpolypack|info@rajpolypack.onmicrosoft.com",
+   "company_key": "rajpolypack",
+   "company": "Raj Polypack Limited",
+   "board": "SME",
+   "filed_on": "2026-09-30",
+   "variant": "company",
+   "role": "Company Secretary / IR",
+   "organisation": "Raj Polypack Limited",
+   "names": [],
+   "email": "info@rajpolypack.onmicrosoft.com",
+   "phones": [
+    "9998144089"
+   ],
+   "subject": "Parshwanath Capital Ventures Fund | Pre-IPO & Anchor interest – Raj Polypack Limited",
+   "status": "sent",
+   "sent_at": "2026-11-08T19:05:39+05:30",
+   "created_at": "2026-11-08T19:05:39+05:30",
+   "message_id": "<179414493718.2496.13292860958901546541@gmail.com>",
+   "error": null,
+   "promoters": [
+    "Arun Ashokbhai Maheshwari",
+    "Amit Ashokkumar Maheshwari",
+    "Chakshu Arun Maheshwari"
+   ],
+   "brlm_contacts": [
+    {
+     "firm": "Wealth Mine Networks Ltd.",
+     "people": [],
+     "emails": [],
+     "phones": []
+    }
+   ],
+   "cs": {
+    "name": null,
+    "emails": [
+     "info@rajpolypack.onmicrosoft.com"
+    ],
+    "phones": [
+     "9998144089"
+    ],
+    "page": null
+   },
+   "website": "https://www.rajpolypack.in/",
+   "doc_url": "https://www.bsesme.com/download/328498/SME_IPO%20InPrinciple/Rajpolypack_DraftOfferDocument_20260930232821.zip"
   }
  ],
- "updated_at": "2026-11-08T11:44:04+05:30"
+ "updated_at": "2026-11-08T19:05:39+05:30"
 }

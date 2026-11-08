@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-08T11:44:04+05:30",
+ "updated_at": "2026-11-08T19:05:39+05:30",
  "companies": [
   {
    "key": "hindustancocacolaholdings",
@@ -2257,6 +2257,54 @@
    "processed_at": "2026-11-08T11:43:47+05:30"
   },
   {
+   "key": "bonbonventures",
+   "company": "Bon Bon Ventures Limited",
+   "board": "SME",
+   "exchange": "BSE SME",
+   "source": "BSE SME",
+   "filed_on": "2026-09-30",
+   "doc_type": "DRHP",
+   "brlms": [
+    "Sobhagya Capital Options Pvt.Ltd."
+   ],
+   "promoters": [
+    "Birenkumar Dahyalal Limbachiya",
+    "Manish Dahyalal Limbachiya",
+    "Damini Biren Limbachiya",
+    "Chandni Biren Limbachiya",
+    "Anjana M Limbachiya"
+   ],
+   "pre_ipo": null,
+   "latest": {},
+   "verified": null,
+   "warnings": [
+    "BSE SME filing: contacts and figures from Chittorgarh. BSE blocks cloud servers, so the DRHP PDF could not be read automatically; open it from the link above."
+   ],
+   "processed_at": "2026-11-08T19:05:19+05:30"
+  },
+  {
+   "key": "gorantlageosynthetic",
+   "company": "Gorantla Geosynthetic Limited",
+   "board": "SME",
+   "exchange": "BSE SME",
+   "source": "BSE SME",
+   "filed_on": "2026-09-30",
+   "doc_type": "DRHP",
+   "brlms": [
+    "Rarever Financial Advisors Pvt.ltd."
+   ],
+   "promoters": [
+    "Praveenkumar Gorantla 📰 Gorantla Geosynthetic Ltd"
+   ],
+   "pre_ipo": null,
+   "latest": {},
+   "verified": null,
+   "warnings": [
+    "BSE SME filing: contacts and figures from Chittorgarh. BSE blocks cloud servers, so the DRHP PDF could not be read automatically; open it from the link above."
+   ],
+   "processed_at": "2026-11-08T19:05:25+05:30"
+  },
+  {
    "key": "hyrefoxconsultants",
    "company": "Hyrefox Consultants Limited",
    "board": "SME",
@@ -2376,6 +2424,30 @@
    "processed_at": "2026-11-08T11:43:21+05:30"
   },
   {
+   "key": "microfilterpolymers",
+   "company": "Microfilter Polymers Limited",
+   "board": "SME",
+   "exchange": "BSE SME",
+   "source": "BSE SME",
+   "filed_on": "2026-09-30",
+   "doc_type": "DRHP",
+   "brlms": [
+    "Aftertrade Broking Pvt.ltd."
+   ],
+   "promoters": [
+    "Shailendra Mangal",
+    "Ritu Mangal",
+    "Samrudhi Mangal"
+   ],
+   "pre_ipo": null,
+   "latest": {},
+   "verified": null,
+   "warnings": [
+    "BSE SME filing: contacts and figures from Chittorgarh. BSE blocks cloud servers, so the DRHP PDF could not be read automatically; open it from the link above."
+   ],
+   "processed_at": "2026-11-08T19:05:34+05:30"
+  },
+  {
    "key": "momaiart",
    "company": "Momai Art Limited",
    "board": "Mainboard",
@@ -2432,6 +2504,30 @@
     "Some core figures could not be cross-checked; only verified figures are used in the email."
    ],
    "processed_at": "2026-11-08T03:27:56+05:30"
+  },
+  {
+   "key": "rajpolypack",
+   "company": "Raj Polypack Limited",
+   "board": "SME",
+   "exchange": "BSE SME",
+   "source": "BSE SME",
+   "filed_on": "2026-09-30",
+   "doc_type": "DRHP",
+   "brlms": [
+    "Wealth Mine Networks Ltd."
+   ],
+   "promoters": [
+    "Arun Ashokbhai Maheshwari",
+    "Amit Ashokkumar Maheshwari",
+    "Chakshu Arun Maheshwari"
+   ],
+   "pre_ipo": null,
+   "latest": {},
+   "verified": null,
+   "warnings": [
+    "BSE SME filing: contacts and figures from Chittorgarh. BSE blocks cloud servers, so the DRHP PDF could not be read automatically; open it from the link above."
+   ],
+   "processed_at": "2026-11-08T19:05:37+05:30"
   },
   {
    "key": "sabariconstructiontechnologies",
@@ -2543,6 +2639,35 @@
     "Some core figures could not be cross-checked; only verified figures are used in the email."
    ],
    "processed_at": "2026-11-08T03:29:29+05:30"
+  },
+  {
+   "key": "sceptremedicalindia",
+   "company": "Sceptre Medical (India) Limited",
+   "board": "SME",
+   "exchange": "BSE SME",
+   "source": "BSE SME",
+   "filed_on": "2026-09-30",
+   "doc_type": "DRHP",
+   "brlms": [
+    "Unicon Capital Services Pvt.Ltd."
+   ],
+   "promoters": [
+    "Sanjay Manocha",
+    "Yogesh Sachdeva",
+    "Kartik Palta",
+    "Sukesh Arora",
+    "Archna Manocha",
+    "Mona Sachdeva",
+    "Charu Palta",
+    "Siddharth Manocha"
+   ],
+   "pre_ipo": null,
+   "latest": {},
+   "verified": null,
+   "warnings": [
+    "BSE SME filing: contacts and figures from Chittorgarh. BSE blocks cloud servers, so the DRHP PDF could not be read automatically; open it from the link above."
+   ],
+   "processed_at": "2026-11-08T19:05:31+05:30"
   },
   {
    "key": "steamequipments",
@@ -2837,6 +2962,30 @@
     "Some core figures could not be cross-checked; only verified figures are used in the email."
    ],
    "processed_at": "2026-11-07T23:23:32+05:30"
+  },
+  {
+   "key": "weldorcncmachines",
+   "company": "Weldor CNC Machines Limited",
+   "board": "SME",
+   "exchange": "BSE SME",
+   "source": "BSE SME",
+   "filed_on": "2026-09-30",
+   "doc_type": "DRHP",
+   "brlms": [
+    "Seren Capital Pvt.Ltd."
+   ],
+   "promoters": [
+    "Maheshkumar Gordhandas Vaghela",
+    "Nikunj Maheshkumar Vaghela",
+    "Minaben Maheshkumar Vaghela"
+   ],
+   "pre_ipo": null,
+   "latest": {},
+   "verified": null,
+   "warnings": [
+    "BSE SME filing: contacts and figures from Chittorgarh. BSE blocks cloud servers, so the DRHP PDF could not be read automatically; open it from the link above."
+   ],
+   "processed_at": "2026-11-08T19:05:28+05:30"
   }
  ]
 }

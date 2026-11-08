@@ -370,18 +370,18 @@
    "ref": "https://nsearchives.nseindia.com/emerge/corporates/content/AD_IPO_7826_30092026213847.zip",
    "listing_ref": "https://nsearchives.nseindia.com/emerge/corporates/content/AD_IPO_7826_30092026213847.zip",
    "error": "NSE Emerge: zip has no PDF",
-   "at": "2026-11-08T11:43:04+05:30",
+   "at": "2026-11-08T19:05:05+05:30",
    "company": "Oremet Alloys And Castings Limited",
-   "attempts": 2,
+   "attempts": 3,
    "version": 4
   },
   "itwingsinfosystem": {
    "ref": "https://nsearchives.nseindia.com/emerge/corporates/content/AD_IPO_7819_30092026192415.zip",
    "listing_ref": "https://nsearchives.nseindia.com/emerge/corporates/content/AD_IPO_7819_30092026192415.zip",
    "error": "NSE Emerge: zip has no PDF",
-   "at": "2026-11-08T11:43:07+05:30",
+   "at": "2026-11-08T19:05:07+05:30",
    "company": "Itwings Infosystem Limited",
-   "attempts": 2,
+   "attempts": 3,
    "version": 4
   },
   "suntekaxpressindia": {
@@ -395,9 +395,9 @@
    "ref": "https://nsearchives.nseindia.com/emerge/corporates/content/AD_IPO_7838_30092026234827.zip",
    "listing_ref": "https://nsearchives.nseindia.com/emerge/corporates/content/AD_IPO_7838_30092026234827.zip",
    "error": "NSE Emerge: document has only 6 pages (incomplete download or not the DRHP)",
-   "at": "2026-11-08T11:43:12+05:30",
+   "at": "2026-11-08T19:05:11+05:30",
    "company": "Abacus Lifestyle Brands Limited",
-   "attempts": 2,
+   "attempts": 3,
    "version": 4
   },
   "sabariconstructiontechnologies": {
@@ -418,9 +418,9 @@
    "ref": "https://nsearchives.nseindia.com/emerge/corporates/content/AD_IPO_7849_01102026121239.zip",
    "listing_ref": "https://nsearchives.nseindia.com/emerge/corporates/content/AD_IPO_7849_01102026121239.zip",
    "error": "NSE Emerge: zip has no PDF",
-   "at": "2026-11-08T11:43:15+05:30",
+   "at": "2026-11-08T19:05:13+05:30",
    "company": "Laser Technologies Limited",
-   "attempts": 2,
+   "attempts": 3,
    "version": 4
   },
   "sbiplprojects": {
@@ -441,18 +441,18 @@
    "ref": "https://nsearchives.nseindia.com/emerge/corporates/content/AD_IPO_7818_30092026183839.zip",
    "listing_ref": "https://nsearchives.nseindia.com/emerge/corporates/content/AD_IPO_7818_30092026183839.zip",
    "error": "NSE Emerge: zip has no PDF",
-   "at": "2026-11-08T11:43:33+05:30",
+   "at": "2026-11-08T19:05:15+05:30",
    "company": "Alps Digital Devices Limited",
-   "attempts": 1,
+   "attempts": 2,
    "version": 4
   },
   "kritilabstechnologies": {
    "ref": "https://nsearchives.nseindia.com/emerge/corporates/content/AD_IPO_7836_30092026235606.zip",
    "listing_ref": "https://nsearchives.nseindia.com/emerge/corporates/content/AD_IPO_7836_30092026235606.zip",
    "error": "NSE Emerge: zip has no PDF",
-   "at": "2026-11-08T11:43:36+05:30",
+   "at": "2026-11-08T19:05:18+05:30",
    "company": "Kritilabs Technologies Limited",
-   "attempts": 1,
+   "attempts": 2,
    "version": 4
   },
   "kasliwalprojects": {
@@ -488,6 +488,48 @@
    "listing_ref": "https://www.chittorgarh.com/ipo/steam-equipments-ipo/3328/",
    "at": "2026-11-08T11:44:00+05:30",
    "company": "Steam Equipments Limited",
+   "version": 4
+  },
+  "bonbonventures": {
+   "ref": "https://www.bsesme.com/download/312523/SME_IPO%20InPrinciple/FinalDPBonBon300926_20260930192426.pdf",
+   "listing_ref": "https://www.chittorgarh.com/ipo/bon-bon-ventures-ipo/3357/",
+   "at": "2026-11-08T19:05:19+05:30",
+   "company": "Bon Bon Ventures Limited",
+   "version": 4
+  },
+  "gorantlageosynthetic": {
+   "ref": "https://www.bsesme.com/download/367050/SME_IPO%20InPrinciple/DRHP_20260930194616.pdf",
+   "listing_ref": "https://www.chittorgarh.com/ipo/gorantla-geosynthetic-ipo/3358/",
+   "at": "2026-11-08T19:05:25+05:30",
+   "company": "Gorantla Geosynthetic Limited",
+   "version": 4
+  },
+  "weldorcncmachines": {
+   "ref": "https://www.bsesme.com/download/335142/SME_IPO%20InPrinciple/DRHP_DAP_Weldor_CNC_Limited_20260930191850.zip",
+   "listing_ref": "https://www.chittorgarh.com/ipo/weldor-cnc-machines-ipo/3361/",
+   "at": "2026-11-08T19:05:28+05:30",
+   "company": "Weldor CNC Machines Limited",
+   "version": 4
+  },
+  "sceptremedicalindia": {
+   "ref": "https://www.bsesme.com/download/360138/SME_IPO%20InPrinciple/DRHPSMIL_20260930212116.pdf",
+   "listing_ref": "https://www.chittorgarh.com/ipo/sceptre-medical-india-ipo/3364/",
+   "at": "2026-11-08T19:05:31+05:30",
+   "company": "Sceptre Medical (India) Limited",
+   "version": 4
+  },
+  "microfilterpolymers": {
+   "ref": "https://www.bsesme.com/download/332532/SME_IPO%20InPrinciple/DRHP_Microfilter_20260930214033.zip",
+   "listing_ref": "https://www.chittorgarh.com/ipo/microfilter-polymers-ipo/3367/",
+   "at": "2026-11-08T19:05:34+05:30",
+   "company": "Microfilter Polymers Limited",
+   "version": 4
+  },
+  "rajpolypack": {
+   "ref": "https://www.bsesme.com/download/328498/SME_IPO%20InPrinciple/Rajpolypack_DraftOfferDocument_20260930232821.zip",
+   "listing_ref": "https://www.chittorgarh.com/ipo/raj-polypack-ipo/3371/",
+   "at": "2026-11-08T19:05:37+05:30",
+   "company": "Raj Polypack Limited",
    "version": 4
   }
  }
