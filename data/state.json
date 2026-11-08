@@ -370,18 +370,18 @@
    "ref": "https://nsearchives.nseindia.com/emerge/corporates/content/AD_IPO_7826_30092026213847.zip",
    "listing_ref": "https://nsearchives.nseindia.com/emerge/corporates/content/AD_IPO_7826_30092026213847.zip",
    "error": "NSE Emerge: zip has no PDF",
-   "at": "2026-11-08T03:28:57+05:30",
+   "at": "2026-11-08T11:43:04+05:30",
    "company": "Oremet Alloys And Castings Limited",
-   "attempts": 1,
+   "attempts": 2,
    "version": 4
   },
   "itwingsinfosystem": {
    "ref": "https://nsearchives.nseindia.com/emerge/corporates/content/AD_IPO_7819_30092026192415.zip",
    "listing_ref": "https://nsearchives.nseindia.com/emerge/corporates/content/AD_IPO_7819_30092026192415.zip",
    "error": "NSE Emerge: zip has no PDF",
-   "at": "2026-11-08T03:28:59+05:30",
+   "at": "2026-11-08T11:43:07+05:30",
    "company": "Itwings Infosystem Limited",
-   "attempts": 1,
+   "attempts": 2,
    "version": 4
   },
   "suntekaxpressindia": {
@@ -395,9 +395,9 @@
    "ref": "https://nsearchives.nseindia.com/emerge/corporates/content/AD_IPO_7838_30092026234827.zip",
    "listing_ref": "https://nsearchives.nseindia.com/emerge/corporates/content/AD_IPO_7838_30092026234827.zip",
    "error": "NSE Emerge: document has only 6 pages (incomplete download or not the DRHP)",
-   "at": "2026-11-08T03:29:08+05:30",
+   "at": "2026-11-08T11:43:12+05:30",
    "company": "Abacus Lifestyle Brands Limited",
-   "attempts": 1,
+   "attempts": 2,
    "version": 4
   },
   "sabariconstructiontechnologies": {
@@ -418,9 +418,9 @@
    "ref": "https://nsearchives.nseindia.com/emerge/corporates/content/AD_IPO_7849_01102026121239.zip",
    "listing_ref": "https://nsearchives.nseindia.com/emerge/corporates/content/AD_IPO_7849_01102026121239.zip",
    "error": "NSE Emerge: zip has no PDF",
-   "at": "2026-11-08T03:29:25+05:30",
+   "at": "2026-11-08T11:43:15+05:30",
    "company": "Laser Technologies Limited",
-   "attempts": 1,
+   "attempts": 2,
    "version": 4
   },
   "sbiplprojects": {
@@ -428,6 +428,66 @@
    "listing_ref": "https://nsearchives.nseindia.com/emerge/corporates/content/AD_IPO_7846_01102026011300.zip",
    "at": "2026-11-08T03:29:29+05:30",
    "company": "Sbipl Projects Limited",
+   "version": 4
+  },
+  "madhavaacrafts": {
+   "ref": "https://nsearchives.nseindia.com/emerge/corporates/content/AD_IPO_7842_01102026000518.zip",
+   "listing_ref": "https://nsearchives.nseindia.com/emerge/corporates/content/AD_IPO_7842_01102026000518.zip",
+   "at": "2026-11-08T11:43:21+05:30",
+   "company": "Madhavaa Crafts Limited",
+   "version": 4
+  },
+  "alpsdigitaldevices": {
+   "ref": "https://nsearchives.nseindia.com/emerge/corporates/content/AD_IPO_7818_30092026183839.zip",
+   "listing_ref": "https://nsearchives.nseindia.com/emerge/corporates/content/AD_IPO_7818_30092026183839.zip",
+   "error": "NSE Emerge: zip has no PDF",
+   "at": "2026-11-08T11:43:33+05:30",
+   "company": "Alps Digital Devices Limited",
+   "attempts": 1,
+   "version": 4
+  },
+  "kritilabstechnologies": {
+   "ref": "https://nsearchives.nseindia.com/emerge/corporates/content/AD_IPO_7836_30092026235606.zip",
+   "listing_ref": "https://nsearchives.nseindia.com/emerge/corporates/content/AD_IPO_7836_30092026235606.zip",
+   "error": "NSE Emerge: zip has no PDF",
+   "at": "2026-11-08T11:43:36+05:30",
+   "company": "Kritilabs Technologies Limited",
+   "attempts": 1,
+   "version": 4
+  },
+  "kasliwalprojects": {
+   "ref": "https://nsearchives.nseindia.com/emerge/corporates/content/AD_IPO_7823_30092026221513.zip",
+   "listing_ref": "https://nsearchives.nseindia.com/emerge/corporates/content/AD_IPO_7823_30092026221513.zip",
+   "at": "2026-11-08T11:43:39+05:30",
+   "company": "Kasliwal Projects Limited",
+   "version": 4
+  },
+  "blueoceanecotech": {
+   "ref": "https://nsearchives.nseindia.com/emerge/corporates/content/Blueocean_DRHP_DAP.zip",
+   "listing_ref": "https://nsearchives.nseindia.com/emerge/corporates/content/Blueocean_DRHP_DAP.zip",
+   "at": "2026-11-08T11:43:47+05:30",
+   "company": "Blueocean Ecotech Limited",
+   "version": 4
+  },
+  "hyrefoxconsultants": {
+   "ref": "https://www.bsesme.com/download/384444/SME_IPO%20InPrinciple/HYREFOX_DRHP_30.09.2026_20260930205819.zip",
+   "listing_ref": "https://www.chittorgarh.com/ipo/hyrefox-consultants-ipo/2955/",
+   "at": "2026-11-08T11:43:51+05:30",
+   "company": "Hyrefox Consultants Limited",
+   "version": 4
+  },
+  "kmcaluminium": {
+   "ref": "https://www.bsesme.com/download/363717/SME_IPO%20InPrinciple/DRHP_KMC_Final_20260930015842.pdf",
+   "listing_ref": "https://www.chittorgarh.com/ipo/k-m-c-aluminium-ipo/3326/",
+   "at": "2026-11-08T11:43:55+05:30",
+   "company": "K M C Aluminium Limited",
+   "version": 4
+  },
+  "steamequipments": {
+   "ref": "https://www.bsesme.com/download/374440/SME_IPO%20InPrinciple/DRHP_20260930033428.zip",
+   "listing_ref": "https://www.chittorgarh.com/ipo/steam-equipments-ipo/3328/",
+   "at": "2026-11-08T11:44:00+05:30",
+   "company": "Steam Equipments Limited",
    "version": 4
   }
  }

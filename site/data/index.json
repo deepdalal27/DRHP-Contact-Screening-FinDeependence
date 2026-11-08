@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-08T03:30:09+05:30",
+ "updated_at": "2026-11-08T11:44:04+05:30",
  "companies": [
   {
    "key": "hindustancocacolaholdings",
@@ -2232,6 +2232,150 @@
    "processed_at": "2026-11-08T03:28:50+05:30"
   },
   {
+   "key": "blueoceanecotech",
+   "company": "Blueocean Ecotech Limited",
+   "board": "SME",
+   "exchange": "NSE Emerge",
+   "source": "NSE Emerge",
+   "filed_on": "2026-09-30",
+   "doc_type": "DRHP",
+   "brlms": [
+    "Hem Securities Limited"
+   ],
+   "promoters": [
+    "Sumit Gupta",
+    "Amit Gupta",
+    "Deepika Gupta",
+    "Nainsi Gupta"
+   ],
+   "pre_ipo": true,
+   "latest": {},
+   "verified": null,
+   "warnings": [
+    "Financial statements not found in the DRHP"
+   ],
+   "processed_at": "2026-11-08T11:43:47+05:30"
+  },
+  {
+   "key": "hyrefoxconsultants",
+   "company": "Hyrefox Consultants Limited",
+   "board": "SME",
+   "exchange": "BSE SME",
+   "source": "BSE SME",
+   "filed_on": "2026-09-30",
+   "doc_type": "DRHP",
+   "brlms": [
+    "Expert Global Consultants Pvt.ltd."
+   ],
+   "promoters": [
+    "Navaldeep Singh",
+    "Prateek Jain",
+    "Aditya Kedia"
+   ],
+   "pre_ipo": null,
+   "latest": {},
+   "verified": null,
+   "warnings": [
+    "BSE SME filing: contacts and figures from Chittorgarh. BSE blocks cloud servers, so the DRHP PDF could not be read automatically; open it from the link above."
+   ],
+   "processed_at": "2026-11-08T11:43:51+05:30"
+  },
+  {
+   "key": "kasliwalprojects",
+   "company": "Kasliwal Projects Limited",
+   "board": "SME",
+   "exchange": "NSE Emerge",
+   "source": "NSE Emerge",
+   "filed_on": "2026-09-30",
+   "doc_type": "DRHP",
+   "brlms": [
+    "Hem Securities Limited"
+   ],
+   "promoters": [
+    "Padam Kumar Jain",
+    "Anish Padam Jain",
+    "Nitish Padam Jain"
+   ],
+   "pre_ipo": false,
+   "latest": {
+    "revenue": {
+     "v": null,
+     "s": "verified"
+    },
+    "pat": {
+     "v": null,
+     "s": "mismatch"
+    },
+    "EBITDA margin": {
+     "v": 0.156184,
+     "s": "mismatch"
+    },
+    "PAT margin": {
+     "v": 0.099742,
+     "s": "mismatch"
+    },
+    "Revenue growth": {
+     "v": 0.415849,
+     "s": "verified"
+    },
+    "fy": "FY26"
+   },
+   "verified": false,
+   "warnings": [
+    "Some core figures could not be cross-checked; only verified figures are used in the email."
+   ],
+   "processed_at": "2026-11-08T11:43:39+05:30"
+  },
+  {
+   "key": "kmcaluminium",
+   "company": "K M C Aluminium Limited",
+   "board": "SME",
+   "exchange": "BSE SME",
+   "source": "BSE SME",
+   "filed_on": "2026-09-30",
+   "doc_type": "DRHP",
+   "brlms": [
+    "GYR Capital Advisors Pvt.Ltd."
+   ],
+   "promoters": [
+    "Sanjay Kumar Agarwal",
+    "Anamika Agarwal",
+    "Nidhi Agarwal"
+   ],
+   "pre_ipo": null,
+   "latest": {},
+   "verified": null,
+   "warnings": [
+    "BSE SME filing: contacts and figures from Chittorgarh. BSE blocks cloud servers, so the DRHP PDF could not be read automatically; open it from the link above."
+   ],
+   "processed_at": "2026-11-08T11:43:55+05:30"
+  },
+  {
+   "key": "madhavaacrafts",
+   "company": "Madhavaa Crafts Limited",
+   "board": "SME",
+   "exchange": "NSE Emerge",
+   "source": "NSE Emerge",
+   "filed_on": "2026-09-30",
+   "doc_type": "DRHP",
+   "brlms": [
+    "GYR Capital Advisors Private Limited"
+   ],
+   "promoters": [
+    "Mr. D Kathirvel",
+    "Mrs. Priya Lavaniya"
+   ],
+   "pre_ipo": false,
+   "latest": {
+    "fy": "Col1"
+   },
+   "verified": false,
+   "warnings": [
+    "Some core figures could not be cross-checked; only verified figures are used in the email."
+   ],
+   "processed_at": "2026-11-08T11:43:21+05:30"
+  },
+  {
    "key": "momaiart",
    "company": "Momai Art Limited",
    "board": "Mainboard",
@@ -2399,6 +2543,30 @@
     "Some core figures could not be cross-checked; only verified figures are used in the email."
    ],
    "processed_at": "2026-11-08T03:29:29+05:30"
+  },
+  {
+   "key": "steamequipments",
+   "company": "Steam Equipments Limited",
+   "board": "SME",
+   "exchange": "BSE SME",
+   "source": "BSE SME",
+   "filed_on": "2026-09-30",
+   "doc_type": "DRHP",
+   "brlms": [
+    "Sobhagya Capital Options Pvt.Ltd."
+   ],
+   "promoters": [
+    "Rasheed Syed",
+    "Nayab Rasheed Syed",
+    "Nida Rasheed Syed"
+   ],
+   "pre_ipo": null,
+   "latest": {},
+   "verified": null,
+   "warnings": [
+    "BSE SME filing: contacts and figures from Chittorgarh. BSE blocks cloud servers, so the DRHP PDF could not be read automatically; open it from the link above."
+   ],
+   "processed_at": "2026-11-08T11:44:00+05:30"
   },
   {
    "key": "sunilgoldindia",

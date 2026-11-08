@@ -6775,7 +6775,286 @@
    },
    "website": "www.vishakharenewables.com",
    "doc_url": "https://www.sebi.gov.in/sebi_data/attachdocs/oct-2026/1791449383064.PDF"
+  },
+  {
+   "id": "madhavaacrafts|madhavaacrafts.ipo@gyrcapitaladvisors.in",
+   "company_key": "madhavaacrafts",
+   "company": "Madhavaa Crafts Limited",
+   "board": "SME",
+   "filed_on": "2026-09-30",
+   "variant": "brlm",
+   "role": "BRLM contact",
+   "organisation": "GYR Capital Advisors Private Limited",
+   "names": [
+    "Mohit Baid"
+   ],
+   "email": "madhavaacrafts.ipo@gyrcapitaladvisors.in",
+   "phones": [
+    "+91 8777564648"
+   ],
+   "subject": "Parshwanath Capital Ventures Fund | Pre-IPO & Anchor interest – Madhavaa Crafts Limited",
+   "status": "sent",
+   "sent_at": "2026-11-08T11:43:27+05:30",
+   "created_at": "2026-11-08T11:43:27+05:30",
+   "message_id": "<179411840185.2462.16820960308741407635@gmail.com>",
+   "error": null,
+   "promoters": [
+    "Mr. D Kathirvel",
+    "Mrs. Priya Lavaniya"
+   ],
+   "brlm_contacts": [
+    {
+     "firm": "GYR Capital Advisors Private Limited",
+     "people": [
+      "Mohit Baid"
+     ],
+     "emails": [
+      "madhavaacrafts.ipo@gyrcapitaladvisors.in"
+     ],
+     "phones": [
+      "+91 8777564648"
+     ]
+    }
+   ],
+   "cs": {
+    "name": "Ms. Khushbu Chandrashekhar Jais",
+    "emails": [
+     "cs@madhavaa.com"
+    ],
+    "phones": [
+     "+91 88848 89289"
+    ],
+    "page": 52
+   },
+   "website": "www.madhavaa.com",
+   "doc_url": "https://nsearchives.nseindia.com/emerge/corporates/content/AD_IPO_7842_01102026000518.zip"
+  },
+  {
+   "id": "kasliwalprojects|ib@hemsecurities.com",
+   "company_key": "kasliwalprojects",
+   "company": "Kasliwal Projects Limited",
+   "board": "SME",
+   "filed_on": "2026-09-30",
+   "variant": "brlm",
+   "role": "BRLM contact",
+   "organisation": "Hem Securities Limited",
+   "names": [
+    "Sourabh Garg"
+   ],
+   "email": "ib@hemsecurities.com",
+   "phones": [
+    "+91-22-4906 0000"
+   ],
+   "subject": "Parshwanath Capital Ventures Fund | Pre-IPO & Anchor interest – Kasliwal Projects Limited",
+   "status": "sent",
+   "sent_at": "2026-11-08T11:43:43+05:30",
+   "created_at": "2026-11-08T11:43:43+05:30",
+   "message_id": "<179411841962.2462.17046540159208577524@gmail.com>",
+   "error": null,
+   "promoters": [
+    "Padam Kumar Jain",
+    "Anish Padam Jain",
+    "Nitish Padam Jain"
+   ],
+   "brlm_contacts": [
+    {
+     "firm": "Hem Securities Limited",
+     "people": [
+      "Sourabh Garg"
+     ],
+     "emails": [
+      "ib@hemsecurities.com",
+      "redressal@hemsecurities.com"
+     ],
+     "phones": [
+      "+91-22-4906 0000"
+     ]
+    }
+   ],
+   "cs": null,
+   "website": "https://www.hemsecurities.com/",
+   "doc_url": "https://nsearchives.nseindia.com/emerge/corporates/content/AD_IPO_7823_30092026221513.zip"
+  },
+  {
+   "id": "blueoceanecotech|ib@hemsecurities.com",
+   "company_key": "blueoceanecotech",
+   "company": "Blueocean Ecotech Limited",
+   "board": "SME",
+   "filed_on": "2026-09-30",
+   "variant": "brlm",
+   "role": "BRLM contact",
+   "organisation": "Hem Securities Limited",
+   "names": [
+    "Sourabh Garg"
+   ],
+   "email": "ib@hemsecurities.com",
+   "phones": [
+    "+91-22-4906 0000"
+   ],
+   "subject": "Parshwanath Capital Ventures Fund | Pre-IPO & Anchor interest – Blueocean Ecotech Limited",
+   "status": "sent",
+   "sent_at": "2026-11-08T11:43:51+05:30",
+   "created_at": "2026-11-08T11:43:51+05:30",
+   "message_id": "<179411842745.2462.138479678303969173@gmail.com>",
+   "error": null,
+   "promoters": [
+    "Sumit Gupta",
+    "Amit Gupta",
+    "Deepika Gupta",
+    "Nainsi Gupta"
+   ],
+   "brlm_contacts": [
+    {
+     "firm": "Hem Securities Limited",
+     "people": [
+      "Sourabh Garg"
+     ],
+     "emails": [
+      "ib@hemsecurities.com"
+     ],
+     "phones": [
+      "+91-22-4906 0000"
+     ]
+    }
+   ],
+   "cs": null,
+   "website": "www.blueocean.biz",
+   "doc_url": "https://nsearchives.nseindia.com/emerge/corporates/content/Blueocean_DRHP_DAP.zip"
+  },
+  {
+   "id": "hyrefoxconsultants|cs@hyrefox.co",
+   "company_key": "hyrefoxconsultants",
+   "company": "Hyrefox Consultants Limited",
+   "board": "SME",
+   "filed_on": "2026-09-30",
+   "variant": "company",
+   "role": "Company Secretary / IR",
+   "organisation": "Hyrefox Consultants Limited",
+   "names": [],
+   "email": "cs@hyrefox.co",
+   "phones": [
+    "+91-9549000456"
+   ],
+   "subject": "Parshwanath Capital Ventures Fund | Pre-IPO & Anchor interest – Hyrefox Consultants Limited",
+   "status": "sent",
+   "sent_at": "2026-11-08T11:43:53+05:30",
+   "created_at": "2026-11-08T11:43:53+05:30",
+   "message_id": "<179411843165.2462.2714212377714831569@gmail.com>",
+   "error": null,
+   "promoters": [
+    "Navaldeep Singh",
+    "Prateek Jain",
+    "Aditya Kedia"
+   ],
+   "brlm_contacts": [
+    {
+     "firm": "Expert Global Consultants Pvt.ltd.",
+     "people": [],
+     "emails": [],
+     "phones": []
+    }
+   ],
+   "cs": {
+    "name": null,
+    "emails": [
+     "cs@hyrefox.co"
+    ],
+    "phones": [
+     "+91-9549000456"
+    ],
+    "page": null
+   },
+   "website": "https://www.hyrefox.com/",
+   "doc_url": "https://www.bsesme.com/download/384444/SME_IPO%20InPrinciple/HYREFOX_DRHP_30.09.2026_20260930205819.zip"
+  },
+  {
+   "id": "kmcaluminium|cs@kmcaluminium.com",
+   "company_key": "kmcaluminium",
+   "company": "K M C Aluminium Limited",
+   "board": "SME",
+   "filed_on": "2026-09-30",
+   "variant": "company",
+   "role": "Company Secretary / IR",
+   "organisation": "K M C Aluminium Limited",
+   "names": [],
+   "email": "cs@kmcaluminium.com",
+   "phones": [
+    "044-42618533"
+   ],
+   "subject": "Parshwanath Capital Ventures Fund | Pre-IPO & Anchor interest – K M C Aluminium Limited",
+   "status": "sent",
+   "sent_at": "2026-11-08T11:43:59+05:30",
+   "created_at": "2026-11-08T11:43:59+05:30",
+   "message_id": "<179411843512.2462.16621910649846702183@gmail.com>",
+   "error": null,
+   "promoters": [
+    "Sanjay Kumar Agarwal",
+    "Anamika Agarwal",
+    "Nidhi Agarwal"
+   ],
+   "brlm_contacts": [
+    {
+     "firm": "GYR Capital Advisors Pvt.Ltd.",
+     "people": [],
+     "emails": [],
+     "phones": []
+    }
+   ],
+   "cs": {
+    "name": null,
+    "emails": [
+     "cs@kmcaluminium.com"
+    ],
+    "phones": [
+     "044-42618533"
+    ],
+    "page": null
+   },
+   "website": "https://kmcaluminium.com/",
+   "doc_url": "https://www.bsesme.com/download/363717/SME_IPO%20InPrinciple/DRHP_KMC_Final_20260930015842.pdf"
+  },
+  {
+   "id": "steamequipments|info@steamequipments.com",
+   "company_key": "steamequipments",
+   "company": "Steam Equipments Limited",
+   "board": "SME",
+   "filed_on": "2026-09-30",
+   "variant": "company",
+   "role": "Company Secretary / IR",
+   "organisation": "Steam Equipments Limited",
+   "names": [],
+   "email": "info@steamequipments.com",
+   "phones": [],
+   "subject": "Parshwanath Capital Ventures Fund | Pre-IPO & Anchor interest – Steam Equipments Limited",
+   "status": "sent",
+   "sent_at": "2026-11-08T11:44:04+05:30",
+   "created_at": "2026-11-08T11:44:04+05:30",
+   "message_id": "<179411844040.2462.8770627430438471355@gmail.com>",
+   "error": null,
+   "promoters": [
+    "Rasheed Syed",
+    "Nayab Rasheed Syed",
+    "Nida Rasheed Syed"
+   ],
+   "brlm_contacts": [
+    {
+     "firm": "Sobhagya Capital Options Pvt.Ltd.",
+     "people": [],
+     "emails": [],
+     "phones": []
+    }
+   ],
+   "cs": {
+    "name": null,
+    "emails": [
+     "info@steamequipments.com"
+    ],
+    "phones": [],
+    "page": null
+   },
+   "website": "https://steamequipments.com/",
+   "doc_url": "https://www.bsesme.com/download/374440/SME_IPO%20InPrinciple/DRHP_20260930033428.zip"
   }
  ],
- "updated_at": "2026-11-08T03:30:09+05:30"
+ "updated_at": "2026-11-08T11:44:04+05:30"
 }
