@@ -441,18 +441,18 @@
    "ref": "https://nsearchives.nseindia.com/emerge/corporates/content/AD_IPO_7818_30092026183839.zip",
    "listing_ref": "https://nsearchives.nseindia.com/emerge/corporates/content/AD_IPO_7818_30092026183839.zip",
    "error": "NSE Emerge: zip has no PDF",
-   "at": "2026-11-08T19:05:15+05:30",
+   "at": "2026-11-09T01:15:01+05:30",
    "company": "Alps Digital Devices Limited",
-   "attempts": 2,
+   "attempts": 3,
    "version": 4
   },
   "kritilabstechnologies": {
    "ref": "https://nsearchives.nseindia.com/emerge/corporates/content/AD_IPO_7836_30092026235606.zip",
    "listing_ref": "https://nsearchives.nseindia.com/emerge/corporates/content/AD_IPO_7836_30092026235606.zip",
    "error": "NSE Emerge: zip has no PDF",
-   "at": "2026-11-08T19:05:18+05:30",
+   "at": "2026-11-09T01:15:08+05:30",
    "company": "Kritilabs Technologies Limited",
-   "attempts": 2,
+   "attempts": 3,
    "version": 4
   },
   "kasliwalprojects": {
@@ -530,6 +530,76 @@
    "listing_ref": "https://www.chittorgarh.com/ipo/raj-polypack-ipo/3371/",
    "at": "2026-11-08T19:05:37+05:30",
    "company": "Raj Polypack Limited",
+   "version": 4
+  },
+  "anvipublishing": {
+   "ref": "https://www.bsesme.com/download/306723/SME_IPO%20InPrinciple/ANVIDPFINAL_20260930213505.zip",
+   "listing_ref": "https://www.chittorgarh.com/ipo/anvi-publishing-ipo/3372/",
+   "at": "2026-11-09T01:15:09+05:30",
+   "company": "Anvi Publishing Limited",
+   "version": 4
+  },
+  "carnetbooks": {
+   "ref": "https://www.bsesme.com/download/388508/SME_IPO%20InPrinciple/DraftProspectus_20260930230747.zip",
+   "listing_ref": "https://www.chittorgarh.com/ipo/carnet-books-ipo/3373/",
+   "at": "2026-11-09T01:15:18+05:30",
+   "company": "Carnet Books Limited",
+   "version": 4
+  },
+  "sanwariyamultiventures": {
+   "ref": "https://www.bsesme.com/download/336286/SME_IPO%20InPrinciple/DRHP_Sanwariya_20260930220103.zip",
+   "listing_ref": "https://www.chittorgarh.com/ipo/sanwariya-multiventures-ipo/3374/",
+   "at": "2026-11-09T01:15:22+05:30",
+   "company": "Sanwariya Multiventures Limited",
+   "version": 4
+  },
+  "anilfashions": {
+   "ref": "https://www.bsesme.com/download/338807/SME_IPO%20InPrinciple/DP_20260930213912.zip",
+   "listing_ref": "https://www.chittorgarh.com/ipo/anil-fashions-ipo/3375/",
+   "at": "2026-11-09T01:15:25+05:30",
+   "company": "Anil Fashions Limited",
+   "version": 4
+  },
+  "lgcengineering": {
+   "ref": "https://www.bsesme.com/download/332642/SME_IPO%20InPrinciple/DRHP_LGC_BSE_30092026_Final_20261001002056.pdf",
+   "listing_ref": "https://www.chittorgarh.com/ipo/lgc-engineering-ipo/3376/",
+   "at": "2026-11-09T01:15:29+05:30",
+   "company": "LGC Engineering Limited",
+   "version": 4
+  },
+  "acefurnaces": {
+   "ref": "https://www.bsesme.com/download/324480/SME_IPO%20InPrinciple/DRHP_DAP_20260930221210.zip",
+   "listing_ref": "https://www.chittorgarh.com/ipo/ace-furnaces-ipo/3377/",
+   "at": "2026-11-09T01:15:33+05:30",
+   "company": "ACE Furnaces Limited",
+   "version": 4
+  },
+  "solitariolabgrown": {
+   "ref": "https://www.bsesme.com/download/381609/SME_IPO%20InPrinciple/DHRPSolitario_20260930234650.zip",
+   "listing_ref": "https://www.chittorgarh.com/ipo/solitario-lab-grown-ipo/3378/",
+   "at": "2026-11-09T01:15:37+05:30",
+   "company": "Solitario Lab Grown Limited",
+   "version": 4
+  },
+  "shaktiinfraprojects": {
+   "ref": "https://www.bseindia.com/corporates/download/314858/SME_IPO/DRHP_Shakti_20250430113835.pdf",
+   "listing_ref": "https://www.chittorgarh.com/ipo/shakti-infra-projects-ipo/3380/",
+   "at": "2026-11-09T01:15:41+05:30",
+   "company": "Shakti Infra Projects Limited",
+   "version": 4
+  },
+  "jayteealloyscomponents": {
+   "ref": "https://www.bsesme.com/download/303030/SME_IPO%20InPrinciple/DraftOfferdocuments_20260930222424.zip",
+   "listing_ref": "https://www.chittorgarh.com/ipo/jaytee-alloys-components-ipo/3381/",
+   "at": "2026-11-09T01:15:47+05:30",
+   "company": "Jaytee Alloys & Components Limited",
+   "version": 4
+  },
+  "rysainfratech": {
+   "ref": "https://www.bsesme.com/download/380144/SME_IPO%20InPrinciple/DRHP_RYSA_20261001123047.pdf",
+   "listing_ref": "https://www.chittorgarh.com/ipo/rysa-infratech-ipo/3382/",
+   "at": "2026-11-09T01:15:49+05:30",
+   "company": "Rysa Infratech Limited",
    "version": 4
   }
  }

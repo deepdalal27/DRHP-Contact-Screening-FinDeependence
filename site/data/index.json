@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-08T19:05:39+05:30",
+ "updated_at": "2026-11-09T01:15:53+05:30",
  "companies": [
   {
    "key": "hindustancocacolaholdings",
@@ -2179,6 +2179,30 @@
    "processed_at": "2026-11-07T23:21:47+05:30"
   },
   {
+   "key": "acefurnaces",
+   "company": "ACE Furnaces Limited",
+   "board": "SME",
+   "exchange": "BSE SME",
+   "source": "BSE SME",
+   "filed_on": "2026-09-30",
+   "doc_type": "DRHP",
+   "brlms": [
+    "Beeline Capital Advisors Pvt.ltd."
+   ],
+   "promoters": [
+    "Kailash Vishnu Nasta",
+    "Rhea Kailash Nasta",
+    "Nitin Jagannath Phirake"
+   ],
+   "pre_ipo": null,
+   "latest": {},
+   "verified": null,
+   "warnings": [
+    "BSE SME filing: contacts and figures from Chittorgarh. BSE blocks cloud servers, so the DRHP PDF could not be read automatically; open it from the link above."
+   ],
+   "processed_at": "2026-11-09T01:15:33+05:30"
+  },
+  {
    "key": "aitmcventures",
    "company": "AITMC Ventures Limited",
    "board": "Mainboard",
@@ -2232,6 +2256,53 @@
    "processed_at": "2026-11-08T03:28:50+05:30"
   },
   {
+   "key": "anilfashions",
+   "company": "Anil Fashions Limited",
+   "board": "SME",
+   "exchange": "BSE SME",
+   "source": "BSE SME",
+   "filed_on": "2026-09-30",
+   "doc_type": "DRHP",
+   "brlms": [
+    "Mark Corporate Advisors Pvt.Ltd."
+   ],
+   "promoters": [
+    "Navin Ramniwas Agarwal",
+    "Ashok Ramniwas Agarwal",
+    "Anup Ramniwas Agarwal"
+   ],
+   "pre_ipo": null,
+   "latest": {},
+   "verified": null,
+   "warnings": [
+    "BSE SME filing: contacts and figures from Chittorgarh. BSE blocks cloud servers, so the DRHP PDF could not be read automatically; open it from the link above."
+   ],
+   "processed_at": "2026-11-09T01:15:25+05:30"
+  },
+  {
+   "key": "anvipublishing",
+   "company": "Anvi Publishing Limited",
+   "board": "SME",
+   "exchange": "BSE SME",
+   "source": "BSE SME",
+   "filed_on": "2026-09-30",
+   "doc_type": "DRHP",
+   "brlms": [
+    "Sobhagya Capital Options Pvt.Ltd."
+   ],
+   "promoters": [
+    "Mohit Mehta",
+    "Mamona"
+   ],
+   "pre_ipo": null,
+   "latest": {},
+   "verified": null,
+   "warnings": [
+    "BSE SME filing: contacts and figures from Chittorgarh. BSE blocks cloud servers, so the DRHP PDF could not be read automatically; open it from the link above."
+   ],
+   "processed_at": "2026-11-09T01:15:09+05:30"
+  },
+  {
    "key": "blueoceanecotech",
    "company": "Blueocean Ecotech Limited",
    "board": "SME",
@@ -2283,6 +2354,30 @@
    "processed_at": "2026-11-08T19:05:19+05:30"
   },
   {
+   "key": "carnetbooks",
+   "company": "Carnet Books Limited",
+   "board": "SME",
+   "exchange": "BSE SME",
+   "source": "BSE SME",
+   "filed_on": "2026-09-30",
+   "doc_type": "DRHP",
+   "brlms": [
+    "Finshore Management Services Ltd."
+   ],
+   "promoters": [
+    "Alex Kuruvilla",
+    "Jyolsna Alex",
+    "Kuruvilla Alex"
+   ],
+   "pre_ipo": null,
+   "latest": {},
+   "verified": null,
+   "warnings": [
+    "BSE SME filing: contacts and figures from Chittorgarh. BSE blocks cloud servers, so the DRHP PDF could not be read automatically; open it from the link above."
+   ],
+   "processed_at": "2026-11-09T01:15:18+05:30"
+  },
+  {
    "key": "gorantlageosynthetic",
    "company": "Gorantla Geosynthetic Limited",
    "board": "SME",
@@ -2327,6 +2422,29 @@
     "BSE SME filing: contacts and figures from Chittorgarh. BSE blocks cloud servers, so the DRHP PDF could not be read automatically; open it from the link above."
    ],
    "processed_at": "2026-11-08T11:43:51+05:30"
+  },
+  {
+   "key": "jayteealloyscomponents",
+   "company": "Jaytee Alloys & Components Limited",
+   "board": "SME",
+   "exchange": "BSE SME",
+   "source": "BSE SME",
+   "filed_on": "2026-09-30",
+   "doc_type": "DRHP",
+   "brlms": [
+    "Getfive Advisors Pvt.ltd."
+   ],
+   "promoters": [
+    "Ashok Kumar Jain",
+    "Naman Jain"
+   ],
+   "pre_ipo": null,
+   "latest": {},
+   "verified": null,
+   "warnings": [
+    "BSE SME filing: contacts and figures from Chittorgarh. BSE blocks cloud servers, so the DRHP PDF could not be read automatically; open it from the link above."
+   ],
+   "processed_at": "2026-11-09T01:15:47+05:30"
   },
   {
    "key": "kasliwalprojects",
@@ -2397,6 +2515,30 @@
     "BSE SME filing: contacts and figures from Chittorgarh. BSE blocks cloud servers, so the DRHP PDF could not be read automatically; open it from the link above."
    ],
    "processed_at": "2026-11-08T11:43:55+05:30"
+  },
+  {
+   "key": "lgcengineering",
+   "company": "LGC Engineering Limited",
+   "board": "SME",
+   "exchange": "BSE SME",
+   "source": "BSE SME",
+   "filed_on": "2026-09-30",
+   "doc_type": "DRHP",
+   "brlms": [
+    "Finshore Management Services Ltd."
+   ],
+   "promoters": [
+    "Arjun Krishna Shastry",
+    "Deepika Gerty Laxmi",
+    "Geetha Krishna"
+   ],
+   "pre_ipo": null,
+   "latest": {},
+   "verified": null,
+   "warnings": [
+    "BSE SME filing: contacts and figures from Chittorgarh. BSE blocks cloud servers, so the DRHP PDF could not be read automatically; open it from the link above."
+   ],
+   "processed_at": "2026-11-09T01:15:29+05:30"
   },
   {
    "key": "madhavaacrafts",
@@ -2530,6 +2672,29 @@
    "processed_at": "2026-11-08T19:05:37+05:30"
   },
   {
+   "key": "rysainfratech",
+   "company": "Rysa Infratech Limited",
+   "board": "SME",
+   "exchange": "BSE SME",
+   "source": "BSE SME",
+   "filed_on": "2026-09-30",
+   "doc_type": "DRHP",
+   "brlms": [
+    "Diggi Corporate Advisors Pvt.Ltd."
+   ],
+   "promoters": [
+    "Sanjiv Kumar Chaudhary",
+    "Yogesh Tomar"
+   ],
+   "pre_ipo": null,
+   "latest": {},
+   "verified": null,
+   "warnings": [
+    "BSE SME filing: contacts and figures from Chittorgarh. BSE blocks cloud servers, so the DRHP PDF could not be read automatically; open it from the link above."
+   ],
+   "processed_at": "2026-11-09T01:15:49+05:30"
+  },
+  {
    "key": "sabariconstructiontechnologies",
    "company": "Sabari Construction Technologies Limited",
    "board": "SME",
@@ -2557,6 +2722,28 @@
     "No usable email found for promoters, BRLM or the company."
    ],
    "processed_at": "2026-11-08T03:29:13+05:30"
+  },
+  {
+   "key": "sanwariyamultiventures",
+   "company": "Sanwariya Multiventures Limited",
+   "board": "SME",
+   "exchange": "BSE SME",
+   "source": "BSE SME",
+   "filed_on": "2026-09-30",
+   "doc_type": "DRHP",
+   "brlms": [
+    "Corporate Makers Capital Ltd."
+   ],
+   "promoters": [
+    "Rajaram Vaishnav Offer For Sale - Selling Shareholder Name Category No"
+   ],
+   "pre_ipo": null,
+   "latest": {},
+   "verified": null,
+   "warnings": [
+    "BSE SME filing: contacts and figures from Chittorgarh. BSE blocks cloud servers, so the DRHP PDF could not be read automatically; open it from the link above."
+   ],
+   "processed_at": "2026-11-09T01:15:22+05:30"
   },
   {
    "key": "sarvafoamindustries",
@@ -2668,6 +2855,51 @@
     "BSE SME filing: contacts and figures from Chittorgarh. BSE blocks cloud servers, so the DRHP PDF could not be read automatically; open it from the link above."
    ],
    "processed_at": "2026-11-08T19:05:31+05:30"
+  },
+  {
+   "key": "shaktiinfraprojects",
+   "company": "Shakti Infra Projects Limited",
+   "board": "SME",
+   "exchange": "BSE SME",
+   "source": "BSE SME",
+   "filed_on": "2026-09-30",
+   "doc_type": "DRHP",
+   "brlms": [
+    "Sobhagya Capital Options Pvt.Ltd."
+   ],
+   "promoters": [
+    "Amitendra Singh",
+    "Shakti Narayan Singh"
+   ],
+   "pre_ipo": null,
+   "latest": {},
+   "verified": null,
+   "warnings": [
+    "BSE SME filing: contacts and figures from Chittorgarh. BSE blocks cloud servers, so the DRHP PDF could not be read automatically; open it from the link above."
+   ],
+   "processed_at": "2026-11-09T01:15:41+05:30"
+  },
+  {
+   "key": "solitariolabgrown",
+   "company": "Solitario Lab Grown Limited",
+   "board": "SME",
+   "exchange": "BSE SME",
+   "source": "BSE SME",
+   "filed_on": "2026-09-30",
+   "doc_type": "DRHP",
+   "brlms": [
+    "Socradamus Capital Pvt.ltd."
+   ],
+   "promoters": [
+    "Ricky Hiro Vasandani Offer For Sale - Selling Shareholder Name Category No"
+   ],
+   "pre_ipo": null,
+   "latest": {},
+   "verified": null,
+   "warnings": [
+    "BSE SME filing: contacts and figures from Chittorgarh. BSE blocks cloud servers, so the DRHP PDF could not be read automatically; open it from the link above."
+   ],
+   "processed_at": "2026-11-09T01:15:37+05:30"
   },
   {
    "key": "steamequipments",

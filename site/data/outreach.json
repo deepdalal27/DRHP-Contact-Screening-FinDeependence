@@ -7327,7 +7327,451 @@
    },
    "website": "https://www.rajpolypack.in/",
    "doc_url": "https://www.bsesme.com/download/328498/SME_IPO%20InPrinciple/Rajpolypack_DraftOfferDocument_20260930232821.zip"
+  },
+  {
+   "id": "anvipublishing|info@anvipublishing.com",
+   "company_key": "anvipublishing",
+   "company": "Anvi Publishing Limited",
+   "board": "SME",
+   "filed_on": "2026-09-30",
+   "variant": "company",
+   "role": "Company Secretary / IR",
+   "organisation": "Anvi Publishing Limited",
+   "names": [],
+   "email": "info@anvipublishing.com",
+   "phones": [
+    "9813032123"
+   ],
+   "subject": "Parshwanath Capital Ventures Fund | Pre-IPO & Anchor interest – Anvi Publishing Limited",
+   "status": "sent",
+   "sent_at": "2026-11-09T01:15:16+05:30",
+   "created_at": "2026-11-09T01:15:16+05:30",
+   "message_id": "<179416710924.2490.112041070915451770@gmail.com>",
+   "error": null,
+   "promoters": [
+    "Mohit Mehta",
+    "Mamona"
+   ],
+   "brlm_contacts": [
+    {
+     "firm": "Sobhagya Capital Options Pvt.Ltd.",
+     "people": [],
+     "emails": [],
+     "phones": []
+    }
+   ],
+   "cs": {
+    "name": null,
+    "emails": [
+     "info@anvipublishing.com"
+    ],
+    "phones": [
+     "9813032123"
+    ],
+    "page": null
+   },
+   "website": "https://anvipublishing.com/",
+   "doc_url": "https://www.bsesme.com/download/306723/SME_IPO%20InPrinciple/ANVIDPFINAL_20260930213505.zip"
+  },
+  {
+   "id": "carnetbooks|cs@carnetbooks.com",
+   "company_key": "carnetbooks",
+   "company": "Carnet Books Limited",
+   "board": "SME",
+   "filed_on": "2026-09-30",
+   "variant": "company",
+   "role": "Company Secretary / IR",
+   "organisation": "Carnet Books Limited",
+   "names": [],
+   "email": "cs@carnetbooks.com",
+   "phones": [
+    "9072548999"
+   ],
+   "subject": "Parshwanath Capital Ventures Fund | Pre-IPO & Anchor interest – Carnet Books Limited",
+   "status": "sent",
+   "sent_at": "2026-11-09T01:15:20+05:30",
+   "created_at": "2026-11-09T01:15:20+05:30",
+   "message_id": "<179416711801.2490.5264401468579669969@gmail.com>",
+   "error": null,
+   "promoters": [
+    "Alex Kuruvilla",
+    "Jyolsna Alex",
+    "Kuruvilla Alex"
+   ],
+   "brlm_contacts": [
+    {
+     "firm": "Finshore Management Services Ltd.",
+     "people": [],
+     "emails": [],
+     "phones": []
+    }
+   ],
+   "cs": {
+    "name": null,
+    "emails": [
+     "cs@carnetbooks.com"
+    ],
+    "phones": [
+     "9072548999"
+    ],
+    "page": null
+   },
+   "website": "https://www.carnetbooks.com/",
+   "doc_url": "https://www.bsesme.com/download/388508/SME_IPO%20InPrinciple/DraftProspectus_20260930230747.zip"
+  },
+  {
+   "id": "sanwariyamultiventures|info@sanwariyaltd.com",
+   "company_key": "sanwariyamultiventures",
+   "company": "Sanwariya Multiventures Limited",
+   "board": "SME",
+   "filed_on": "2026-09-30",
+   "variant": "company",
+   "role": "Company Secretary / IR",
+   "organisation": "Sanwariya Multiventures Limited",
+   "names": [],
+   "email": "info@sanwariyaltd.com",
+   "phones": [
+    "9216040220"
+   ],
+   "subject": "Parshwanath Capital Ventures Fund | Pre-IPO & Anchor interest – Sanwariya Multiventures Limited",
+   "status": "sent",
+   "sent_at": "2026-11-09T01:15:25+05:30",
+   "created_at": "2026-11-09T01:15:25+05:30",
+   "message_id": "<179416712206.2490.8283951582375358169@gmail.com>",
+   "error": null,
+   "promoters": [
+    "Rajaram Vaishnav Offer For Sale - Selling Shareholder Name Category No"
+   ],
+   "brlm_contacts": [
+    {
+     "firm": "Corporate Makers Capital Ltd.",
+     "people": [],
+     "emails": [],
+     "phones": []
+    }
+   ],
+   "cs": {
+    "name": null,
+    "emails": [
+     "info@sanwariyaltd.com"
+    ],
+    "phones": [
+     "9216040220"
+    ],
+    "page": null
+   },
+   "website": "https://www.smipl.orgaureatetradde.in/",
+   "doc_url": "https://www.bsesme.com/download/336286/SME_IPO%20InPrinciple/DRHP_Sanwariya_20260930220103.zip"
+  },
+  {
+   "id": "anilfashions|cs@anilfashions.com",
+   "company_key": "anilfashions",
+   "company": "Anil Fashions Limited",
+   "board": "SME",
+   "filed_on": "2026-09-30",
+   "variant": "company",
+   "role": "Company Secretary / IR",
+   "organisation": "Anil Fashions Limited",
+   "names": [],
+   "email": "cs@anilfashions.com",
+   "phones": [
+    "9428015692"
+   ],
+   "subject": "Parshwanath Capital Ventures Fund | Pre-IPO & Anchor interest – Anil Fashions Limited",
+   "status": "sent",
+   "sent_at": "2026-11-09T01:15:28+05:30",
+   "created_at": "2026-11-09T01:15:28+05:30",
+   "message_id": "<179416712598.2490.18253873783748311848@gmail.com>",
+   "error": null,
+   "promoters": [
+    "Navin Ramniwas Agarwal",
+    "Ashok Ramniwas Agarwal",
+    "Anup Ramniwas Agarwal"
+   ],
+   "brlm_contacts": [
+    {
+     "firm": "Mark Corporate Advisors Pvt.Ltd.",
+     "people": [],
+     "emails": [],
+     "phones": []
+    }
+   ],
+   "cs": {
+    "name": null,
+    "emails": [
+     "cs@anilfashions.com"
+    ],
+    "phones": [
+     "9428015692"
+    ],
+    "page": null
+   },
+   "website": "https://www.anilfashions.com/",
+   "doc_url": "https://www.bsesme.com/download/338807/SME_IPO%20InPrinciple/DP_20260930213912.zip"
+  },
+  {
+   "id": "lgcengineering|cs@lgcengg.in",
+   "company_key": "lgcengineering",
+   "company": "LGC Engineering Limited",
+   "board": "SME",
+   "filed_on": "2026-09-30",
+   "variant": "company",
+   "role": "Company Secretary / IR",
+   "organisation": "LGC Engineering Limited",
+   "names": [],
+   "email": "cs@lgcengg.in",
+   "phones": [
+    "9845261433"
+   ],
+   "subject": "Parshwanath Capital Ventures Fund | Pre-IPO & Anchor interest – LGC Engineering Limited",
+   "status": "sent",
+   "sent_at": "2026-11-09T01:15:32+05:30",
+   "created_at": "2026-11-09T01:15:32+05:30",
+   "message_id": "<179416712934.2490.3780597578104705321@gmail.com>",
+   "error": null,
+   "promoters": [
+    "Arjun Krishna Shastry",
+    "Deepika Gerty Laxmi",
+    "Geetha Krishna"
+   ],
+   "brlm_contacts": [
+    {
+     "firm": "Finshore Management Services Ltd.",
+     "people": [],
+     "emails": [],
+     "phones": []
+    }
+   ],
+   "cs": {
+    "name": null,
+    "emails": [
+     "cs@lgcengg.in"
+    ],
+    "phones": [
+     "9845261433"
+    ],
+    "page": null
+   },
+   "website": "https://lgceng.com/",
+   "doc_url": "https://www.bsesme.com/download/332642/SME_IPO%20InPrinciple/DRHP_LGC_BSE_30092026_Final_20261001002056.pdf"
+  },
+  {
+   "id": "acefurnaces|compliance@acefurnaces.com",
+   "company_key": "acefurnaces",
+   "company": "ACE Furnaces Limited",
+   "board": "SME",
+   "filed_on": "2026-09-30",
+   "variant": "company",
+   "role": "Company Secretary / IR",
+   "organisation": "ACE Furnaces Limited",
+   "names": [],
+   "email": "compliance@acefurnaces.com",
+   "phones": [
+    "8097600759"
+   ],
+   "subject": "Parshwanath Capital Ventures Fund | Pre-IPO & Anchor interest – ACE Furnaces Limited",
+   "status": "sent",
+   "sent_at": "2026-11-09T01:15:36+05:30",
+   "created_at": "2026-11-09T01:15:36+05:30",
+   "message_id": "<179416713383.2490.4542828229216304796@gmail.com>",
+   "error": null,
+   "promoters": [
+    "Kailash Vishnu Nasta",
+    "Rhea Kailash Nasta",
+    "Nitin Jagannath Phirake"
+   ],
+   "brlm_contacts": [
+    {
+     "firm": "Beeline Capital Advisors Pvt.ltd.",
+     "people": [],
+     "emails": [],
+     "phones": []
+    }
+   ],
+   "cs": {
+    "name": null,
+    "emails": [
+     "compliance@acefurnaces.com"
+    ],
+    "phones": [
+     "8097600759"
+    ],
+    "page": null
+   },
+   "website": "https://www.acefurnaces.com/",
+   "doc_url": "https://www.bsesme.com/download/324480/SME_IPO%20InPrinciple/DRHP_DAP_20260930221210.zip"
+  },
+  {
+   "id": "solitariolabgrown|investor@thesolitario.com",
+   "company_key": "solitariolabgrown",
+   "company": "Solitario Lab Grown Limited",
+   "board": "SME",
+   "filed_on": "2026-09-30",
+   "variant": "company",
+   "role": "Company Secretary / IR",
+   "organisation": "Solitario Lab Grown Limited",
+   "names": [],
+   "email": "investor@thesolitario.com",
+   "phones": [
+    "020-46379185"
+   ],
+   "subject": "Parshwanath Capital Ventures Fund | Pre-IPO & Anchor interest – Solitario Lab Grown Limited",
+   "status": "sent",
+   "sent_at": "2026-11-09T01:15:40+05:30",
+   "created_at": "2026-11-09T01:15:40+05:30",
+   "message_id": "<179416713756.2490.4691275250596005457@gmail.com>",
+   "error": null,
+   "promoters": [
+    "Ricky Hiro Vasandani Offer For Sale - Selling Shareholder Name Category No"
+   ],
+   "brlm_contacts": [
+    {
+     "firm": "Socradamus Capital Pvt.ltd.",
+     "people": [],
+     "emails": [],
+     "phones": []
+    }
+   ],
+   "cs": {
+    "name": null,
+    "emails": [
+     "investor@thesolitario.com"
+    ],
+    "phones": [
+     "020-46379185"
+    ],
+    "page": null
+   },
+   "website": "https://thesolitario.com/",
+   "doc_url": "https://www.bsesme.com/download/381609/SME_IPO%20InPrinciple/DHRPSolitario_20260930234650.zip"
+  },
+  {
+   "id": "shaktiinfraprojects|shaktiinfraprojectspvtltdsippl@gmail.com",
+   "company_key": "shaktiinfraprojects",
+   "company": "Shakti Infra Projects Limited",
+   "board": "SME",
+   "filed_on": "2026-09-30",
+   "variant": "company",
+   "role": "Company Secretary / IR",
+   "organisation": "Shakti Infra Projects Limited",
+   "names": [],
+   "email": "shaktiinfraprojectspvtltdsippl@gmail.com",
+   "phones": [],
+   "subject": "Parshwanath Capital Ventures Fund | Pre-IPO & Anchor interest – Shakti Infra Projects Limited",
+   "status": "sent",
+   "sent_at": "2026-11-09T01:15:45+05:30",
+   "created_at": "2026-11-09T01:15:45+05:30",
+   "message_id": "<179416714151.2490.6433528489870129975@gmail.com>",
+   "error": null,
+   "promoters": [
+    "Amitendra Singh",
+    "Shakti Narayan Singh"
+   ],
+   "brlm_contacts": [
+    {
+     "firm": "Sobhagya Capital Options Pvt.Ltd.",
+     "people": [],
+     "emails": [],
+     "phones": []
+    }
+   ],
+   "cs": {
+    "name": null,
+    "emails": [
+     "shaktiinfraprojectspvtltdsippl@gmail.com"
+    ],
+    "phones": [],
+    "page": null
+   },
+   "website": "https://www.shaktiinfraprojects.com/",
+   "doc_url": "https://www.bseindia.com/corporates/download/314858/SME_IPO/DRHP_Shakti_20250430113835.pdf"
+  },
+  {
+   "id": "jayteealloyscomponents|cs@jayteealloys.com",
+   "company_key": "jayteealloyscomponents",
+   "company": "Jaytee Alloys & Components Limited",
+   "board": "SME",
+   "filed_on": "2026-09-30",
+   "variant": "company",
+   "role": "Company Secretary / IR",
+   "organisation": "Jaytee Alloys & Components Limited",
+   "names": [],
+   "email": "cs@jayteealloys.com",
+   "phones": [
+    "9311724858"
+   ],
+   "subject": "Parshwanath Capital Ventures Fund | Pre-IPO & Anchor interest – Jaytee Alloys & Components Limited",
+   "status": "sent",
+   "sent_at": "2026-11-09T01:15:48+05:30",
+   "created_at": "2026-11-09T01:15:48+05:30",
+   "message_id": "<179416714701.2490.11500006829348848952@gmail.com>",
+   "error": null,
+   "promoters": [
+    "Ashok Kumar Jain",
+    "Naman Jain"
+   ],
+   "brlm_contacts": [
+    {
+     "firm": "Getfive Advisors Pvt.ltd.",
+     "people": [],
+     "emails": [],
+     "phones": []
+    }
+   ],
+   "cs": {
+    "name": null,
+    "emails": [
+     "cs@jayteealloys.com"
+    ],
+    "phones": [
+     "9311724858"
+    ],
+    "page": null
+   },
+   "website": "https://www.jayteealloys.com/",
+   "doc_url": "https://www.bsesme.com/download/303030/SME_IPO%20InPrinciple/DraftOfferdocuments_20260930222424.zip"
+  },
+  {
+   "id": "rysainfratech|compliance@rysainfratech.com",
+   "company_key": "rysainfratech",
+   "company": "Rysa Infratech Limited",
+   "board": "SME",
+   "filed_on": "2026-09-30",
+   "variant": "company",
+   "role": "Company Secretary / IR",
+   "organisation": "Rysa Infratech Limited",
+   "names": [],
+   "email": "compliance@rysainfratech.com",
+   "phones": [],
+   "subject": "Parshwanath Capital Ventures Fund | Pre-IPO & Anchor interest – Rysa Infratech Limited",
+   "status": "sent",
+   "sent_at": "2026-11-09T01:15:53+05:30",
+   "created_at": "2026-11-09T01:15:53+05:30",
+   "message_id": "<179416714961.2490.5621400363432474150@gmail.com>",
+   "error": null,
+   "promoters": [
+    "Sanjiv Kumar Chaudhary",
+    "Yogesh Tomar"
+   ],
+   "brlm_contacts": [
+    {
+     "firm": "Diggi Corporate Advisors Pvt.Ltd.",
+     "people": [],
+     "emails": [],
+     "phones": []
+    }
+   ],
+   "cs": {
+    "name": null,
+    "emails": [
+     "compliance@rysainfratech.com"
+    ],
+    "phones": [],
+    "page": null
+   },
+   "website": "https://rysainfratech.com/",
+   "doc_url": "https://www.bsesme.com/download/380144/SME_IPO%20InPrinciple/DRHP_RYSA_20261001123047.pdf"
   }
  ],
- "updated_at": "2026-11-08T19:05:39+05:30"
+ "updated_at": "2026-11-09T01:15:53+05:30"
 }
