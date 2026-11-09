@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-09T17:17:28+05:30",
+ "updated_at": "2026-11-10T03:59:21+05:30",
  "companies": [
   {
    "key": "snvatraveltech",
@@ -3638,6 +3638,80 @@
    "processed_at": "2026-11-09T17:16:05+05:30"
   },
   {
+   "key": "autorecyclingsystems",
+   "company": "Auto Recycling Systems Limited",
+   "board": "SME",
+   "exchange": "BSE SME",
+   "source": "BSE SME",
+   "filed_on": "2026-09-28",
+   "doc_type": "DRHP",
+   "brlms": [
+    "Finaax Capital Advisors Pvt.Ltd."
+   ],
+   "promoters": [
+    "Sanjeev Malhotra",
+    "Sarthak Malhotra"
+   ],
+   "pre_ipo": null,
+   "latest": {},
+   "verified": null,
+   "warnings": [
+    "BSE SME filing: contacts and figures from Chittorgarh. BSE blocks cloud servers, so the DRHP PDF could not be read automatically; open it from the link above."
+   ],
+   "processed_at": "2026-11-10T03:58:46+05:30"
+  },
+  {
+   "key": "bestcastit",
+   "company": "Best Cast It Limited",
+   "board": "SME",
+   "exchange": "NSE Emerge",
+   "source": "NSE Emerge",
+   "filed_on": "2026-09-28",
+   "doc_type": "DRHP",
+   "brlms": [
+    "GYR Capital Advisors Private Limited"
+   ],
+   "promoters": [
+    "Mr. Kabirdass Murali",
+    "Mr. Shreyas M Kabirdass"
+   ],
+   "pre_ipo": false,
+   "latest": {
+    "fy": "Col1"
+   },
+   "verified": false,
+   "warnings": [
+    "Some core figures could not be cross-checked; only verified figures are used in the email."
+   ],
+   "processed_at": "2026-11-10T03:58:30+05:30"
+  },
+  {
+   "key": "intergenenergy",
+   "company": "Intergen Energy Limited",
+   "board": "SME",
+   "exchange": "BSE SME",
+   "source": "BSE SME",
+   "filed_on": "2026-09-28",
+   "doc_type": "DRHP",
+   "brlms": [
+    "Turnaround Corporate Advisors Pvt.Ltd."
+   ],
+   "promoters": [
+    "KARAN SINGH",
+    "Yusuf Surtee",
+    "KMGA Holdings Pte.Ltd.",
+    "Pacific Coast Import Export FZE",
+    "Emerging Investments Ltd."
+   ],
+   "pre_ipo": null,
+   "latest": {},
+   "verified": null,
+   "warnings": [
+    "BSE SME filing: contacts and figures from Chittorgarh. BSE blocks cloud servers, so the DRHP PDF could not be read automatically; open it from the link above."
+   ],
+   "processed_at": "2026-11-10T03:58:49+05:30"
+  },
+  {
    "key": "jbecotex",
    "company": "J B Ecotex Limited",
    "board": "Mainboard",
@@ -3703,6 +3777,32 @@
    "processed_at": "2026-11-09T17:16:56+05:30"
   },
   {
+   "key": "parswamfashion",
+   "company": "Parswam Fashion Limited",
+   "board": "SME",
+   "exchange": "BSE SME",
+   "source": "BSE SME",
+   "filed_on": "2026-09-28",
+   "doc_type": "DRHP",
+   "brlms": [
+    "Galactico Corporate Services Ltd."
+   ],
+   "promoters": [
+    "Anand Bohra",
+    "Arvind Bohra",
+    "Palak Bohra",
+    "Garima Jain",
+    "Aditya Bohra"
+   ],
+   "pre_ipo": null,
+   "latest": {},
+   "verified": null,
+   "warnings": [
+    "BSE SME filing: contacts and figures from Chittorgarh. BSE blocks cloud servers, so the DRHP PDF could not be read automatically; open it from the link above."
+   ],
+   "processed_at": "2026-11-10T03:58:51+05:30"
+  },
+  {
    "key": "selzerpolymers",
    "company": "Selzer Polymers Limited",
    "board": "SME",
@@ -3733,6 +3833,33 @@
     "Some core figures could not be cross-checked; only verified figures are used in the email."
    ],
    "processed_at": "2026-11-09T17:17:24+05:30"
+  },
+  {
+   "key": "suviraindustries",
+   "company": "Suvira Industries Limited",
+   "board": "SME",
+   "exchange": "BSE SME",
+   "source": "BSE SME",
+   "filed_on": "2026-09-28",
+   "doc_type": "DRHP",
+   "brlms": [
+    "Turnaround Corporate Advisors Pvt.Ltd."
+   ],
+   "promoters": [
+    "K Panneer Selvan",
+    "Vinoth S",
+    "Yasodha M",
+    "Sobana",
+    "J Giri",
+    "G Lakshmi"
+   ],
+   "pre_ipo": null,
+   "latest": {},
+   "verified": null,
+   "warnings": [
+    "BSE SME filing: contacts and figures from Chittorgarh. BSE blocks cloud servers, so the DRHP PDF could not be read automatically; open it from the link above."
+   ],
+   "processed_at": "2026-11-10T03:58:42+05:30"
   },
   {
    "key": "technopaintsandchemicals",
@@ -3784,6 +3911,188 @@
    "verified": true,
    "warnings": [],
    "processed_at": "2026-11-09T17:17:07+05:30"
+  },
+  {
+   "key": "uepresstools",
+   "company": "Ue Press Tools Limited",
+   "board": "SME",
+   "exchange": "NSE Emerge",
+   "source": "NSE Emerge",
+   "filed_on": "2026-09-27",
+   "doc_type": "DRHP",
+   "brlms": [
+    "GYR Capital Advisors Private Limited"
+   ],
+   "promoters": [
+    "Mr. K Panneer Selvan",
+    "Mr. Vinoth S",
+    "Ms. Yasodha M",
+    "Ms. Sobana",
+    "Mr. J Giri",
+    "Ms. G Lakshmi"
+   ],
+   "pre_ipo": false,
+   "latest": {
+    "pat": {
+     "v": 11.2291,
+     "s": "verified"
+    },
+    "fy": "FY26"
+   },
+   "verified": false,
+   "warnings": [
+    "Some core figures could not be cross-checked; only verified figures are used in the email."
+   ],
+   "processed_at": "2026-11-10T03:58:59+05:30"
+  },
+  {
+   "key": "natrajenergy",
+   "company": "Natraj Energy Limited",
+   "board": "SME",
+   "exchange": "NSE Emerge",
+   "source": "NSE Emerge",
+   "filed_on": "2026-09-26",
+   "doc_type": "DRHP",
+   "brlms": [],
+   "promoters": [
+    "Mr. Durgesh Chandra Gupta",
+    "Ms. Anupam Varshney",
+    "Mr. Divya Gupta"
+   ],
+   "pre_ipo": true,
+   "latest": {
+    "revenue": {
+     "v": 119.8084,
+     "s": "verified"
+    },
+    "pat": {
+     "v": 8.8349,
+     "s": "verified"
+    },
+    "PAT margin": {
+     "v": 0.073742,
+     "s": "verified"
+    },
+    "Revenue growth": {
+     "v": 0.099645,
+     "s": "verified"
+    },
+    "fy": "FY26"
+   },
+   "verified": false,
+   "warnings": [
+    "Some core figures could not be cross-checked; only verified figures are used in the email.",
+    "No usable email found for promoters, BRLM or the company."
+   ],
+   "processed_at": "2026-11-10T03:59:11+05:30"
+  },
+  {
+   "key": "sgencon",
+   "company": "S. G. Encon Limited",
+   "board": "Mainboard",
+   "exchange": "BSE & NSE",
+   "source": "NSE",
+   "filed_on": "2026-09-26",
+   "doc_type": "DRHP",
+   "brlms": [
+    "Marwadi Chandarana Intermediaries Brokers Private Limited"
+   ],
+   "promoters": [
+    "Rajiv Gandhi",
+    "Pankaj Setia"
+   ],
+   "pre_ipo": false,
+   "latest": {
+    "pat": {
+     "v": 22.885,
+     "s": "verified"
+    },
+    "total_equity": {
+     "v": 95.217,
+     "s": "verified"
+    },
+    "RoNW (closing)": {
+     "v": 0.240346,
+     "s": "verified"
+    },
+    "Debt / Equity": {
+     "v": 0.089879,
+     "s": "verified"
+    },
+    "fy": "FY26"
+   },
+   "verified": false,
+   "warnings": [
+    "Some core figures could not be cross-checked; only verified figures are used in the email."
+   ],
+   "processed_at": "2026-11-10T03:59:05+05:30"
+  },
+  {
+   "key": "anmolindustries",
+   "company": "Anmol Industries Limited",
+   "board": "Mainboard",
+   "exchange": "BSE & NSE",
+   "source": "NSE",
+   "filed_on": "2026-09-25",
+   "doc_type": "DRHP",
+   "brlms": [
+    "Intensive Fiscal Services Private Limited",
+    "ICICI Securities Limited",
+    "IIFL Capital Services Limited (formerly known as IIFL"
+   ],
+   "promoters": [
+    "Baijnath Choudhary & Family Trust",
+    "Biswanath Choudhary",
+    "Dilip Kumar Choudhary",
+    "Gobind Ram Choudhary",
+    "Bimal Kumar Choudhary",
+    "Vikash Choudhary",
+    "Sunil Choudhary",
+    "Deepak Choudhary",
+    "Ankit Choudhary",
+    "Ashish Choudhary",
+    "Aman Choudhary",
+    "Keshav Choudhary"
+   ],
+   "pre_ipo": false,
+   "latest": {
+    "revenue": {
+     "v": 2101.839,
+     "s": "verified"
+    },
+    "pat": {
+     "v": 190.968,
+     "s": "verified"
+    },
+    "total_equity": {
+     "v": 452.783,
+     "s": "verified"
+    },
+    "EBITDA margin": {
+     "v": 0.136732,
+     "s": "verified"
+    },
+    "PAT margin": {
+     "v": 0.090858,
+     "s": "verified"
+    },
+    "RoNW (closing)": {
+     "v": 0.421765,
+     "s": "verified"
+    },
+    "Debt / Equity": {
+     "v": 0.569796,
+     "s": "verified"
+    },
+    "Revenue growth": {
+     "v": 0.280906,
+     "s": "verified"
+    },
+    "fy": "FY26"
+   },
+   "verified": true,
+   "warnings": [],
+   "processed_at": "2026-11-10T03:59:15+05:30"
   }
  ]
 }

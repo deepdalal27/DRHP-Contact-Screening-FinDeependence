@@ -634,9 +634,9 @@
    "ref": "https://nsearchives.nseindia.com/corporate/AD_IPO_7788_29092026191112.zip",
    "listing_ref": "https://nsearchives.nseindia.com/corporate/AD_IPO_7788_29092026191112.zip",
    "error": "NSE: document has only 14 pages (incomplete download or not the DRHP)",
-   "at": "2026-11-09T17:16:00+05:30",
+   "at": "2026-11-10T03:58:21+05:30",
    "company": "Biocon Electric Limited",
-   "attempts": 2,
+   "attempts": 3,
    "version": 4
   },
   "chandranipearls": {
@@ -657,9 +657,9 @@
    "ref": "https://nsearchives.nseindia.com/emerge/corporates/content/AD_IPO_7795_29092026234155.zip",
    "listing_ref": "https://nsearchives.nseindia.com/emerge/corporates/content/AD_IPO_7795_29092026234155.zip",
    "error": "NSE Emerge: document has only 7 pages (incomplete download or not the DRHP)",
-   "at": "2026-11-09T17:16:04+05:30",
+   "at": "2026-11-10T03:58:26+05:30",
    "company": "CTM Technologies Limited",
-   "attempts": 2,
+   "attempts": 3,
    "version": 4
   },
   "roongtaentertainment": {
@@ -744,6 +744,78 @@
    "listing_ref": "https://nsearchives.nseindia.com/emerge/corporates/content/AD_IPO_7765_28092026225959.zip",
    "at": "2026-11-09T17:17:24+05:30",
    "company": "Selzer Polymers Limited",
+   "version": 4
+  },
+  "bestcastit": {
+   "ref": "https://nsearchives.nseindia.com/emerge/corporates/content/AD_IPO_7766_28092026234803.zip",
+   "listing_ref": "https://nsearchives.nseindia.com/emerge/corporates/content/AD_IPO_7766_28092026234803.zip",
+   "at": "2026-11-10T03:58:30+05:30",
+   "company": "Best Cast It Limited",
+   "version": 4
+  },
+  "hgiautomotives": {
+   "ref": "https://nsearchives.nseindia.com/emerge/corporates/content/HGI.zip",
+   "listing_ref": "https://nsearchives.nseindia.com/emerge/corporates/content/HGI.zip",
+   "error": "NSE Emerge: zip has no PDF",
+   "at": "2026-11-10T03:58:41+05:30",
+   "company": "Hgi Automotives Limited",
+   "attempts": 1,
+   "version": 4
+  },
+  "suviraindustries": {
+   "ref": "https://www.bsesme.com/download/370368/SME_IPO%20InPrinciple/1_DRHP_20260928172753.zip",
+   "listing_ref": "https://www.chittorgarh.com/ipo/suvira-industries-ipo/3302/",
+   "at": "2026-11-10T03:58:42+05:30",
+   "company": "Suvira Industries Limited",
+   "version": 4
+  },
+  "autorecyclingsystems": {
+   "ref": "https://www.bsesme.com/download/337264/SME_IPO%20InPrinciple/DRHPARS_20260928211018.zip",
+   "listing_ref": "https://www.chittorgarh.com/ipo/auto-recycling-systems-ipo/3308/",
+   "at": "2026-11-10T03:58:46+05:30",
+   "company": "Auto Recycling Systems Limited",
+   "version": 4
+  },
+  "intergenenergy": {
+   "ref": "https://www.bsesme.com/download/318296/SME_IPO%20InPrinciple/DRHP_Intergen_20260929005201.zip",
+   "listing_ref": "https://www.chittorgarh.com/ipo/intergen-energy-ipo/3310/",
+   "at": "2026-11-10T03:58:49+05:30",
+   "company": "Intergen Energy Limited",
+   "version": 4
+  },
+  "parswamfashion": {
+   "ref": "https://www.bsesme.com/download/349251/SME_IPO%20InPrinciple/Parswam_DRHP_Abridge_20260929125135.zip",
+   "listing_ref": "https://www.chittorgarh.com/ipo/parswam-fashion-ipo/3318/",
+   "at": "2026-11-10T03:58:51+05:30",
+   "company": "Parswam Fashion Limited",
+   "version": 4
+  },
+  "uepresstools": {
+   "ref": "https://nsearchives.nseindia.com/emerge/corporates/content/DRHP_UE.zip",
+   "listing_ref": "https://nsearchives.nseindia.com/emerge/corporates/content/DRHP_UE.zip",
+   "at": "2026-11-10T03:58:59+05:30",
+   "company": "Ue Press Tools Limited",
+   "version": 4
+  },
+  "sgencon": {
+   "ref": "https://nsearchives.nseindia.com/corporate/AD_IPO_7744_26092026233910.zip",
+   "listing_ref": "https://nsearchives.nseindia.com/corporate/AD_IPO_7744_26092026233910.zip",
+   "at": "2026-11-10T03:59:05+05:30",
+   "company": "S. G. Encon Limited",
+   "version": 4
+  },
+  "natrajenergy": {
+   "ref": "https://nsearchives.nseindia.com/emerge/corporates/content/AD_IPO_7743_26092026222939.zip",
+   "listing_ref": "https://nsearchives.nseindia.com/emerge/corporates/content/AD_IPO_7743_26092026222939.zip",
+   "at": "2026-11-10T03:59:11+05:30",
+   "company": "Natraj Energy Limited",
+   "version": 4
+  },
+  "anmolindustries": {
+   "ref": "https://nsearchives.nseindia.com/corporate/AIL.zip",
+   "listing_ref": "https://nsearchives.nseindia.com/corporate/AIL.zip",
+   "at": "2026-11-10T03:59:15+05:30",
+   "company": "Anmol Industries Limited",
    "version": 4
   }
  }

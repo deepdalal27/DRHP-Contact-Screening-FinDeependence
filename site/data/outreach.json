@@ -8770,7 +8770,613 @@
    },
    "website": "www.snva.travel",
    "doc_url": "https://www.sebi.gov.in/sebi_data/attachdocs/nov-2026/1794204125428.pdf"
+  },
+  {
+   "id": "bestcastit|bestcastit.ipo@gyrcapitaladvisors.in",
+   "company_key": "bestcastit",
+   "company": "Best Cast It Limited",
+   "board": "SME",
+   "filed_on": "2026-09-28",
+   "variant": "brlm",
+   "role": "BRLM contact",
+   "organisation": "GYR Capital Advisors Private Limited",
+   "names": [
+    "Mr. Mohit Baid",
+    "Ms. Heena Parwani"
+   ],
+   "email": "bestcastit.ipo@gyrcapitaladvisors.in",
+   "phones": [
+    "+91 877 756 4648"
+   ],
+   "subject": "Parshwanath Capital Ventures Fund | Pre-IPO & Anchor interest – Best Cast It Limited",
+   "status": "sent",
+   "sent_at": "2026-11-10T03:58:35+05:30",
+   "created_at": "2026-11-10T03:58:35+05:30",
+   "message_id": "<179426331008.2492.4784842321290883240@gmail.com>",
+   "error": null,
+   "promoters": [
+    "Mr. Kabirdass Murali",
+    "Mr. Shreyas M Kabirdass"
+   ],
+   "brlm_contacts": [
+    {
+     "firm": "GYR Capital Advisors Private Limited",
+     "people": [
+      "Mr. Mohit Baid",
+      "Ms. Heena Parwani"
+     ],
+     "emails": [
+      "bestcastit.ipo@gyrcapitaladvisors.in"
+     ],
+     "phones": [
+      "+91 877 756 4648"
+     ]
+    }
+   ],
+   "cs": null,
+   "website": "https://bestcastgroup.com/",
+   "doc_url": "https://nsearchives.nseindia.com/emerge/corporates/content/AD_IPO_7766_28092026234803.zip"
+  },
+  {
+   "id": "suviraindustries|cs@suvirainternational.com",
+   "company_key": "suviraindustries",
+   "company": "Suvira Industries Limited",
+   "board": "SME",
+   "filed_on": "2026-09-28",
+   "variant": "company",
+   "role": "Company Secretary / IR",
+   "organisation": "Suvira Industries Limited",
+   "names": [],
+   "email": "cs@suvirainternational.com",
+   "phones": [
+    "+91 9996363888"
+   ],
+   "subject": "Parshwanath Capital Ventures Fund | Pre-IPO & Anchor interest – Suvira Industries Limited",
+   "status": "sent",
+   "sent_at": "2026-11-10T03:58:45+05:30",
+   "created_at": "2026-11-10T03:58:45+05:30",
+   "message_id": "<179426332283.2492.1094775012452177760@gmail.com>",
+   "error": null,
+   "promoters": [
+    "K Panneer Selvan",
+    "Vinoth S",
+    "Yasodha M",
+    "Sobana",
+    "J Giri",
+    "G Lakshmi"
+   ],
+   "brlm_contacts": [
+    {
+     "firm": "Turnaround Corporate Advisors Pvt.Ltd.",
+     "people": [],
+     "emails": [],
+     "phones": []
+    }
+   ],
+   "cs": {
+    "name": null,
+    "emails": [
+     "cs@suvirainternational.com"
+    ],
+    "phones": [
+     "+91 9996363888"
+    ],
+    "page": null
+   },
+   "website": "https://suvirainternational.com/",
+   "doc_url": "https://www.bsesme.com/download/370368/SME_IPO%20InPrinciple/1_DRHP_20260928172753.zip"
+  },
+  {
+   "id": "autorecyclingsystems|info@arsgreen.com",
+   "company_key": "autorecyclingsystems",
+   "company": "Auto Recycling Systems Limited",
+   "board": "SME",
+   "filed_on": "2026-09-28",
+   "variant": "company",
+   "role": "Company Secretary / IR",
+   "organisation": "Auto Recycling Systems Limited",
+   "names": [],
+   "email": "info@arsgreen.com",
+   "phones": [],
+   "subject": "Parshwanath Capital Ventures Fund | Pre-IPO & Anchor interest – Auto Recycling Systems Limited",
+   "status": "sent",
+   "sent_at": "2026-11-10T03:58:48+05:30",
+   "created_at": "2026-11-10T03:58:48+05:30",
+   "message_id": "<179426332613.2492.15635601887816697552@gmail.com>",
+   "error": null,
+   "promoters": [
+    "Sanjeev Malhotra",
+    "Sarthak Malhotra"
+   ],
+   "brlm_contacts": [
+    {
+     "firm": "Finaax Capital Advisors Pvt.Ltd.",
+     "people": [],
+     "emails": [],
+     "phones": []
+    }
+   ],
+   "cs": {
+    "name": null,
+    "emails": [
+     "info@arsgreen.com"
+    ],
+    "phones": [],
+    "page": null
+   },
+   "website": "https://www.arsgreen.com/",
+   "doc_url": "https://www.bsesme.com/download/337264/SME_IPO%20InPrinciple/DRHPARS_20260928211018.zip"
+  },
+  {
+   "id": "intergenenergy|ag@igenergy.in",
+   "company_key": "intergenenergy",
+   "company": "Intergen Energy Limited",
+   "board": "SME",
+   "filed_on": "2026-09-28",
+   "variant": "company",
+   "role": "Company Secretary / IR",
+   "organisation": "Intergen Energy Limited",
+   "names": [],
+   "email": "ag@igenergy.in",
+   "phones": [
+    "9971118829"
+   ],
+   "subject": "Parshwanath Capital Ventures Fund | Pre-IPO & Anchor interest – Intergen Energy Limited",
+   "status": "sent",
+   "sent_at": "2026-11-10T03:58:50+05:30",
+   "created_at": "2026-11-10T03:58:50+05:30",
+   "message_id": "<179426332902.2492.6414184135370655321@gmail.com>",
+   "error": null,
+   "promoters": [
+    "KARAN SINGH",
+    "Yusuf Surtee",
+    "KMGA Holdings Pte.Ltd.",
+    "Pacific Coast Import Export FZE",
+    "Emerging Investments Ltd."
+   ],
+   "brlm_contacts": [
+    {
+     "firm": "Turnaround Corporate Advisors Pvt.Ltd.",
+     "people": [],
+     "emails": [],
+     "phones": []
+    }
+   ],
+   "cs": {
+    "name": null,
+    "emails": [
+     "ag@igenergy.in"
+    ],
+    "phones": [
+     "9971118829"
+    ],
+    "page": null
+   },
+   "website": "https://igenergy.in/",
+   "doc_url": "https://www.bsesme.com/download/318296/SME_IPO%20InPrinciple/DRHP_Intergen_20260929005201.zip"
+  },
+  {
+   "id": "parswamfashion|theparswam@gmail.com",
+   "company_key": "parswamfashion",
+   "company": "Parswam Fashion Limited",
+   "board": "SME",
+   "filed_on": "2026-09-28",
+   "variant": "company",
+   "role": "Company Secretary / IR",
+   "organisation": "Parswam Fashion Limited",
+   "names": [],
+   "email": "theparswam@gmail.com",
+   "phones": [
+    "9898943488"
+   ],
+   "subject": "Parshwanath Capital Ventures Fund | Pre-IPO & Anchor interest – Parswam Fashion Limited",
+   "status": "sent",
+   "sent_at": "2026-11-10T03:58:53+05:30",
+   "created_at": "2026-11-10T03:58:53+05:30",
+   "message_id": "<179426333186.2492.2540139061978801520@gmail.com>",
+   "error": null,
+   "promoters": [
+    "Anand Bohra",
+    "Arvind Bohra",
+    "Palak Bohra",
+    "Garima Jain",
+    "Aditya Bohra"
+   ],
+   "brlm_contacts": [
+    {
+     "firm": "Galactico Corporate Services Ltd.",
+     "people": [],
+     "emails": [],
+     "phones": []
+    }
+   ],
+   "cs": {
+    "name": null,
+    "emails": [
+     "theparswam@gmail.com"
+    ],
+    "phones": [
+     "9898943488"
+    ],
+    "page": null
+   },
+   "website": "https://parswam.com/",
+   "doc_url": "https://www.bsesme.com/download/349251/SME_IPO%20InPrinciple/Parswam_DRHP_Abridge_20260929125135.zip"
+  },
+  {
+   "id": "uepresstools|uepresstools.ipo@gyrcapitaladvisors.in",
+   "company_key": "uepresstools",
+   "company": "Ue Press Tools Limited",
+   "board": "SME",
+   "filed_on": "2026-09-27",
+   "variant": "brlm",
+   "role": "BRLM contact",
+   "organisation": "GYR Capital Advisors Private Limited",
+   "names": [
+    "Mr. Mohit Baid",
+    "Ms. Maitri Thakkar"
+   ],
+   "email": "uepresstools.ipo@gyrcapitaladvisors.in",
+   "phones": [
+    "+91 87775 64648"
+   ],
+   "subject": "Parshwanath Capital Ventures Fund | Pre-IPO & Anchor interest – Ue Press Tools Limited",
+   "status": "sent",
+   "sent_at": "2026-11-10T03:59:01+05:30",
+   "created_at": "2026-11-10T03:59:01+05:30",
+   "message_id": "<179426333953.2492.15624651725369961549@gmail.com>",
+   "error": null,
+   "promoters": [
+    "Mr. K Panneer Selvan",
+    "Mr. Vinoth S",
+    "Ms. Yasodha M",
+    "Ms. Sobana",
+    "Mr. J Giri",
+    "Ms. G Lakshmi"
+   ],
+   "brlm_contacts": [
+    {
+     "firm": "GYR Capital Advisors Private Limited",
+     "people": [
+      "Mr. Mohit Baid",
+      "Ms. Maitri Thakkar"
+     ],
+     "emails": [
+      "uepresstools.ipo@gyrcapitaladvisors.in"
+     ],
+     "phones": [
+      "+91 87775 64648"
+     ]
+    }
+   ],
+   "cs": null,
+   "website": "https://uniqueengg.co.in/",
+   "doc_url": "https://nsearchives.nseindia.com/emerge/corporates/content/DRHP_UE.zip"
+  },
+  {
+   "id": "sgencon|mb@marwadichandaranagroup.com",
+   "company_key": "sgencon",
+   "company": "S. G. Encon Limited",
+   "board": "Mainboard",
+   "filed_on": "2026-09-26",
+   "variant": "brlm",
+   "role": "BRLM contact",
+   "organisation": "Marwadi Chandarana Intermediaries Brokers Private Limited",
+   "names": [
+    "Radhika Maheshwari",
+    "Jigar Desai"
+   ],
+   "email": "mb@marwadichandaranagroup.com",
+   "phones": [
+    "+91 2816199100"
+   ],
+   "subject": "Parshwanath Capital Ventures Fund | Pre-IPO & Anchor interest – S. G. Encon Limited",
+   "status": "sent",
+   "sent_at": "2026-11-10T03:59:06+05:30",
+   "created_at": "2026-11-10T03:59:06+05:30",
+   "message_id": "<179426334504.2492.14951635639143331993@gmail.com>",
+   "error": null,
+   "promoters": [
+    "Rajiv Gandhi",
+    "Pankaj Setia"
+   ],
+   "brlm_contacts": [
+    {
+     "firm": "Marwadi Chandarana Intermediaries Brokers Private Limited",
+     "people": [
+      "Radhika Maheshwari",
+      "Jigar Desai"
+     ],
+     "emails": [
+      "mb@marwadichandaranagroup.com"
+     ],
+     "phones": [
+      "+91 2816199100"
+     ]
+    }
+   ],
+   "cs": {
+    "name": "Shaveta Sharma",
+    "emails": [
+     "corporate@sgencon.com"
+    ],
+    "phones": [
+     "+91 9216053215"
+    ],
+    "page": 71
+   },
+   "website": "www.sgencon.com",
+   "doc_url": "https://nsearchives.nseindia.com/corporate/AD_IPO_7744_26092026233910.zip"
+  },
+  {
+   "id": "anmolindustries|anmol.ipo@intensivefiscal.com",
+   "company_key": "anmolindustries",
+   "company": "Anmol Industries Limited",
+   "board": "Mainboard",
+   "filed_on": "2026-09-25",
+   "variant": "brlm",
+   "role": "BRLM contact",
+   "organisation": "Intensive Fiscal Services Private Limited",
+   "names": [
+    "Harish Khajanchi",
+    "Anand Rawal"
+   ],
+   "email": "anmol.ipo@intensivefiscal.com",
+   "phones": [
+    "+91 22 2287 0443"
+   ],
+   "subject": "Parshwanath Capital Ventures Fund | Pre-IPO & Anchor interest – Anmol Industries Limited",
+   "status": "sent",
+   "sent_at": "2026-11-10T03:59:17+05:30",
+   "created_at": "2026-11-10T03:59:17+05:30",
+   "message_id": "<179426335564.2492.13684115175054213779@gmail.com>",
+   "error": null,
+   "promoters": [
+    "Baijnath Choudhary & Family Trust",
+    "Biswanath Choudhary",
+    "Dilip Kumar Choudhary",
+    "Gobind Ram Choudhary",
+    "Bimal Kumar Choudhary",
+    "Vikash Choudhary",
+    "Sunil Choudhary",
+    "Deepak Choudhary",
+    "Ankit Choudhary",
+    "Ashish Choudhary",
+    "Aman Choudhary",
+    "Keshav Choudhary"
+   ],
+   "brlm_contacts": [
+    {
+     "firm": "Intensive Fiscal Services Private Limited",
+     "people": [
+      "Harish Khajanchi",
+      "Anand Rawal"
+     ],
+     "emails": [
+      "anmol.ipo@intensivefiscal.com"
+     ],
+     "phones": [
+      "+91 22 2287 0443"
+     ]
+    },
+    {
+     "firm": "ICICI Securities Limited",
+     "people": [
+      "Tanya Tiwari"
+     ],
+     "emails": [
+      "aml.ipo@icicisecurities.com"
+     ],
+     "phones": [
+      "+91 22 6807 7100"
+     ]
+    },
+    {
+     "firm": "IIFL Capital Services Limited (formerly known as IIFL",
+     "people": [
+      "Mukul Jain",
+      "Pawan Kumar Jain"
+     ],
+     "emails": [
+      "anmol.ipo@iiflcap.com"
+     ],
+     "phones": [
+      "+91 22 4646 4728"
+     ]
+    }
+   ],
+   "cs": {
+    "name": null,
+    "emails": [
+     "compliance@anmolindustries.com"
+    ],
+    "phones": [
+     "+91 33 2280 1277"
+    ],
+    "page": 81
+   },
+   "website": "www.anmolindustries.com",
+   "doc_url": "https://nsearchives.nseindia.com/corporate/AIL.zip"
+  },
+  {
+   "id": "anmolindustries|aml.ipo@icicisecurities.com",
+   "company_key": "anmolindustries",
+   "company": "Anmol Industries Limited",
+   "board": "Mainboard",
+   "filed_on": "2026-09-25",
+   "variant": "brlm",
+   "role": "BRLM contact",
+   "organisation": "ICICI Securities Limited",
+   "names": [
+    "Tanya Tiwari"
+   ],
+   "email": "aml.ipo@icicisecurities.com",
+   "phones": [
+    "+91 22 6807 7100"
+   ],
+   "subject": "Parshwanath Capital Ventures Fund | Pre-IPO & Anchor interest – Anmol Industries Limited",
+   "status": "sent",
+   "sent_at": "2026-11-10T03:59:19+05:30",
+   "created_at": "2026-11-10T03:59:19+05:30",
+   "message_id": "<179426335731.2492.2435641634873995029@gmail.com>",
+   "error": null,
+   "promoters": [
+    "Baijnath Choudhary & Family Trust",
+    "Biswanath Choudhary",
+    "Dilip Kumar Choudhary",
+    "Gobind Ram Choudhary",
+    "Bimal Kumar Choudhary",
+    "Vikash Choudhary",
+    "Sunil Choudhary",
+    "Deepak Choudhary",
+    "Ankit Choudhary",
+    "Ashish Choudhary",
+    "Aman Choudhary",
+    "Keshav Choudhary"
+   ],
+   "brlm_contacts": [
+    {
+     "firm": "Intensive Fiscal Services Private Limited",
+     "people": [
+      "Harish Khajanchi",
+      "Anand Rawal"
+     ],
+     "emails": [
+      "anmol.ipo@intensivefiscal.com"
+     ],
+     "phones": [
+      "+91 22 2287 0443"
+     ]
+    },
+    {
+     "firm": "ICICI Securities Limited",
+     "people": [
+      "Tanya Tiwari"
+     ],
+     "emails": [
+      "aml.ipo@icicisecurities.com"
+     ],
+     "phones": [
+      "+91 22 6807 7100"
+     ]
+    },
+    {
+     "firm": "IIFL Capital Services Limited (formerly known as IIFL",
+     "people": [
+      "Mukul Jain",
+      "Pawan Kumar Jain"
+     ],
+     "emails": [
+      "anmol.ipo@iiflcap.com"
+     ],
+     "phones": [
+      "+91 22 4646 4728"
+     ]
+    }
+   ],
+   "cs": {
+    "name": null,
+    "emails": [
+     "compliance@anmolindustries.com"
+    ],
+    "phones": [
+     "+91 33 2280 1277"
+    ],
+    "page": 81
+   },
+   "website": "www.anmolindustries.com",
+   "doc_url": "https://nsearchives.nseindia.com/corporate/AIL.zip"
+  },
+  {
+   "id": "anmolindustries|anmol.ipo@iiflcap.com",
+   "company_key": "anmolindustries",
+   "company": "Anmol Industries Limited",
+   "board": "Mainboard",
+   "filed_on": "2026-09-25",
+   "variant": "brlm",
+   "role": "BRLM contact",
+   "organisation": "IIFL Capital Services Limited (formerly known as IIFL",
+   "names": [
+    "Mukul Jain",
+    "Pawan Kumar Jain"
+   ],
+   "email": "anmol.ipo@iiflcap.com",
+   "phones": [
+    "+91 22 4646 4728"
+   ],
+   "subject": "Parshwanath Capital Ventures Fund | Pre-IPO & Anchor interest – Anmol Industries Limited",
+   "status": "sent",
+   "sent_at": "2026-11-10T03:59:20+05:30",
+   "created_at": "2026-11-10T03:59:20+05:30",
+   "message_id": "<179426335906.2492.772759346808607440@gmail.com>",
+   "error": null,
+   "promoters": [
+    "Baijnath Choudhary & Family Trust",
+    "Biswanath Choudhary",
+    "Dilip Kumar Choudhary",
+    "Gobind Ram Choudhary",
+    "Bimal Kumar Choudhary",
+    "Vikash Choudhary",
+    "Sunil Choudhary",
+    "Deepak Choudhary",
+    "Ankit Choudhary",
+    "Ashish Choudhary",
+    "Aman Choudhary",
+    "Keshav Choudhary"
+   ],
+   "brlm_contacts": [
+    {
+     "firm": "Intensive Fiscal Services Private Limited",
+     "people": [
+      "Harish Khajanchi",
+      "Anand Rawal"
+     ],
+     "emails": [
+      "anmol.ipo@intensivefiscal.com"
+     ],
+     "phones": [
+      "+91 22 2287 0443"
+     ]
+    },
+    {
+     "firm": "ICICI Securities Limited",
+     "people": [
+      "Tanya Tiwari"
+     ],
+     "emails": [
+      "aml.ipo@icicisecurities.com"
+     ],
+     "phones": [
+      "+91 22 6807 7100"
+     ]
+    },
+    {
+     "firm": "IIFL Capital Services Limited (formerly known as IIFL",
+     "people": [
+      "Mukul Jain",
+      "Pawan Kumar Jain"
+     ],
+     "emails": [
+      "anmol.ipo@iiflcap.com"
+     ],
+     "phones": [
+      "+91 22 4646 4728"
+     ]
+    }
+   ],
+   "cs": {
+    "name": null,
+    "emails": [
+     "compliance@anmolindustries.com"
+    ],
+    "phones": [
+     "+91 33 2280 1277"
+    ],
+    "page": 81
+   },
+   "website": "www.anmolindustries.com",
+   "doc_url": "https://nsearchives.nseindia.com/corporate/AIL.zip"
   }
  ],
- "updated_at": "2026-11-09T17:17:28+05:30"
+ "updated_at": "2026-11-10T03:59:21+05:30"
 }
