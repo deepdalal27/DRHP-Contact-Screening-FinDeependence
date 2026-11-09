@@ -1,6 +1,52 @@
 {
- "updated_at": "2026-11-09T06:29:05+05:30",
+ "updated_at": "2026-11-09T17:17:28+05:30",
  "companies": [
+  {
+   "key": "snvatraveltech",
+   "company": "SNVA Traveltech Limited",
+   "board": "Mainboard",
+   "exchange": "BSE & NSE",
+   "source": "SEBI",
+   "filed_on": "2026-11-09",
+   "doc_type": "UDRHP",
+   "brlms": [
+    "Equirus Capital Limited (formerly known as Equirus Capital Private Limited)",
+    "Anand Rathi Advisors Limited"
+   ],
+   "promoters": [
+    "Alok Kumar Singh",
+    "Vivek Kumar Singh"
+   ],
+   "pre_ipo": false,
+   "latest": {
+    "revenue": {
+     "v": 189.109,
+     "s": "verified"
+    },
+    "total_equity": {
+     "v": 138.967,
+     "s": "verified"
+    },
+    "EBITDA margin": {
+     "v": 0.475308,
+     "s": "verified"
+    },
+    "Debt / Equity": {
+     "v": 0.0,
+     "s": "unverified"
+    },
+    "Revenue growth": {
+     "v": 0.581298,
+     "s": "verified"
+    },
+    "fy": "FY26"
+   },
+   "verified": false,
+   "warnings": [
+    "Some core figures could not be cross-checked; only verified figures are used in the email."
+   ],
+   "processed_at": "2026-11-09T17:14:48+05:30"
+  },
   {
    "key": "hindustancocacolaholdings",
    "company": "Hindustan Coca Cola Holdings Ltd",
@@ -2618,7 +2664,7 @@
    "company": "Momai Art Limited",
    "board": "Mainboard",
    "exchange": null,
-   "source": "SEBI",
+   "source": "NSE",
    "filed_on": "2026-09-30",
    "doc_type": "DRHP",
    "brlms": [
@@ -2669,7 +2715,7 @@
    "warnings": [
     "Some core figures could not be cross-checked; only verified figures are used in the email."
    ],
-   "processed_at": "2026-11-08T03:27:56+05:30"
+   "processed_at": "2026-11-09T17:16:00+05:30"
   },
   {
    "key": "qualityenviroengineers",
@@ -2797,7 +2843,7 @@
    "company": "Sarva Foam Industries Limited",
    "board": "Mainboard",
    "exchange": "BSE & NSE",
-   "source": "SEBI",
+   "source": "NSE",
    "filed_on": "2026-09-30",
    "doc_type": "DRHP",
    "brlms": [
@@ -2846,7 +2892,7 @@
    "warnings": [
     "Some core figures could not be cross-checked; only verified figures are used in the email."
    ],
-   "processed_at": "2026-11-08T03:28:34+05:30"
+   "processed_at": "2026-11-09T17:15:56+05:30"
   },
   {
    "key": "sbiplprojects",
@@ -3420,6 +3466,29 @@
    "processed_at": "2026-11-09T06:28:58+05:30"
   },
   {
+   "key": "gleamingapparels",
+   "company": "Gleaming Apparels Limited",
+   "board": "SME",
+   "exchange": "BSE SME",
+   "source": "BSE SME",
+   "filed_on": "2026-09-29",
+   "doc_type": "DRHP",
+   "brlms": [
+    "GYR Capital Advisors Pvt.Ltd."
+   ],
+   "promoters": [
+    "Amit Bansal",
+    "Ritu Bansal"
+   ],
+   "pre_ipo": null,
+   "latest": {},
+   "verified": null,
+   "warnings": [
+    "BSE SME filing: contacts and figures from Chittorgarh. BSE blocks cloud servers, so the DRHP PDF could not be read automatically; open it from the link above."
+   ],
+   "processed_at": "2026-11-09T17:16:08+05:30"
+  },
+  {
    "key": "gromaglobal",
    "company": "Groma Global Limited",
    "board": "SME",
@@ -3441,6 +3510,31 @@
     "BSE SME filing: contacts and figures from Chittorgarh. BSE blocks cloud servers, so the DRHP PDF could not be read automatically; open it from the link above."
    ],
    "processed_at": "2026-11-09T06:29:03+05:30"
+  },
+  {
+   "key": "jksalt",
+   "company": "JK Salt Limited",
+   "board": "SME",
+   "exchange": "BSE SME",
+   "source": "BSE SME",
+   "filed_on": "2026-09-29",
+   "doc_type": "DRHP",
+   "brlms": [
+    "Flookup Capital Advisors Pvt.Ltd."
+   ],
+   "promoters": [
+    "Jugal Kishore Modi",
+    "Manish Gupta",
+    "Manoj Kumar Gupta",
+    "Abhishek Modi"
+   ],
+   "pre_ipo": null,
+   "latest": {},
+   "verified": null,
+   "warnings": [
+    "BSE SME filing: contacts and figures from Chittorgarh. BSE blocks cloud servers, so the DRHP PDF could not be read automatically; open it from the link above."
+   ],
+   "processed_at": "2026-11-09T17:16:50+05:30"
   },
   {
    "key": "ph1industries",
@@ -3474,6 +3568,31 @@
    "processed_at": "2026-11-09T06:28:41+05:30"
   },
   {
+   "key": "ppbooks",
+   "company": "P.P.Books Limited",
+   "board": "SME",
+   "exchange": "BSE SME",
+   "source": "BSE SME",
+   "filed_on": "2026-09-29",
+   "doc_type": "DRHP",
+   "brlms": [
+    "Socradamus Capital Pvt.ltd."
+   ],
+   "promoters": [
+    "Prateek Gupta",
+    "Aman Gupta",
+    "Parvesh Kumar Gupta",
+    "Poonam Gupta"
+   ],
+   "pre_ipo": null,
+   "latest": {},
+   "verified": null,
+   "warnings": [
+    "BSE SME filing: contacts and figures from Chittorgarh. BSE blocks cloud servers, so the DRHP PDF could not be read automatically; open it from the link above."
+   ],
+   "processed_at": "2026-11-09T17:16:11+05:30"
+  },
+  {
    "key": "roongtaentertainment",
    "company": "Roongta Entertainment Limited",
    "board": "SME",
@@ -3494,6 +3613,177 @@
     "Financial statements not found in the DRHP"
    ],
    "processed_at": "2026-11-09T06:28:49+05:30"
+  },
+  {
+   "key": "swyomadvisors",
+   "company": "Swyom Advisors Limited",
+   "board": "SME",
+   "exchange": "BSE SME",
+   "source": "BSE SME",
+   "filed_on": "2026-09-29",
+   "doc_type": "DRHP",
+   "brlms": [
+    "GYR Capital Advisors Pvt.Ltd."
+   ],
+   "promoters": [
+    "Radha Raman Agarwal",
+    "Sweta Agarwal"
+   ],
+   "pre_ipo": null,
+   "latest": {},
+   "verified": null,
+   "warnings": [
+    "BSE SME filing: contacts and figures from Chittorgarh. BSE blocks cloud servers, so the DRHP PDF could not be read automatically; open it from the link above."
+   ],
+   "processed_at": "2026-11-09T17:16:05+05:30"
+  },
+  {
+   "key": "jbecotex",
+   "company": "J B Ecotex Limited",
+   "board": "Mainboard",
+   "exchange": "BSE & NSE",
+   "source": "NSE",
+   "filed_on": "2026-09-28",
+   "doc_type": "DRHP",
+   "brlms": [
+    "Motilal Oswal Investment Advisors Limited",
+    "JM Financial Limited"
+   ],
+   "promoters": [
+    "Ayodhyaprasad Jugalkishore Singhal",
+    "Hemant Vimalkumar Dhandharia",
+    "Himanshu Surendra Jariwala",
+    "Jitendrakumar Fulchand Arya",
+    "Monika Rajesh Gupta",
+    "Rajesh Ramniwas Gupta",
+    "Ramdas Laxminarayan Jindal",
+    "Sajjan Kumar Kejriwal",
+    "Samarth Arya",
+    "Vishal Kejriwal",
+    "Gupta Family Private Trust"
+   ],
+   "pre_ipo": true,
+   "latest": {
+    "revenue": {
+     "v": 827.602,
+     "s": "verified"
+    },
+    "pat": {
+     "v": 22.492,
+     "s": "verified"
+    },
+    "total_equity": {
+     "v": 273.77,
+     "s": "verified"
+    },
+    "EBITDA margin": {
+     "v": 0.108598,
+     "s": "verified"
+    },
+    "PAT margin": {
+     "v": 0.027177,
+     "s": "verified"
+    },
+    "RoNW (closing)": {
+     "v": 0.082157,
+     "s": "verified"
+    },
+    "Debt / Equity": {
+     "v": 1.13912,
+     "s": "verified"
+    },
+    "Revenue growth": {
+     "v": 0.155493,
+     "s": "verified"
+    },
+    "fy": "FY26"
+   },
+   "verified": true,
+   "warnings": [],
+   "processed_at": "2026-11-09T17:16:56+05:30"
+  },
+  {
+   "key": "selzerpolymers",
+   "company": "Selzer Polymers Limited",
+   "board": "SME",
+   "exchange": "NSE Emerge",
+   "source": "NSE Emerge",
+   "filed_on": "2026-09-28",
+   "doc_type": "DRHP",
+   "brlms": [
+    "GYR Capital Advisors Private Limited"
+   ],
+   "promoters": [
+    "Mr. Tony Pellissery Lonappan",
+    "Mr. Sunny Thannikkot Poulose",
+    "Mr. Kuriokkose Francis Kannanayakal",
+    "Mr. Subin Sunny",
+    "Ms. Snehal Tony"
+   ],
+   "pre_ipo": false,
+   "latest": {
+    "pat": {
+     "v": 8.5458,
+     "s": "verified"
+    },
+    "fy": "FY26"
+   },
+   "verified": false,
+   "warnings": [
+    "Some core figures could not be cross-checked; only verified figures are used in the email."
+   ],
+   "processed_at": "2026-11-09T17:17:24+05:30"
+  },
+  {
+   "key": "technopaintsandchemicals",
+   "company": "Technopaints And Chemicals Limited",
+   "board": "Mainboard",
+   "exchange": "BSE & NSE",
+   "source": "NSE",
+   "filed_on": "2026-09-28",
+   "doc_type": "DRHP",
+   "brlms": [
+    "Anand Rathi Advisors Limited"
+   ],
+   "promoters": [
+    "Akuri Srinivasa Reddy",
+    "A Sandhya"
+   ],
+   "pre_ipo": true,
+   "latest": {
+    "revenue": {
+     "v": 350.504,
+     "s": "verified"
+    },
+    "pat": {
+     "v": 37.775,
+     "s": "verified"
+    },
+    "total_equity": {
+     "v": 136.5,
+     "s": "verified"
+    },
+    "PAT margin": {
+     "v": 0.107773,
+     "s": "verified"
+    },
+    "RoNW (closing)": {
+     "v": 0.27674,
+     "s": "verified"
+    },
+    "Debt / Equity": {
+     "v": 0.682527,
+     "s": "verified"
+    },
+    "Revenue growth": {
+     "v": 0.684346,
+     "s": "verified"
+    },
+    "fy": "FY26"
+   },
+   "verified": true,
+   "warnings": [],
+   "processed_at": "2026-11-09T17:17:07+05:30"
   }
  ]
 }

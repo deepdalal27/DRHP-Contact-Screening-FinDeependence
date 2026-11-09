@@ -339,16 +339,16 @@
    "version": 4
   },
   "momaiart": {
-   "ref": "https://www.sebi.gov.in/sebi_data/attachdocs/oct-2026/1791356151210.PDF",
-   "listing_ref": "https://www.sebi.gov.in/filings/public-issues/sep-2026/momai-art-limited-drhp_105066.html",
-   "at": "2026-11-08T03:27:56+05:30",
+   "ref": "https://nsearchives.nseindia.com/corporate/AD_IPO_7808_30092026145732.zip",
+   "listing_ref": "https://nsearchives.nseindia.com/corporate/AD_IPO_7808_30092026145732.zip",
+   "at": "2026-11-09T17:16:00+05:30",
    "company": "Momai Art Limited",
    "version": 4
   },
   "sarvafoamindustries": {
-   "ref": "https://www.sebi.gov.in/sebi_data/attachdocs/oct-2026/1791286434593.pdf",
-   "listing_ref": "https://www.sebi.gov.in/filings/public-issues/sep-2026/sarva-foam-industries-limited-drhp_105054.html",
-   "at": "2026-11-08T03:28:34+05:30",
+   "ref": "https://nsearchives.nseindia.com/corporate/AD_IPO_7840_30092026235852.zip",
+   "listing_ref": "https://nsearchives.nseindia.com/corporate/AD_IPO_7840_30092026235852.zip",
+   "at": "2026-11-09T17:15:56+05:30",
    "company": "Sarva Foam Industries Limited",
    "version": 4
   },
@@ -634,9 +634,9 @@
    "ref": "https://nsearchives.nseindia.com/corporate/AD_IPO_7788_29092026191112.zip",
    "listing_ref": "https://nsearchives.nseindia.com/corporate/AD_IPO_7788_29092026191112.zip",
    "error": "NSE: document has only 14 pages (incomplete download or not the DRHP)",
-   "at": "2026-11-09T06:28:25+05:30",
+   "at": "2026-11-09T17:16:00+05:30",
    "company": "Biocon Electric Limited",
-   "attempts": 1,
+   "attempts": 2,
    "version": 4
   },
   "chandranipearls": {
@@ -657,9 +657,9 @@
    "ref": "https://nsearchives.nseindia.com/emerge/corporates/content/AD_IPO_7795_29092026234155.zip",
    "listing_ref": "https://nsearchives.nseindia.com/emerge/corporates/content/AD_IPO_7795_29092026234155.zip",
    "error": "NSE Emerge: document has only 7 pages (incomplete download or not the DRHP)",
-   "at": "2026-11-09T06:28:45+05:30",
+   "at": "2026-11-09T17:16:04+05:30",
    "company": "CTM Technologies Limited",
-   "attempts": 1,
+   "attempts": 2,
    "version": 4
   },
   "roongtaentertainment": {
@@ -688,6 +688,62 @@
    "listing_ref": "https://www.chittorgarh.com/ipo/groma-global-ipo/3320/",
    "at": "2026-11-09T06:29:03+05:30",
    "company": "Groma Global Limited",
+   "version": 4
+  },
+  "snvatraveltech": {
+   "ref": "https://www.sebi.gov.in/sebi_data/attachdocs/nov-2026/1794204125428.pdf",
+   "listing_ref": "https://www.sebi.gov.in/filings/public-issues/nov-2026/snva-traveltech-limited-udrhp_105682.html",
+   "at": "2026-11-09T17:14:48+05:30",
+   "company": "SNVA Traveltech Limited",
+   "version": 4
+  },
+  "swyomadvisors": {
+   "ref": "https://www.bsesme.com/download/369067/SME_IPO%20InPrinciple/Swyom_Advisors_Limited_DRHP_Filing_20260929233629.pdf",
+   "listing_ref": "https://www.chittorgarh.com/ipo/swyom-advisors-ipo/3321/",
+   "at": "2026-11-09T17:16:05+05:30",
+   "company": "Swyom Advisors Limited",
+   "version": 4
+  },
+  "gleamingapparels": {
+   "ref": "https://www.bsesme.com/download/330432/SME_IPO%20InPrinciple/Gleaming_DRHP_20260929220626.pdf",
+   "listing_ref": "https://www.chittorgarh.com/ipo/gleaming-apparels-ipo/3322/",
+   "at": "2026-11-09T17:16:08+05:30",
+   "company": "Gleaming Apparels Limited",
+   "version": 4
+  },
+  "ppbooks": {
+   "ref": "https://www.bsesme.com/download/321258/SME_IPO%20InPrinciple/DRHP_20260929235015.zip",
+   "listing_ref": "https://www.chittorgarh.com/ipo/ppbooks-ipo/3323/",
+   "at": "2026-11-09T17:16:11+05:30",
+   "company": "P.P.Books Limited",
+   "version": 4
+  },
+  "jksalt": {
+   "ref": "https://www.bsesme.com/download/326835/SME_IPO%20InPrinciple/JKDRHP_Abridged_20260930002053.zip",
+   "listing_ref": "https://www.chittorgarh.com/ipo/jk-salt-ipo/3324/",
+   "at": "2026-11-09T17:16:50+05:30",
+   "company": "JK Salt Limited",
+   "version": 4
+  },
+  "jbecotex": {
+   "ref": "https://nsearchives.nseindia.com/corporate/AD_IPO_7750_28092026132232.zip",
+   "listing_ref": "https://nsearchives.nseindia.com/corporate/AD_IPO_7750_28092026132232.zip",
+   "at": "2026-11-09T17:16:56+05:30",
+   "company": "J B Ecotex Limited",
+   "version": 4
+  },
+  "technopaintsandchemicals": {
+   "ref": "https://nsearchives.nseindia.com/corporate/AD_IPO_7768_29092026003345.zip",
+   "listing_ref": "https://nsearchives.nseindia.com/corporate/AD_IPO_7768_29092026003345.zip",
+   "at": "2026-11-09T17:17:07+05:30",
+   "company": "Technopaints And Chemicals Limited",
+   "version": 4
+  },
+  "selzerpolymers": {
+   "ref": "https://nsearchives.nseindia.com/emerge/corporates/content/AD_IPO_7765_28092026225959.zip",
+   "listing_ref": "https://nsearchives.nseindia.com/emerge/corporates/content/AD_IPO_7765_28092026225959.zip",
+   "at": "2026-11-09T17:17:24+05:30",
+   "company": "Selzer Polymers Limited",
    "version": 4
   }
  }

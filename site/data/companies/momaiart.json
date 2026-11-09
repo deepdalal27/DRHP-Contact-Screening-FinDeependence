@@ -4,16 +4,14 @@
  "short": "Momai Art",
  "board": "Mainboard",
  "exchange": null,
- "source": "SEBI",
- "also_on": [
-  "NSE"
- ],
+ "source": "NSE",
+ "also_on": [],
  "filed_on": "2026-09-30",
  "doc_type": "DRHP",
  "document_type": "Draft Red Herring Prospectus",
  "document_date": "September 30, 2026",
- "doc_url": "https://www.sebi.gov.in/sebi_data/attachdocs/oct-2026/1791356151210.PDF",
- "page_url": "https://www.sebi.gov.in/filings/public-issues/sep-2026/momai-art-limited-drhp_105066.html",
+ "doc_url": "https://nsearchives.nseindia.com/corporate/AD_IPO_7808_30092026145732.zip",
+ "page_url": null,
  "pages": 459,
  "cin": "U32111MH2025PLC443422",
  "website": "https://www.momaiart.com",
@@ -1391,5 +1389,5 @@
  "warnings": [
   "Some core figures could not be cross-checked; only verified figures are used in the email."
  ],
- "processed_at": "2026-11-08T03:27:56+05:30"
+ "processed_at": "2026-11-09T17:16:00+05:30"
 }

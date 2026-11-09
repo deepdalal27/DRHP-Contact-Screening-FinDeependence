@@ -1,0 +1,1046 @@
+{
+ "key": "selzerpolymers",
+ "company": "Selzer Polymers Limited",
+ "short": "Selzer Polymers",
+ "board": "SME",
+ "exchange": "NSE Emerge",
+ "source": "NSE Emerge",
+ "also_on": [],
+ "filed_on": "2026-09-28",
+ "doc_type": "DRHP",
+ "document_type": "Draft Red Herring Prospectus",
+ "document_date": "September 28, 2026",
+ "doc_url": "https://nsearchives.nseindia.com/emerge/corporates/content/AD_IPO_7765_28092026225959.zip",
+ "page_url": null,
+ "pages": 346,
+ "cin": "U22208KL2024PLC088534",
+ "website": "https://selzerpolymers.com/",
+ "icdr_regulation": "229(2)",
+ "fresh_issue": true,
+ "ofs": true,
+ "pre_ipo_placement": false,
+ "pre_ipo_limit_pct": null,
+ "promoters": [
+  {
+   "name": "Mr. Tony Pellissery Lonappan",
+   "designation": "Managing Director",
+   "emails": []
+  },
+  {
+   "name": "Mr. Sunny Thannikkot Poulose",
+   "designation": "Managing Director",
+   "emails": []
+  },
+  {
+   "name": "Mr. Kuriokkose Francis Kannanayakal",
+   "designation": "Managing Director",
+   "emails": []
+  },
+  {
+   "name": "Mr. Subin Sunny",
+   "designation": "Managing Director",
+   "emails": []
+  },
+  {
+   "name": "Ms. Snehal Tony",
+   "designation": null,
+   "emails": []
+  }
+ ],
+ "cs": {
+  "name": null,
+  "emails": [
+   "compliances@selzerpolymers.com"
+  ],
+  "phones": [
+   "91-9745241305"
+  ],
+  "page": 55
+ },
+ "brlms": [
+  {
+   "name": "GYR Capital Advisors Private Limited",
+   "contact_persons": [
+    "Mr. Mohit Baid",
+    "Ms. Vrunda Pathak"
+   ],
+   "emails": [
+    "selzerpolymers.ipo@gyrcapitaladvisors.in"
+   ],
+   "grievance_emails": [
+    "investors@gyrcapitaladvisors.com"
+   ],
+   "phones": [
+    "+91 877 756 4648"
+   ],
+   "website": "www.gyrcapitaladvisors.com",
+   "sebi_reg": "INM000012810",
+   "page": 56
+  }
+ ],
+ "registrar": {
+  "name": "BIGSHARE SERVICES PRIVATE LIMITED",
+  "emails": [
+   "ipo@bigshareonline.com",
+   "investor@bigshareonline.com"
+  ],
+  "phones": [
+   "+91 22 6263 8200"
+  ],
+  "contact_persons": [
+   "Mr. Babu Rapheal"
+  ],
+  "page": 56
+ },
+ "business": {
+  "text": "Our Company was originally formed as a Partnership Firm under the Partnership Act, 1932 having Firm Registration Number 395/2012 in the name and style of “Selzer Polymers” pursuant to Deed of Partnership dated November 28, 2011. Subsequently our firm was converted from Partnership firm into a private limited company as per the provision of Part I Chapter XXI of the Companies Act, 2013 with the name and style of “Selzer Polymers Private Limited” and received a Certificate of Incorporation from the Registrar of Companies, Central Processing Centre dated July 08, 2024.",
+  "page": 126
+ },
+ "business_summary": "Selzer Polymers was originally formed as a Partnership Firm under the Partnership Act.",
+ "financials": {
+  "ok": true,
+  "unit_in_drhp": "lakhs",
+  "source": "Summary Financial Information",
+  "periods": [
+   {
+    "iso": "2026-03-31",
+    "label": "FY26",
+    "stub": false
+   },
+   {
+    "iso": "2024-07-08",
+    "label": "Jul-24",
+    "stub": true
+   },
+   {
+    "iso": "2024-04-01",
+    "label": "Apr-24",
+    "stub": true
+   },
+   {
+    "iso": "2024-03-31",
+    "label": "FY24",
+    "stub": false
+   }
+  ],
+  "items": {
+   "total_income": {
+    "label": "Total income",
+    "drhp_label": "Total Income (A)",
+    "statement": "P&L",
+    "page": 49,
+    "values": [
+     101.4676,
+     61.7735,
+     20.7393,
+     64.4647
+    ],
+    "raw": [
+     "10,146.76",
+     "6,177.35",
+     "2,073.93",
+     "6,446.47"
+    ],
+    "status": [
+     "verified",
+     "verified",
+     "verified",
+     "verified"
+    ],
+    "notes": [
+     [
+      "also printed on page 92, 94, 122"
+     ],
+     [
+      "also printed on page 92, 94, 122"
+     ],
+     [
+      "also printed on page 92, 94, 128"
+     ],
+     [
+      "also printed on page 92, 94, 128"
+     ]
+    ]
+   },
+   "finance_cost": {
+    "label": "Finance cost",
+    "drhp_label": "Finance costs XXIX",
+    "statement": "P&L",
+    "page": 49,
+    "values": [
+     1.6003,
+     1.306,
+     0.6296,
+     1.3553
+    ],
+    "raw": [
+     "160.03",
+     "130.60",
+     "62.96",
+     "135.53"
+    ],
+    "status": [
+     "verified",
+     "verified",
+     "verified",
+     "verified"
+    ],
+    "notes": [
+     [
+      "also printed on page 184, 243, 246"
+     ],
+     [
+      "also printed on page 184, 243"
+     ],
+     [
+      "also printed on page 184, 243"
+     ],
+     [
+      "also printed on page 184, 243, 247"
+     ]
+    ]
+   },
+   "depreciation": {
+    "label": "Depreciation & amortisation",
+    "drhp_label": "Depreciation and amortization expense XXX",
+    "statement": "P&L",
+    "page": 49,
+    "values": [
+     1.5196,
+     1.0351,
+     0.3771,
+     1.4517
+    ],
+    "raw": [
+     "151.96",
+     "103.51",
+     "37.71",
+     "145.17"
+    ],
+    "status": [
+     "verified",
+     "verified",
+     "verified",
+     "verified"
+    ],
+    "notes": [
+     [
+      "also printed on page 50, 184, 185"
+     ],
+     [
+      "also printed on page 50, 184, 185"
+     ],
+     [
+      "also printed on page 50, 184, 185"
+     ],
+     [
+      "also printed on page 50, 184, 185"
+     ]
+    ]
+   },
+   "total_expenses": {
+    "label": "Total expenses",
+    "drhp_label": "Total Expenses (B)",
+    "statement": "P&L",
+    "page": 49,
+    "values": [
+     89.999,
+     59.3416,
+     19.2626,
+     61.5641
+    ],
+    "raw": [
+     "8,999.90",
+     "5,934.16",
+     "1,926.26",
+     "6,156.41"
+    ],
+    "status": [
+     "unverified",
+     "unverified",
+     "unverified",
+     "unverified"
+    ],
+    "notes": [
+     [],
+     [],
+     [],
+     []
+    ]
+   },
+   "pbt": {
+    "label": "Profit before tax",
+    "drhp_label": "C Profit before tax (A-B)",
+    "statement": "P&L",
+    "page": 49,
+    "values": [
+     11.4686,
+     2.4319,
+     1.4767,
+     2.9006
+    ],
+    "raw": [
+     "1,146.86",
+     "243.19",
+     "147.67",
+     "290.06"
+    ],
+    "status": [
+     "verified",
+     "verified",
+     "verified",
+     "verified"
+    ],
+    "notes": [
+     [
+      "PBT − tax = PAT",
+      "also printed on page 50, 184, 185"
+     ],
+     [
+      "PBT − tax = PAT",
+      "also printed on page 50, 184, 185"
+     ],
+     [
+      "PBT − tax = PAT",
+      "also printed on page 50, 184, 185"
+     ],
+     [
+      "PBT − tax = PAT",
+      "also printed on page 50, 184, 185"
+     ]
+    ]
+   },
+   "tax": {
+    "label": "Total tax expense",
+    "drhp_label": "Total Tax Expenses (D)",
+    "statement": "P&L",
+    "page": 49,
+    "values": [
+     2.9228,
+     0.6555,
+     0.3627,
+     0.745
+    ],
+    "raw": [
+     "292.28",
+     "65.55",
+     "36.27",
+     "74.50"
+    ],
+    "status": [
+     "verified",
+     "verified",
+     "verified",
+     "verified"
+    ],
+    "notes": [
+     [
+      "PBT − tax = PAT"
+     ],
+     [
+      "PBT − tax = PAT"
+     ],
+     [
+      "PBT − tax = PAT"
+     ],
+     [
+      "PBT − tax = PAT"
+     ]
+    ]
+   },
+   "pat": {
+    "label": "Profit after tax (PAT)",
+    "drhp_label": "E Profit for the year (C-D)",
+    "statement": "P&L",
+    "page": 49,
+    "values": [
+     8.5458,
+     1.7764,
+     1.114,
+     2.1556
+    ],
+    "raw": [
+     "854.58",
+     "177.64",
+     "111.40",
+     "215.56"
+    ],
+    "status": [
+     "verified",
+     "verified",
+     "verified",
+     "verified"
+    ],
+    "notes": [
+     [
+      "PBT − tax = PAT",
+      "also printed on page 92, 94, 121",
+      "DRHP KPI table shows 8.55 (page 92) – definition may differ"
+     ],
+     [
+      "PBT − tax = PAT",
+      "also printed on page 92, 94, 121",
+      "DRHP KPI table shows 2.91 (page 92) – definition may differ"
+     ],
+     [
+      "PBT − tax = PAT",
+      "also printed on page 92, 94, 127",
+      "DRHP KPI table shows 5.48 (page 92) – definition may differ"
+     ],
+     [
+      "PBT − tax = PAT",
+      "also printed on page 92, 94, 127",
+      "DRHP KPI table shows 3.37 (page 92) – definition may differ"
+     ]
+    ]
+   },
+   "eps_basic": {
+    "label": "EPS – basic (₹)",
+    "drhp_label": "i. Basic",
+    "statement": "P&L",
+    "page": 49,
+    "values": [
+     10.25,
+     53.81,
+     37.13,
+     71.85
+    ],
+    "raw": [
+     "10.25",
+     "53.81",
+     "37.13",
+     "71.85"
+    ],
+    "status": [
+     "verified",
+     "verified",
+     "verified",
+     "verified"
+    ],
+    "notes": [
+     [
+      "also printed on page 90, 184, 214"
+     ],
+     [
+      "also printed on page 184, 214, 222"
+     ],
+     [
+      "also printed on page 184, 214, 222"
+     ],
+     [
+      "also printed on page 184, 214, 222"
+     ]
+    ]
+   },
+   "eps_diluted": {
+    "label": "EPS – diluted (₹)",
+    "drhp_label": "ii. Diluted",
+    "statement": "P&L",
+    "page": 49,
+    "values": [
+     10.25,
+     53.81,
+     37.13,
+     71.85
+    ],
+    "raw": [
+     "10.25",
+     "53.81",
+     "37.13",
+     "71.85"
+    ],
+    "status": [
+     "unverified",
+     "unverified",
+     "unverified",
+     "unverified"
+    ],
+    "notes": [
+     [],
+     [],
+     [],
+     []
+    ]
+   },
+   "share_capital": {
+    "label": "Equity share capital",
+    "drhp_label": "a. Share Capital V",
+    "statement": "Balance sheet",
+    "page": 48,
+    "values": [
+     8.3383,
+     8.3383,
+     0.0,
+     0.0
+    ],
+    "raw": [
+     "833.83",
+     "833.83",
+     "-",
+     "-"
+    ],
+    "status": [
+     "unverified",
+     "unverified",
+     "unverified",
+     "unverified"
+    ],
+    "notes": [
+     [],
+     [],
+     [],
+     []
+    ]
+   },
+   "other_equity": {
+    "label": "Other equity",
+    "drhp_label": "d. Reserves and Surplus VII",
+    "statement": "Balance sheet",
+    "page": 48,
+    "values": [
+     10.3222,
+     1.7764,
+     0.0,
+     0.0
+    ],
+    "raw": [
+     "1,032.22",
+     "177.64",
+     "-",
+     "-"
+    ],
+    "status": [
+     "unverified",
+     "unverified",
+     "unverified",
+     "unverified"
+    ],
+    "notes": [
+     [],
+     [],
+     [],
+     []
+    ]
+   },
+   "inventories": {
+    "label": "Inventories",
+    "drhp_label": "a. Inventories XVIII",
+    "statement": "Balance sheet",
+    "page": 48,
+    "values": [
+     10.0164,
+     5.9194,
+     5.9063,
+     4.0875
+    ],
+    "raw": [
+     "1,001.64",
+     "591.94",
+     "590.63",
+     "408.75"
+    ],
+    "status": [
+     "verified",
+     "verified",
+     "verified",
+     "verified"
+    ],
+    "notes": [
+     [
+      "also printed on page 85, 183, 248"
+     ],
+     [
+      "also printed on page 85, 183, 248"
+     ],
+     [
+      "also printed on page 85, 183"
+     ],
+     [
+      "also printed on page 85, 183, 248"
+     ]
+    ]
+   },
+   "trade_receivables": {
+    "label": "Trade receivables",
+    "drhp_label": "b. Trade Receivables XIX",
+    "statement": "Balance sheet",
+    "page": 48,
+    "values": [
+     12.7604,
+     10.1571,
+     9.5188,
+     8.0563
+    ],
+    "raw": [
+     "1,276.04",
+     "1,015.71",
+     "951.88",
+     "805.63"
+    ],
+    "status": [
+     "verified",
+     "verified",
+     "verified",
+     "verified"
+    ],
+    "notes": [
+     [
+      "also printed on page 34, 85, 183"
+     ],
+     [
+      "also printed on page 34, 85, 183"
+     ],
+     [
+      "also printed on page 34, 85, 183"
+     ],
+     [
+      "also printed on page 34, 85, 183"
+     ]
+    ]
+   },
+   "cfo": {
+    "label": "Net cash from operating activities",
+    "drhp_label": "Net Cash Flow from/(used in) Operating Activities: (A)",
+    "statement": "Cash flow",
+    "page": 50,
+    "values": [
+     1.8238,
+     3.4133,
+     2.1234,
+     6.2816
+    ],
+    "raw": [
+     "182.38",
+     "341.33",
+     "212.34",
+     "628.16"
+    ],
+    "status": [
+     "verified",
+     "verified",
+     "verified",
+     "verified"
+    ],
+    "notes": [
+     [
+      "also printed on page 185, 248, 249"
+     ],
+     [
+      "also printed on page 185, 249"
+     ],
+     [
+      "also printed on page 185, 249"
+     ],
+     [
+      "also printed on page 185, 249"
+     ]
+    ]
+   },
+   "cfi": {
+    "label": "Net cash from investing activities",
+    "drhp_label": "Net Cash Flow from/(used in) Investing Activities: (B)",
+    "statement": "Cash flow",
+    "page": 50,
+    "values": [
+     -6.3547,
+     -1.0558,
+     -0.1259,
+     -1.8108
+    ],
+    "raw": [
+     "(635.47)",
+     "(105.58)",
+     "(12.59)",
+     "(181.08)"
+    ],
+    "status": [
+     "unverified",
+     "unverified",
+     "unverified",
+     "unverified"
+    ],
+    "notes": [
+     [],
+     [],
+     [],
+     []
+    ]
+   },
+   "cff": {
+    "label": "Net cash from financing activities",
+    "drhp_label": "Net Cash Flow from/(used in) Financing Activities (C)",
+    "statement": "Cash flow",
+    "page": 50,
+    "values": [
+     4.9229,
+     -2.3435,
+     -1.9938,
+     -4.4739
+    ],
+    "raw": [
+     "492.29",
+     "(234.35)",
+     "(199.38)",
+     "(447.39)"
+    ],
+    "status": [
+     "unverified",
+     "unverified",
+     "unverified",
+     "unverified"
+    ],
+    "notes": [
+     [],
+     [],
+     [],
+     []
+    ]
+   },
+   "borrowings": {
+    "label": "Total borrowings",
+    "drhp_label": "a. Long-term Borrowings VIII (2) Non - Current Liabilities) + a. Short Term Borrowings XI (3) Current Liabilities)",
+    "statement": "Balance sheet",
+    "page": 48,
+    "values": [
+     24.4786,
+     18.1827,
+     17.0196,
+     18.5844
+    ],
+    "raw": [
+     null,
+     null,
+     null,
+     null
+    ],
+    "status": [
+     "unverified",
+     "unverified",
+     "unverified",
+     "unverified"
+    ],
+    "notes": [
+     [
+      "sum of borrowing lines"
+     ],
+     [
+      "sum of borrowing lines"
+     ],
+     [
+      "sum of borrowing lines"
+     ],
+     [
+      "sum of borrowing lines"
+     ]
+    ]
+   }
+  },
+  "ratios": {
+   "Interest coverage": {
+    "values": [
+     8.166531,
+     2.862098,
+     3.345457,
+     3.14019
+    ],
+    "status": [
+     "verified",
+     "verified",
+     "verified",
+     "verified"
+    ],
+    "fmt": "x",
+    "formula": "(PBT + Finance cost) ÷ Finance cost"
+   },
+   "PAT growth": {
+    "values": [
+     2.964465,
+     null,
+     null,
+     null
+    ],
+    "status": [
+     "verified",
+     null,
+     null,
+     null
+    ],
+    "fmt": "pct",
+    "formula": "FY26 vs FY24"
+   }
+  },
+  "checks": [
+   {
+    "period": "FY26",
+    "check": "Profit before tax − Tax = Profit after tax",
+    "ok": true,
+    "lhs": 854.5799999999999,
+    "rhs": 854.58
+   },
+   {
+    "period": "Jul-24",
+    "check": "Profit before tax − Tax = Profit after tax",
+    "ok": true,
+    "lhs": 177.64,
+    "rhs": 177.64
+   },
+   {
+    "period": "Apr-24",
+    "check": "Profit before tax − Tax = Profit after tax",
+    "ok": true,
+    "lhs": 111.39999999999998,
+    "rhs": 111.4
+   },
+   {
+    "period": "FY24",
+    "check": "Profit before tax − Tax = Profit after tax",
+    "ok": true,
+    "lhs": 215.56,
+    "rhs": 215.56
+   }
+  ],
+  "kpi_stated": [
+   {
+    "label": "Revenue from Operations (₹ in Lakhs) (1)",
+    "values": [
+     9998.99,
+     6098.86,
+     2031.42,
+     6394.17
+    ],
+    "raw": [
+     "9,998.99",
+     "6,098.86",
+     "2,031.42",
+     "6,394.17"
+    ],
+    "page": 92
+   },
+   {
+    "label": "Growth in Revenue from Operations (%) 63.95% NA NA",
+    "values": [
+     null,
+     null,
+     null,
+     9.85
+    ],
+    "raw": [
+     null,
+     null,
+     null,
+     "9.85"
+    ],
+    "page": 92
+   },
+   {
+    "label": "Total income(2)",
+    "values": [
+     10146.76,
+     6177.35,
+     2073.93,
+     6446.47
+    ],
+    "raw": [
+     "10,146.76",
+     "6,177.35",
+     "2,073.93",
+     "6,446.47"
+    ],
+    "page": 92
+   },
+   {
+    "label": "EBITDA (₹ in Lakhs) (3)",
+    "values": [
+     1449.51,
+     473.2,
+     230.4,
+     562.68
+    ],
+    "raw": [
+     "1,449.51",
+     "473.20",
+     "230.40",
+     "562.68"
+    ],
+    "page": 92
+   },
+   {
+    "label": "EBITDA Margin (%)(4)",
+    "values": [
+     14.29,
+     7.66,
+     11.11,
+     8.73
+    ],
+    "raw": [
+     "14.29",
+     "7.66",
+     "11.11",
+     "8.73"
+    ],
+    "page": 92
+   },
+   {
+    "label": "attributable to the equity shareholders of",
+    "values": [
+     854.58,
+     177.64,
+     111.4,
+     215.56
+    ],
+    "raw": [
+     "854.58",
+     "177.64",
+     "111.40",
+     "215.56"
+    ],
+    "page": 92
+   },
+   {
+    "label": "PAT Margin (%)(6)",
+    "values": [
+     8.55,
+     2.91,
+     5.48,
+     3.37
+    ],
+    "raw": [
+     "8.55",
+     "2.91",
+     "5.48",
+     "3.37"
+    ],
+    "page": 92
+   },
+   {
+    "label": "Net worth (7)",
+    "values": [
+     1866.05,
+     1011.47,
+     1060.58,
+     949.18
+    ],
+    "raw": [
+     "1,866.05",
+     "1,011.47",
+     "1,060.58",
+     "949.18"
+    ],
+    "page": 92
+   },
+   {
+    "label": "Return on Equity (\"RoE”) (%)(8)",
+    "values": [
+     59.4,
+     17.15,
+     11.09,
+     33.0
+    ],
+    "raw": [
+     "59.40",
+     "17.15",
+     "11.09",
+     "33.00"
+    ],
+    "page": 92
+   },
+   {
+    "label": "Return on Capital Employed (\"RoCE”)",
+    "values": [
+     29.45,
+     12.65,
+     6.74,
+     14.33
+    ],
+    "raw": [
+     "29.45",
+     "12.65",
+     "6.74",
+     "14.33"
+    ],
+    "page": 92
+   },
+   {
+    "label": "Net Asset Value Per Share (₹)(10)",
+    "values": [
+     22.38,
+     12.13,
+     353.53,
+     316.39
+    ],
+    "raw": [
+     "22.38",
+     "12.13",
+     "353.53",
+     "316.39"
+    ],
+    "page": 92
+   },
+   {
+    "label": "Debt- Equity Ratio (11)",
+    "values": [
+     1.31,
+     1.8,
+     1.6,
+     1.96
+    ],
+    "raw": [
+     "1.31",
+     "1.80",
+     "1.60",
+     "1.96"
+    ],
+    "page": 92
+   }
+  ],
+  "kpi_periods": [
+   {
+    "iso": "2026-03-31",
+    "label": "FY26",
+    "stub": false
+   },
+   {
+    "iso": "2024-07-08",
+    "label": "Jul-24",
+    "stub": true
+   },
+   {
+    "iso": "2024-04-01",
+    "label": "Apr-24",
+    "stub": true
+   },
+   {
+    "iso": "2024-03-31",
+    "label": "FY24",
+    "stub": false
+   }
+  ],
+  "kpi_page": 92,
+  "pages": {
+   "bs": 48,
+   "pl": 49,
+   "cf": 50
+  },
+  "core_verified": false
+ },
+ "emails": [
+  {
+   "subject": "Parshwanath Capital Ventures Fund | Pre-IPO & Anchor interest – Selzer Polymers Limited",
+   "text": "Dear Mr. Mohit Baid and Ms. Vrunda Pathak,\n\nI am CA Deep Dalal, Fund Manager of Parshwanath Capital Ventures Fund. I am writing to you as the Book Running Lead Manager to the proposed IPO of Selzer Polymers Limited, whose Draft Red Herring Prospectus dated September 28, 2026 has been filed with NSE (Emerge) for listing on NSE Emerge.\n\nABOUT US\nParshwanath Capital Ventures Fund is a SEBI-registered Category III Alternative Investment Fund focused on India's primary markets. We invest through Pre-IPO placements, IPO Anchor Investor books, the QIB portion of IPOs and Qualified Institutional Placements (QIPs), working closely with promoters and merchant bankers through the listing journey.\n\nOUR VIEW ON SELZER POLYMERS\nSelzer Polymers was originally formed as a Partnership Firm under the Partnership Act. We have studied the DRHP closely and the business fits well with our investment focus.\n\nHOW WE WOULD LIKE TO PARTICIPATE\n  1. Pre-IPO round: Should the Company consider a pre-IPO placement ahead of the RHP, we would be keen to participate.\n  2. Anchor Investor portion: As a SEBI-registered Category III AIF, we qualify as a QIB and would like to be considered for the anchor book of the SME IPO.\n  3. QIB portion: We would also look to participate in the QIB portion of the IPO.\n\nFUND PROFILE\nView our fund profile (PDF): https://drive.google.com/file/d/1yQX3TH3nmyqzt6rICyliVYFCP1okKqVv/view?usp=sharing (also attached)\n\nI would be grateful if you could introduce us to the promoters of Selzer Polymers (Mr. Tony Pellissery Lonappan, Mr. Sunny Thannikkot Poulose and Mr. Kuriokkose Francis Kannanayakal) and keep us informed as the pre-IPO and anchor book discussions progress. A short call at your convenience would be much appreciated.\n\nI look forward to hearing from you.\n\nWarm regards,\n\nCA Deep Dalal\nFund Manager, Parshwanath Capital Ventures Fund\nSEBI-registered Category III AIF\nEmail: fundmanager@parshwanath.in\nWhatsApp: +91 83200 52970\nPhone / WhatsApp: +91 70690 06298\nSEBI Reg. No.: IN/AIF3/25-26/2108\n\nThis email is for introduction purposes only and does not constitute an offer, solicitation or commitment to invest. Any investment is subject to the Fund's due diligence, investment committee approval and applicable SEBI regulations. To stop receiving emails from us, reply with “unsubscribe”.",
+   "html": "<!doctype html><html><head><meta charset=\"utf-8\"><meta name=\"color-scheme\" content=\"light dark\"><meta name=\"supported-color-schemes\" content=\"light dark\"></head><body style=\"margin:0;padding:0\"><table role=\"presentation\" width=\"100%\" cellpadding=\"0\" cellspacing=\"0\" style=\"border-collapse:collapse\"><tr><td align=\"center\" style=\"padding:20px 12px\"><table role=\"presentation\" width=\"640\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:100%;max-width:640px;border-collapse:collapse\"><tr><td align=\"center\" style=\"padding:0 4px 16px 4px;border-bottom:3px double #A07A35;text-align:center\"><img src=\"cid:pcvf-logo\" width=\"96\" height=\"96\" alt=\"Parshwanath Capital Ventures Fund logo\" style=\"display:block;margin:0 auto 10px auto;border:0;width:96px;height:96px;border-radius:48px\"><div style=\"font-family:Georgia, 'Times New Roman', Times, serif;font-size:24px;font-weight:700;letter-spacing:1.2px;color:#A07A35;line-height:1.25\">Parshwanath Capital Ventures Fund</div><div style=\"font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:10.5px;letter-spacing:2.2px;text-transform:uppercase;color:#7B8491;margin-top:6px\">SEBI-registered Category III AIF &middot; Pre-IPO &middot; Anchor &middot; QIB &middot; QIP</div><div style=\"font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:11px;letter-spacing:1px;color:#7B8491;margin-top:4px\">SEBI Regn. No. IN/AIF3/25-26/2108</div></td></tr><tr><td style=\"padding:10px 4px;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:12px;letter-spacing:.4px;color:#7B8491;border-bottom:1px solid #B9B2A5\">Re: <b style=\"color:#A07A35\">Selzer Polymers Limited</b> &nbsp;|&nbsp; SME IPO &nbsp;|&nbsp; DRHP dated September 28, 2026</td></tr><tr><td style=\"padding:24px 4px 22px 4px\"><p style=\"margin:0 0 14px 0;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:14.5px;line-height:1.65;\">Dear Mr. Mohit Baid and Ms. Vrunda Pathak,</p><p style=\"margin:0 0 14px 0;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:14.5px;line-height:1.65;\">I am CA Deep Dalal, Fund Manager of Parshwanath Capital Ventures Fund. I am writing to you as the Book Running Lead Manager to the proposed IPO of Selzer Polymers Limited, whose Draft Red Herring Prospectus dated September 28, 2026 has been filed with NSE (Emerge) for listing on NSE Emerge.</p><p style=\"margin:24px 0 8px 0;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:11.5px;font-weight:700;letter-spacing:1.6px;text-transform:uppercase;color:#A07A35;\">About us</p><table role=\"presentation\" width=\"100%\" cellpadding=\"0\" cellspacing=\"0\" style=\"border-collapse:collapse;margin:0 0 6px 0\"><tr><td style=\"border-left:3px solid #A07A35;padding:4px 0 4px 16px;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:14.5px;line-height:1.65\">Parshwanath Capital Ventures Fund is a SEBI-registered Category III Alternative Investment Fund focused on India&#x27;s primary markets. We invest through Pre-IPO placements, IPO Anchor Investor books, the QIB portion of IPOs and Qualified Institutional Placements (QIPs), working closely with promoters and merchant bankers through the listing journey.</td></tr></table><p style=\"margin:24px 0 8px 0;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:11.5px;font-weight:700;letter-spacing:1.6px;text-transform:uppercase;color:#A07A35;\">Our view on Selzer Polymers</p><p style=\"margin:0 0 14px 0;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:14.5px;line-height:1.65;\">Selzer Polymers was originally formed as a Partnership Firm under the Partnership Act. We have studied the DRHP closely and the business fits well with our investment focus.</p><p style=\"margin:24px 0 8px 0;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:11.5px;font-weight:700;letter-spacing:1.6px;text-transform:uppercase;color:#A07A35;\">How we would like to participate</p><table role=\"presentation\" width=\"100%\" cellpadding=\"0\" cellspacing=\"0\" style=\"border-collapse:collapse;margin:0 0 8px 0\"><tr><td width=\"34\" valign=\"top\" style=\"padding-top:1px\"><div style=\"width:22px;height:22px;line-height:20px;border-radius:12px;border:1.5px solid #A07A35;color:#A07A35;text-align:center;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:12px;font-weight:700\">1</div></td><td style=\"font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:14.5px;line-height:1.6\"><b>Pre-IPO round.</b> Should the Company consider a pre-IPO placement ahead of the RHP, we would be keen to participate.</td></tr></table><table role=\"presentation\" width=\"100%\" cellpadding=\"0\" cellspacing=\"0\" style=\"border-collapse:collapse;margin:0 0 8px 0\"><tr><td width=\"34\" valign=\"top\" style=\"padding-top:1px\"><div style=\"width:22px;height:22px;line-height:20px;border-radius:12px;border:1.5px solid #A07A35;color:#A07A35;text-align:center;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:12px;font-weight:700\">2</div></td><td style=\"font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:14.5px;line-height:1.6\"><b>Anchor Investor portion.</b> As a SEBI-registered Category III AIF, we qualify as a QIB and would like to be considered for the anchor book of the SME IPO.</td></tr></table><table role=\"presentation\" width=\"100%\" cellpadding=\"0\" cellspacing=\"0\" style=\"border-collapse:collapse;margin:0 0 8px 0\"><tr><td width=\"34\" valign=\"top\" style=\"padding-top:1px\"><div style=\"width:22px;height:22px;line-height:20px;border-radius:12px;border:1.5px solid #A07A35;color:#A07A35;text-align:center;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:12px;font-weight:700\">3</div></td><td style=\"font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:14.5px;line-height:1.6\"><b>QIB portion.</b> We would also look to participate in the QIB portion of the IPO.</td></tr></table><p style=\"margin:24px 0 8px 0;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:11.5px;font-weight:700;letter-spacing:1.6px;text-transform:uppercase;color:#A07A35;\">Fund profile</p><table role=\"presentation\" cellpadding=\"0\" cellspacing=\"0\" style=\"border-collapse:collapse;margin:0 0 6px 0\"><tr><td style=\"border:1.5px solid #A07A35;border-radius:6px;padding:10px 18px\"><a href=\"https://drive.google.com/file/d/1yQX3TH3nmyqzt6rICyliVYFCP1okKqVv/view?usp=sharing\" style=\"font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:14px;font-weight:700;color:#A07A35;text-decoration:none\">View Fund Profile (PDF) &rarr;</a></td></tr></table><p style=\"margin:6px 0 0 0;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:12px;color:#7B8491\">Also attached to this email. Opens in Google Drive with view access; no sign-in needed.</p><p style=\"margin:0 0 14px 0;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:14.5px;line-height:1.65;margin-top:16px\">I would be grateful if you could introduce us to the promoters of Selzer Polymers (Mr. Tony Pellissery Lonappan, Mr. Sunny Thannikkot Poulose and Mr. Kuriokkose Francis Kannanayakal) and keep us informed as the pre-IPO and anchor book discussions progress. A short call at your convenience would be much appreciated.</p><p style=\"margin:0 0 14px 0;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:14.5px;line-height:1.65;\">I look forward to hearing from you.</p><p style=\"margin:0 0 14px 0;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:14.5px;line-height:1.65;margin-bottom:10px\">Warm regards,</p><table role=\"presentation\" cellpadding=\"0\" cellspacing=\"0\" style=\"border-collapse:collapse;margin:0\"><tr><td valign=\"top\" style=\"padding:2px 14px 0 0\"><img src=\"cid:pcvf-logo\" width=\"64\" height=\"64\" alt=\"PCVF\" style=\"display:block;border:0;border-radius:32px\"></td><td valign=\"top\" style=\"border-left:2px solid #A07A35;padding:0 0 0 14px\"><div style=\"font-family:Georgia, 'Times New Roman', Times, serif;font-size:19px;font-weight:700\">CA Deep Dalal</div><div style=\"font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:13px;color:#7B8491;margin:2px 0 8px 0\">Fund Manager, Parshwanath Capital Ventures Fund &middot; SEBI-registered Category III AIF</div><table role=\"presentation\" cellpadding=\"0\" cellspacing=\"0\" style=\"border-collapse:collapse\"><tr><td style=\"padding:2px 14px 2px 0;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:11px;letter-spacing:1px;text-transform:uppercase;color:#A07A35;white-space:nowrap\">Email</td><td style=\"padding:2px 0;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:14px\"><a href=\"mailto:fundmanager@parshwanath.in\" style=\"color:#3B78B8;text-decoration:none\">fundmanager@parshwanath.in</a></td></tr><tr><td style=\"padding:2px 14px 2px 0;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:11px;letter-spacing:1px;text-transform:uppercase;color:#A07A35;white-space:nowrap\">WhatsApp</td><td style=\"padding:2px 0;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:14px\"><a href=\"https://wa.me/918320052970\" style=\"color:#3B78B8;text-decoration:none\">+91 83200 52970</a></td></tr><tr><td style=\"padding:2px 14px 2px 0;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:11px;letter-spacing:1px;text-transform:uppercase;color:#A07A35;white-space:nowrap\">Phone / WhatsApp</td><td style=\"padding:2px 0;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:14px\"><a href=\"https://wa.me/917069006298\" style=\"color:#3B78B8;text-decoration:none\">+91 70690 06298</a></td></tr><tr><td style=\"padding:2px 14px 2px 0;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:11px;letter-spacing:1px;text-transform:uppercase;color:#A07A35;white-space:nowrap\">SEBI Reg. No.</td><td style=\"padding:2px 0;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:14px\">IN/AIF3/25-26/2108</td></tr></table></td></tr></table></td></tr><tr><td style=\"padding:12px 4px 8px 4px;border-top:1px solid #B9B2A5;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:11px;line-height:1.55;color:#7B8491\">This email is for introduction purposes only and does not constitute an offer, solicitation or commitment to invest. Any investment is subject to the Fund&#x27;s due diligence, investment committee approval and applicable SEBI regulations. To stop receiving emails from us, reply with “unsubscribe”.</td></tr></table></td></tr></table></body></html>",
+   "variant": "brlm",
+   "to": [
+    "selzerpolymers.ipo@gyrcapitaladvisors.in"
+   ],
+   "names": [
+    "Mr. Mohit Baid",
+    "Ms. Vrunda Pathak"
+   ],
+   "brlm": "GYR Capital Advisors Private Limited"
+  }
+ ],
+ "warnings": [
+  "Some core figures could not be cross-checked; only verified figures are used in the email."
+ ],
+ "processed_at": "2026-11-09T17:17:24+05:30"
+}

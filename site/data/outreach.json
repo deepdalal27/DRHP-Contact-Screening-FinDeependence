@@ -8192,7 +8192,585 @@
    },
    "website": "https://gromaglobal.com/",
    "doc_url": "https://www.bsesme.com/download/377447/SME_IPO%20InPrinciple/0DPandDraftAbridgedProspectusGGL_20260929175645.zip"
+  },
+  {
+   "id": "snvatraveltech|snva.ipo@rathi.com",
+   "company_key": "snvatraveltech",
+   "company": "SNVA Traveltech Limited",
+   "board": "Mainboard",
+   "filed_on": "2026-11-09",
+   "variant": "brlm",
+   "role": "BRLM contact",
+   "organisation": "Anand Rathi Advisors Limited",
+   "names": [
+    "Pranav Nagar",
+    "Ankisha Sawant"
+   ],
+   "email": "snva.ipo@rathi.com",
+   "phones": [
+    "+91 22 4047 7000"
+   ],
+   "subject": "Parshwanath Capital Ventures Fund | Pre-IPO & Anchor interest – SNVA Traveltech Limited",
+   "status": "sent",
+   "sent_at": "2026-11-09T17:15:53+05:30",
+   "created_at": "2026-11-09T17:15:53+05:30",
+   "message_id": "<179422475135.2652.13176848056525180233@gmail.com>",
+   "error": null,
+   "promoters": [
+    "Alok Kumar Singh",
+    "Vivek Kumar Singh"
+   ],
+   "brlm_contacts": [
+    {
+     "firm": "Equirus Capital Limited (formerly known as Equirus Capital Private Limited)",
+     "people": [
+      "Jenny Bagrecha",
+      "Jamila Vadgamwala"
+     ],
+     "emails": [
+      "snva.ipo@equirus.com"
+     ],
+     "phones": [
+      "+91 22 4332 0724"
+     ]
+    },
+    {
+     "firm": "Anand Rathi Advisors Limited",
+     "people": [
+      "Pranav Nagar",
+      "Ankisha Sawant"
+     ],
+     "emails": [
+      "snva.ipo@rathi.com"
+     ],
+     "phones": [
+      "+91 22 4047 7000"
+     ]
+    }
+   ],
+   "cs": {
+    "name": "Nishant Rastogi",
+    "emails": [
+     "companysecretary@snva.travel"
+    ],
+    "phones": [
+     "+91 120 4228193"
+    ],
+    "page": 101
+   },
+   "website": "www.snva.travel",
+   "doc_url": "https://www.sebi.gov.in/sebi_data/attachdocs/nov-2026/1794204125428.pdf"
+  },
+  {
+   "id": "swyomadvisors|compliance@swyom.com",
+   "company_key": "swyomadvisors",
+   "company": "Swyom Advisors Limited",
+   "board": "SME",
+   "filed_on": "2026-09-29",
+   "variant": "company",
+   "role": "Company Secretary / IR",
+   "organisation": "Swyom Advisors Limited",
+   "names": [],
+   "email": "compliance@swyom.com",
+   "phones": [
+    "9619000900"
+   ],
+   "subject": "Parshwanath Capital Ventures Fund | Pre-IPO & Anchor interest – Swyom Advisors Limited",
+   "status": "sent",
+   "sent_at": "2026-11-09T17:16:07+05:30",
+   "created_at": "2026-11-09T17:16:07+05:30",
+   "message_id": "<179422476543.2652.6774383614490543473@gmail.com>",
+   "error": null,
+   "promoters": [
+    "Radha Raman Agarwal",
+    "Sweta Agarwal"
+   ],
+   "brlm_contacts": [
+    {
+     "firm": "GYR Capital Advisors Pvt.Ltd.",
+     "people": [],
+     "emails": [],
+     "phones": []
+    }
+   ],
+   "cs": {
+    "name": null,
+    "emails": [
+     "compliance@swyom.com"
+    ],
+    "phones": [
+     "9619000900"
+    ],
+    "page": null
+   },
+   "website": "https://www.swyom.com/",
+   "doc_url": "https://www.bsesme.com/download/369067/SME_IPO%20InPrinciple/Swyom_Advisors_Limited_DRHP_Filing_20260929233629.pdf"
+  },
+  {
+   "id": "gleamingapparels|cs@gleamingapparelslimited.com",
+   "company_key": "gleamingapparels",
+   "company": "Gleaming Apparels Limited",
+   "board": "SME",
+   "filed_on": "2026-09-29",
+   "variant": "company",
+   "role": "Company Secretary / IR",
+   "organisation": "Gleaming Apparels Limited",
+   "names": [],
+   "email": "cs@gleamingapparelslimited.com",
+   "phones": [
+    "7527099102"
+   ],
+   "subject": "Parshwanath Capital Ventures Fund | Pre-IPO & Anchor interest – Gleaming Apparels Limited",
+   "status": "sent",
+   "sent_at": "2026-11-09T17:16:10+05:30",
+   "created_at": "2026-11-09T17:16:10+05:30",
+   "message_id": "<179422476859.2652.13087892480695514537@gmail.com>",
+   "error": null,
+   "promoters": [
+    "Amit Bansal",
+    "Ritu Bansal"
+   ],
+   "brlm_contacts": [
+    {
+     "firm": "GYR Capital Advisors Pvt.Ltd.",
+     "people": [],
+     "emails": [],
+     "phones": []
+    }
+   ],
+   "cs": {
+    "name": null,
+    "emails": [
+     "cs@gleamingapparelslimited.com"
+    ],
+    "phones": [
+     "7527099102"
+    ],
+    "page": null
+   },
+   "website": "https://gleamingapparelslimited.com/",
+   "doc_url": "https://www.bsesme.com/download/330432/SME_IPO%20InPrinciple/Gleaming_DRHP_20260929220626.pdf"
+  },
+  {
+   "id": "ppbooks|investor@pppublications.com",
+   "company_key": "ppbooks",
+   "company": "P.P.Books Limited",
+   "board": "SME",
+   "filed_on": "2026-09-29",
+   "variant": "company",
+   "role": "Company Secretary / IR",
+   "organisation": "P.P.Books Limited",
+   "names": [],
+   "email": "investor@pppublications.com",
+   "phones": [],
+   "subject": "Parshwanath Capital Ventures Fund | Pre-IPO & Anchor interest – P.P.Books Limited",
+   "status": "sent",
+   "sent_at": "2026-11-09T17:16:14+05:30",
+   "created_at": "2026-11-09T17:16:14+05:30",
+   "message_id": "<179422477107.2652.15845394982526829868@gmail.com>",
+   "error": null,
+   "promoters": [
+    "Prateek Gupta",
+    "Aman Gupta",
+    "Parvesh Kumar Gupta",
+    "Poonam Gupta"
+   ],
+   "brlm_contacts": [
+    {
+     "firm": "Socradamus Capital Pvt.ltd.",
+     "people": [],
+     "emails": [],
+     "phones": []
+    }
+   ],
+   "cs": {
+    "name": null,
+    "emails": [
+     "investor@pppublications.com"
+    ],
+    "phones": [],
+    "page": null
+   },
+   "website": "https://www.pppublications.com/",
+   "doc_url": "https://www.bsesme.com/download/321258/SME_IPO%20InPrinciple/DRHP_20260929235015.zip"
+  },
+  {
+   "id": "jksalt|cs@jksalt.com",
+   "company_key": "jksalt",
+   "company": "JK Salt Limited",
+   "board": "SME",
+   "filed_on": "2026-09-29",
+   "variant": "company",
+   "role": "Company Secretary / IR",
+   "organisation": "JK Salt Limited",
+   "names": [],
+   "email": "cs@jksalt.com",
+   "phones": [
+    "+91-8094123555"
+   ],
+   "subject": "Parshwanath Capital Ventures Fund | Pre-IPO & Anchor interest – JK Salt Limited",
+   "status": "sent",
+   "sent_at": "2026-11-09T17:16:52+05:30",
+   "created_at": "2026-11-09T17:16:52+05:30",
+   "message_id": "<179422481047.2652.18405785935832127169@gmail.com>",
+   "error": null,
+   "promoters": [
+    "Jugal Kishore Modi",
+    "Manish Gupta",
+    "Manoj Kumar Gupta",
+    "Abhishek Modi"
+   ],
+   "brlm_contacts": [
+    {
+     "firm": "Flookup Capital Advisors Pvt.Ltd.",
+     "people": [],
+     "emails": [],
+     "phones": []
+    }
+   ],
+   "cs": {
+    "name": null,
+    "emails": [
+     "cs@jksalt.com"
+    ],
+    "phones": [
+     "+91-8094123555"
+    ],
+    "page": null
+   },
+   "website": "https://jksalt.com/",
+   "doc_url": "https://www.bsesme.com/download/326835/SME_IPO%20InPrinciple/JKDRHP_Abridged_20260930002053.zip"
+  },
+  {
+   "id": "jbecotex|jb.ipo@motilaloswal.com",
+   "company_key": "jbecotex",
+   "company": "J B Ecotex Limited",
+   "board": "Mainboard",
+   "filed_on": "2026-09-28",
+   "variant": "brlm",
+   "role": "BRLM contact",
+   "organisation": "Motilal Oswal Investment Advisors Limited",
+   "names": [
+    "Ronak Shah",
+    "Sankita Ajinkya"
+   ],
+   "email": "jb.ipo@motilaloswal.com",
+   "phones": [
+    "+91 22 7193 4380"
+   ],
+   "subject": "Parshwanath Capital Ventures Fund | Pre-IPO & Anchor interest – J B Ecotex Limited",
+   "status": "sent",
+   "sent_at": "2026-11-09T17:16:58+05:30",
+   "created_at": "2026-11-09T17:16:58+05:30",
+   "message_id": "<179422481681.2652.5313505961904936423@gmail.com>",
+   "error": null,
+   "promoters": [
+    "Ayodhyaprasad Jugalkishore Singhal",
+    "Hemant Vimalkumar Dhandharia",
+    "Himanshu Surendra Jariwala",
+    "Jitendrakumar Fulchand Arya",
+    "Monika Rajesh Gupta",
+    "Rajesh Ramniwas Gupta",
+    "Ramdas Laxminarayan Jindal",
+    "Sajjan Kumar Kejriwal",
+    "Samarth Arya",
+    "Vishal Kejriwal",
+    "Gupta Family Private Trust"
+   ],
+   "brlm_contacts": [
+    {
+     "firm": "Motilal Oswal Investment Advisors Limited",
+     "people": [
+      "Ronak Shah",
+      "Sankita Ajinkya"
+     ],
+     "emails": [
+      "jb.ipo@motilaloswal.com"
+     ],
+     "phones": [
+      "+91 22 7193 4380"
+     ]
+    },
+    {
+     "firm": "JM Financial Limited",
+     "people": [
+      "Prachee Dhuri"
+     ],
+     "emails": [
+      "jbecotex.ipo@jmfl.com"
+     ],
+     "phones": [
+      "+91 22 6630 3030"
+     ]
+    }
+   ],
+   "cs": {
+    "name": null,
+    "emails": [
+     "cs@jbecotex.com"
+    ],
+    "phones": [
+     "+91 6358866883"
+    ],
+    "page": 85
+   },
+   "website": "www.jbecotex.com",
+   "doc_url": "https://nsearchives.nseindia.com/corporate/AD_IPO_7750_28092026132232.zip"
+  },
+  {
+   "id": "jbecotex|jbecotex.ipo@jmfl.com",
+   "company_key": "jbecotex",
+   "company": "J B Ecotex Limited",
+   "board": "Mainboard",
+   "filed_on": "2026-09-28",
+   "variant": "brlm",
+   "role": "BRLM contact",
+   "organisation": "JM Financial Limited",
+   "names": [
+    "Prachee Dhuri"
+   ],
+   "email": "jbecotex.ipo@jmfl.com",
+   "phones": [
+    "+91 22 6630 3030"
+   ],
+   "subject": "Parshwanath Capital Ventures Fund | Pre-IPO & Anchor interest – J B Ecotex Limited",
+   "status": "sent",
+   "sent_at": "2026-11-09T17:17:00+05:30",
+   "created_at": "2026-11-09T17:17:00+05:30",
+   "message_id": "<179422481839.2652.683949475666336198@gmail.com>",
+   "error": null,
+   "promoters": [
+    "Ayodhyaprasad Jugalkishore Singhal",
+    "Hemant Vimalkumar Dhandharia",
+    "Himanshu Surendra Jariwala",
+    "Jitendrakumar Fulchand Arya",
+    "Monika Rajesh Gupta",
+    "Rajesh Ramniwas Gupta",
+    "Ramdas Laxminarayan Jindal",
+    "Sajjan Kumar Kejriwal",
+    "Samarth Arya",
+    "Vishal Kejriwal",
+    "Gupta Family Private Trust"
+   ],
+   "brlm_contacts": [
+    {
+     "firm": "Motilal Oswal Investment Advisors Limited",
+     "people": [
+      "Ronak Shah",
+      "Sankita Ajinkya"
+     ],
+     "emails": [
+      "jb.ipo@motilaloswal.com"
+     ],
+     "phones": [
+      "+91 22 7193 4380"
+     ]
+    },
+    {
+     "firm": "JM Financial Limited",
+     "people": [
+      "Prachee Dhuri"
+     ],
+     "emails": [
+      "jbecotex.ipo@jmfl.com"
+     ],
+     "phones": [
+      "+91 22 6630 3030"
+     ]
+    }
+   ],
+   "cs": {
+    "name": null,
+    "emails": [
+     "cs@jbecotex.com"
+    ],
+    "phones": [
+     "+91 6358866883"
+    ],
+    "page": 85
+   },
+   "website": "www.jbecotex.com",
+   "doc_url": "https://nsearchives.nseindia.com/corporate/AD_IPO_7750_28092026132232.zip"
+  },
+  {
+   "id": "technopaintsandchemicals|technopaints.ipo@rathi.com",
+   "company_key": "technopaintsandchemicals",
+   "company": "Technopaints And Chemicals Limited",
+   "board": "Mainboard",
+   "filed_on": "2026-09-28",
+   "variant": "brlm",
+   "role": "BRLM contact",
+   "organisation": "Anand Rathi Advisors Limited",
+   "names": [
+    "Pranav Nagar",
+    "Dhruv Goswamy"
+   ],
+   "email": "technopaints.ipo@rathi.com",
+   "phones": [
+    "+91 22 4047 7000"
+   ],
+   "subject": "Parshwanath Capital Ventures Fund | Pre-IPO & Anchor interest – Technopaints And Chemicals Limited",
+   "status": "sent",
+   "sent_at": "2026-11-09T17:17:11+05:30",
+   "created_at": "2026-11-09T17:17:11+05:30",
+   "message_id": "<179422482788.2652.5241733705791803556@gmail.com>",
+   "error": null,
+   "promoters": [
+    "Akuri Srinivasa Reddy",
+    "A Sandhya"
+   ],
+   "brlm_contacts": [
+    {
+     "firm": "Anand Rathi Advisors Limited",
+     "people": [
+      "Pranav Nagar",
+      "Dhruv Goswamy"
+     ],
+     "emails": [
+      "technopaints.ipo@rathi.com"
+     ],
+     "phones": [
+      "+91 22 4047 7000"
+     ]
+    }
+   ],
+   "cs": {
+    "name": "Deevi Madhavi Latha",
+    "emails": [
+     "cs@technopaints.in"
+    ],
+    "phones": [],
+    "page": 93
+   },
+   "website": "www.technopaints.in",
+   "doc_url": "https://nsearchives.nseindia.com/corporate/AD_IPO_7768_29092026003345.zip"
+  },
+  {
+   "id": "selzerpolymers|selzerpolymers.ipo@gyrcapitaladvisors.in",
+   "company_key": "selzerpolymers",
+   "company": "Selzer Polymers Limited",
+   "board": "SME",
+   "filed_on": "2026-09-28",
+   "variant": "brlm",
+   "role": "BRLM contact",
+   "organisation": "GYR Capital Advisors Private Limited",
+   "names": [
+    "Mr. Mohit Baid",
+    "Ms. Vrunda Pathak"
+   ],
+   "email": "selzerpolymers.ipo@gyrcapitaladvisors.in",
+   "phones": [
+    "+91 877 756 4648"
+   ],
+   "subject": "Parshwanath Capital Ventures Fund | Pre-IPO & Anchor interest – Selzer Polymers Limited",
+   "status": "sent",
+   "sent_at": "2026-11-09T17:17:26+05:30",
+   "created_at": "2026-11-09T17:17:26+05:30",
+   "message_id": "<179422484491.2652.1639200287460958239@gmail.com>",
+   "error": null,
+   "promoters": [
+    "Mr. Tony Pellissery Lonappan",
+    "Mr. Sunny Thannikkot Poulose",
+    "Mr. Kuriokkose Francis Kannanayakal",
+    "Mr. Subin Sunny",
+    "Ms. Snehal Tony"
+   ],
+   "brlm_contacts": [
+    {
+     "firm": "GYR Capital Advisors Private Limited",
+     "people": [
+      "Mr. Mohit Baid",
+      "Ms. Vrunda Pathak"
+     ],
+     "emails": [
+      "selzerpolymers.ipo@gyrcapitaladvisors.in"
+     ],
+     "phones": [
+      "+91 877 756 4648"
+     ]
+    }
+   ],
+   "cs": {
+    "name": null,
+    "emails": [
+     "compliances@selzerpolymers.com"
+    ],
+    "phones": [
+     "91-9745241305"
+    ],
+    "page": 55
+   },
+   "website": "https://selzerpolymers.com/",
+   "doc_url": "https://nsearchives.nseindia.com/emerge/corporates/content/AD_IPO_7765_28092026225959.zip"
+  },
+  {
+   "id": "snvatraveltech|snva.ipo@equirus.com",
+   "company_key": "snvatraveltech",
+   "company": "SNVA Traveltech Limited",
+   "board": "Mainboard",
+   "filed_on": "2026-11-09",
+   "variant": "brlm",
+   "role": "BRLM contact",
+   "organisation": "Equirus Capital Limited (formerly known as Equirus Capital Private Limited)",
+   "names": [
+    "Jenny Bagrecha",
+    "Jamila Vadgamwala"
+   ],
+   "email": "snva.ipo@equirus.com",
+   "phones": [
+    "+91 22 4332 0724"
+   ],
+   "subject": "Parshwanath Capital Ventures Fund | Pre-IPO & Anchor interest – SNVA Traveltech Limited",
+   "status": "sent",
+   "sent_at": "2026-11-09T17:17:28+05:30",
+   "created_at": "2026-11-09T17:17:28+05:30",
+   "message_id": "<179422484684.2652.7927626894148100841@gmail.com>",
+   "error": null,
+   "promoters": [
+    "Alok Kumar Singh",
+    "Vivek Kumar Singh"
+   ],
+   "brlm_contacts": [
+    {
+     "firm": "Equirus Capital Limited (formerly known as Equirus Capital Private Limited)",
+     "people": [
+      "Jenny Bagrecha",
+      "Jamila Vadgamwala"
+     ],
+     "emails": [
+      "snva.ipo@equirus.com"
+     ],
+     "phones": [
+      "+91 22 4332 0724"
+     ]
+    },
+    {
+     "firm": "Anand Rathi Advisors Limited",
+     "people": [
+      "Pranav Nagar",
+      "Ankisha Sawant"
+     ],
+     "emails": [
+      "snva.ipo@rathi.com"
+     ],
+     "phones": [
+      "+91 22 4047 7000"
+     ]
+    }
+   ],
+   "cs": {
+    "name": "Nishant Rastogi",
+    "emails": [
+     "companysecretary@snva.travel"
+    ],
+    "phones": [
+     "+91 120 4228193"
+    ],
+    "page": 101
+   },
+   "website": "www.snva.travel",
+   "doc_url": "https://www.sebi.gov.in/sebi_data/attachdocs/nov-2026/1794204125428.pdf"
   }
  ],
- "updated_at": "2026-11-09T06:29:05+05:30"
+ "updated_at": "2026-11-09T17:17:28+05:30"
 }
