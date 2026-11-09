@@ -7771,7 +7771,428 @@
    },
    "website": "https://rysainfratech.com/",
    "doc_url": "https://www.bsesme.com/download/380144/SME_IPO%20InPrinciple/DRHP_RYSA_20261001123047.pdf"
+  },
+  {
+   "id": "technomeddevicesindia|admin@technomed.in",
+   "company_key": "technomeddevicesindia",
+   "company": "Technomed Devices India Limited",
+   "board": "SME",
+   "filed_on": "2026-09-30",
+   "variant": "company",
+   "role": "Company Secretary / IR",
+   "organisation": "Technomed Devices India Limited",
+   "names": [],
+   "email": "admin@technomed.in",
+   "phones": [
+    "9511118382"
+   ],
+   "subject": "Parshwanath Capital Ventures Fund | Pre-IPO & Anchor interest – Technomed Devices India Limited",
+   "status": "sent",
+   "sent_at": "2026-11-09T06:28:12+05:30",
+   "created_at": "2026-11-09T06:28:12+05:30",
+   "message_id": "<179418588639.2466.12236690994914084732@gmail.com>",
+   "error": null,
+   "promoters": [
+    "Rishi Agarwal",
+    "Rahul Rajan",
+    "Vidhi Agarwal"
+   ],
+   "brlm_contacts": [
+    {
+     "firm": "Hem Securities Ltd.",
+     "people": [],
+     "emails": [],
+     "phones": []
+    }
+   ],
+   "cs": {
+    "name": null,
+    "emails": [
+     "admin@technomed.in"
+    ],
+    "phones": [
+     "9511118382"
+    ],
+    "page": null
+   },
+   "website": "https://www.technomed.in/",
+   "doc_url": "https://www.bsesme.com/download/339759/SME_IPO%20InPrinciple/DRHP_TechnomedDevicesIndiaLimited_20260930235108.zip"
+  },
+  {
+   "id": "bestengineeringaidsconsultancies|compliance@beacon-india.com",
+   "company_key": "bestengineeringaidsconsultancies",
+   "company": "Best Engineering Aids & Consultancies Limited",
+   "board": "SME",
+   "filed_on": "2026-09-30",
+   "variant": "company",
+   "role": "Company Secretary / IR",
+   "organisation": "Best Engineering Aids & Consultancies Limited",
+   "names": [],
+   "email": "compliance@beacon-india.com",
+   "phones": [
+    "7406663589"
+   ],
+   "subject": "Parshwanath Capital Ventures Fund | Pre-IPO & Anchor interest – Best Engineering Aids & Consultancies Limited",
+   "status": "sent",
+   "sent_at": "2026-11-09T06:28:16+05:30",
+   "created_at": "2026-11-09T06:28:16+05:30",
+   "message_id": "<179418589315.2466.9862794483915487261@gmail.com>",
+   "error": null,
+   "promoters": [
+    "Varakumar Siddavatam",
+    "Joseph Jerome",
+    "Sharada Kumari Siddavatam"
+   ],
+   "brlm_contacts": [
+    {
+     "firm": "Hem Securities Ltd.",
+     "people": [],
+     "emails": [],
+     "phones": []
+    }
+   ],
+   "cs": {
+    "name": null,
+    "emails": [
+     "compliance@beacon-india.com"
+    ],
+    "phones": [
+     "7406663589"
+    ],
+    "page": null
+   },
+   "website": "https://beacon-india.com/",
+   "doc_url": "https://www.bsesme.com/download/363986/SME_IPO%20InPrinciple/DRHP_BEACON_20261001113845.zip"
+  },
+  {
+   "id": "qualityenviroengineers|ipo@qualityenviroengineers.com",
+   "company_key": "qualityenviroengineers",
+   "company": "Quality Enviro Engineers Limited",
+   "board": "SME",
+   "filed_on": "2026-09-30",
+   "variant": "company",
+   "role": "Company Secretary / IR",
+   "organisation": "Quality Enviro Engineers Limited",
+   "names": [],
+   "email": "ipo@qualityenviroengineers.com",
+   "phones": [
+    "7428919108"
+   ],
+   "subject": "Parshwanath Capital Ventures Fund | Pre-IPO & Anchor interest – Quality Enviro Engineers Limited",
+   "status": "sent",
+   "sent_at": "2026-11-09T06:28:20+05:30",
+   "created_at": "2026-11-09T06:28:20+05:30",
+   "message_id": "<179418589695.2466.6743866432475771349@gmail.com>",
+   "error": null,
+   "promoters": [
+    "Ashwani Srivastava",
+    "Neha Srivastava"
+   ],
+   "brlm_contacts": [
+    {
+     "firm": "Shannon Advisors Pvt.Ltd.",
+     "people": [],
+     "emails": [],
+     "phones": []
+    }
+   ],
+   "cs": {
+    "name": null,
+    "emails": [
+     "ipo@qualityenviroengineers.com"
+    ],
+    "phones": [
+     "7428919108"
+    ],
+    "page": null
+   },
+   "website": "https://www.qualityenviroengineers.com/",
+   "doc_url": "https://www.bsesme.com/download/336935/SME_IPO%20InPrinciple/DRHP_Quality_Enviro_20260930234215.pdf"
+  },
+  {
+   "id": "solankimechanicworks|compliance@solankimechanicworks.com",
+   "company_key": "solankimechanicworks",
+   "company": "Solanki Mechanic Works Limited",
+   "board": "SME",
+   "filed_on": "2026-09-30",
+   "variant": "company",
+   "role": "Company Secretary / IR",
+   "organisation": "Solanki Mechanic Works Limited",
+   "names": [],
+   "email": "compliance@solankimechanicworks.com",
+   "phones": [],
+   "subject": "Parshwanath Capital Ventures Fund | Pre-IPO & Anchor interest – Solanki Mechanic Works Limited",
+   "status": "sent",
+   "sent_at": "2026-11-09T06:28:24+05:30",
+   "created_at": "2026-11-09T06:28:24+05:30",
+   "message_id": "<179418590182.2466.8394971393100759627@gmail.com>",
+   "error": null,
+   "promoters": [
+    "Solanki Nira Brijesh",
+    "Solanki Jaisal Nipulbhai",
+    "Solanki Nipul Hasmukhbhai",
+    "Solanki Naman Manojbhai"
+   ],
+   "brlm_contacts": [
+    {
+     "firm": "Swaraj Shares & Securities Pvt.ltd.",
+     "people": [],
+     "emails": [],
+     "phones": []
+    }
+   ],
+   "cs": {
+    "name": null,
+    "emails": [
+     "compliance@solankimechanicworks.com"
+    ],
+    "phones": [],
+    "page": null
+   },
+   "website": "https://www.solankimechanicworks.com/",
+   "doc_url": "https://www.bsesme.com/download/346849/SME_IPO%20InPrinciple/SolankiDRHP_20260930024455.zip"
+  },
+  {
+   "id": "chandranipearls|mb@jajodiaequity.com",
+   "company_key": "chandranipearls",
+   "company": "Chandrani Pearls Limited",
+   "board": "SME",
+   "filed_on": "2026-09-29",
+   "variant": "brlm",
+   "role": "BRLM contact",
+   "organisation": "Jajodia Equity Advisors Services Limited",
+   "names": [
+    "Manav Goenka"
+   ],
+   "email": "mb@jajodiaequity.com",
+   "phones": [
+    "033 4509-6991"
+   ],
+   "subject": "Parshwanath Capital Ventures Fund | Pre-IPO & Anchor interest – Chandrani Pearls Limited",
+   "status": "sent",
+   "sent_at": "2026-11-09T06:28:35+05:30",
+   "created_at": "2026-11-09T06:28:35+05:30",
+   "message_id": "<179418591207.2466.874702365823364192@gmail.com>",
+   "error": null,
+   "promoters": [
+    "Mr. Kuldip Nayar",
+    "Mr. Nisheeth Nayar",
+    "Mr. Vinayak Nayar",
+    "Mrs Shilpa Kedia Nayar",
+    "Mrs. Deepa Nangia Nayar",
+    "Chandrani Enterprises Private Limited"
+   ],
+   "brlm_contacts": [
+    {
+     "firm": "Jajodia Equity Advisors Services Limited",
+     "people": [
+      "Manav Goenka"
+     ],
+     "emails": [
+      "mb@jajodiaequity.com"
+     ],
+     "phones": [
+      "033 4509-6991"
+     ]
+    }
+   ],
+   "cs": null,
+   "website": "www.chandranipearls.in",
+   "doc_url": "https://nsearchives.nseindia.com/emerge/corporates/content/AD_IPO_7800_30092026015542.zip"
+  },
+  {
+   "id": "ph1industries|ph1industries.ipo@gyrcapitaladvisors.in",
+   "company_key": "ph1industries",
+   "company": "Ph1 Industries Limited",
+   "board": "SME",
+   "filed_on": "2026-09-29",
+   "variant": "brlm",
+   "role": "BRLM contact",
+   "organisation": "GYR Capital Advisors Private Limited",
+   "names": [
+    "Mr. Mohit Baid",
+    "Ms. Heena Parwani"
+   ],
+   "email": "ph1industries.ipo@gyrcapitaladvisors.in",
+   "phones": [
+    "+91 877 756 4648"
+   ],
+   "subject": "Parshwanath Capital Ventures Fund | Pre-IPO & Anchor interest – Ph1 Industries Limited",
+   "status": "sent",
+   "sent_at": "2026-11-09T06:28:44+05:30",
+   "created_at": "2026-11-09T06:28:44+05:30",
+   "message_id": "<179418592104.2466.18082154914162175062@gmail.com>",
+   "error": null,
+   "promoters": [
+    "Mr. Bhaskar J",
+    "Mr. S Saravanan",
+    "Mr. E Surendra Babu",
+    "Mr. B Prabakaran"
+   ],
+   "brlm_contacts": [
+    {
+     "firm": "GYR Capital Advisors Private Limited",
+     "people": [
+      "Mr. Mohit Baid",
+      "Ms. Heena Parwani"
+     ],
+     "emails": [
+      "ph1industries.ipo@gyrcapitaladvisors.in"
+     ],
+     "phones": [
+      "+91 877 756 4648"
+     ]
+    }
+   ],
+   "cs": null,
+   "website": "https://ph1.in",
+   "doc_url": "https://nsearchives.nseindia.com/emerge/corporates/content/AD_IPO_7794_29092026233857.zip"
+  },
+  {
+   "id": "roongtaentertainment|mbd@ifinservices.in",
+   "company_key": "roongtaentertainment",
+   "company": "Roongta Entertainment Limited",
+   "board": "SME",
+   "filed_on": "2026-09-29",
+   "variant": "brlm",
+   "role": "BRLM contact",
+   "organisation": "Interactive Financial Services Limited",
+   "names": [
+    "Pradip Sandhir"
+   ],
+   "email": "mbd@ifinservices.in",
+   "phones": [
+    "+91 079- 4908 8019"
+   ],
+   "subject": "Parshwanath Capital Ventures Fund | Pre-IPO & Anchor interest – Roongta Entertainment Limited",
+   "status": "sent",
+   "sent_at": "2026-11-09T06:28:52+05:30",
+   "created_at": "2026-11-09T06:28:52+05:30",
+   "message_id": "<179418592964.2466.9465602476194087195@gmail.com>",
+   "error": null,
+   "promoters": [
+    "Of The Company Ankur Roongta"
+   ],
+   "brlm_contacts": [
+    {
+     "firm": "Interactive Financial Services Limited",
+     "people": [
+      "Pradip Sandhir"
+     ],
+     "emails": [
+      "mbd@ifinservices.in"
+     ],
+     "phones": [
+      "+91 079- 4908 8019"
+     ]
+    }
+   ],
+   "cs": {
+    "name": "Vibha Khandelwal",
+    "emails": [
+     "accounts.surat@rcinemas.in"
+    ],
+    "phones": [
+     "+91 6358304280"
+    ],
+    "page": 52
+   },
+   "website": "www.rcinemas.in",
+   "doc_url": "https://nsearchives.nseindia.com/emerge/corporates/content/Roongta.zip"
+  },
+  {
+   "id": "birdmachines|info@birdmachines.com",
+   "company_key": "birdmachines",
+   "company": "Bird Machines Limited",
+   "board": "SME",
+   "filed_on": "2026-09-29",
+   "variant": "company",
+   "role": "Company Secretary / IR",
+   "organisation": "Bird Machines Limited",
+   "names": [],
+   "email": "info@birdmachines.com",
+   "phones": [
+    "8527127175"
+   ],
+   "subject": "Parshwanath Capital Ventures Fund | Pre-IPO & Anchor interest – Bird Machines Limited",
+   "status": "sent",
+   "sent_at": "2026-11-09T06:29:02+05:30",
+   "created_at": "2026-11-09T06:29:02+05:30",
+   "message_id": "<179418593917.2466.14022286388485778493@gmail.com>",
+   "error": null,
+   "promoters": [
+    "Prakash Chand Jain",
+    "Ranjeet Kumar Jain",
+    "Praveen Kumar Jain",
+    "Vikram Kumar",
+    "Milap Chand Jain"
+   ],
+   "brlm_contacts": [
+    {
+     "firm": "Sobhagya Capital Options Pvt.Ltd.",
+     "people": [],
+     "emails": [],
+     "phones": []
+    }
+   ],
+   "cs": {
+    "name": null,
+    "emails": [
+     "info@birdmachines.com"
+    ],
+    "phones": [
+     "8527127175"
+    ],
+    "page": null
+   },
+   "website": "https://www.birdmachines.com/",
+   "doc_url": "https://www.bsesme.com/download/343062/SME_IPO%20InPrinciple/BIRDFINALDRHP_20260929171323.zip"
+  },
+  {
+   "id": "gromaglobal|investors@gromaglobal.com",
+   "company_key": "gromaglobal",
+   "company": "Groma Global Limited",
+   "board": "SME",
+   "filed_on": "2026-09-29",
+   "variant": "company",
+   "role": "Company Secretary / IR",
+   "organisation": "Groma Global Limited",
+   "names": [],
+   "email": "investors@gromaglobal.com",
+   "phones": [
+    "9076113135"
+   ],
+   "subject": "Parshwanath Capital Ventures Fund | Pre-IPO & Anchor interest – Groma Global Limited",
+   "status": "sent",
+   "sent_at": "2026-11-09T06:29:05+05:30",
+   "created_at": "2026-11-09T06:29:05+05:30",
+   "message_id": "<179418594324.2466.9653767504240005547@gmail.com>",
+   "error": null,
+   "promoters": [
+    "Dhruv D Kabra",
+    "Shishir D Kabra"
+   ],
+   "brlm_contacts": [
+    {
+     "firm": "Smart Horizon Capital Advisors Pvt.Ltd.",
+     "people": [],
+     "emails": [],
+     "phones": []
+    }
+   ],
+   "cs": {
+    "name": null,
+    "emails": [
+     "investors@gromaglobal.com"
+    ],
+    "phones": [
+     "9076113135"
+    ],
+    "page": null
+   },
+   "website": "https://gromaglobal.com/",
+   "doc_url": "https://www.bsesme.com/download/377447/SME_IPO%20InPrinciple/0DPandDraftAbridgedProspectusGGL_20260929175645.zip"
   }
  ],
- "updated_at": "2026-11-09T01:15:53+05:30"
+ "updated_at": "2026-11-09T06:29:05+05:30"
 }

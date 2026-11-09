@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-09T01:15:53+05:30",
+ "updated_at": "2026-11-09T06:29:05+05:30",
  "companies": [
   {
    "key": "hindustancocacolaholdings",
@@ -2303,6 +2303,30 @@
    "processed_at": "2026-11-09T01:15:09+05:30"
   },
   {
+   "key": "bestengineeringaidsconsultancies",
+   "company": "Best Engineering Aids & Consultancies Limited",
+   "board": "SME",
+   "exchange": "BSE SME",
+   "source": "BSE SME",
+   "filed_on": "2026-09-30",
+   "doc_type": "DRHP",
+   "brlms": [
+    "Hem Securities Ltd."
+   ],
+   "promoters": [
+    "Varakumar Siddavatam",
+    "Joseph Jerome",
+    "Sharada Kumari Siddavatam"
+   ],
+   "pre_ipo": null,
+   "latest": {},
+   "verified": null,
+   "warnings": [
+    "BSE SME filing: contacts and figures from Chittorgarh. BSE blocks cloud servers, so the DRHP PDF could not be read automatically; open it from the link above."
+   ],
+   "processed_at": "2026-11-09T06:28:13+05:30"
+  },
+  {
    "key": "blueoceanecotech",
    "company": "Blueocean Ecotech Limited",
    "board": "SME",
@@ -2648,6 +2672,29 @@
    "processed_at": "2026-11-08T03:27:56+05:30"
   },
   {
+   "key": "qualityenviroengineers",
+   "company": "Quality Enviro Engineers Limited",
+   "board": "SME",
+   "exchange": "BSE SME",
+   "source": "BSE SME",
+   "filed_on": "2026-09-30",
+   "doc_type": "DRHP",
+   "brlms": [
+    "Shannon Advisors Pvt.Ltd."
+   ],
+   "promoters": [
+    "Ashwani Srivastava",
+    "Neha Srivastava"
+   ],
+   "pre_ipo": null,
+   "latest": {},
+   "verified": null,
+   "warnings": [
+    "BSE SME filing: contacts and figures from Chittorgarh. BSE blocks cloud servers, so the DRHP PDF could not be read automatically; open it from the link above."
+   ],
+   "processed_at": "2026-11-09T06:28:16+05:30"
+  },
+  {
    "key": "rajpolypack",
    "company": "Raj Polypack Limited",
    "board": "SME",
@@ -2880,6 +2927,31 @@
    "processed_at": "2026-11-09T01:15:41+05:30"
   },
   {
+   "key": "solankimechanicworks",
+   "company": "Solanki Mechanic Works Limited",
+   "board": "SME",
+   "exchange": "BSE SME",
+   "source": "BSE SME",
+   "filed_on": "2026-09-30",
+   "doc_type": "DRHP",
+   "brlms": [
+    "Swaraj Shares & Securities Pvt.ltd."
+   ],
+   "promoters": [
+    "Solanki Nira Brijesh",
+    "Solanki Jaisal Nipulbhai",
+    "Solanki Nipul Hasmukhbhai",
+    "Solanki Naman Manojbhai"
+   ],
+   "pre_ipo": null,
+   "latest": {},
+   "verified": null,
+   "warnings": [
+    "BSE SME filing: contacts and figures from Chittorgarh. BSE blocks cloud servers, so the DRHP PDF could not be read automatically; open it from the link above."
+   ],
+   "processed_at": "2026-11-09T06:28:21+05:30"
+  },
+  {
    "key": "solitariolabgrown",
    "company": "Solitario Lab Grown Limited",
    "board": "SME",
@@ -3025,6 +3097,30 @@
     "No usable email found for promoters, BRLM or the company."
    ],
    "processed_at": "2026-11-08T03:29:05+05:30"
+  },
+  {
+   "key": "technomeddevicesindia",
+   "company": "Technomed Devices India Limited",
+   "board": "SME",
+   "exchange": "BSE SME",
+   "source": "BSE SME",
+   "filed_on": "2026-09-30",
+   "doc_type": "DRHP",
+   "brlms": [
+    "Hem Securities Ltd."
+   ],
+   "promoters": [
+    "Rishi Agarwal",
+    "Rahul Rajan",
+    "Vidhi Agarwal"
+   ],
+   "pre_ipo": null,
+   "latest": {},
+   "verified": null,
+   "warnings": [
+    "BSE SME filing: contacts and figures from Chittorgarh. BSE blocks cloud servers, so the DRHP PDF could not be read automatically; open it from the link above."
+   ],
+   "processed_at": "2026-11-09T06:28:06+05:30"
   },
   {
    "key": "vardhmanappliances",
@@ -3218,6 +3314,186 @@
     "BSE SME filing: contacts and figures from Chittorgarh. BSE blocks cloud servers, so the DRHP PDF could not be read automatically; open it from the link above."
    ],
    "processed_at": "2026-11-08T19:05:28+05:30"
+  },
+  {
+   "key": "birdmachines",
+   "company": "Bird Machines Limited",
+   "board": "SME",
+   "exchange": "BSE SME",
+   "source": "BSE SME",
+   "filed_on": "2026-09-29",
+   "doc_type": "DRHP",
+   "brlms": [
+    "Sobhagya Capital Options Pvt.Ltd."
+   ],
+   "promoters": [
+    "Prakash Chand Jain",
+    "Ranjeet Kumar Jain",
+    "Praveen Kumar Jain",
+    "Vikram Kumar",
+    "Milap Chand Jain"
+   ],
+   "pre_ipo": null,
+   "latest": {},
+   "verified": null,
+   "warnings": [
+    "BSE SME filing: contacts and figures from Chittorgarh. BSE blocks cloud servers, so the DRHP PDF could not be read automatically; open it from the link above."
+   ],
+   "processed_at": "2026-11-09T06:28:59+05:30"
+  },
+  {
+   "key": "chandranipearls",
+   "company": "Chandrani Pearls Limited",
+   "board": "SME",
+   "exchange": "NSE Emerge",
+   "source": "NSE Emerge",
+   "filed_on": "2026-09-29",
+   "doc_type": "DRHP",
+   "brlms": [
+    "Jajodia Equity Advisors Services Limited"
+   ],
+   "promoters": [
+    "Mr. Kuldip Nayar",
+    "Mr. Nisheeth Nayar",
+    "Mr. Vinayak Nayar",
+    "Mrs Shilpa Kedia Nayar",
+    "Mrs. Deepa Nangia Nayar",
+    "Chandrani Enterprises Private Limited"
+   ],
+   "pre_ipo": false,
+   "latest": {
+    "pat": {
+     "v": 9.1625,
+     "s": "verified"
+    },
+    "fy": "FY26"
+   },
+   "verified": false,
+   "warnings": [
+    "Some core figures could not be cross-checked; only verified figures are used in the email."
+   ],
+   "processed_at": "2026-11-09T06:28:32+05:30"
+  },
+  {
+   "key": "conceptiatechnologies",
+   "company": "Conceptia Technologies Limited",
+   "board": "SME",
+   "exchange": "NSE Emerge",
+   "source": "NSE Emerge",
+   "filed_on": "2026-09-29",
+   "doc_type": "DRHP",
+   "brlms": [],
+   "promoters": [
+    "Anildas Narayanapillai Thulasidas",
+    "Jithesh Keedathu Ayyappan Pillai",
+    "Geetha Das"
+   ],
+   "pre_ipo": false,
+   "latest": {
+    "revenue": {
+     "v": 91.7814,
+     "s": "verified"
+    },
+    "pat": {
+     "v": 6.0299,
+     "s": "verified"
+    },
+    "EBITDA margin": {
+     "v": 0.104848,
+     "s": "verified"
+    },
+    "PAT margin": {
+     "v": 0.065698,
+     "s": "verified"
+    },
+    "Revenue growth": {
+     "v": 0.475697,
+     "s": "verified"
+    },
+    "fy": "FY26"
+   },
+   "verified": false,
+   "warnings": [
+    "Some core figures could not be cross-checked; only verified figures are used in the email.",
+    "No usable email found for promoters, BRLM or the company."
+   ],
+   "processed_at": "2026-11-09T06:28:58+05:30"
+  },
+  {
+   "key": "gromaglobal",
+   "company": "Groma Global Limited",
+   "board": "SME",
+   "exchange": "BSE SME",
+   "source": "BSE SME",
+   "filed_on": "2026-09-29",
+   "doc_type": "DRHP",
+   "brlms": [
+    "Smart Horizon Capital Advisors Pvt.Ltd."
+   ],
+   "promoters": [
+    "Dhruv D Kabra",
+    "Shishir D Kabra"
+   ],
+   "pre_ipo": null,
+   "latest": {},
+   "verified": null,
+   "warnings": [
+    "BSE SME filing: contacts and figures from Chittorgarh. BSE blocks cloud servers, so the DRHP PDF could not be read automatically; open it from the link above."
+   ],
+   "processed_at": "2026-11-09T06:29:03+05:30"
+  },
+  {
+   "key": "ph1industries",
+   "company": "Ph1 Industries Limited",
+   "board": "SME",
+   "exchange": "NSE Emerge",
+   "source": "NSE Emerge",
+   "filed_on": "2026-09-29",
+   "doc_type": "DRHP",
+   "brlms": [
+    "GYR Capital Advisors Private Limited"
+   ],
+   "promoters": [
+    "Mr. Bhaskar J",
+    "Mr. S Saravanan",
+    "Mr. E Surendra Babu",
+    "Mr. B Prabakaran"
+   ],
+   "pre_ipo": false,
+   "latest": {
+    "pat": {
+     "v": 7.831,
+     "s": "verified"
+    },
+    "fy": "FY26"
+   },
+   "verified": false,
+   "warnings": [
+    "Some core figures could not be cross-checked; only verified figures are used in the email."
+   ],
+   "processed_at": "2026-11-09T06:28:41+05:30"
+  },
+  {
+   "key": "roongtaentertainment",
+   "company": "Roongta Entertainment Limited",
+   "board": "SME",
+   "exchange": "NSE Emerge",
+   "source": "NSE Emerge",
+   "filed_on": "2026-09-29",
+   "doc_type": "DRHP",
+   "brlms": [
+    "Interactive Financial Services Limited"
+   ],
+   "promoters": [
+    "Of The Company Ankur Roongta"
+   ],
+   "pre_ipo": false,
+   "latest": {},
+   "verified": null,
+   "warnings": [
+    "Financial statements not found in the DRHP"
+   ],
+   "processed_at": "2026-11-09T06:28:49+05:30"
   }
  ]
 }

@@ -601,6 +601,94 @@
    "at": "2026-11-09T01:15:49+05:30",
    "company": "Rysa Infratech Limited",
    "version": 4
+  },
+  "technomeddevicesindia": {
+   "ref": "https://www.bsesme.com/download/339759/SME_IPO%20InPrinciple/DRHP_TechnomedDevicesIndiaLimited_20260930235108.zip",
+   "listing_ref": "https://www.chittorgarh.com/ipo/technomed-devices-india-ipo/3383/",
+   "at": "2026-11-09T06:28:06+05:30",
+   "company": "Technomed Devices India Limited",
+   "version": 4
+  },
+  "bestengineeringaidsconsultancies": {
+   "ref": "https://www.bsesme.com/download/363986/SME_IPO%20InPrinciple/DRHP_BEACON_20261001113845.zip",
+   "listing_ref": "https://www.chittorgarh.com/ipo/best-engineering-aids-consultancies-ipo/3384/",
+   "at": "2026-11-09T06:28:13+05:30",
+   "company": "Best Engineering Aids & Consultancies Limited",
+   "version": 4
+  },
+  "qualityenviroengineers": {
+   "ref": "https://www.bsesme.com/download/336935/SME_IPO%20InPrinciple/DRHP_Quality_Enviro_20260930234215.pdf",
+   "listing_ref": "https://www.chittorgarh.com/ipo/quality-enviro-engineers-ipo/3385/",
+   "at": "2026-11-09T06:28:16+05:30",
+   "company": "Quality Enviro Engineers Limited",
+   "version": 4
+  },
+  "solankimechanicworks": {
+   "ref": "https://www.bsesme.com/download/346849/SME_IPO%20InPrinciple/SolankiDRHP_20260930024455.zip",
+   "listing_ref": "https://www.chittorgarh.com/ipo/solanki-mechanic-works-ipo/3386/",
+   "at": "2026-11-09T06:28:21+05:30",
+   "company": "Solanki Mechanic Works Limited",
+   "version": 4
+  },
+  "bioconelectric": {
+   "ref": "https://nsearchives.nseindia.com/corporate/AD_IPO_7788_29092026191112.zip",
+   "listing_ref": "https://nsearchives.nseindia.com/corporate/AD_IPO_7788_29092026191112.zip",
+   "error": "NSE: document has only 14 pages (incomplete download or not the DRHP)",
+   "at": "2026-11-09T06:28:25+05:30",
+   "company": "Biocon Electric Limited",
+   "attempts": 1,
+   "version": 4
+  },
+  "chandranipearls": {
+   "ref": "https://nsearchives.nseindia.com/emerge/corporates/content/AD_IPO_7800_30092026015542.zip",
+   "listing_ref": "https://nsearchives.nseindia.com/emerge/corporates/content/AD_IPO_7800_30092026015542.zip",
+   "at": "2026-11-09T06:28:32+05:30",
+   "company": "Chandrani Pearls Limited",
+   "version": 4
+  },
+  "ph1industries": {
+   "ref": "https://nsearchives.nseindia.com/emerge/corporates/content/AD_IPO_7794_29092026233857.zip",
+   "listing_ref": "https://nsearchives.nseindia.com/emerge/corporates/content/AD_IPO_7794_29092026233857.zip",
+   "at": "2026-11-09T06:28:41+05:30",
+   "company": "Ph1 Industries Limited",
+   "version": 4
+  },
+  "ctmtechnologies": {
+   "ref": "https://nsearchives.nseindia.com/emerge/corporates/content/AD_IPO_7795_29092026234155.zip",
+   "listing_ref": "https://nsearchives.nseindia.com/emerge/corporates/content/AD_IPO_7795_29092026234155.zip",
+   "error": "NSE Emerge: document has only 7 pages (incomplete download or not the DRHP)",
+   "at": "2026-11-09T06:28:45+05:30",
+   "company": "CTM Technologies Limited",
+   "attempts": 1,
+   "version": 4
+  },
+  "roongtaentertainment": {
+   "ref": "https://nsearchives.nseindia.com/emerge/corporates/content/Roongta.zip",
+   "listing_ref": "https://nsearchives.nseindia.com/emerge/corporates/content/Roongta.zip",
+   "at": "2026-11-09T06:28:49+05:30",
+   "company": "Roongta Entertainment Limited",
+   "version": 4
+  },
+  "conceptiatechnologies": {
+   "ref": "https://nsearchives.nseindia.com/emerge/corporates/content/AD_IPO_7799_30092026011058.zip",
+   "listing_ref": "https://nsearchives.nseindia.com/emerge/corporates/content/AD_IPO_7799_30092026011058.zip",
+   "at": "2026-11-09T06:28:58+05:30",
+   "company": "Conceptia Technologies Limited",
+   "version": 4
+  },
+  "birdmachines": {
+   "ref": "https://www.bsesme.com/download/343062/SME_IPO%20InPrinciple/BIRDFINALDRHP_20260929171323.zip",
+   "listing_ref": "https://www.chittorgarh.com/ipo/bird-machines-ipo/3319/",
+   "at": "2026-11-09T06:28:59+05:30",
+   "company": "Bird Machines Limited",
+   "version": 4
+  },
+  "gromaglobal": {
+   "ref": "https://www.bsesme.com/download/377447/SME_IPO%20InPrinciple/0DPandDraftAbridgedProspectusGGL_20260929175645.zip",
+   "listing_ref": "https://www.chittorgarh.com/ipo/groma-global-ipo/3320/",
+   "at": "2026-11-09T06:29:03+05:30",
+   "company": "Groma Global Limited",
+   "version": 4
   }
  }
 }
