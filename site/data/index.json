@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-10T12:57:05+05:30",
+ "updated_at": "2026-11-10T17:26:01+05:30",
  "companies": [
   {
    "key": "snvatraveltech",
@@ -83,6 +83,29 @@
     "Financial statements not found in the DRHP"
    ],
    "processed_at": "2026-11-07T15:52:59+05:30"
+  },
+  {
+   "key": "uranusstoneproducts",
+   "company": "Uranus Stone Products Limited",
+   "board": "SME",
+   "exchange": "BSE SME",
+   "source": "BSE SME",
+   "filed_on": "2026-11-06",
+   "doc_type": "DRHP",
+   "brlms": [
+    "Indcap Advisors Pvt.ltd."
+   ],
+   "promoters": [
+    "Ankit Mittal",
+    "Shweta Mittal"
+   ],
+   "pre_ipo": null,
+   "latest": {},
+   "verified": null,
+   "warnings": [
+    "BSE SME filing: contacts and figures from Chittorgarh. BSE blocks cloud servers, so the DRHP PDF could not be read automatically; open it from the link above."
+   ],
+   "processed_at": "2026-11-10T17:25:48+05:30"
   },
   {
    "key": "jamnagaragroindustries",
