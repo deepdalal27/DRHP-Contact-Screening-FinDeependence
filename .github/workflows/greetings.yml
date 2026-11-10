@@ -1,0 +1,42 @@
+name: Send greetings
+
+on:
+  workflow_dispatch:
+    inputs:
+      occasion:
+        description: 'Greeting to send (see pipeline/greeting.py)'
+        default: 'samvat2083'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: drhp-pipeline   # never runs alongside the screening job
+  cancel-in-progress: false
+
+jobs:
+  send:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref_name }}
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Send (each address once; log saved after every mail)
+        env:
+          GMAIL_ADDRESS: ${{ secrets.GMAIL_ADDRESS }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+          OCCASION: ${{ inputs.occasion }}
+        run: python -m pipeline.greeting --occasion "$OCCASION" --send
+      - name: Save greeting log
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/greetings.json || true
+          if ! git diff --cached --quiet; then
+            git commit -m "Greetings log: ${{ inputs.occasion }}"
+            for i in 1 2 3 4 5; do git pull --rebase -X theirs origin "${GITHUB_REF_NAME}" && git push && break; sleep $((i*5)); done
+          fi
