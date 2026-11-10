@@ -1,0 +1,922 @@
+{
+ "samvat2083": {
+  "cs@jamnagaragroindustries.com": {
+   "at": "2026-11-10T11:56:16+00:00",
+   "message_id": "<179431177475.2201.16596178972880212982@gmail.com>",
+   "companies": [
+    "Jamnagar Agro Industries Limited"
+   ]
+  },
+  "compliance.officer@in.pgcdigitl.ai": {
+   "at": "2026-11-10T11:56:18+00:00",
+   "message_id": "<179431177762.2201.2344548416164892282@gmail.com>",
+   "companies": [
+    "Pradeepit Global Consulting Limited"
+   ]
+  },
+  "sitaram.ipo@smccapitals.com": {
+   "at": "2026-11-10T11:56:21+00:00",
+   "message_id": "<179431178038.2201.13527693239694319226@gmail.com>",
+   "companies": [
+    "Sitaram Denims India Limited"
+   ]
+  },
+  "cs@sahanaratnabh.com": {
+   "at": "2026-11-10T11:56:24+00:00",
+   "message_id": "<179431178335.2201.6855077013642324378@gmail.com>",
+   "companies": [
+    "Sahanaratnabh Limited"
+   ]
+  },
+  "secl.ipo@sbicaps.com": {
+   "at": "2026-11-10T11:56:27+00:00",
+   "message_id": "<179431178610.2201.6490161348711544616@gmail.com>",
+   "companies": [
+    "South Eastern Coalfields Limited"
+   ]
+  },
+  "secl.ipo@idbicapital.com": {
+   "at": "2026-11-10T11:56:30+00:00",
+   "message_id": "<179431178880.2201.16524358841725604439@gmail.com>",
+   "companies": [
+    "South Eastern Coalfields Limited"
+   ]
+  },
+  "secl.ipo@motilaloswal.com": {
+   "at": "2026-11-10T11:56:32+00:00",
+   "message_id": "<179431179157.2201.18428586537425135673@gmail.com>",
+   "companies": [
+    "South Eastern Coalfields Limited"
+   ]
+  },
+  "carlsberg.ipo@kotak.com": {
+   "at": "2026-11-10T11:56:35+00:00",
+   "message_id": "<179431179426.2201.18411236671624767423@gmail.com>",
+   "companies": [
+    "Carlsberg India Limited"
+   ]
+  },
+  "carlsbergindia.ipo@citi.com": {
+   "at": "2026-11-10T11:56:38+00:00",
+   "message_id": "<179431179706.2201.17359461555966300861@gmail.com>",
+   "companies": [
+    "Carlsberg India Limited"
+   ]
+  },
+  "carlsberg_india_ipo@jpmorgan.com": {
+   "at": "2026-11-10T11:56:41+00:00",
+   "message_id": "<179431179976.2201.17134652169043730022@gmail.com>",
+   "companies": [
+    "Carlsberg India Limited"
+   ]
+  },
+  "gamp.ipo@valmikileela.com": {
+   "at": "2026-11-10T11:56:43+00:00",
+   "message_id": "<179431180263.2201.2280542656087579750@gmail.com>",
+   "companies": [
+    "GAMP Services Limited"
+   ]
+  },
+  "hunger.ipo@pantomathgroup.com": {
+   "at": "2026-11-10T11:56:46+00:00",
+   "message_id": "<179431180532.2201.4013006458866183750@gmail.com>",
+   "companies": [
+    "Hunger Pangs Limited"
+   ]
+  },
+  "mayur@mayurelectromeck.com": {
+   "at": "2026-11-10T11:56:49+00:00",
+   "message_id": "<179431180807.2201.3961898492877821499@gmail.com>",
+   "companies": [
+    "Mayur Electromeck Limited"
+   ]
+  },
+  "paramotor.ipo@motilaloswal.com": {
+   "at": "2026-11-10T11:56:52+00:00",
+   "message_id": "<179431181100.2201.15809159186099502576@gmail.com>",
+   "companies": [
+    "Paramotor Digital Technology Limited"
+   ]
+  },
+  "paramotor.ipo@equirus.com": {
+   "at": "2026-11-10T11:56:55+00:00",
+   "message_id": "<179431181386.2201.3600016349716184443@gmail.com>",
+   "companies": [
+    "Paramotor Digital Technology Limited"
+   ]
+  },
+  "mb@beelinemb.com": {
+   "at": "2026-11-10T11:56:57+00:00",
+   "message_id": "<179431181666.2201.18075029168439147895@gmail.com>",
+   "companies": [
+    "Soleos Energy Limited",
+    "Integrum Energy Infrastructure Limited",
+    "Sarva Foam Industries Limited"
+   ]
+  },
+  "mb@marwadichandarana.com": {
+   "at": "2026-11-10T11:57:01+00:00",
+   "message_id": "<179431181942.2201.18318923544050371068@gmail.com>",
+   "companies": [
+    "Grace Renewable Energy Limited",
+    "Momai Art Limited"
+   ]
+  },
+  "ieil.ipo@mefcomcap.in": {
+   "at": "2026-11-10T11:57:04+00:00",
+   "message_id": "<179431182257.2201.15562339072844725849@gmail.com>",
+   "companies": [
+    "Integrum Energy Infrastructure Limited"
+   ]
+  },
+  "ieil.ipo@centrum.co.in": {
+   "at": "2026-11-10T11:57:06+00:00",
+   "message_id": "<179431182560.2201.14502724307206883742@gmail.com>",
+   "companies": [
+    "Integrum Energy Infrastructure Limited"
+   ]
+  },
+  "pmcona.ipo@valmikileela.com": {
+   "at": "2026-11-10T11:57:09+00:00",
+   "message_id": "<179431182831.2201.629884299512358793@gmail.com>",
+   "companies": [
+    "PM Cona Industries Limited"
+   ]
+  },
+  "pentacle.ipo@socradamus.in": {
+   "at": "2026-11-10T11:57:12+00:00",
+   "message_id": "<179431183104.2201.11894446579011139693@gmail.com>",
+   "companies": [
+    "Pentacle Consultants I Limited"
+   ]
+  },
+  "baanganga.ipo@damcapital.in": {
+   "at": "2026-11-10T11:57:15+00:00",
+   "message_id": "<179431183401.2201.12077428057584735244@gmail.com>",
+   "companies": [
+    "Baanganga Gold & Diamond (I) Limited"
+   ]
+  },
+  "mbd@arihantcapital.com": {
+   "at": "2026-11-10T11:57:17+00:00",
+   "message_id": "<179431183666.2201.17256420291624939368@gmail.com>",
+   "companies": [
+    "Electromech Infraprojects Limited"
+   ]
+  },
+  "inoxap.ipo@kotak.com": {
+   "at": "2026-11-10T11:57:20+00:00",
+   "message_id": "<179431183938.2201.387569519412254463@gmail.com>",
+   "companies": [
+    "Inox Air Products Limited"
+   ]
+  },
+  "inoxap.ipo@citi.com": {
+   "at": "2026-11-10T11:57:24+00:00",
+   "message_id": "<179431184214.2201.12896543936425423100@gmail.com>",
+   "companies": [
+    "Inox Air Products Limited"
+   ]
+  },
+  "inoxap.ipo@icicisecurities.com": {
+   "at": "2026-11-10T11:57:26+00:00",
+   "message_id": "<179431184575.2201.2514915061246928158@gmail.com>",
+   "companies": [
+    "Inox Air Products Limited"
+   ]
+  },
+  "inox_air_products_ipo@jpmorgan.com": {
+   "at": "2026-11-10T11:57:29+00:00",
+   "message_id": "<179431184845.2201.18094417288488614188@gmail.com>",
+   "companies": [
+    "Inox Air Products Limited"
+   ]
+  },
+  "cs@electromech-infra.com": {
+   "at": "2026-11-10T11:57:32+00:00",
+   "message_id": "<179431185136.2201.8779897478329266580@gmail.com>",
+   "companies": [
+    "Electromech Infraprojects Limited"
+   ]
+  },
+  "hcch.ipo@kotak.com": {
+   "at": "2026-11-10T11:57:35+00:00",
+   "message_id": "<179431185420.2201.5435723794376681955@gmail.com>",
+   "companies": [
+    "Hindustan Coca Cola Holdings Ltd"
+   ]
+  },
+  "hcch.ipo@citi.com": {
+   "at": "2026-11-10T11:57:38+00:00",
+   "message_id": "<179431185702.2201.86150607367554648@gmail.com>",
+   "companies": [
+    "Hindustan Coca Cola Holdings Ltd"
+   ]
+  },
+  "hcch_ipo@morganstanley.com": {
+   "at": "2026-11-10T11:57:41+00:00",
+   "message_id": "<179431186003.2201.12874571522979099938@gmail.com>",
+   "companies": [
+    "Hindustan Coca Cola Holdings Ltd"
+   ]
+  },
+  "hcch.ipo@axiscap.in": {
+   "at": "2026-11-10T11:57:44+00:00",
+   "message_id": "<179431186317.2201.902572753781447233@gmail.com>",
+   "companies": [
+    "Hindustan Coca Cola Holdings Ltd"
+   ]
+  },
+  "hcchipo@gs.com": {
+   "at": "2026-11-10T11:57:47+00:00",
+   "message_id": "<179431186647.2201.7570308990162709996@gmail.com>",
+   "companies": [
+    "Hindustan Coca Cola Holdings Ltd"
+   ]
+  },
+  "hcch.ipo@iiflcap.com": {
+   "at": "2026-11-10T11:57:50+00:00",
+   "message_id": "<179431186943.2201.9481996526126337186@gmail.com>",
+   "companies": [
+    "Hindustan Coca Cola Holdings Ltd"
+   ]
+  },
+  "cs@bsstmx.com": {
+   "at": "2026-11-10T11:57:54+00:00",
+   "message_id": "<179431187224.2201.17322431943594803502@gmail.com>",
+   "companies": [
+    "B S Sponge Limited"
+   ]
+  },
+  "everbrands.ipo@motilaloswal.com": {
+   "at": "2026-11-10T11:57:56+00:00",
+   "message_id": "<179431187554.2201.2459309389646795672@gmail.com>",
+   "companies": [
+    "Everbrands India Limited"
+   ]
+  },
+  "everbrands.ipo@icicisecurities.com": {
+   "at": "2026-11-10T11:58:00+00:00",
+   "message_id": "<179431187831.2201.9065995851232613174@gmail.com>",
+   "companies": [
+    "Everbrands India Limited"
+   ]
+  },
+  "everbrands.ipo@nuvama.com": {
+   "at": "2026-11-10T11:58:05+00:00",
+   "message_id": "<179431188231.2201.11334306770087234718@gmail.com>",
+   "companies": [
+    "Everbrands India Limited"
+   ]
+  },
+  "mb@unistonecapital.com": {
+   "at": "2026-11-10T11:58:08+00:00",
+   "message_id": "<179431188650.2201.1343931902000024299@gmail.com>",
+   "companies": [
+    "Arete 22 Limited"
+   ]
+  },
+  "pesinstallations.ipo@turnaroundmb.com": {
+   "at": "2026-11-10T11:58:11+00:00",
+   "message_id": "<179431188958.2201.7266690120429527005@gmail.com>",
+   "companies": [
+    "PES Installations Limited"
+   ]
+  },
+  "deon.ipo@valmikileela.com": {
+   "at": "2026-11-10T11:58:13+00:00",
+   "message_id": "<179431189251.2201.7115156272913408298@gmail.com>",
+   "companies": [
+    "Deon Energy Limited"
+   ]
+  },
+  "ib@hemsecurities.com": {
+   "at": "2026-11-10T11:58:16+00:00",
+   "message_id": "<179431189536.2201.4940433138503585292@gmail.com>",
+   "companies": [
+    "Rathod Jewellery Manufacturing Limited",
+    "Sbipl Projects Limited",
+    "Kasliwal Projects Limited",
+    "Blueocean Ecotech Limited"
+   ]
+  },
+  "inoxclean@nuvama.com": {
+   "at": "2026-11-10T11:58:21+00:00",
+   "message_id": "<179431189823.2201.9675576983086212159@gmail.com>",
+   "companies": [
+    "Inox Clean Energy Limited"
+   ]
+  },
+  "inoxclean.ipo@clsa.com": {
+   "at": "2026-11-10T11:58:24+00:00",
+   "message_id": "<179431190256.2201.17598101513409316024@gmail.com>",
+   "companies": [
+    "Inox Clean Energy Limited"
+   ]
+  },
+  "inoxclean.ipo@emiratesnbd.com": {
+   "at": "2026-11-10T11:58:27+00:00",
+   "message_id": "<179431190570.2201.1709526267180296169@gmail.com>",
+   "companies": [
+    "Inox Clean Energy Limited"
+   ]
+  },
+  "inoxcleanipo@hsbc.co.in": {
+   "at": "2026-11-10T11:58:30+00:00",
+   "message_id": "<179431190901.2201.10539562930979644290@gmail.com>",
+   "companies": [
+    "Inox Clean Energy Limited"
+   ]
+  },
+  "inoxclean.ipo@icicisecurities.com": {
+   "at": "2026-11-10T11:58:33+00:00",
+   "message_id": "<179431191206.2201.1044618808835792741@gmail.com>",
+   "companies": [
+    "Inox Clean Energy Limited"
+   ]
+  },
+  "inoxcleanenergy.ipo@iiflcap.com": {
+   "at": "2026-11-10T11:58:37+00:00",
+   "message_id": "<179431191505.2201.6766011649227127433@gmail.com>",
+   "companies": [
+    "Inox Clean Energy Limited"
+   ]
+  },
+  "inoxcleanenergy.ipo@jmfl.com": {
+   "at": "2026-11-10T11:58:40+00:00",
+   "message_id": "<179431191919.2201.14021071289799642292@gmail.com>",
+   "companies": [
+    "Inox Clean Energy Limited"
+   ]
+  },
+  "inoxcleanipo@motilaloswal.com": {
+   "at": "2026-11-10T11:58:43+00:00",
+   "message_id": "<179431192225.2201.12765649227346551192@gmail.com>",
+   "companies": [
+    "Inox Clean Energy Limited"
+   ]
+  },
+  "ol-inoxcleanenergy_ipo@ubs.com": {
+   "at": "2026-11-10T11:58:46+00:00",
+   "message_id": "<179431192508.2201.7060228236780295731@gmail.com>",
+   "companies": [
+    "Inox Clean Energy Limited"
+   ]
+  },
+  "rudra.ipo@cumulativecapital.group": {
+   "at": "2026-11-10T11:58:49+00:00",
+   "message_id": "<179431192786.2201.8164783749371114543@gmail.com>",
+   "companies": [
+    "Rudra Green Ship Recycling Limited"
+   ]
+  },
+  "ipo@afsl.co.in": {
+   "at": "2026-11-10T11:58:52+00:00",
+   "message_id": "<179431193097.2201.5113741835622709401@gmail.com>",
+   "companies": [
+    "Sanghvi Housing and Infrastructure Limited",
+    "Tanvi Exports India Limited"
+   ]
+  },
+  "mbk@gretexgroup.com": {
+   "at": "2026-11-10T11:58:55+00:00",
+   "message_id": "<179431193375.2201.6037673545798091138@gmail.com>",
+   "companies": [
+    "Tenty Limited"
+   ]
+  },
+  "kataline.ipo@incredcapital.com": {
+   "at": "2026-11-10T11:58:57+00:00",
+   "message_id": "<179431193667.2201.12637790271126963407@gmail.com>",
+   "companies": [
+    "Kataline Limited"
+   ]
+  },
+  "kataline.ipo@ashikagroup.com": {
+   "at": "2026-11-10T11:59:00+00:00",
+   "message_id": "<179431193944.2201.11554359503199096145@gmail.com>",
+   "companies": [
+    "Kataline Limited"
+   ]
+  },
+  "skpl.ipo@rathi.com": {
+   "at": "2026-11-10T11:59:03+00:00",
+   "message_id": "<179431194218.2201.14449876124521693087@gmail.com>",
+   "companies": [
+    "Shreejikrupa Project Limited"
+   ]
+  },
+  "shreejikrupa.ipo@intensivefiscal.com": {
+   "at": "2026-11-10T11:59:06+00:00",
+   "message_id": "<179431194505.2201.13526894200408171489@gmail.com>",
+   "companies": [
+    "Shreejikrupa Project Limited"
+   ]
+  },
+  "pciinfraprojects.ipo@shareindia.co.in": {
+   "at": "2026-11-10T11:59:09+00:00",
+   "message_id": "<179431194808.2201.3729532505420280569@gmail.com>",
+   "companies": [
+    "PCI Infraprojects Limited"
+   ]
+  },
+  "anarock.ipo@icicisecurities.com": {
+   "at": "2026-11-10T11:59:12+00:00",
+   "message_id": "<179431195089.2201.1670341279187901181@gmail.com>",
+   "companies": [
+    "Anarock Property Consultants Limited"
+   ]
+  },
+  "pioneer.ipo@indiacp.com": {
+   "at": "2026-11-10T11:59:15+00:00",
+   "message_id": "<179431195365.2201.8446361636620671943@gmail.com>",
+   "companies": [
+    "Pioneer Fabricators Limited"
+   ]
+  },
+  "kianm.ipo@miraeassetcm.com": {
+   "at": "2026-11-10T11:59:18+00:00",
+   "message_id": "<179431195676.2201.8923408082572557612@gmail.com>",
+   "companies": [
+    "Kian-M Export Limited"
+   ]
+  },
+  "mbd@keynoteindia.net": {
+   "at": "2026-11-10T11:59:20+00:00",
+   "message_id": "<179431195955.2201.13857251366079446594@gmail.com>",
+   "companies": [
+    "Jagatjit Agri Engineering Limited",
+    "Koolking Industries India Limited"
+   ]
+  },
+  "ekkaa.ipo@motilaloswal.com": {
+   "at": "2026-11-10T11:59:23+00:00",
+   "message_id": "<179431196233.2201.15237555029131223202@gmail.com>",
+   "companies": [
+    "Ekkaa Electronics (India) Limited"
+   ]
+  },
+  "ekkaa.ipo@shannon.co.in": {
+   "at": "2026-11-10T11:59:26+00:00",
+   "message_id": "<179431196501.2201.5024859399096391205@gmail.com>",
+   "companies": [
+    "Ekkaa Electronics (India) Limited"
+   ]
+  },
+  "mb@fedsec.in": {
+   "at": "2026-11-10T11:59:29+00:00",
+   "message_id": "<179431196778.2201.8868700973515441722@gmail.com>",
+   "companies": [
+    "SAI Infinium Limited"
+   ]
+  },
+  "val.ipo@idbicapital.com": {
+   "at": "2026-11-10T11:59:32+00:00",
+   "message_id": "<179431197079.2201.4510604793806251788@gmail.com>",
+   "companies": [
+    "Vardhman Appliances Limited"
+   ]
+  },
+  "vardhman.ipo@pantomathgroup.com": {
+   "at": "2026-11-10T11:59:35+00:00",
+   "message_id": "<179431197381.2201.16323770266001305835@gmail.com>",
+   "companies": [
+    "Vardhman Appliances Limited"
+   ]
+  },
+  "compliance@avplinternational.com": {
+   "at": "2026-11-10T11:59:38+00:00",
+   "message_id": "<179431197690.2201.14869059800053979096@gmail.com>",
+   "companies": [
+    "AITMC Ventures Limited"
+   ]
+  },
+  "vetrivelexplosives.ipo@gyrcapitaladvisors.in": {
+   "at": "2026-11-10T11:59:40+00:00",
+   "message_id": "<179431197964.2201.9736697847152350241@gmail.com>",
+   "companies": [
+    "Vetrivel Explosives Limited"
+   ]
+  },
+  "jinfra.ipo@systematixgroup.in": {
+   "at": "2026-11-10T11:59:43+00:00",
+   "message_id": "<179431198236.2201.10058260000501379979@gmail.com>",
+   "companies": [
+    "J Infratech Limited"
+   ]
+  },
+  "royalchain.ipo@jmfl.com": {
+   "at": "2026-11-10T11:59:46+00:00",
+   "message_id": "<179431198526.2201.14282040618931496081@gmail.com>",
+   "companies": [
+    "Royal Chain Limited"
+   ]
+  },
+  "royalchain.ipo@360.one": {
+   "at": "2026-11-10T11:59:49+00:00",
+   "message_id": "<179431198828.2201.173833702147063823@gmail.com>",
+   "companies": [
+    "Royal Chain Limited"
+   ]
+  },
+  "sai.ipo@neomilecapital.com": {
+   "at": "2026-11-10T11:59:53+00:00",
+   "message_id": "<179431199115.2201.4470803052251629414@gmail.com>",
+   "companies": [
+    "SAI Infinium Limited"
+   ]
+  },
+  "compliance@srgelastics.com": {
+   "at": "2026-11-10T11:59:56+00:00",
+   "message_id": "<179431199530.2201.3457101116885520763@gmail.com>",
+   "companies": [
+    "S.R.G.NARROW FAB Limited"
+   ]
+  },
+  "sgl.ipo@choiceindia.com": {
+   "at": "2026-11-10T12:00:01+00:00",
+   "message_id": "<179431199831.2201.13202284704634652916@gmail.com>",
+   "companies": [
+    "Sunil Gold India Limited"
+   ]
+  },
+  "vinirengineering.ipo@gyrcapitaladvisors.in": {
+   "at": "2026-11-10T12:00:04+00:00",
+   "message_id": "<179431200259.2201.1426855274941981602@gmail.com>",
+   "companies": [
+    "Vinir Engineering Limited"
+   ]
+  },
+  "vishakha.ipo@sbicaps.com": {
+   "at": "2026-11-10T12:00:07+00:00",
+   "message_id": "<179431200593.2201.881100643532328830@gmail.com>",
+   "companies": [
+    "Vishakha Renewables Limited"
+   ]
+  },
+  "vishakha.ipo@icicisecurities.com": {
+   "at": "2026-11-10T12:00:10+00:00",
+   "message_id": "<179431200919.2201.16594017010417949452@gmail.com>",
+   "companies": [
+    "Vishakha Renewables Limited"
+   ]
+  },
+  "vishakha.ipo@iiflcap.com": {
+   "at": "2026-11-10T12:00:13+00:00",
+   "message_id": "<179431201221.2201.15105964172347530154@gmail.com>",
+   "companies": [
+    "Vishakha Renewables Limited"
+   ]
+  },
+  "madhavaacrafts.ipo@gyrcapitaladvisors.in": {
+   "at": "2026-11-10T12:00:17+00:00",
+   "message_id": "<179431201537.2201.7907075210463037209@gmail.com>",
+   "companies": [
+    "Madhavaa Crafts Limited"
+   ]
+  },
+  "cs@hyrefox.co": {
+   "at": "2026-11-10T12:00:20+00:00",
+   "message_id": "<179431201866.2201.12493195275624656721@gmail.com>",
+   "companies": [
+    "Hyrefox Consultants Limited"
+   ]
+  },
+  "cs@kmcaluminium.com": {
+   "at": "2026-11-10T12:00:23+00:00",
+   "message_id": "<179431202206.2201.10205499750919079825@gmail.com>",
+   "companies": [
+    "K M C Aluminium Limited"
+   ]
+  },
+  "info@steamequipments.com": {
+   "at": "2026-11-10T12:00:28+00:00",
+   "message_id": "<179431202530.2201.9301764449536336274@gmail.com>",
+   "companies": [
+    "Steam Equipments Limited"
+   ]
+  },
+  "legal@bonbonventures.com": {
+   "at": "2026-11-10T12:00:35+00:00",
+   "message_id": "<179431203010.2201.17884601120099783518@gmail.com>",
+   "companies": [
+    "Bon Bon Ventures Limited"
+   ]
+  },
+  "alagarsamy@gorantlageos.com": {
+   "at": "2026-11-10T12:00:40+00:00",
+   "message_id": "<179431203734.2201.18274867766262407143@gmail.com>",
+   "companies": [
+    "Gorantla Geosynthetic Limited"
+   ]
+  },
+  "investors@weldorcncmachines.com": {
+   "at": "2026-11-10T12:00:43+00:00",
+   "message_id": "<179431204219.2201.12898875871956296518@gmail.com>",
+   "companies": [
+    "Weldor CNC Machines Limited"
+   ]
+  },
+  "cs@sceptremedical.com": {
+   "at": "2026-11-10T12:00:47+00:00",
+   "message_id": "<179431204548.2201.8811114077774658629@gmail.com>",
+   "companies": [
+    "Sceptre Medical (India) Limited"
+   ]
+  },
+  "cs@aeleacommodities.com": {
+   "at": "2026-11-10T12:00:51+00:00",
+   "message_id": "<179431204882.2201.11488664914475614909@gmail.com>",
+   "companies": [
+    "Microfilter Polymers Limited"
+   ]
+  },
+  "info@rajpolypack.onmicrosoft.com": {
+   "at": "2026-11-10T12:00:54+00:00",
+   "message_id": "<179431205312.2201.54420961090087971@gmail.com>",
+   "companies": [
+    "Raj Polypack Limited"
+   ]
+  },
+  "info@anvipublishing.com": {
+   "at": "2026-11-10T12:01:01+00:00",
+   "message_id": "<179431205630.2201.7839949356604092118@gmail.com>",
+   "companies": [
+    "Anvi Publishing Limited"
+   ]
+  },
+  "cs@carnetbooks.com": {
+   "at": "2026-11-10T12:01:09+00:00",
+   "message_id": "<179431206259.2201.16599125149795079316@gmail.com>",
+   "companies": [
+    "Carnet Books Limited"
+   ]
+  },
+  "info@sanwariyaltd.com": {
+   "at": "2026-11-10T12:01:12+00:00",
+   "message_id": "<179431207120.2201.17737577896118881440@gmail.com>",
+   "companies": [
+    "Sanwariya Multiventures Limited"
+   ]
+  },
+  "cs@anilfashions.com": {
+   "at": "2026-11-10T12:01:16+00:00",
+   "message_id": "<179431207396.2201.1858722744478395735@gmail.com>",
+   "companies": [
+    "Anil Fashions Limited"
+   ]
+  },
+  "cs@lgcengg.in": {
+   "at": "2026-11-10T12:01:19+00:00",
+   "message_id": "<179431207789.2201.16544524425123903472@gmail.com>",
+   "companies": [
+    "LGC Engineering Limited"
+   ]
+  },
+  "compliance@acefurnaces.com": {
+   "at": "2026-11-10T12:01:22+00:00",
+   "message_id": "<179431208103.2201.18231485899144259890@gmail.com>",
+   "companies": [
+    "ACE Furnaces Limited"
+   ]
+  },
+  "investor@thesolitario.com": {
+   "at": "2026-11-10T12:01:26+00:00",
+   "message_id": "<179431208404.2201.15226862989456442840@gmail.com>",
+   "companies": [
+    "Solitario Lab Grown Limited"
+   ]
+  },
+  "shaktiinfraprojectspvtltdsippl@gmail.com": {
+   "at": "2026-11-10T12:01:32+00:00",
+   "message_id": "<179431208813.2201.10308771782881732156@gmail.com>",
+   "companies": [
+    "Shakti Infra Projects Limited"
+   ]
+  },
+  "cs@jayteealloys.com": {
+   "at": "2026-11-10T12:01:37+00:00",
+   "message_id": "<179431209411.2201.1800746934027045824@gmail.com>",
+   "companies": [
+    "Jaytee Alloys & Components Limited"
+   ]
+  },
+  "compliance@rysainfratech.com": {
+   "at": "2026-11-10T12:01:41+00:00",
+   "message_id": "<179431209947.2201.2046209793122619749@gmail.com>",
+   "companies": [
+    "Rysa Infratech Limited"
+   ]
+  },
+  "admin@technomed.in": {
+   "at": "2026-11-10T12:01:44+00:00",
+   "message_id": "<179431210314.2201.7709919710221972859@gmail.com>",
+   "companies": [
+    "Technomed Devices India Limited"
+   ]
+  },
+  "compliance@beacon-india.com": {
+   "at": "2026-11-10T12:01:47+00:00",
+   "message_id": "<179431210621.2201.9390109085820235202@gmail.com>",
+   "companies": [
+    "Best Engineering Aids & Consultancies Limited"
+   ]
+  },
+  "ipo@qualityenviroengineers.com": {
+   "at": "2026-11-10T12:01:52+00:00",
+   "message_id": "<179431210926.2201.983305040821398624@gmail.com>",
+   "companies": [
+    "Quality Enviro Engineers Limited"
+   ]
+  },
+  "compliance@solankimechanicworks.com": {
+   "at": "2026-11-10T12:01:56+00:00",
+   "message_id": "<179431211361.2201.2058154495971237724@gmail.com>",
+   "companies": [
+    "Solanki Mechanic Works Limited"
+   ]
+  },
+  "mb@jajodiaequity.com": {
+   "at": "2026-11-10T12:01:59+00:00",
+   "message_id": "<179431211777.2201.16923952049500389101@gmail.com>",
+   "companies": [
+    "Chandrani Pearls Limited"
+   ]
+  },
+  "ph1industries.ipo@gyrcapitaladvisors.in": {
+   "at": "2026-11-10T12:02:02+00:00",
+   "message_id": "<179431212091.2201.9754784817546111560@gmail.com>",
+   "companies": [
+    "Ph1 Industries Limited"
+   ]
+  },
+  "mbd@ifinservices.in": {
+   "at": "2026-11-10T12:02:05+00:00",
+   "message_id": "<179431212391.2201.12503878290675996996@gmail.com>",
+   "companies": [
+    "Roongta Entertainment Limited"
+   ]
+  },
+  "info@birdmachines.com": {
+   "at": "2026-11-10T12:02:10+00:00",
+   "message_id": "<179431212739.2201.13643822958674887405@gmail.com>",
+   "companies": [
+    "Bird Machines Limited"
+   ]
+  },
+  "investors@gromaglobal.com": {
+   "at": "2026-11-10T12:02:14+00:00",
+   "message_id": "<179431213215.2201.1296365309074636934@gmail.com>",
+   "companies": [
+    "Groma Global Limited"
+   ]
+  },
+  "snva.ipo@rathi.com": {
+   "at": "2026-11-10T12:02:17+00:00",
+   "message_id": "<179431213613.2201.14831366243761944323@gmail.com>",
+   "companies": [
+    "SNVA Traveltech Limited"
+   ]
+  },
+  "compliance@swyom.com": {
+   "at": "2026-11-10T12:02:21+00:00",
+   "message_id": "<179431213946.2201.13255530214947226121@gmail.com>",
+   "companies": [
+    "Swyom Advisors Limited"
+   ]
+  },
+  "cs@gleamingapparelslimited.com": {
+   "at": "2026-11-10T12:02:24+00:00",
+   "message_id": "<179431214297.2201.15162084653953786309@gmail.com>",
+   "companies": [
+    "Gleaming Apparels Limited"
+   ]
+  },
+  "investor@pppublications.com": {
+   "at": "2026-11-10T12:02:29+00:00",
+   "message_id": "<179431214578.2201.10016557620363939690@gmail.com>",
+   "companies": [
+    "P.P.Books Limited"
+   ]
+  },
+  "cs@jksalt.com": {
+   "at": "2026-11-10T12:02:32+00:00",
+   "message_id": "<179431215076.2201.14922201858217769665@gmail.com>",
+   "companies": [
+    "JK Salt Limited"
+   ]
+  },
+  "jb.ipo@motilaloswal.com": {
+   "at": "2026-11-10T12:02:35+00:00",
+   "message_id": "<179431215382.2201.9484693099501773244@gmail.com>",
+   "companies": [
+    "J B Ecotex Limited"
+   ]
+  },
+  "jbecotex.ipo@jmfl.com": {
+   "at": "2026-11-10T12:02:39+00:00",
+   "message_id": "<179431215678.2201.6789192812435122078@gmail.com>",
+   "companies": [
+    "J B Ecotex Limited"
+   ]
+  },
+  "technopaints.ipo@rathi.com": {
+   "at": "2026-11-10T12:02:43+00:00",
+   "message_id": "<179431216099.2201.10900226163158465871@gmail.com>",
+   "companies": [
+    "Technopaints And Chemicals Limited"
+   ]
+  },
+  "selzerpolymers.ipo@gyrcapitaladvisors.in": {
+   "at": "2026-11-10T12:02:47+00:00",
+   "message_id": "<179431216483.2201.1426286078943388366@gmail.com>",
+   "companies": [
+    "Selzer Polymers Limited"
+   ]
+  },
+  "snva.ipo@equirus.com": {
+   "at": "2026-11-10T12:02:50+00:00",
+   "message_id": "<179431216863.2201.16073538822014103832@gmail.com>",
+   "companies": [
+    "SNVA Traveltech Limited"
+   ]
+  },
+  "bestcastit.ipo@gyrcapitaladvisors.in": {
+   "at": "2026-11-10T12:02:52+00:00",
+   "message_id": "<179431217152.2201.2601084411939366047@gmail.com>",
+   "companies": [
+    "Best Cast It Limited"
+   ]
+  },
+  "cs@suvirainternational.com": {
+   "at": "2026-11-10T12:02:56+00:00",
+   "message_id": "<179431217438.2201.3833942568364669384@gmail.com>",
+   "companies": [
+    "Suvira Industries Limited"
+   ]
+  },
+  "info@arsgreen.com": {
+   "at": "2026-11-10T12:02:59+00:00",
+   "message_id": "<179431217796.2201.17603044074653959277@gmail.com>",
+   "companies": [
+    "Auto Recycling Systems Limited"
+   ]
+  },
+  "ag@igenergy.in": {
+   "at": "2026-11-10T12:03:02+00:00",
+   "message_id": "<179431218087.2201.9255483571687965084@gmail.com>",
+   "companies": [
+    "Intergen Energy Limited"
+   ]
+  },
+  "theparswam@gmail.com": {
+   "at": "2026-11-10T12:03:06+00:00",
+   "message_id": "<179431218397.2201.9876225500448407447@gmail.com>",
+   "companies": [
+    "Parswam Fashion Limited"
+   ]
+  },
+  "uepresstools.ipo@gyrcapitaladvisors.in": {
+   "at": "2026-11-10T12:03:10+00:00",
+   "message_id": "<179431218813.2201.8525889085409550583@gmail.com>",
+   "companies": [
+    "Ue Press Tools Limited"
+   ]
+  },
+  "mb@marwadichandaranagroup.com": {
+   "at": "2026-11-10T12:03:15+00:00",
+   "message_id": "<179431219246.2201.6787453160831258991@gmail.com>",
+   "companies": [
+    "S. G. Encon Limited"
+   ]
+  },
+  "anmol.ipo@intensivefiscal.com": {
+   "at": "2026-11-10T12:03:19+00:00",
+   "message_id": "<179431219737.2201.14964178464218488593@gmail.com>",
+   "companies": [
+    "Anmol Industries Limited"
+   ]
+  },
+  "aml.ipo@icicisecurities.com": {
+   "at": "2026-11-10T12:03:23+00:00",
+   "message_id": "<179431220102.2201.11307908486044477418@gmail.com>",
+   "companies": [
+    "Anmol Industries Limited"
+   ]
+  },
+  "anmol.ipo@iiflcap.com": {
+   "at": "2026-11-10T12:03:26+00:00",
+   "message_id": "<179431220489.2201.7355405862286071979@gmail.com>",
+   "companies": [
+    "Anmol Industries Limited"
+   ]
+  },
+  "cs@uranus.in": {
+   "at": "2026-11-10T12:03:30+00:00",
+   "message_id": "<179431220781.2201.14707689105682597779@gmail.com>",
+   "companies": [
+    "Uranus Stone Products Limited"
+   ]
+  }
+ }
+}
