@@ -1,6 +1,43 @@
 {
- "updated_at": "2026-11-12T06:18:46+05:30",
+ "updated_at": "2026-11-12T16:58:18+05:30",
  "companies": [
+  {
+   "key": "hindustancocacolaholdings",
+   "company": "Hindustan Coca-Cola Holdings Limited",
+   "board": "Mainboard",
+   "exchange": "BSE & NSE",
+   "source": "SEBI",
+   "filed_on": "2026-11-12",
+   "doc_type": "DRHP",
+   "brlms": [
+    "Kotak Mahindra Capital Company Limited",
+    "Citigroup Global Markets India Private Limited",
+    "J.P. Morgan India Private Limited",
+    null,
+    "Axis Capital Limited",
+    "Goldman Sachs (India) Securities Private Limited",
+    "IIFL Capital Services Limited"
+   ],
+   "promoters": [
+    "The Coca-cola Company",
+    "Hindustan Coca-cola Overseas Holdings Pte. LTD",
+    "Jubilant Beverages Limited",
+    "Jubilant Bevco Limited",
+    "Shyam Sunder Bhartia",
+    "Hari Shanker Bhartia",
+    "Arjun Shanker Bhartia",
+    "Shamit Bhartia",
+    "Shyam Sunder Bhartia Family Trust",
+    "Hari Shanker Bhartia Family Trust"
+   ],
+   "pre_ipo": false,
+   "latest": {},
+   "verified": null,
+   "warnings": [
+    "Financial statements not found in the DRHP"
+   ],
+   "processed_at": "2026-11-12T16:57:59+05:30"
+  },
   {
    "key": "snvatraveltech",
    "company": "SNVA Traveltech Limited",
@@ -48,33 +85,21 @@
    "processed_at": "2026-11-09T17:14:48+05:30"
   },
   {
-   "key": "hindustancocacolaholdings",
-   "company": "Hindustan Coca Cola Holdings Ltd",
-   "board": "Mainboard",
-   "exchange": "BSE & NSE",
-   "source": "NSE",
+   "key": "datasoftcomputerservices",
+   "company": "Datasoft Computer Services Limited",
+   "board": "SME",
+   "exchange": "NSE Emerge",
+   "source": "NSE Emerge",
    "filed_on": "2026-11-06",
    "doc_type": "DRHP",
    "brlms": [
-    "Kotak Mahindra Capital Company Limited",
-    "Citigroup Global Markets India Private Limited",
-    "J.P. Morgan India Private Limited",
-    null,
-    "Axis Capital Limited",
-    "Goldman Sachs (India) Securities Private Limited",
-    "IIFL Capital Services Limited"
+    "Legal Advisor to the Offer"
    ],
    "promoters": [
-    "The Coca-cola Company",
-    "Hindustan Coca-cola Overseas Holdings Pte. LTD",
-    "Jubilant Beverages Limited",
-    "Jubilant Bevco Limited",
-    "Shyam Sunder Bhartia",
-    "Hari Shanker Bhartia",
-    "Arjun Shanker Bhartia",
-    "Shamit Bhartia",
-    "Shyam Sunder Bhartia Family Trust",
-    "Hari Shanker Bhartia Family Trust"
+    "Sandeep Goel",
+    "Kunal Goel",
+    "Deepti Goel",
+    "Sandeep Goel HUF"
    ],
    "pre_ipo": false,
    "latest": {},
@@ -82,7 +107,7 @@
    "warnings": [
     "Financial statements not found in the DRHP"
    ],
-   "processed_at": "2026-11-07T15:52:59+05:30"
+   "processed_at": "2026-11-12T16:58:08+05:30"
   },
   {
    "key": "uranusstoneproducts",
@@ -3071,7 +3096,7 @@
    "company": "Sunil Gold India Limited",
    "board": "Mainboard",
    "exchange": "BSE & NSE",
-   "source": "SEBI",
+   "source": "NSE",
    "filed_on": "2026-09-30",
    "doc_type": "DRHP",
    "brlms": [
@@ -3120,7 +3145,7 @@
    },
    "verified": true,
    "warnings": [],
-   "processed_at": "2026-11-07T23:24:11+05:30"
+   "processed_at": "2026-11-12T16:58:17+05:30"
   },
   {
    "key": "suntekaxpressindia",

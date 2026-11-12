@@ -9421,7 +9421,71 @@
    },
    "website": "https://www.uranus.in/",
    "doc_url": "https://www.bsesme.com/download/373397/SME_IPO%20InPrinciple/UranusDRHP_20261106200603.zip"
+  },
+  {
+   "id": "datasoftcomputerservices|info@serencapital.in",
+   "company_key": "datasoftcomputerservices",
+   "company": "Datasoft Computer Services Limited",
+   "board": "SME",
+   "filed_on": "2026-11-06",
+   "variant": "brlm",
+   "role": "BRLM contact",
+   "organisation": "Legal Advisor to the Offer",
+   "names": [
+    "Sushmita Adhikari",
+    "Dhwaj Sharma"
+   ],
+   "email": "info@serencapital.in",
+   "phones": [
+    "+91-22-46011058",
+    "+91- 9582160897",
+    "0120-4528594"
+   ],
+   "subject": "Parshwanath Capital Ventures Fund | Pre-IPO & Anchor interest – Datasoft Computer Services Limited",
+   "status": "sent",
+   "sent_at": "2026-11-12T16:58:15+05:30",
+   "created_at": "2026-11-12T16:58:15+05:30",
+   "message_id": "<179448288825.2465.3546310360530282578@gmail.com>",
+   "error": null,
+   "promoters": [
+    "Sandeep Goel",
+    "Kunal Goel",
+    "Deepti Goel",
+    "Sandeep Goel HUF"
+   ],
+   "brlm_contacts": [
+    {
+     "firm": "Legal Advisor to the Offer",
+     "people": [
+      "Sushmita Adhikari",
+      "Dhwaj Sharma"
+     ],
+     "emails": [
+      "info@serencapital.in",
+      "investors@serencapital.in",
+      "partners@shirvaralaw.com"
+     ],
+     "phones": [
+      "+91-22-46011058",
+      "+91- 9582160897",
+      "0120-4528594"
+     ]
+    }
+   ],
+   "cs": {
+    "name": "Brijesh",
+    "emails": [
+     "cfo.dcs@datasoftindia.in",
+     "cs.dcs@datasoftindia.in"
+    ],
+    "phones": [
+     "011-43191600"
+    ],
+    "page": 64
+   },
+   "website": "https://datasoftindia.in/",
+   "doc_url": "https://nsearchives.nseindia.com/emerge/corporates/content/Final_DRHP_Datasoft.zip"
   }
  ],
- "updated_at": "2026-11-12T06:18:46+05:30"
+ "updated_at": "2026-11-12T16:58:18+05:30"
 }

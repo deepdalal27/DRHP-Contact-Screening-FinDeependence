@@ -4,16 +4,14 @@
  "short": "Sunil Gold India",
  "board": "Mainboard",
  "exchange": "BSE & NSE",
- "source": "SEBI",
- "also_on": [
-  "NSE"
- ],
+ "source": "NSE",
+ "also_on": [],
  "filed_on": "2026-09-30",
  "doc_type": "DRHP",
  "document_type": "Draft Red Herring Prospectus",
  "document_date": "September 30, 2026",
- "doc_url": "https://www.sebi.gov.in/sebi_data/attachdocs/oct-2026/1791374354312.pdf",
- "page_url": "https://www.sebi.gov.in/filings/public-issues/sep-2026/sunil-gold-india-limited-drhp_105078.html",
+ "doc_url": "https://nsearchives.nseindia.com/corporate/SGILDRHPDAP_20260930.zip",
+ "page_url": null,
  "pages": 522,
  "cin": "U32111MH2012PLC232365",
  "website": "www.sunilgold.com",
@@ -1466,5 +1464,5 @@
   }
  ],
  "warnings": [],
- "processed_at": "2026-11-07T23:24:11+05:30"
+ "processed_at": "2026-11-12T16:58:17+05:30"
 }

@@ -136,10 +136,10 @@
    "version": 4
   },
   "hindustancocacolaholdings": {
-   "ref": "https://nsearchives.nseindia.com/corporate/AD_IPO_7991_07112026140313.zip",
-   "listing_ref": "https://nsearchives.nseindia.com/corporate/AD_IPO_7991_07112026140313.zip",
-   "at": "2026-11-07T15:52:59+05:30",
-   "company": "Hindustan Coca Cola Holdings Ltd",
+   "ref": "https://www.sebi.gov.in/sebi_data/attachdocs/nov-2026/1794477903359.pdf",
+   "listing_ref": "https://www.sebi.gov.in/filings/public-issues/nov-2026/hindustan-coca-cola-holdings-limited-drhp_105729.html",
+   "at": "2026-11-12T16:57:59+05:30",
+   "company": "Hindustan Coca-Cola Holdings Limited",
    "version": 4
   },
   "bssponge": {
@@ -332,9 +332,9 @@
    "version": 4
   },
   "sunilgoldindia": {
-   "ref": "https://www.sebi.gov.in/sebi_data/attachdocs/oct-2026/1791374354312.pdf",
-   "listing_ref": "https://www.sebi.gov.in/filings/public-issues/sep-2026/sunil-gold-india-limited-drhp_105078.html",
-   "at": "2026-11-07T23:24:11+05:30",
+   "ref": "https://nsearchives.nseindia.com/corporate/SGILDRHPDAP_20260930.zip",
+   "listing_ref": "https://nsearchives.nseindia.com/corporate/SGILDRHPDAP_20260930.zip",
+   "at": "2026-11-12T16:58:17+05:30",
    "company": "Sunil Gold India Limited",
    "version": 4
   },
@@ -823,6 +823,13 @@
    "listing_ref": "https://www.chittorgarh.com/ipo/uranus-stone-products-ipo/3400/",
    "at": "2026-11-10T17:25:48+05:30",
    "company": "Uranus Stone Products Limited",
+   "version": 4
+  },
+  "datasoftcomputerservices": {
+   "ref": "https://nsearchives.nseindia.com/emerge/corporates/content/Final_DRHP_Datasoft.zip",
+   "listing_ref": "https://nsearchives.nseindia.com/emerge/corporates/content/Final_DRHP_Datasoft.zip",
+   "at": "2026-11-12T16:58:08+05:30",
+   "company": "Datasoft Computer Services Limited",
    "version": 4
   }
  }
