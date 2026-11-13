@@ -1,11 +1,11 @@
 {
  "processed": {
   "sitaramdenimsindia": {
-   "ref": "https://nsearchives.nseindia.com/corporate/AD_IPO_7976_03112026230716.zip",
-   "at": "2026-11-05T15:15:48+05:30",
-   "company": "Sitaram Denims India Limited",
-   "version": 4,
-   "listing_ref": "https://nsearchives.nseindia.com/corporate/AD_IPO_7976_03112026230716.zip"
+   "ref": "https://www.sebi.gov.in/sebi_data/attachdocs/nov-2026/1794550086662.pdf",
+   "listing_ref": "https://www.sebi.gov.in/filings/public-issues/nov-2026/sitaram-denims-india-ltd-drhp_105736.html",
+   "at": "2026-11-13T16:39:51+05:30",
+   "company": "Sitaram Denims India Ltd",
+   "version": 4
   },
   "sahanaratnabh": {
    "ref": "https://nsearchives.nseindia.com/emerge/corporates/content/AD_IPO_7977_04112026053912.zip",
@@ -325,9 +325,9 @@
    "version": 4
   },
   "vishakharenewables": {
-   "ref": "https://www.sebi.gov.in/sebi_data/attachdocs/oct-2026/1791449383064.PDF",
-   "listing_ref": "https://www.sebi.gov.in/filings/public-issues/sep-2026/vishakha-renewables-limited-drhp_105101.html",
-   "at": "2026-11-07T23:23:32+05:30",
+   "ref": "https://nsearchives.nseindia.com/corporate/AD_IPO_7825_30092026213023.zip",
+   "listing_ref": "https://nsearchives.nseindia.com/corporate/AD_IPO_7825_30092026213023.zip",
+   "at": "2026-11-13T16:39:55+05:30",
    "company": "Vishakha Renewables Limited",
    "version": 4
   },

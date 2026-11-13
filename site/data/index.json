@@ -1,6 +1,53 @@
 {
- "updated_at": "2026-11-13T07:24:00+05:30",
+ "updated_at": "2026-11-13T16:39:55+05:30",
  "companies": [
+  {
+   "key": "sitaramdenimsindia",
+   "company": "Sitaram Denims India Ltd",
+   "board": "Mainboard",
+   "exchange": null,
+   "source": "SEBI",
+   "filed_on": "2026-11-13",
+   "doc_type": "DRHP",
+   "brlms": [
+    "SMC Capitals Limited"
+   ],
+   "promoters": [
+    "Anil Kumar Nuwal",
+    "Madhu Sudan Nuwal",
+    "Jugal Kishore Nuwal",
+    "Sitaram India Limited"
+   ],
+   "pre_ipo": true,
+   "latest": {
+    "revenue": {
+     "v": 242.384,
+     "s": "verified"
+    },
+    "total_equity": {
+     "v": 113.056,
+     "s": "verified"
+    },
+    "EBITDA margin": {
+     "v": 0.20826,
+     "s": "verified"
+    },
+    "Debt / Equity": {
+     "v": 2.010216,
+     "s": "verified"
+    },
+    "Revenue growth": {
+     "v": 0.160604,
+     "s": "verified"
+    },
+    "fy": "FY26"
+   },
+   "verified": false,
+   "warnings": [
+    "Some core figures could not be cross-checked; only verified figures are used in the email."
+   ],
+   "processed_at": "2026-11-13T16:39:51+05:30"
+  },
   {
    "key": "hindustancocacolaholdings",
    "company": "Hindustan Coca-Cola Holdings Limited",
@@ -252,53 +299,6 @@
     "Some core figures could not be cross-checked; only verified figures are used in the email."
    ],
    "processed_at": "2026-11-05T15:15:56+05:30"
-  },
-  {
-   "key": "sitaramdenimsindia",
-   "company": "Sitaram Denims India Limited",
-   "board": "Mainboard",
-   "exchange": null,
-   "source": "NSE",
-   "filed_on": "2026-11-03",
-   "doc_type": "DRHP",
-   "brlms": [
-    "SMC Capitals Limited"
-   ],
-   "promoters": [
-    "Anil Kumar Nuwal",
-    "Madhu Sudan Nuwal",
-    "Jugal Kishore Nuwal",
-    "Sitaram India Limited"
-   ],
-   "pre_ipo": true,
-   "latest": {
-    "revenue": {
-     "v": 242.384,
-     "s": "verified"
-    },
-    "total_equity": {
-     "v": 113.056,
-     "s": "verified"
-    },
-    "EBITDA margin": {
-     "v": 0.20826,
-     "s": "verified"
-    },
-    "Debt / Equity": {
-     "v": 2.010216,
-     "s": "verified"
-    },
-    "Revenue growth": {
-     "v": 0.160604,
-     "s": "verified"
-    },
-    "fy": "FY26"
-   },
-   "verified": false,
-   "warnings": [
-    "Some core figures could not be cross-checked; only verified figures are used in the email."
-   ],
-   "processed_at": "2026-11-05T15:15:48+05:30"
   },
   {
    "key": "carlsbergindia",
@@ -3337,7 +3337,7 @@
    "company": "Vishakha Renewables Limited",
    "board": "Mainboard",
    "exchange": "BSE & NSE",
-   "source": "SEBI",
+   "source": "NSE",
    "filed_on": "2026-09-30",
    "doc_type": "DRHP",
    "brlms": [
@@ -3383,7 +3383,7 @@
    "warnings": [
     "Some core figures could not be cross-checked; only verified figures are used in the email."
    ],
-   "processed_at": "2026-11-07T23:23:32+05:30"
+   "processed_at": "2026-11-13T16:39:55+05:30"
   },
   {
    "key": "weldorcncmachines",

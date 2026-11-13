@@ -4,16 +4,14 @@
  "short": "Vishakha Renewables",
  "board": "Mainboard",
  "exchange": "BSE & NSE",
- "source": "SEBI",
- "also_on": [
-  "NSE"
- ],
+ "source": "NSE",
+ "also_on": [],
  "filed_on": "2026-09-30",
  "doc_type": "DRHP",
  "document_type": "Draft Red Herring Prospectus",
  "document_date": "September 30, 2026",
- "doc_url": "https://www.sebi.gov.in/sebi_data/attachdocs/oct-2026/1791449383064.PDF",
- "page_url": "https://www.sebi.gov.in/filings/public-issues/sep-2026/vishakha-renewables-limited-drhp_105101.html",
+ "doc_url": "https://nsearchives.nseindia.com/corporate/AD_IPO_7825_30092026213023.zip",
+ "page_url": null,
  "pages": 520,
  "cin": "U23101GJ2020PLC116955",
  "website": "www.vishakharenewables.com",
@@ -1456,5 +1454,5 @@
  "warnings": [
   "Some core figures could not be cross-checked; only verified figures are used in the email."
  ],
- "processed_at": "2026-11-07T23:23:32+05:30"
+ "processed_at": "2026-11-13T16:39:55+05:30"
 }
