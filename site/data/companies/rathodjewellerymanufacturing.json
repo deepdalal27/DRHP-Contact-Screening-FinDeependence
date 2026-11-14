@@ -4,16 +4,14 @@
  "short": "Rathod Jewellery Manufacturing",
  "board": "Mainboard",
  "exchange": "BSE & NSE",
- "source": "SEBI",
- "also_on": [
-  "NSE"
- ],
- "filed_on": "2026-10-05",
+ "source": "NSE",
+ "also_on": [],
+ "filed_on": "2026-09-30",
  "doc_type": "DRHP",
  "document_type": "Draft Red Herring Prospectus",
  "document_date": "September 30, 2026",
- "doc_url": "https://www.sebi.gov.in/sebi_data/attachdocs/oct-2026/1791185432391_1403.pdf",
- "page_url": "https://www.sebi.gov.in/filings/public-issues/oct-2026/rathod-jewellery-manufacturing-limited-drhp_105014.html",
+ "doc_url": "https://nsearchives.nseindia.com/corporate/AD_IPO_7844_01102026005813.zip",
+ "page_url": null,
  "pages": 591,
  "cin": "U36910PN2012PLC142922",
  "website": null,
@@ -1377,5 +1375,5 @@
  "warnings": [
   "Some core figures could not be cross-checked; only verified figures are used in the email."
  ],
- "processed_at": "2026-11-07T14:15:10+05:30"
+ "processed_at": "2026-11-14T16:07:28+05:30"
 }

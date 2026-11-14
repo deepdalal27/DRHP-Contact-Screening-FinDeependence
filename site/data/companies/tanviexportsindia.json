@@ -4,16 +4,14 @@
  "short": "Tanvi Exports India",
  "board": "Mainboard",
  "exchange": "BSE & NSE",
- "source": "SEBI",
- "also_on": [
-  "NSE"
- ],
- "filed_on": "2026-10-05",
+ "source": "NSE",
+ "also_on": [],
+ "filed_on": "2026-09-30",
  "doc_type": "DRHP",
  "document_type": "Draft Red Herring Prospectus",
  "document_date": "September 30, 2026",
- "doc_url": "https://www.sebi.gov.in/sebi_data/attachdocs/oct-2026/1791185432391_1397.pdf",
- "page_url": "https://www.sebi.gov.in/filings/public-issues/oct-2026/tanvi-exports-india-limited-drhp_105002.html",
+ "doc_url": "https://nsearchives.nseindia.com/corporate/AD_IPO_7821_30092026201219.zip",
+ "page_url": null,
  "pages": 497,
  "cin": "U28999GJ2020PLC115405",
  "website": "www.tanviexports.com",
@@ -1524,5 +1522,5 @@
   }
  ],
  "warnings": [],
- "processed_at": "2026-11-07T15:56:09+05:30"
+ "processed_at": "2026-11-14T16:07:07+05:30"
 }

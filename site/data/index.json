@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-14T07:00:08+05:30",
+ "updated_at": "2026-11-14T16:07:28+05:30",
  "companies": [
   {
    "key": "datasoftcomputerservices",
@@ -575,64 +575,6 @@
    "verified": true,
    "warnings": [],
    "processed_at": "2026-11-07T14:07:49+05:30"
-  },
-  {
-   "key": "gracerenewableenergy",
-   "company": "Grace Renewable Energy Limited",
-   "board": "Mainboard",
-   "exchange": "BSE & NSE",
-   "source": "SEBI",
-   "filed_on": "2026-10-07",
-   "doc_type": "DRHP",
-   "brlms": [
-    "Marwadi Chandarana Intermediaries Brokers Private Limited"
-   ],
-   "promoters": [
-    "Manish Bagadia",
-    "Karuna Bagadia",
-    "Harsh Bagadia"
-   ],
-   "pre_ipo": false,
-   "latest": {
-    "revenue": {
-     "v": 205.836,
-     "s": "verified"
-    },
-    "pat": {
-     "v": 18.667,
-     "s": "verified"
-    },
-    "total_equity": {
-     "v": null,
-     "s": "unverified"
-    },
-    "EBITDA margin": {
-     "v": 0.125323,
-     "s": "verified"
-    },
-    "PAT margin": {
-     "v": 0.090689,
-     "s": "verified"
-    },
-    "RoNW (closing)": {
-     "v": null,
-     "s": null
-    },
-    "Debt / Equity": {
-     "v": null,
-     "s": null
-    },
-    "Revenue growth": {
-     "v": 0.708296,
-     "s": "verified"
-    },
-    "fy": "FY26"
-   },
-   "verified": false,
-   "warnings": [
-    "Some core figures could not be cross-checked; only verified figures are used in the email."
-   ],
-   "processed_at": "2026-11-07T06:36:31+05:30"
   },
   {
    "key": "integrumenergyinfrastructure",
@@ -1375,111 +1317,6 @@
    "processed_at": "2026-11-07T14:12:30+05:30"
   },
   {
-   "key": "rathodjewellerymanufacturing",
-   "company": "Rathod Jewellery Manufacturing Limited",
-   "board": "Mainboard",
-   "exchange": "BSE & NSE",
-   "source": "SEBI",
-   "filed_on": "2026-10-05",
-   "doc_type": "DRHP",
-   "brlms": [
-    "Hem Securities Limited"
-   ],
-   "promoters": [
-    "Chandrakant Hanjarimal Rathod",
-    "Rupali Chandrakant Rathod",
-    "Reeva Chandrakant Rathod",
-    "Hridhay Chandrakant Rathod"
-   ],
-   "pre_ipo": false,
-   "latest": {
-    "revenue": {
-     "v": 667.3337,
-     "s": "verified"
-    },
-    "pat": {
-     "v": 50.4677,
-     "s": "mismatch"
-    },
-    "EBITDA margin": {
-     "v": 0.108152,
-     "s": "verified"
-    },
-    "PAT margin": {
-     "v": 0.075626,
-     "s": "mismatch"
-    },
-    "Revenue growth": {
-     "v": 0.313913,
-     "s": "verified"
-    },
-    "fy": "FY26"
-   },
-   "verified": false,
-   "warnings": [
-    "Some core figures could not be cross-checked; only verified figures are used in the email."
-   ],
-   "processed_at": "2026-11-07T14:15:10+05:30"
-  },
-  {
-   "key": "rudragreenshiprecycling",
-   "company": "Rudra Green Ship Recycling Limited",
-   "board": "Mainboard",
-   "exchange": null,
-   "source": "SEBI",
-   "filed_on": "2026-10-05",
-   "doc_type": "DRHP",
-   "brlms": [
-    "Cumulative Capital Private Limited"
-   ],
-   "promoters": [
-    "Ashokkumar Jagdishram Gupta",
-    "Shamarani Ashokkumar Gupta",
-    "Sahil Ashok Gupta",
-    "Shrishti Nikhilkumar Gupta",
-    "Sonthalia Steel Rolling Mills Private Limited"
-   ],
-   "pre_ipo": true,
-   "latest": {
-    "revenue": {
-     "v": 204.5153,
-     "s": "verified"
-    },
-    "pat": {
-     "v": 12.6451,
-     "s": "verified"
-    },
-    "total_equity": {
-     "v": 52.4745,
-     "s": "verified"
-    },
-    "EBITDA margin": {
-     "v": 0.106525,
-     "s": "verified"
-    },
-    "PAT margin": {
-     "v": 0.06183,
-     "s": "verified"
-    },
-    "RoNW (closing)": {
-     "v": 0.240976,
-     "s": "verified"
-    },
-    "Debt / Equity": {
-     "v": 1.185522,
-     "s": "verified"
-    },
-    "Revenue growth": {
-     "v": 0.141298,
-     "s": "verified"
-    },
-    "fy": "FY26"
-   },
-   "verified": true,
-   "warnings": [],
-   "processed_at": "2026-11-07T15:53:28+05:30"
-  },
-  {
    "key": "sanghvihousingandinfrastructure",
    "company": "Sanghvi Housing and Infrastructure Limited",
    "board": "Mainboard",
@@ -1593,64 +1430,6 @@
    "verified": true,
    "warnings": [],
    "processed_at": "2026-11-07T16:00:34+05:30"
-  },
-  {
-   "key": "tanviexportsindia",
-   "company": "Tanvi Exports India Limited",
-   "board": "Mainboard",
-   "exchange": "BSE & NSE",
-   "source": "SEBI",
-   "filed_on": "2026-10-05",
-   "doc_type": "DRHP",
-   "brlms": [
-    "Aryaman Financial Services Limited"
-   ],
-   "promoters": [
-    "Bipinbhai Gordhanbhai Viradiya",
-    "Raj Ashokbhai Bhalara",
-    "Mayur Bhupatbhai Limbasiya",
-    "Hiteshbhai Mohanbhai Sardhara",
-    "Hareshbhai Mohanbhai Sardhara"
-   ],
-   "pre_ipo": true,
-   "latest": {
-    "revenue": {
-     "v": 1139.936,
-     "s": "verified"
-    },
-    "pat": {
-     "v": 65.797,
-     "s": "verified"
-    },
-    "total_equity": {
-     "v": 108.387,
-     "s": "verified"
-    },
-    "EBITDA margin": {
-     "v": 0.080771,
-     "s": "verified"
-    },
-    "PAT margin": {
-     "v": 0.05772,
-     "s": "verified"
-    },
-    "RoNW (closing)": {
-     "v": 0.607056,
-     "s": "verified"
-    },
-    "Debt / Equity": {
-     "v": 1.047257,
-     "s": "verified"
-    },
-    "Revenue growth": {
-     "v": 0.130435,
-     "s": "verified"
-    },
-    "fy": "FY26"
-   },
-   "verified": true,
-   "warnings": [],
-   "processed_at": "2026-11-07T15:56:09+05:30"
   },
   {
    "key": "tenty",
@@ -2430,6 +2209,64 @@
    "processed_at": "2026-11-08T19:05:25+05:30"
   },
   {
+   "key": "gracerenewableenergy",
+   "company": "Grace Renewable Energy Limited",
+   "board": "Mainboard",
+   "exchange": "BSE & NSE",
+   "source": "NSE",
+   "filed_on": "2026-09-30",
+   "doc_type": "DRHP",
+   "brlms": [
+    "Marwadi Chandarana Intermediaries Brokers Private Limited"
+   ],
+   "promoters": [
+    "Manish Bagadia",
+    "Karuna Bagadia",
+    "Harsh Bagadia"
+   ],
+   "pre_ipo": false,
+   "latest": {
+    "revenue": {
+     "v": 205.836,
+     "s": "verified"
+    },
+    "pat": {
+     "v": 18.667,
+     "s": "verified"
+    },
+    "total_equity": {
+     "v": null,
+     "s": "unverified"
+    },
+    "EBITDA margin": {
+     "v": 0.125323,
+     "s": "verified"
+    },
+    "PAT margin": {
+     "v": 0.090689,
+     "s": "verified"
+    },
+    "RoNW (closing)": {
+     "v": null,
+     "s": null
+    },
+    "Debt / Equity": {
+     "v": null,
+     "s": null
+    },
+    "Revenue growth": {
+     "v": 0.708296,
+     "s": "verified"
+    },
+    "fy": "FY26"
+   },
+   "verified": false,
+   "warnings": [
+    "Some core figures could not be cross-checked; only verified figures are used in the email."
+   ],
+   "processed_at": "2026-11-14T16:07:23+05:30"
+  },
+  {
    "key": "hyrefoxconsultants",
    "company": "Hyrefox Consultants Limited",
    "board": "SME",
@@ -2813,6 +2650,111 @@
    "processed_at": "2026-11-08T19:05:37+05:30"
   },
   {
+   "key": "rathodjewellerymanufacturing",
+   "company": "Rathod Jewellery Manufacturing Limited",
+   "board": "Mainboard",
+   "exchange": "BSE & NSE",
+   "source": "NSE",
+   "filed_on": "2026-09-30",
+   "doc_type": "DRHP",
+   "brlms": [
+    "Hem Securities Limited"
+   ],
+   "promoters": [
+    "Chandrakant Hanjarimal Rathod",
+    "Rupali Chandrakant Rathod",
+    "Reeva Chandrakant Rathod",
+    "Hridhay Chandrakant Rathod"
+   ],
+   "pre_ipo": false,
+   "latest": {
+    "revenue": {
+     "v": 667.3337,
+     "s": "verified"
+    },
+    "pat": {
+     "v": 50.4677,
+     "s": "mismatch"
+    },
+    "EBITDA margin": {
+     "v": 0.108152,
+     "s": "verified"
+    },
+    "PAT margin": {
+     "v": 0.075626,
+     "s": "mismatch"
+    },
+    "Revenue growth": {
+     "v": 0.313913,
+     "s": "verified"
+    },
+    "fy": "FY26"
+   },
+   "verified": false,
+   "warnings": [
+    "Some core figures could not be cross-checked; only verified figures are used in the email."
+   ],
+   "processed_at": "2026-11-14T16:07:28+05:30"
+  },
+  {
+   "key": "rudragreenshiprecycling",
+   "company": "Rudra Green Ship Recycling Limited",
+   "board": "Mainboard",
+   "exchange": null,
+   "source": "NSE",
+   "filed_on": "2026-09-30",
+   "doc_type": "DRHP",
+   "brlms": [
+    "Cumulative Capital Private Limited"
+   ],
+   "promoters": [
+    "Ashokkumar Jagdishram Gupta",
+    "Shamarani Ashokkumar Gupta",
+    "Sahil Ashok Gupta",
+    "Shrishti Nikhilkumar Gupta",
+    "Sonthalia Steel Rolling Mills Private Limited"
+   ],
+   "pre_ipo": true,
+   "latest": {
+    "revenue": {
+     "v": 204.5153,
+     "s": "verified"
+    },
+    "pat": {
+     "v": 12.6451,
+     "s": "verified"
+    },
+    "total_equity": {
+     "v": 52.4745,
+     "s": "verified"
+    },
+    "EBITDA margin": {
+     "v": 0.106525,
+     "s": "verified"
+    },
+    "PAT margin": {
+     "v": 0.06183,
+     "s": "verified"
+    },
+    "RoNW (closing)": {
+     "v": 0.240976,
+     "s": "verified"
+    },
+    "Debt / Equity": {
+     "v": 1.185522,
+     "s": "verified"
+    },
+    "Revenue growth": {
+     "v": 0.141298,
+     "s": "verified"
+    },
+    "fy": "FY26"
+   },
+   "verified": true,
+   "warnings": [],
+   "processed_at": "2026-11-14T16:07:02+05:30"
+  },
+  {
    "key": "rysainfratech",
    "company": "Rysa Infratech Limited",
    "board": "SME",
@@ -3193,6 +3135,64 @@
    "processed_at": "2026-11-08T03:29:05+05:30"
   },
   {
+   "key": "tanviexportsindia",
+   "company": "Tanvi Exports India Limited",
+   "board": "Mainboard",
+   "exchange": "BSE & NSE",
+   "source": "NSE",
+   "filed_on": "2026-09-30",
+   "doc_type": "DRHP",
+   "brlms": [
+    "Aryaman Financial Services Limited"
+   ],
+   "promoters": [
+    "Bipinbhai Gordhanbhai Viradiya",
+    "Raj Ashokbhai Bhalara",
+    "Mayur Bhupatbhai Limbasiya",
+    "Hiteshbhai Mohanbhai Sardhara",
+    "Hareshbhai Mohanbhai Sardhara"
+   ],
+   "pre_ipo": true,
+   "latest": {
+    "revenue": {
+     "v": 1139.936,
+     "s": "verified"
+    },
+    "pat": {
+     "v": 65.797,
+     "s": "verified"
+    },
+    "total_equity": {
+     "v": 108.387,
+     "s": "verified"
+    },
+    "EBITDA margin": {
+     "v": 0.080771,
+     "s": "verified"
+    },
+    "PAT margin": {
+     "v": 0.05772,
+     "s": "verified"
+    },
+    "RoNW (closing)": {
+     "v": 0.607056,
+     "s": "verified"
+    },
+    "Debt / Equity": {
+     "v": 1.047257,
+     "s": "verified"
+    },
+    "Revenue growth": {
+     "v": 0.130435,
+     "s": "verified"
+    },
+    "fy": "FY26"
+   },
+   "verified": true,
+   "warnings": [],
+   "processed_at": "2026-11-14T16:07:07+05:30"
+  },
+  {
    "key": "technomeddevicesindia",
    "company": "Technomed Devices India Limited",
    "board": "SME",
@@ -3313,7 +3313,7 @@
    "company": "Vinir Engineering Limited",
    "board": "Mainboard",
    "exchange": "BSE & NSE",
-   "source": "SEBI",
+   "source": "NSE",
    "filed_on": "2026-09-30",
    "doc_type": "DRHP",
    "brlms": [
@@ -3330,7 +3330,7 @@
    "warnings": [
     "Financial statements not found in the DRHP"
    ],
-   "processed_at": "2026-11-07T23:22:19+05:30"
+   "processed_at": "2026-11-14T16:07:15+05:30"
   },
   {
    "key": "vishakharenewables",

@@ -4,16 +4,14 @@
  "short": "Vinir Engineering",
  "board": "Mainboard",
  "exchange": "BSE & NSE",
- "source": "SEBI",
- "also_on": [
-  "NSE"
- ],
+ "source": "NSE",
+ "also_on": [],
  "filed_on": "2026-09-30",
  "doc_type": "DRHP",
  "document_type": "Draft Red Herring Prospectus",
  "document_date": "September 30, 2026",
- "doc_url": "https://www.sebi.gov.in/sebi_data/attachdocs/oct-2026/1791784998372.pdf",
- "page_url": "https://www.sebi.gov.in/filings/public-issues/sep-2026/vinir-engineering-limited-drhp_105148.html",
+ "doc_url": "https://nsearchives.nseindia.com/corporate/VEL.zip",
+ "page_url": null,
  "pages": 611,
  "cin": "U74210KA1983PLC005477",
  "website": "https://vinirforge.org",
@@ -115,5 +113,5 @@
  "warnings": [
   "Financial statements not found in the DRHP"
  ],
- "processed_at": "2026-11-07T23:22:19+05:30"
+ "processed_at": "2026-11-14T16:07:15+05:30"
 }

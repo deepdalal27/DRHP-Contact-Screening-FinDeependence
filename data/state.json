@@ -39,9 +39,9 @@
    "ref": "https://nsearchives.nseindia.com/corporate/AD_IPO_7912_16102026233005.zip",
    "listing_ref": "https://nsearchives.nseindia.com/corporate/AD_IPO_7912_16102026233005.zip",
    "error": "NSE: document has only 12 pages (incomplete download or not the DRHP)",
-   "at": "2026-11-14T06:59:54+05:30",
+   "at": "2026-11-14T16:06:55+05:30",
    "company": "Hunger Pangs Limited",
-   "attempts": 1,
+   "attempts": 2,
    "version": 4
   },
   "paramotordigitaltechnology": {
@@ -55,17 +55,17 @@
    "ref": "https://nsearchives.nseindia.com/corporate/AD_IPO_7839_01102026000749.zip",
    "listing_ref": "https://nsearchives.nseindia.com/corporate/AD_IPO_7839_01102026000749.zip",
    "error": "NSE: zip has no PDF",
-   "at": "2026-11-14T07:00:03+05:30",
+   "at": "2026-11-14T16:06:56+05:30",
    "company": "Soleos Energy Limited",
-   "attempts": 1,
+   "attempts": 2,
    "version": 4
   },
   "gracerenewableenergy": {
-   "ref": "https://www.sebi.gov.in/sebi_data/attachdocs/oct-2026/1791449032035.PDF",
-   "at": "2026-11-07T06:36:31+05:30",
+   "ref": "https://nsearchives.nseindia.com/corporate/AD_IPO_7835_30092026235557.zip",
+   "listing_ref": "https://nsearchives.nseindia.com/corporate/AD_IPO_7835_30092026235557.zip",
+   "at": "2026-11-14T16:07:23+05:30",
    "company": "Grace Renewable Energy Limited",
-   "version": 4,
-   "listing_ref": "https://www.sebi.gov.in/filings/public-issues/oct-2026/grace-renewable-energy-limited-drhp_105099.html"
+   "version": 4
   },
   "integrumenergyinfrastructure": {
    "ref": "https://www.sebi.gov.in/sebi_data/attachdocs/oct-2026/1791371918993.PDF",
@@ -150,9 +150,9 @@
    "ref": "https://nsearchives.nseindia.com/corporate/AD_IPO_7834_30092026235439.zip",
    "listing_ref": "https://nsearchives.nseindia.com/corporate/AD_IPO_7834_30092026235439.zip",
    "error": "NSE: zip has no PDF",
-   "at": "2026-11-14T07:00:08+05:30",
+   "at": "2026-11-14T16:06:57+05:30",
    "company": "B S SPONGE LIMITED",
-   "attempts": 1,
+   "attempts": 2,
    "version": 4
   },
   "everbrandsindia": {
@@ -170,10 +170,12 @@
    "version": 4
   },
   "pesinstallations": {
-   "ref": "https://www.sebi.gov.in/sebi_data/attachdocs/oct-2026/1791199916309.pdf",
-   "listing_ref": "https://www.sebi.gov.in/filings/public-issues/oct-2026/pes-installations-limited-drhp_105018.html",
-   "at": "2026-11-07T14:12:30+05:30",
-   "company": "PES Installations Limited",
+   "ref": "https://nsearchives.nseindia.com/corporate/AD_IPO_7824_30092026212935.zip",
+   "listing_ref": "https://nsearchives.nseindia.com/corporate/AD_IPO_7824_30092026212935.zip",
+   "error": "NSE: zip has no PDF",
+   "at": "2026-11-14T16:07:03+05:30",
+   "company": "Pes Installations Limited",
+   "attempts": 1,
    "version": 4
   },
   "deonenergy": {
@@ -184,9 +186,9 @@
    "version": 4
   },
   "rathodjewellerymanufacturing": {
-   "ref": "https://www.sebi.gov.in/sebi_data/attachdocs/oct-2026/1791185432391_1403.pdf",
-   "listing_ref": "https://www.sebi.gov.in/filings/public-issues/oct-2026/rathod-jewellery-manufacturing-limited-drhp_105014.html",
-   "at": "2026-11-07T14:15:10+05:30",
+   "ref": "https://nsearchives.nseindia.com/corporate/AD_IPO_7844_01102026005813.zip",
+   "listing_ref": "https://nsearchives.nseindia.com/corporate/AD_IPO_7844_01102026005813.zip",
+   "at": "2026-11-14T16:07:28+05:30",
    "company": "Rathod Jewellery Manufacturing Limited",
    "version": 4
   },
@@ -198,9 +200,9 @@
    "version": 4
   },
   "rudragreenshiprecycling": {
-   "ref": "https://www.sebi.gov.in/sebi_data/attachdocs/oct-2026/1791185432391_1400.pdf",
-   "listing_ref": "https://www.sebi.gov.in/filings/public-issues/oct-2026/rudra-green-ship-recycling-limited-drhp_105008.html",
-   "at": "2026-11-07T15:53:28+05:30",
+   "ref": "https://nsearchives.nseindia.com/corporate/RudraGreen.zip",
+   "listing_ref": "https://nsearchives.nseindia.com/corporate/RudraGreen.zip",
+   "at": "2026-11-14T16:07:02+05:30",
    "company": "Rudra Green Ship Recycling Limited",
    "version": 4
   },
@@ -219,9 +221,9 @@
    "version": 4
   },
   "tanviexportsindia": {
-   "ref": "https://www.sebi.gov.in/sebi_data/attachdocs/oct-2026/1791185432391_1397.pdf",
-   "listing_ref": "https://www.sebi.gov.in/filings/public-issues/oct-2026/tanvi-exports-india-limited-drhp_105002.html",
-   "at": "2026-11-07T15:56:09+05:30",
+   "ref": "https://nsearchives.nseindia.com/corporate/AD_IPO_7821_30092026201219.zip",
+   "listing_ref": "https://nsearchives.nseindia.com/corporate/AD_IPO_7821_30092026201219.zip",
+   "at": "2026-11-14T16:07:07+05:30",
    "company": "Tanvi Exports India Limited",
    "version": 4
   },
@@ -233,10 +235,12 @@
    "version": 4
   },
   "kataline": {
-   "ref": "https://www.sebi.gov.in/sebi_data/attachdocs/oct-2026/1791181536748.pdf",
-   "listing_ref": "https://www.sebi.gov.in/filings/public-issues/oct-2026/kataline-limited-drhp_104993.html",
-   "at": "2026-11-07T15:58:04+05:30",
+   "ref": "https://nsearchives.nseindia.com/corporate/AD_IPO_7828_30092026220436.zip",
+   "listing_ref": "https://nsearchives.nseindia.com/corporate/AD_IPO_7828_30092026220436.zip",
+   "error": "NSE: document has only 11 pages (incomplete download or not the DRHP)",
+   "at": "2026-11-14T16:07:02+05:30",
    "company": "Kataline Limited",
+   "attempts": 1,
    "version": 4
   },
   "shreejikrupaproject": {
@@ -254,10 +258,12 @@
    "version": 4
   },
   "anarockpropertyconsultants": {
-   "ref": "https://www.sebi.gov.in/sebi_data/attachdocs/oct-2026/1791177470161.pdf",
-   "listing_ref": "https://www.sebi.gov.in/filings/public-issues/oct-2026/anarock-property-consultants-limited-drhp_104988.html",
-   "at": "2026-11-07T16:03:33+05:30",
+   "ref": "https://nsearchives.nseindia.com/corporate/AD_IPO_7841_01102026000123.zip",
+   "listing_ref": "https://nsearchives.nseindia.com/corporate/AD_IPO_7841_01102026000123.zip",
+   "error": "NSE: document has only 15 pages (incomplete download or not the DRHP)",
+   "at": "2026-11-14T16:07:17+05:30",
    "company": "Anarock Property Consultants Limited",
+   "attempts": 1,
    "version": 4
   },
   "pioneerfabricators": {
@@ -324,9 +330,9 @@
    "version": 4
   },
   "vinirengineering": {
-   "ref": "https://www.sebi.gov.in/sebi_data/attachdocs/oct-2026/1791784998372.pdf",
-   "listing_ref": "https://www.sebi.gov.in/filings/public-issues/sep-2026/vinir-engineering-limited-drhp_105148.html",
-   "at": "2026-11-07T23:22:19+05:30",
+   "ref": "https://nsearchives.nseindia.com/corporate/VEL.zip",
+   "listing_ref": "https://nsearchives.nseindia.com/corporate/VEL.zip",
+   "at": "2026-11-14T16:07:15+05:30",
    "company": "Vinir Engineering Limited",
    "version": 4
   },
