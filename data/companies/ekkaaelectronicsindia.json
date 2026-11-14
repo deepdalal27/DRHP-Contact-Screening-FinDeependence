@@ -1,0 +1,1182 @@
+{
+ "key": "ekkaaelectronicsindia",
+ "company": "Ekkaa Electronics (India) Limited",
+ "short": "Ekkaa Electronics (India)",
+ "board": "Mainboard",
+ "exchange": "BSE & NSE",
+ "source": "SEBI",
+ "also_on": [
+  "NSE"
+ ],
+ "filed_on": "2026-10-01",
+ "doc_type": "DRHP",
+ "document_type": "Draft Red Herring Prospectus",
+ "document_date": "September 24, 2026",
+ "doc_url": "https://www.sebi.gov.in/sebi_data/attachdocs/oct-2026/1790859034640.pdf",
+ "page_url": "https://www.sebi.gov.in/filings/public-issues/oct-2026/ekkaa-electronics-india-limited-drhp_104862.html",
+ "pages": 583,
+ "cin": "U32304DL2021PLC379143",
+ "website": "www.ekkaa.com",
+ "icdr_regulation": "6(2)",
+ "fresh_issue": true,
+ "ofs": true,
+ "pre_ipo_placement": true,
+ "pre_ipo_limit_pct": 20,
+ "promoters": [
+  {
+   "name": "Sagar Gupta",
+   "designation": "Managing Director",
+   "emails": []
+  },
+  {
+   "name": "Chandra Prakash Gupta",
+   "designation": "Chairman",
+   "emails": []
+  },
+  {
+   "name": "Madhuri Gupta",
+   "designation": "Executive Director",
+   "emails": []
+  }
+ ],
+ "cs": {
+  "name": null,
+  "emails": [
+   "cs@ekkaa.com"
+  ],
+  "phones": [
+   "0120-6502738"
+  ],
+  "page": 87
+ },
+ "brlms": [
+  {
+   "name": "Motilal Oswal Investment Advisors Limited",
+   "contact_persons": [
+    "Ritu Sharma",
+    "Vaibhav Shah"
+   ],
+   "emails": [
+    "ekkaa.ipo@motilaloswal.com"
+   ],
+   "grievance_emails": [],
+   "phones": [
+    "+91 22 7193 4380"
+   ],
+   "website": "www.motilaloswal.com",
+   "sebi_reg": "INM000011005",
+   "page": 88
+  },
+  {
+   "name": "Shannon Advisors Private Limited*",
+   "contact_persons": [
+    "Rishu Goyal",
+    "Pavan Kumar Agarwal"
+   ],
+   "emails": [
+    "ekkaa.ipo@shannon.co.in"
+   ],
+   "grievance_emails": [],
+   "phones": [
+    "011-42758011"
+   ],
+   "website": "www.shannon.co.in",
+   "sebi_reg": "INM000013174",
+   "page": 88
+  }
+ ],
+ "registrar": {
+  "name": "Bigshare Services Private Limited",
+  "emails": [
+   "ipo@bigshareonline.com"
+  ],
+  "phones": [
+   "+91 22 6263 8200"
+  ],
+  "contact_persons": [
+   "Babu Rapheal"
+  ],
+  "page": 89
+ },
+ "business": {
+  "text": "We are an integrated original design manufacturer (“ODM”) and original equipment manufacturer (“OEM”) of consumer electronics and appliances in India, with significant presence in India’s consumer electronics and appliance manufacturing ecosystem. We are the fastest growing business-to-business (“B2B”) focused ODM amongst our peers with our revenue from operations having a growth of approximately 146.07% from Fiscal 2025 to Fiscal 2026.",
+  "page": 247
+ },
+ "business_summary": "Ekkaa Electronics (India) is an integrated original design manufacturer and original equipment manufacturer of consumer electronics and appliances in India, with significant presence in India’s consumer electronics and appliance manufacturing ecosystem.",
+ "financials": {
+  "ok": true,
+  "unit_in_drhp": "million",
+  "source": "Summary Financial Information",
+  "periods": [
+   {
+    "iso": "2026-03-31",
+    "label": "FY26",
+    "stub": false
+   },
+   {
+    "iso": "2025-03-31",
+    "label": "FY25",
+    "stub": false
+   },
+   {
+    "iso": "2024-03-31",
+    "label": "FY24",
+    "stub": false
+   }
+  ],
+  "items": {
+   "revenue": {
+    "label": "Revenue from operations",
+    "drhp_label": "Revenue from operations",
+    "statement": "P&L",
+    "page": 79,
+    "values": [
+     1221.763,
+     496.514,
+     0.071
+    ],
+    "raw": [
+     "12,217.63",
+     "4,965.14",
+     "0.71"
+    ],
+    "status": [
+     "verified",
+     "verified",
+     "verified"
+    ],
+    "notes": [
+     [
+      "adds up to total income",
+      "also printed on page 242, 257, 322"
+     ],
+     [
+      "adds up to total income",
+      "also printed on page 322, 350, 372"
+     ],
+     [
+      "adds up to total income"
+     ]
+    ]
+   },
+   "other_income": {
+    "label": "Other income",
+    "drhp_label": "Other income",
+    "statement": "P&L",
+    "page": 79,
+    "values": [
+     6.637,
+     2.096,
+     1.137
+    ],
+    "raw": [
+     "66.37",
+     "20.96",
+     "11.37"
+    ],
+    "status": [
+     "verified",
+     "verified",
+     "verified"
+    ],
+    "notes": [
+     [
+      "adds up to total income"
+     ],
+     [
+      "adds up to total income"
+     ],
+     [
+      "adds up to total income"
+     ]
+    ]
+   },
+   "total_income": {
+    "label": "Total income",
+    "drhp_label": "Total income",
+    "statement": "P&L",
+    "page": 79,
+    "values": [
+     1228.4,
+     498.61,
+     1.208
+    ],
+    "raw": [
+     "12,284.00",
+     "4,986.10",
+     "12.08"
+    ],
+    "status": [
+     "verified",
+     "verified",
+     "verified"
+    ],
+    "notes": [
+     [
+      "adds up to total income",
+      "also printed on page 322, 385, 414"
+     ],
+     [
+      "adds up to total income",
+      "also printed on page 322, 372, 387"
+     ],
+     [
+      "adds up to total income",
+      "also printed on page 322, 372, 389"
+     ]
+    ]
+   },
+   "finance_cost": {
+    "label": "Finance cost",
+    "drhp_label": "Finance costs",
+    "statement": "P&L",
+    "page": 79,
+    "values": [
+     27.876,
+     21.508,
+     1.935
+    ],
+    "raw": [
+     "278.76",
+     "215.08",
+     "19.35"
+    ],
+    "status": [
+     "verified",
+     "verified",
+     "verified"
+    ],
+    "notes": [
+     [
+      "also printed on page 322, 385, 414"
+     ],
+     [
+      "also printed on page 322, 372, 387"
+     ],
+     [
+      "also printed on page 322, 372, 389"
+     ]
+    ]
+   },
+   "depreciation": {
+    "label": "Depreciation & amortisation",
+    "drhp_label": "Depreciation and amortisation expense",
+    "statement": "P&L",
+    "page": 79,
+    "values": [
+     13.665,
+     8.748,
+     0.788
+    ],
+    "raw": [
+     "136.65",
+     "87.48",
+     "7.88"
+    ],
+    "status": [
+     "verified",
+     "verified",
+     "verified"
+    ],
+    "notes": [
+     [
+      "also printed on page 80, 322, 323"
+     ],
+     [
+      "also printed on page 80, 322, 323"
+     ],
+     [
+      "also printed on page 80, 322, 323"
+     ]
+    ]
+   },
+   "total_expenses": {
+    "label": "Total expenses",
+    "drhp_label": "Total expenses",
+    "statement": "P&L",
+    "page": 79,
+    "values": [
+     1148.77,
+     471.366,
+     3.202
+    ],
+    "raw": [
+     "11,487.70",
+     "4,713.66",
+     "32.02"
+    ],
+    "status": [
+     "unverified",
+     "unverified",
+     "unverified"
+    ],
+    "notes": [
+     [],
+     [],
+     []
+    ]
+   },
+   "pbt": {
+    "label": "Profit before tax",
+    "drhp_label": "Profit / (loss) before tax",
+    "statement": "P&L",
+    "page": 79,
+    "values": [
+     79.63,
+     27.244,
+     -1.994
+    ],
+    "raw": [
+     "796.30",
+     "272.44",
+     "(19.94)"
+    ],
+    "status": [
+     "verified",
+     "verified",
+     "verified"
+    ],
+    "notes": [
+     [
+      "PBT − tax = PAT",
+      "also printed on page 257, 322, 355"
+     ],
+     [
+      "PBT − tax = PAT",
+      "also printed on page 322, 355, 372"
+     ],
+     [
+      "PBT − tax = PAT",
+      "also printed on page 322, 355, 372"
+     ]
+    ]
+   },
+   "tax": {
+    "label": "Total tax expense",
+    "drhp_label": "Total tax expense",
+    "statement": "P&L",
+    "page": 79,
+    "values": [
+     14.251,
+     3.692,
+     2.056
+    ],
+    "raw": [
+     "142.51",
+     "36.92",
+     "20.56"
+    ],
+    "status": [
+     "verified",
+     "verified",
+     "verified"
+    ],
+    "notes": [
+     [
+      "PBT − tax = PAT"
+     ],
+     [
+      "PBT − tax = PAT"
+     ],
+     [
+      "PBT − tax = PAT"
+     ]
+    ]
+   },
+   "pat": {
+    "label": "Profit after tax (PAT)",
+    "drhp_label": "Profit / (loss) for the year",
+    "statement": "P&L",
+    "page": 79,
+    "values": [
+     65.379,
+     23.552,
+     -4.05
+    ],
+    "raw": [
+     "653.79",
+     "235.52",
+     "(40.50)"
+    ],
+    "status": [
+     "verified",
+     "verified",
+     "verified"
+    ],
+    "notes": [
+     [
+      "PBT − tax = PAT",
+      "also printed on page 142, 244, 251"
+     ],
+     [
+      "PBT − tax = PAT",
+      "also printed on page 142, 143, 244"
+     ],
+     [
+      "PBT − tax = PAT",
+      "also printed on page 142, 251, 322"
+     ]
+    ]
+   },
+   "total_assets": {
+    "label": "Total assets",
+    "drhp_label": "Total Assets",
+    "statement": "Balance sheet",
+    "page": 78,
+    "values": [
+     839.803,
+     443.622,
+     202.582
+    ],
+    "raw": [
+     "8,398.03",
+     "4,436.22",
+     "2,025.82"
+    ],
+    "status": [
+     "verified",
+     "verified",
+     "verified"
+    ],
+    "notes": [
+     [
+      "balance sheet balances",
+      "also printed on page 321, 384"
+     ],
+     [
+      "balance sheet balances",
+      "also printed on page 321, 369, 386"
+     ],
+     [
+      "balance sheet balances",
+      "also printed on page 321, 370, 388"
+     ]
+    ]
+   },
+   "share_capital": {
+    "label": "Equity share capital",
+    "drhp_label": "Equity share capital",
+    "statement": "Balance sheet",
+    "page": 78,
+    "values": [
+     8.568,
+     4.06,
+     4.06
+    ],
+    "raw": [
+     "85.68",
+     "40.60",
+     "40.60"
+    ],
+    "status": [
+     "verified",
+     "verified",
+     "verified"
+    ],
+    "notes": [
+     [
+      "share capital + other equity = net worth"
+     ],
+     [
+      "share capital + other equity = net worth"
+     ],
+     [
+      "share capital + other equity = net worth"
+     ]
+    ]
+   },
+   "other_equity": {
+    "label": "Other equity",
+    "drhp_label": "Other equity",
+    "statement": "Balance sheet",
+    "page": 78,
+    "values": [
+     242.946,
+     34.161,
+     10.609
+    ],
+    "raw": [
+     "2,429.46",
+     "341.61",
+     "106.09"
+    ],
+    "status": [
+     "verified",
+     "verified",
+     "verified"
+    ],
+    "notes": [
+     [
+      "share capital + other equity = net worth"
+     ],
+     [
+      "share capital + other equity = net worth"
+     ],
+     [
+      "share capital + other equity = net worth"
+     ]
+    ]
+   },
+   "total_equity": {
+    "label": "Net worth (total equity)",
+    "drhp_label": "Total equity",
+    "statement": "Balance sheet",
+    "page": 78,
+    "values": [
+     251.525,
+     38.221,
+     14.669
+    ],
+    "raw": [
+     "2,515.25",
+     "382.21",
+     "146.69"
+    ],
+    "status": [
+     "verified",
+     "verified",
+     "verified"
+    ],
+    "notes": [
+     [
+      "share capital + other equity = net worth",
+      "also printed on page 321, 378, 384"
+     ],
+     [
+      "share capital + other equity = net worth",
+      "also printed on page 321, 369, 378"
+     ],
+     [
+      "share capital + other equity = net worth",
+      "also printed on page 321, 370, 378"
+     ]
+    ]
+   },
+   "total_equity_liabilities": {
+    "label": "Total equity & liabilities",
+    "drhp_label": "Total equity and liabilities",
+    "statement": "Balance sheet",
+    "page": 78,
+    "values": [
+     839.803,
+     443.622,
+     202.582
+    ],
+    "raw": [
+     "8,398.03",
+     "4,436.22",
+     "2,025.82"
+    ],
+    "status": [
+     "verified",
+     "verified",
+     "verified"
+    ],
+    "notes": [
+     [
+      "balance sheet balances"
+     ],
+     [
+      "balance sheet balances"
+     ],
+     [
+      "balance sheet balances"
+     ]
+    ]
+   },
+   "inventories": {
+    "label": "Inventories",
+    "drhp_label": "Inventories",
+    "statement": "Balance sheet",
+    "page": 78,
+    "values": [
+     252.044,
+     130.303,
+     5.52
+    ],
+    "raw": [
+     "2,520.44",
+     "1,303.03",
+     "55.20"
+    ],
+    "status": [
+     "verified",
+     "verified",
+     "verified"
+    ],
+    "notes": [
+     [
+      "also printed on page 321, 384"
+     ],
+     [
+      "also printed on page 130, 321, 369"
+     ],
+     [
+      "also printed on page 130, 321, 370"
+     ]
+    ]
+   },
+   "trade_receivables": {
+    "label": "Trade receivables",
+    "drhp_label": "Trade receivables",
+    "statement": "Balance sheet",
+    "page": 78,
+    "values": [
+     218.578,
+     75.108,
+     0.017
+    ],
+    "raw": [
+     "2,185.78",
+     "751.08",
+     "0.17"
+    ],
+    "status": [
+     "verified",
+     "verified",
+     "unverified"
+    ],
+    "notes": [
+     [
+      "also printed on page 321, 342, 350"
+     ],
+     [
+      "also printed on page 130, 321, 342"
+     ],
+     []
+    ]
+   },
+   "cash": {
+    "label": "Cash & cash equivalents",
+    "drhp_label": "Cash and cash equivalents",
+    "statement": "Balance sheet",
+    "page": 78,
+    "values": [
+     2.34,
+     0.224,
+     0.292
+    ],
+    "raw": [
+     "23.40",
+     "2.24",
+     "2.92"
+    ],
+    "status": [
+     "verified",
+     "verified",
+     "verified"
+    ],
+    "notes": [
+     [
+      "also printed on page 80, 321, 323"
+     ],
+     [
+      "also printed on page 80, 321, 323"
+     ],
+     [
+      "also printed on page 80, 321, 323"
+     ]
+    ]
+   },
+   "current_assets": {
+    "label": "Total current assets",
+    "drhp_label": "Total current assets",
+    "statement": "Balance sheet",
+    "page": 78,
+    "values": [
+     534.543,
+     207.069,
+     18.378
+    ],
+    "raw": [
+     "5,345.43",
+     "2,070.69",
+     "183.78"
+    ],
+    "status": [
+     "unverified",
+     "unverified",
+     "unverified"
+    ],
+    "notes": [
+     [],
+     [],
+     []
+    ]
+   },
+   "current_liabilities": {
+    "label": "Total current liabilities",
+    "drhp_label": "Total current liabilities",
+    "statement": "Balance sheet",
+    "page": 78,
+    "values": [
+     457.713,
+     327.785,
+     120.978
+    ],
+    "raw": [
+     "4,577.13",
+     "3,277.85",
+     "1,209.78"
+    ],
+    "status": [
+     "unverified",
+     "unverified",
+     "unverified"
+    ],
+    "notes": [
+     [],
+     [],
+     []
+    ]
+   },
+   "cfo": {
+    "label": "Net cash from operating activities",
+    "drhp_label": "Net cash outflow from operating activities (A)",
+    "statement": "Cash flow",
+    "page": 80,
+    "values": [
+     -28.659,
+     -64.112,
+     -15.283
+    ],
+    "raw": [
+     "(286.59)",
+     "(641.12)",
+     "(152.83)"
+    ],
+    "status": [
+     "verified",
+     "verified",
+     "verified"
+    ],
+    "notes": [
+     [
+      "also printed on page 52, 323, 425"
+     ],
+     [
+      "also printed on page 52, 323, 374"
+     ],
+     [
+      "also printed on page 52, 323, 374"
+     ]
+    ]
+   },
+   "cfi": {
+    "label": "Net cash from investing activities",
+    "drhp_label": "Net cash outflow from investing activities (B)",
+    "statement": "Cash flow",
+    "page": 80,
+    "values": [
+     -88.55,
+     -67.111,
+     -91.998
+    ],
+    "raw": [
+     "(885.50)",
+     "(671.11)",
+     "(919.98)"
+    ],
+    "status": [
+     "unverified",
+     "unverified",
+     "unverified"
+    ],
+    "notes": [
+     [],
+     [],
+     []
+    ]
+   },
+   "cff": {
+    "label": "Net cash from financing activities",
+    "drhp_label": "Net cash inflow from financing activities (C)",
+    "statement": "Cash flow",
+    "page": 80,
+    "values": [
+     118.458,
+     131.155,
+     107.543
+    ],
+    "raw": [
+     "1,184.58",
+     "1,311.55",
+     "1,075.43"
+    ],
+    "status": [
+     "unverified",
+     "unverified",
+     "unverified"
+    ],
+    "notes": [
+     [],
+     [],
+     []
+    ]
+   },
+   "borrowings": {
+    "label": "Total borrowings",
+    "drhp_label": "Borrowings (Non-current Liabilities) + Borrowings (Current liabilities)",
+    "statement": "Balance sheet",
+    "page": 78,
+    "values": [
+     308.754,
+     322.639,
+     169.675
+    ],
+    "raw": [
+     null,
+     null,
+     null
+    ],
+    "status": [
+     "verified",
+     "verified",
+     "verified"
+    ],
+    "notes": [
+     [
+      "sum of borrowing lines",
+      "also printed on page 324, 362, 363"
+     ],
+     [
+      "sum of borrowing lines",
+      "also printed on page 324, 362, 363"
+     ],
+     [
+      "sum of borrowing lines",
+      "also printed on page 324, 362, 363"
+     ]
+    ]
+   }
+  },
+  "ratios": {
+   "EBITDA": {
+    "values": [
+     114.534,
+     55.404,
+     -0.408
+    ],
+    "status": [
+     "verified",
+     "verified",
+     "verified"
+    ],
+    "fmt": "amount",
+    "formula": "PBT before exceptional items + Finance cost + D&A − Other income"
+   },
+   "EBITDA margin": {
+    "values": [
+     0.093745,
+     0.111586,
+     -5.746479
+    ],
+    "status": [
+     "verified",
+     "verified",
+     "verified"
+    ],
+    "fmt": "pct",
+    "formula": "EBITDA ÷ Revenue from operations"
+   },
+   "PAT margin": {
+    "values": [
+     0.053512,
+     0.047435,
+     -57.042254
+    ],
+    "status": [
+     "verified",
+     "verified",
+     "verified"
+    ],
+    "fmt": "pct",
+    "formula": "PAT ÷ Revenue from operations"
+   },
+   "RoNW (closing)": {
+    "values": [
+     0.25993,
+     0.616206,
+     -0.276092
+    ],
+    "status": [
+     "verified",
+     "verified",
+     "verified"
+    ],
+    "fmt": "pct",
+    "formula": "PAT ÷ closing net worth"
+   },
+   "Debt / Equity": {
+    "values": [
+     1.227528,
+     8.441407,
+     11.56691
+    ],
+    "status": [
+     "verified",
+     "verified",
+     "verified"
+    ],
+    "fmt": "x",
+    "formula": "Total borrowings ÷ Net worth"
+   },
+   "RoCE (closing)": {
+    "values": [
+     0.191879,
+     0.135099,
+     -0.00032
+    ],
+    "status": [
+     "verified",
+     "verified",
+     "verified"
+    ],
+    "fmt": "pct",
+    "formula": "(PBT + Finance cost) ÷ (Net worth + Borrowings)"
+   },
+   "Interest coverage": {
+    "values": [
+     3.856579,
+     2.266691,
+     -0.030491
+    ],
+    "status": [
+     "verified",
+     "verified",
+     "verified"
+    ],
+    "fmt": "x",
+    "formula": "(PBT + Finance cost) ÷ Finance cost"
+   },
+   "Current ratio": {
+    "values": [
+     1.167856,
+     0.631722,
+     0.151912
+    ],
+    "status": [
+     "unverified",
+     "unverified",
+     "unverified"
+    ],
+    "fmt": "x",
+    "formula": "Current assets ÷ Current liabilities"
+   },
+   "Receivable days": {
+    "values": [
+     65.299874,
+     55.213791,
+     87.394366
+    ],
+    "status": [
+     "verified",
+     "verified",
+     "unverified"
+    ],
+    "fmt": "days",
+    "formula": "Trade receivables ÷ Revenue × days in period"
+   },
+   "Asset turnover": {
+    "values": [
+     1.454821,
+     1.119228,
+     0.00035
+    ],
+    "status": [
+     "verified",
+     "verified",
+     "verified"
+    ],
+    "fmt": "x",
+    "formula": "Revenue ÷ Total assets"
+   },
+   "Revenue growth": {
+    "values": [
+     1.460682,
+     6992.15493,
+     null
+    ],
+    "status": [
+     "verified",
+     "verified",
+     null
+    ],
+    "fmt": "pct",
+    "formula": "FY26 vs FY25"
+   },
+   "PAT growth": {
+    "values": [
+     1.775943,
+     null,
+     null
+    ],
+    "status": [
+     "verified",
+     null,
+     null
+    ],
+    "fmt": "pct",
+    "formula": "FY26 vs FY25"
+   },
+   "EBITDA growth": {
+    "values": [
+     1.067251,
+     null,
+     null
+    ],
+    "status": [
+     "verified",
+     null,
+     null
+    ],
+    "fmt": "pct",
+    "formula": "FY26 vs FY25"
+   },
+   "Revenue CAGR (2 yr)": {
+    "values": [
+     130.178998,
+     null,
+     null
+    ],
+    "status": [
+     "verified",
+     null,
+     null
+    ],
+    "fmt": "pct",
+    "formula": "FY24 → FY26"
+   }
+  },
+  "checks": [
+   {
+    "period": "FY26",
+    "check": "Total assets = Total equity & liabilities",
+    "ok": true,
+    "lhs": 8398.03,
+    "rhs": 8398.03
+   },
+   {
+    "period": "FY26",
+    "check": "Revenue + Other income = Total income",
+    "ok": true,
+    "lhs": 12284.0,
+    "rhs": 12284.0
+   },
+   {
+    "period": "FY26",
+    "check": "Profit before tax − Tax = Profit after tax",
+    "ok": true,
+    "lhs": 653.79,
+    "rhs": 653.79
+   },
+   {
+    "period": "FY26",
+    "check": "Share capital + Other equity = Net worth",
+    "ok": true,
+    "lhs": 2515.14,
+    "rhs": 2515.25,
+    "soft": true
+   },
+   {
+    "period": "FY25",
+    "check": "Total assets = Total equity & liabilities",
+    "ok": true,
+    "lhs": 4436.22,
+    "rhs": 4436.22
+   },
+   {
+    "period": "FY25",
+    "check": "Revenue + Other income = Total income",
+    "ok": true,
+    "lhs": 4986.1,
+    "rhs": 4986.1
+   },
+   {
+    "period": "FY25",
+    "check": "Profit before tax − Tax = Profit after tax",
+    "ok": true,
+    "lhs": 235.51999999999998,
+    "rhs": 235.52
+   },
+   {
+    "period": "FY25",
+    "check": "Share capital + Other equity = Net worth",
+    "ok": true,
+    "lhs": 382.21000000000004,
+    "rhs": 382.21,
+    "soft": true
+   },
+   {
+    "period": "FY24",
+    "check": "Total assets = Total equity & liabilities",
+    "ok": true,
+    "lhs": 2025.82,
+    "rhs": 2025.82
+   },
+   {
+    "period": "FY24",
+    "check": "Revenue + Other income = Total income",
+    "ok": true,
+    "lhs": 12.079999999999998,
+    "rhs": 12.08
+   },
+   {
+    "period": "FY24",
+    "check": "Profit before tax − Tax = Profit after tax",
+    "ok": true,
+    "lhs": -40.5,
+    "rhs": -40.5
+   },
+   {
+    "period": "FY24",
+    "check": "Share capital + Other equity = Net worth",
+    "ok": true,
+    "lhs": 146.69,
+    "rhs": 146.69,
+    "soft": true
+   }
+  ],
+  "kpi_stated": [],
+  "kpi_periods": null,
+  "kpi_page": null,
+  "pages": {
+   "bs": 78,
+   "pl": 79,
+   "cf": 80
+  },
+  "core_verified": true
+ },
+ "emails": [
+  {
+   "subject": "Parshwanath Capital Ventures Fund | Pre-IPO & Anchor interest – Ekkaa Electronics (India) Limited",
+   "text": "Dear Ritu Sharma and Vaibhav Shah,\n\nI am CA Deep Dalal, Fund Manager of Parshwanath Capital Ventures Fund. I am writing to you as the Book Running Lead Manager to the proposed IPO of Ekkaa Electronics (India) Limited, whose Draft Red Herring Prospectus dated September 24, 2026 has been filed with SEBI for listing on the Main Board of BSE and NSE.\n\nABOUT US\nParshwanath Capital Ventures Fund is a SEBI-registered Category III Alternative Investment Fund focused on India's primary markets. We invest through Pre-IPO placements, IPO Anchor Investor books, the QIB portion of IPOs and Qualified Institutional Placements (QIPs), working closely with promoters and merchant bankers through the listing journey.\n\nOUR VIEW ON EKKAA ELECTRONICS (INDIA)\nEkkaa Electronics (India) is an integrated original design manufacturer and original equipment manufacturer of consumer electronics and appliances in India, with significant presence in India’s consumer electronics and appliance manufacturing ecosystem. We have studied the DRHP closely, and the business and its growth trajectory fit well with our investment focus.\n\nKey financials (restated, ₹ crore unless stated)\n                                       FY26       FY25       FY24\nRevenue from operations (₹ cr)        1,222     496.51       0.07\nGrowth (YoY)                         146.1%  699215.5%          –\nEBITDA (₹ cr)                        114.53      55.40      -0.41\nEBITDA margin                          9.4%      11.2%    -574.6%\nProfit after tax (₹ cr)               65.38      23.55      -4.05\nPAT margin                             5.4%       4.7%   -5704.2%\nNet worth (₹ cr)                     251.53      38.22      14.67\nReturn on net worth                   26.0%      61.6%     -27.6%\nDebt / Equity                         1.23x      8.44x     11.57x\nSource: restated financial information in the DRHP; EBITDA and ratios computed from it.\n\nHOW WE WOULD LIKE TO PARTICIPATE\n  1. Pre-IPO placement: The DRHP contemplates a Pre-IPO Placement of up to 20% of the Fresh Issue. We would be keen to participate in this round.\n  2. Anchor Investor portion: As a SEBI-registered Category III AIF, we qualify as a QIB and would like to be considered for the anchor book.\n  3. QIB portion: We would also look to participate in the QIB portion of the IPO.\n\nFUND PROFILE\nView our fund profile (PDF): https://drive.google.com/file/d/1yQX3TH3nmyqzt6rICyliVYFCP1okKqVv/view?usp=sharing (also attached)\n\nI would be grateful if you could introduce us to the promoters of Ekkaa Electronics (India) (Sagar Gupta, Chandra Prakash Gupta and Madhuri Gupta) and keep us informed as the pre-IPO and anchor book discussions progress. A short call at your convenience would be much appreciated.\n\nI look forward to hearing from you.\n\nWarm regards,\n\nCA Deep Dalal\nFund Manager, Parshwanath Capital Ventures Fund\nSEBI-registered Category III AIF\nEmail: fundmanager@parshwanath.in\nWhatsApp: +91 83200 52970\nPhone / WhatsApp: +91 70690 06298\nSEBI Reg. No.: IN/AIF3/25-26/2108\n\nThis email is for introduction purposes only and does not constitute an offer, solicitation or commitment to invest. Any investment is subject to the Fund's due diligence, investment committee approval and applicable SEBI regulations. To stop receiving emails from us, reply with “unsubscribe”.",
+   "html": "<!doctype html><html><head><meta charset=\"utf-8\"><meta name=\"color-scheme\" content=\"light dark\"><meta name=\"supported-color-schemes\" content=\"light dark\"></head><body style=\"margin:0;padding:0\"><table role=\"presentation\" width=\"100%\" cellpadding=\"0\" cellspacing=\"0\" style=\"border-collapse:collapse\"><tr><td align=\"center\" style=\"padding:20px 12px\"><table role=\"presentation\" width=\"640\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:100%;max-width:640px;border-collapse:collapse\"><tr><td align=\"center\" style=\"padding:0 4px 16px 4px;border-bottom:3px double #A07A35;text-align:center\"><img src=\"cid:pcvf-logo\" width=\"96\" height=\"96\" alt=\"Parshwanath Capital Ventures Fund logo\" style=\"display:block;margin:0 auto 10px auto;border:0;width:96px;height:96px;border-radius:48px\"><div style=\"font-family:Georgia, 'Times New Roman', Times, serif;font-size:24px;font-weight:700;letter-spacing:1.2px;color:#A07A35;line-height:1.25\">Parshwanath Capital Ventures Fund</div><div style=\"font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:10.5px;letter-spacing:2.2px;text-transform:uppercase;color:#7B8491;margin-top:6px\">SEBI-registered Category III AIF &middot; Pre-IPO &middot; Anchor &middot; QIB &middot; QIP</div><div style=\"font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:11px;letter-spacing:1px;color:#7B8491;margin-top:4px\">SEBI Regn. No. IN/AIF3/25-26/2108</div></td></tr><tr><td style=\"padding:10px 4px;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:12px;letter-spacing:.4px;color:#7B8491;border-bottom:1px solid #B9B2A5\">Re: <b style=\"color:#A07A35\">Ekkaa Electronics (India) Limited</b> &nbsp;|&nbsp; Mainboard IPO &nbsp;|&nbsp; DRHP dated September 24, 2026</td></tr><tr><td style=\"padding:24px 4px 22px 4px\"><p style=\"margin:0 0 14px 0;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:14.5px;line-height:1.65;\">Dear Ritu Sharma and Vaibhav Shah,</p><p style=\"margin:0 0 14px 0;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:14.5px;line-height:1.65;\">I am CA Deep Dalal, Fund Manager of Parshwanath Capital Ventures Fund. I am writing to you as the Book Running Lead Manager to the proposed IPO of Ekkaa Electronics (India) Limited, whose Draft Red Herring Prospectus dated September 24, 2026 has been filed with SEBI for listing on the Main Board of BSE and NSE.</p><p style=\"margin:24px 0 8px 0;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:11.5px;font-weight:700;letter-spacing:1.6px;text-transform:uppercase;color:#A07A35;\">About us</p><table role=\"presentation\" width=\"100%\" cellpadding=\"0\" cellspacing=\"0\" style=\"border-collapse:collapse;margin:0 0 6px 0\"><tr><td style=\"border-left:3px solid #A07A35;padding:4px 0 4px 16px;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:14.5px;line-height:1.65\">Parshwanath Capital Ventures Fund is a SEBI-registered Category III Alternative Investment Fund focused on India&#x27;s primary markets. We invest through Pre-IPO placements, IPO Anchor Investor books, the QIB portion of IPOs and Qualified Institutional Placements (QIPs), working closely with promoters and merchant bankers through the listing journey.</td></tr></table><p style=\"margin:24px 0 8px 0;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:11.5px;font-weight:700;letter-spacing:1.6px;text-transform:uppercase;color:#A07A35;\">Our view on Ekkaa Electronics (India)</p><p style=\"margin:0 0 14px 0;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:14.5px;line-height:1.65;\">Ekkaa Electronics (India) is an integrated original design manufacturer and original equipment manufacturer of consumer electronics and appliances in India, with significant presence in India’s consumer electronics and appliance manufacturing ecosystem. We have studied the DRHP closely, and the business and its growth trajectory fit well with our investment focus.</p><p style=\"margin:24px 0 8px 0;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:11.5px;font-weight:700;letter-spacing:1.6px;text-transform:uppercase;color:#A07A35;\">Key financials <span style=\"color:#7B8491;letter-spacing:.4px;text-transform:none;font-weight:400\">(₹ crore unless stated)</span></p><table role=\"presentation\" width=\"100%\" cellpadding=\"0\" cellspacing=\"0\" style=\"border-collapse:collapse;margin:0 0 6px 0\"><tr><th style=\"padding:9px 10px;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:11.5px;font-weight:700;letter-spacing:.8px;text-transform:uppercase;color:#A07A35;text-align:right;border-top:2px solid #A07A35;border-bottom:2px solid #A07A35;text-align:left\">Particulars</th><th style=\"padding:9px 10px;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:11.5px;font-weight:700;letter-spacing:.8px;text-transform:uppercase;color:#A07A35;text-align:right;border-top:2px solid #A07A35;border-bottom:2px solid #A07A35;\">FY26</th><th style=\"padding:9px 10px;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:11.5px;font-weight:700;letter-spacing:.8px;text-transform:uppercase;color:#A07A35;text-align:right;border-top:2px solid #A07A35;border-bottom:2px solid #A07A35;\">FY25</th><th style=\"padding:9px 10px;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:11.5px;font-weight:700;letter-spacing:.8px;text-transform:uppercase;color:#A07A35;text-align:right;border-top:2px solid #A07A35;border-bottom:2px solid #A07A35;\">FY24</th></tr><tr><td style=\"padding:8px 10px;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:13.5px;border-bottom:1px solid #B9B2A5;text-align:left\">Revenue from operations (₹ cr)</td><td style=\"padding:8px 10px;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:13.5px;border-bottom:1px solid #B9B2A5;text-align:right;white-space:nowrap;font-variant-numeric:tabular-nums\">1,222</td><td style=\"padding:8px 10px;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:13.5px;border-bottom:1px solid #B9B2A5;text-align:right;white-space:nowrap;font-variant-numeric:tabular-nums\">496.51</td><td style=\"padding:8px 10px;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:13.5px;border-bottom:1px solid #B9B2A5;text-align:right;white-space:nowrap;font-variant-numeric:tabular-nums\">0.07</td></tr><tr><td style=\"padding:8px 10px;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:13.5px;border-bottom:1px solid #B9B2A5;text-align:left\">Growth (YoY)</td><td style=\"padding:8px 10px;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:13.5px;border-bottom:1px solid #B9B2A5;text-align:right;white-space:nowrap;font-variant-numeric:tabular-nums\">146.1%</td><td style=\"padding:8px 10px;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:13.5px;border-bottom:1px solid #B9B2A5;text-align:right;white-space:nowrap;font-variant-numeric:tabular-nums\">699215.5%</td><td style=\"padding:8px 10px;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:13.5px;border-bottom:1px solid #B9B2A5;text-align:right;white-space:nowrap;font-variant-numeric:tabular-nums\">–</td></tr><tr><td style=\"padding:8px 10px;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:13.5px;border-bottom:1px solid #B9B2A5;text-align:left\">EBITDA (₹ cr)</td><td style=\"padding:8px 10px;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:13.5px;border-bottom:1px solid #B9B2A5;text-align:right;white-space:nowrap;font-variant-numeric:tabular-nums\">114.53</td><td style=\"padding:8px 10px;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:13.5px;border-bottom:1px solid #B9B2A5;text-align:right;white-space:nowrap;font-variant-numeric:tabular-nums\">55.40</td><td style=\"padding:8px 10px;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:13.5px;border-bottom:1px solid #B9B2A5;text-align:right;white-space:nowrap;font-variant-numeric:tabular-nums\">-0.41</td></tr><tr><td style=\"padding:8px 10px;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:13.5px;border-bottom:1px solid #B9B2A5;text-align:left\">EBITDA margin</td><td style=\"padding:8px 10px;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:13.5px;border-bottom:1px solid #B9B2A5;text-align:right;white-space:nowrap;font-variant-numeric:tabular-nums\">9.4%</td><td style=\"padding:8px 10px;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:13.5px;border-bottom:1px solid #B9B2A5;text-align:right;white-space:nowrap;font-variant-numeric:tabular-nums\">11.2%</td><td style=\"padding:8px 10px;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:13.5px;border-bottom:1px solid #B9B2A5;text-align:right;white-space:nowrap;font-variant-numeric:tabular-nums\">-574.6%</td></tr><tr><td style=\"padding:8px 10px;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:13.5px;border-bottom:1px solid #B9B2A5;text-align:left\">Profit after tax (₹ cr)</td><td style=\"padding:8px 10px;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:13.5px;border-bottom:1px solid #B9B2A5;text-align:right;white-space:nowrap;font-variant-numeric:tabular-nums\">65.38</td><td style=\"padding:8px 10px;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:13.5px;border-bottom:1px solid #B9B2A5;text-align:right;white-space:nowrap;font-variant-numeric:tabular-nums\">23.55</td><td style=\"padding:8px 10px;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:13.5px;border-bottom:1px solid #B9B2A5;text-align:right;white-space:nowrap;font-variant-numeric:tabular-nums\">-4.05</td></tr><tr><td style=\"padding:8px 10px;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:13.5px;border-bottom:1px solid #B9B2A5;text-align:left\">PAT margin</td><td style=\"padding:8px 10px;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:13.5px;border-bottom:1px solid #B9B2A5;text-align:right;white-space:nowrap;font-variant-numeric:tabular-nums\">5.4%</td><td style=\"padding:8px 10px;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:13.5px;border-bottom:1px solid #B9B2A5;text-align:right;white-space:nowrap;font-variant-numeric:tabular-nums\">4.7%</td><td style=\"padding:8px 10px;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:13.5px;border-bottom:1px solid #B9B2A5;text-align:right;white-space:nowrap;font-variant-numeric:tabular-nums\">-5704.2%</td></tr><tr><td style=\"padding:8px 10px;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:13.5px;border-bottom:1px solid #B9B2A5;text-align:left\">Net worth (₹ cr)</td><td style=\"padding:8px 10px;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:13.5px;border-bottom:1px solid #B9B2A5;text-align:right;white-space:nowrap;font-variant-numeric:tabular-nums\">251.53</td><td style=\"padding:8px 10px;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:13.5px;border-bottom:1px solid #B9B2A5;text-align:right;white-space:nowrap;font-variant-numeric:tabular-nums\">38.22</td><td style=\"padding:8px 10px;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:13.5px;border-bottom:1px solid #B9B2A5;text-align:right;white-space:nowrap;font-variant-numeric:tabular-nums\">14.67</td></tr><tr><td style=\"padding:8px 10px;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:13.5px;border-bottom:1px solid #B9B2A5;text-align:left\">Return on net worth</td><td style=\"padding:8px 10px;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:13.5px;border-bottom:1px solid #B9B2A5;text-align:right;white-space:nowrap;font-variant-numeric:tabular-nums\">26.0%</td><td style=\"padding:8px 10px;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:13.5px;border-bottom:1px solid #B9B2A5;text-align:right;white-space:nowrap;font-variant-numeric:tabular-nums\">61.6%</td><td style=\"padding:8px 10px;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:13.5px;border-bottom:1px solid #B9B2A5;text-align:right;white-space:nowrap;font-variant-numeric:tabular-nums\">-27.6%</td></tr><tr><td style=\"padding:8px 10px;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:13.5px;border-bottom:1px solid #B9B2A5;text-align:left\">Debt / Equity</td><td style=\"padding:8px 10px;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:13.5px;border-bottom:1px solid #B9B2A5;text-align:right;white-space:nowrap;font-variant-numeric:tabular-nums\">1.23x</td><td style=\"padding:8px 10px;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:13.5px;border-bottom:1px solid #B9B2A5;text-align:right;white-space:nowrap;font-variant-numeric:tabular-nums\">8.44x</td><td style=\"padding:8px 10px;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:13.5px;border-bottom:1px solid #B9B2A5;text-align:right;white-space:nowrap;font-variant-numeric:tabular-nums\">11.57x</td></tr></table><p style=\"margin:0 0 6px 0;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:11.5px;color:#7B8491\">Source: restated financial information in the DRHP; EBITDA and ratios computed from it.</p><p style=\"margin:24px 0 8px 0;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:11.5px;font-weight:700;letter-spacing:1.6px;text-transform:uppercase;color:#A07A35;\">How we would like to participate</p><table role=\"presentation\" width=\"100%\" cellpadding=\"0\" cellspacing=\"0\" style=\"border-collapse:collapse;margin:0 0 8px 0\"><tr><td width=\"34\" valign=\"top\" style=\"padding-top:1px\"><div style=\"width:22px;height:22px;line-height:20px;border-radius:12px;border:1.5px solid #A07A35;color:#A07A35;text-align:center;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:12px;font-weight:700\">1</div></td><td style=\"font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:14.5px;line-height:1.6\"><b>Pre-IPO placement.</b> The DRHP contemplates a Pre-IPO Placement of up to 20% of the Fresh Issue. We would be keen to participate in this round.</td></tr></table><table role=\"presentation\" width=\"100%\" cellpadding=\"0\" cellspacing=\"0\" style=\"border-collapse:collapse;margin:0 0 8px 0\"><tr><td width=\"34\" valign=\"top\" style=\"padding-top:1px\"><div style=\"width:22px;height:22px;line-height:20px;border-radius:12px;border:1.5px solid #A07A35;color:#A07A35;text-align:center;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:12px;font-weight:700\">2</div></td><td style=\"font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:14.5px;line-height:1.6\"><b>Anchor Investor portion.</b> As a SEBI-registered Category III AIF, we qualify as a QIB and would like to be considered for the anchor book.</td></tr></table><table role=\"presentation\" width=\"100%\" cellpadding=\"0\" cellspacing=\"0\" style=\"border-collapse:collapse;margin:0 0 8px 0\"><tr><td width=\"34\" valign=\"top\" style=\"padding-top:1px\"><div style=\"width:22px;height:22px;line-height:20px;border-radius:12px;border:1.5px solid #A07A35;color:#A07A35;text-align:center;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:12px;font-weight:700\">3</div></td><td style=\"font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:14.5px;line-height:1.6\"><b>QIB portion.</b> We would also look to participate in the QIB portion of the IPO.</td></tr></table><p style=\"margin:24px 0 8px 0;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:11.5px;font-weight:700;letter-spacing:1.6px;text-transform:uppercase;color:#A07A35;\">Fund profile</p><table role=\"presentation\" cellpadding=\"0\" cellspacing=\"0\" style=\"border-collapse:collapse;margin:0 0 6px 0\"><tr><td style=\"border:1.5px solid #A07A35;border-radius:6px;padding:10px 18px\"><a href=\"https://drive.google.com/file/d/1yQX3TH3nmyqzt6rICyliVYFCP1okKqVv/view?usp=sharing\" style=\"font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:14px;font-weight:700;color:#A07A35;text-decoration:none\">View Fund Profile (PDF) &rarr;</a></td></tr></table><p style=\"margin:6px 0 0 0;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:12px;color:#7B8491\">Also attached to this email. Opens in Google Drive with view access; no sign-in needed.</p><p style=\"margin:0 0 14px 0;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:14.5px;line-height:1.65;margin-top:16px\">I would be grateful if you could introduce us to the promoters of Ekkaa Electronics (India) (Sagar Gupta, Chandra Prakash Gupta and Madhuri Gupta) and keep us informed as the pre-IPO and anchor book discussions progress. A short call at your convenience would be much appreciated.</p><p style=\"margin:0 0 14px 0;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:14.5px;line-height:1.65;\">I look forward to hearing from you.</p><p style=\"margin:0 0 14px 0;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:14.5px;line-height:1.65;margin-bottom:10px\">Warm regards,</p><table role=\"presentation\" cellpadding=\"0\" cellspacing=\"0\" style=\"border-collapse:collapse;margin:0\"><tr><td valign=\"top\" style=\"padding:2px 14px 0 0\"><img src=\"cid:pcvf-logo\" width=\"64\" height=\"64\" alt=\"PCVF\" style=\"display:block;border:0;border-radius:32px\"></td><td valign=\"top\" style=\"border-left:2px solid #A07A35;padding:0 0 0 14px\"><div style=\"font-family:Georgia, 'Times New Roman', Times, serif;font-size:19px;font-weight:700\">CA Deep Dalal</div><div style=\"font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:13px;color:#7B8491;margin:2px 0 8px 0\">Fund Manager, Parshwanath Capital Ventures Fund &middot; SEBI-registered Category III AIF</div><table role=\"presentation\" cellpadding=\"0\" cellspacing=\"0\" style=\"border-collapse:collapse\"><tr><td style=\"padding:2px 14px 2px 0;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:11px;letter-spacing:1px;text-transform:uppercase;color:#A07A35;white-space:nowrap\">Email</td><td style=\"padding:2px 0;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:14px\"><a href=\"mailto:fundmanager@parshwanath.in\" style=\"color:#3B78B8;text-decoration:none\">fundmanager@parshwanath.in</a></td></tr><tr><td style=\"padding:2px 14px 2px 0;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:11px;letter-spacing:1px;text-transform:uppercase;color:#A07A35;white-space:nowrap\">WhatsApp</td><td style=\"padding:2px 0;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:14px\"><a href=\"https://wa.me/918320052970\" style=\"color:#3B78B8;text-decoration:none\">+91 83200 52970</a></td></tr><tr><td style=\"padding:2px 14px 2px 0;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:11px;letter-spacing:1px;text-transform:uppercase;color:#A07A35;white-space:nowrap\">Phone / WhatsApp</td><td style=\"padding:2px 0;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:14px\"><a href=\"https://wa.me/917069006298\" style=\"color:#3B78B8;text-decoration:none\">+91 70690 06298</a></td></tr><tr><td style=\"padding:2px 14px 2px 0;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:11px;letter-spacing:1px;text-transform:uppercase;color:#A07A35;white-space:nowrap\">SEBI Reg. No.</td><td style=\"padding:2px 0;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:14px\">IN/AIF3/25-26/2108</td></tr></table></td></tr></table></td></tr><tr><td style=\"padding:12px 4px 8px 4px;border-top:1px solid #B9B2A5;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:11px;line-height:1.55;color:#7B8491\">This email is for introduction purposes only and does not constitute an offer, solicitation or commitment to invest. Any investment is subject to the Fund&#x27;s due diligence, investment committee approval and applicable SEBI regulations. To stop receiving emails from us, reply with “unsubscribe”.</td></tr></table></td></tr></table></body></html>",
+   "variant": "brlm",
+   "to": [
+    "ekkaa.ipo@motilaloswal.com"
+   ],
+   "names": [
+    "Ritu Sharma",
+    "Vaibhav Shah"
+   ],
+   "brlm": "Motilal Oswal Investment Advisors Limited"
+  },
+  {
+   "subject": "Parshwanath Capital Ventures Fund | Pre-IPO & Anchor interest – Ekkaa Electronics (India) Limited",
+   "text": "Dear Rishu Goyal and Pavan Kumar Agarwal,\n\nI am CA Deep Dalal, Fund Manager of Parshwanath Capital Ventures Fund. I am writing to you as the Book Running Lead Manager to the proposed IPO of Ekkaa Electronics (India) Limited, whose Draft Red Herring Prospectus dated September 24, 2026 has been filed with SEBI for listing on the Main Board of BSE and NSE.\n\nABOUT US\nParshwanath Capital Ventures Fund is a SEBI-registered Category III Alternative Investment Fund focused on India's primary markets. We invest through Pre-IPO placements, IPO Anchor Investor books, the QIB portion of IPOs and Qualified Institutional Placements (QIPs), working closely with promoters and merchant bankers through the listing journey.\n\nOUR VIEW ON EKKAA ELECTRONICS (INDIA)\nEkkaa Electronics (India) is an integrated original design manufacturer and original equipment manufacturer of consumer electronics and appliances in India, with significant presence in India’s consumer electronics and appliance manufacturing ecosystem. We have studied the DRHP closely, and the business and its growth trajectory fit well with our investment focus.\n\nKey financials (restated, ₹ crore unless stated)\n                                       FY26       FY25       FY24\nRevenue from operations (₹ cr)        1,222     496.51       0.07\nGrowth (YoY)                         146.1%  699215.5%          –\nEBITDA (₹ cr)                        114.53      55.40      -0.41\nEBITDA margin                          9.4%      11.2%    -574.6%\nProfit after tax (₹ cr)               65.38      23.55      -4.05\nPAT margin                             5.4%       4.7%   -5704.2%\nNet worth (₹ cr)                     251.53      38.22      14.67\nReturn on net worth                   26.0%      61.6%     -27.6%\nDebt / Equity                         1.23x      8.44x     11.57x\nSource: restated financial information in the DRHP; EBITDA and ratios computed from it.\n\nHOW WE WOULD LIKE TO PARTICIPATE\n  1. Pre-IPO placement: The DRHP contemplates a Pre-IPO Placement of up to 20% of the Fresh Issue. We would be keen to participate in this round.\n  2. Anchor Investor portion: As a SEBI-registered Category III AIF, we qualify as a QIB and would like to be considered for the anchor book.\n  3. QIB portion: We would also look to participate in the QIB portion of the IPO.\n\nFUND PROFILE\nView our fund profile (PDF): https://drive.google.com/file/d/1yQX3TH3nmyqzt6rICyliVYFCP1okKqVv/view?usp=sharing (also attached)\n\nI would be grateful if you could introduce us to the promoters of Ekkaa Electronics (India) (Sagar Gupta, Chandra Prakash Gupta and Madhuri Gupta) and keep us informed as the pre-IPO and anchor book discussions progress. A short call at your convenience would be much appreciated.\n\nI look forward to hearing from you.\n\nWarm regards,\n\nCA Deep Dalal\nFund Manager, Parshwanath Capital Ventures Fund\nSEBI-registered Category III AIF\nEmail: fundmanager@parshwanath.in\nWhatsApp: +91 83200 52970\nPhone / WhatsApp: +91 70690 06298\nSEBI Reg. No.: IN/AIF3/25-26/2108\n\nThis email is for introduction purposes only and does not constitute an offer, solicitation or commitment to invest. Any investment is subject to the Fund's due diligence, investment committee approval and applicable SEBI regulations. To stop receiving emails from us, reply with “unsubscribe”.",
+   "html": "<!doctype html><html><head><meta charset=\"utf-8\"><meta name=\"color-scheme\" content=\"light dark\"><meta name=\"supported-color-schemes\" content=\"light dark\"></head><body style=\"margin:0;padding:0\"><table role=\"presentation\" width=\"100%\" cellpadding=\"0\" cellspacing=\"0\" style=\"border-collapse:collapse\"><tr><td align=\"center\" style=\"padding:20px 12px\"><table role=\"presentation\" width=\"640\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:100%;max-width:640px;border-collapse:collapse\"><tr><td align=\"center\" style=\"padding:0 4px 16px 4px;border-bottom:3px double #A07A35;text-align:center\"><img src=\"cid:pcvf-logo\" width=\"96\" height=\"96\" alt=\"Parshwanath Capital Ventures Fund logo\" style=\"display:block;margin:0 auto 10px auto;border:0;width:96px;height:96px;border-radius:48px\"><div style=\"font-family:Georgia, 'Times New Roman', Times, serif;font-size:24px;font-weight:700;letter-spacing:1.2px;color:#A07A35;line-height:1.25\">Parshwanath Capital Ventures Fund</div><div style=\"font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:10.5px;letter-spacing:2.2px;text-transform:uppercase;color:#7B8491;margin-top:6px\">SEBI-registered Category III AIF &middot; Pre-IPO &middot; Anchor &middot; QIB &middot; QIP</div><div style=\"font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:11px;letter-spacing:1px;color:#7B8491;margin-top:4px\">SEBI Regn. No. IN/AIF3/25-26/2108</div></td></tr><tr><td style=\"padding:10px 4px;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:12px;letter-spacing:.4px;color:#7B8491;border-bottom:1px solid #B9B2A5\">Re: <b style=\"color:#A07A35\">Ekkaa Electronics (India) Limited</b> &nbsp;|&nbsp; Mainboard IPO &nbsp;|&nbsp; DRHP dated September 24, 2026</td></tr><tr><td style=\"padding:24px 4px 22px 4px\"><p style=\"margin:0 0 14px 0;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:14.5px;line-height:1.65;\">Dear Rishu Goyal and Pavan Kumar Agarwal,</p><p style=\"margin:0 0 14px 0;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:14.5px;line-height:1.65;\">I am CA Deep Dalal, Fund Manager of Parshwanath Capital Ventures Fund. I am writing to you as the Book Running Lead Manager to the proposed IPO of Ekkaa Electronics (India) Limited, whose Draft Red Herring Prospectus dated September 24, 2026 has been filed with SEBI for listing on the Main Board of BSE and NSE.</p><p style=\"margin:24px 0 8px 0;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:11.5px;font-weight:700;letter-spacing:1.6px;text-transform:uppercase;color:#A07A35;\">About us</p><table role=\"presentation\" width=\"100%\" cellpadding=\"0\" cellspacing=\"0\" style=\"border-collapse:collapse;margin:0 0 6px 0\"><tr><td style=\"border-left:3px solid #A07A35;padding:4px 0 4px 16px;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:14.5px;line-height:1.65\">Parshwanath Capital Ventures Fund is a SEBI-registered Category III Alternative Investment Fund focused on India&#x27;s primary markets. We invest through Pre-IPO placements, IPO Anchor Investor books, the QIB portion of IPOs and Qualified Institutional Placements (QIPs), working closely with promoters and merchant bankers through the listing journey.</td></tr></table><p style=\"margin:24px 0 8px 0;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:11.5px;font-weight:700;letter-spacing:1.6px;text-transform:uppercase;color:#A07A35;\">Our view on Ekkaa Electronics (India)</p><p style=\"margin:0 0 14px 0;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:14.5px;line-height:1.65;\">Ekkaa Electronics (India) is an integrated original design manufacturer and original equipment manufacturer of consumer electronics and appliances in India, with significant presence in India’s consumer electronics and appliance manufacturing ecosystem. We have studied the DRHP closely, and the business and its growth trajectory fit well with our investment focus.</p><p style=\"margin:24px 0 8px 0;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:11.5px;font-weight:700;letter-spacing:1.6px;text-transform:uppercase;color:#A07A35;\">Key financials <span style=\"color:#7B8491;letter-spacing:.4px;text-transform:none;font-weight:400\">(₹ crore unless stated)</span></p><table role=\"presentation\" width=\"100%\" cellpadding=\"0\" cellspacing=\"0\" style=\"border-collapse:collapse;margin:0 0 6px 0\"><tr><th style=\"padding:9px 10px;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:11.5px;font-weight:700;letter-spacing:.8px;text-transform:uppercase;color:#A07A35;text-align:right;border-top:2px solid #A07A35;border-bottom:2px solid #A07A35;text-align:left\">Particulars</th><th style=\"padding:9px 10px;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:11.5px;font-weight:700;letter-spacing:.8px;text-transform:uppercase;color:#A07A35;text-align:right;border-top:2px solid #A07A35;border-bottom:2px solid #A07A35;\">FY26</th><th style=\"padding:9px 10px;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:11.5px;font-weight:700;letter-spacing:.8px;text-transform:uppercase;color:#A07A35;text-align:right;border-top:2px solid #A07A35;border-bottom:2px solid #A07A35;\">FY25</th><th style=\"padding:9px 10px;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:11.5px;font-weight:700;letter-spacing:.8px;text-transform:uppercase;color:#A07A35;text-align:right;border-top:2px solid #A07A35;border-bottom:2px solid #A07A35;\">FY24</th></tr><tr><td style=\"padding:8px 10px;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:13.5px;border-bottom:1px solid #B9B2A5;text-align:left\">Revenue from operations (₹ cr)</td><td style=\"padding:8px 10px;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:13.5px;border-bottom:1px solid #B9B2A5;text-align:right;white-space:nowrap;font-variant-numeric:tabular-nums\">1,222</td><td style=\"padding:8px 10px;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:13.5px;border-bottom:1px solid #B9B2A5;text-align:right;white-space:nowrap;font-variant-numeric:tabular-nums\">496.51</td><td style=\"padding:8px 10px;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:13.5px;border-bottom:1px solid #B9B2A5;text-align:right;white-space:nowrap;font-variant-numeric:tabular-nums\">0.07</td></tr><tr><td style=\"padding:8px 10px;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:13.5px;border-bottom:1px solid #B9B2A5;text-align:left\">Growth (YoY)</td><td style=\"padding:8px 10px;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:13.5px;border-bottom:1px solid #B9B2A5;text-align:right;white-space:nowrap;font-variant-numeric:tabular-nums\">146.1%</td><td style=\"padding:8px 10px;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:13.5px;border-bottom:1px solid #B9B2A5;text-align:right;white-space:nowrap;font-variant-numeric:tabular-nums\">699215.5%</td><td style=\"padding:8px 10px;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:13.5px;border-bottom:1px solid #B9B2A5;text-align:right;white-space:nowrap;font-variant-numeric:tabular-nums\">–</td></tr><tr><td style=\"padding:8px 10px;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:13.5px;border-bottom:1px solid #B9B2A5;text-align:left\">EBITDA (₹ cr)</td><td style=\"padding:8px 10px;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:13.5px;border-bottom:1px solid #B9B2A5;text-align:right;white-space:nowrap;font-variant-numeric:tabular-nums\">114.53</td><td style=\"padding:8px 10px;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:13.5px;border-bottom:1px solid #B9B2A5;text-align:right;white-space:nowrap;font-variant-numeric:tabular-nums\">55.40</td><td style=\"padding:8px 10px;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:13.5px;border-bottom:1px solid #B9B2A5;text-align:right;white-space:nowrap;font-variant-numeric:tabular-nums\">-0.41</td></tr><tr><td style=\"padding:8px 10px;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:13.5px;border-bottom:1px solid #B9B2A5;text-align:left\">EBITDA margin</td><td style=\"padding:8px 10px;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:13.5px;border-bottom:1px solid #B9B2A5;text-align:right;white-space:nowrap;font-variant-numeric:tabular-nums\">9.4%</td><td style=\"padding:8px 10px;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:13.5px;border-bottom:1px solid #B9B2A5;text-align:right;white-space:nowrap;font-variant-numeric:tabular-nums\">11.2%</td><td style=\"padding:8px 10px;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:13.5px;border-bottom:1px solid #B9B2A5;text-align:right;white-space:nowrap;font-variant-numeric:tabular-nums\">-574.6%</td></tr><tr><td style=\"padding:8px 10px;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:13.5px;border-bottom:1px solid #B9B2A5;text-align:left\">Profit after tax (₹ cr)</td><td style=\"padding:8px 10px;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:13.5px;border-bottom:1px solid #B9B2A5;text-align:right;white-space:nowrap;font-variant-numeric:tabular-nums\">65.38</td><td style=\"padding:8px 10px;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:13.5px;border-bottom:1px solid #B9B2A5;text-align:right;white-space:nowrap;font-variant-numeric:tabular-nums\">23.55</td><td style=\"padding:8px 10px;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:13.5px;border-bottom:1px solid #B9B2A5;text-align:right;white-space:nowrap;font-variant-numeric:tabular-nums\">-4.05</td></tr><tr><td style=\"padding:8px 10px;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:13.5px;border-bottom:1px solid #B9B2A5;text-align:left\">PAT margin</td><td style=\"padding:8px 10px;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:13.5px;border-bottom:1px solid #B9B2A5;text-align:right;white-space:nowrap;font-variant-numeric:tabular-nums\">5.4%</td><td style=\"padding:8px 10px;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:13.5px;border-bottom:1px solid #B9B2A5;text-align:right;white-space:nowrap;font-variant-numeric:tabular-nums\">4.7%</td><td style=\"padding:8px 10px;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:13.5px;border-bottom:1px solid #B9B2A5;text-align:right;white-space:nowrap;font-variant-numeric:tabular-nums\">-5704.2%</td></tr><tr><td style=\"padding:8px 10px;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:13.5px;border-bottom:1px solid #B9B2A5;text-align:left\">Net worth (₹ cr)</td><td style=\"padding:8px 10px;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:13.5px;border-bottom:1px solid #B9B2A5;text-align:right;white-space:nowrap;font-variant-numeric:tabular-nums\">251.53</td><td style=\"padding:8px 10px;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:13.5px;border-bottom:1px solid #B9B2A5;text-align:right;white-space:nowrap;font-variant-numeric:tabular-nums\">38.22</td><td style=\"padding:8px 10px;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:13.5px;border-bottom:1px solid #B9B2A5;text-align:right;white-space:nowrap;font-variant-numeric:tabular-nums\">14.67</td></tr><tr><td style=\"padding:8px 10px;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:13.5px;border-bottom:1px solid #B9B2A5;text-align:left\">Return on net worth</td><td style=\"padding:8px 10px;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:13.5px;border-bottom:1px solid #B9B2A5;text-align:right;white-space:nowrap;font-variant-numeric:tabular-nums\">26.0%</td><td style=\"padding:8px 10px;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:13.5px;border-bottom:1px solid #B9B2A5;text-align:right;white-space:nowrap;font-variant-numeric:tabular-nums\">61.6%</td><td style=\"padding:8px 10px;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:13.5px;border-bottom:1px solid #B9B2A5;text-align:right;white-space:nowrap;font-variant-numeric:tabular-nums\">-27.6%</td></tr><tr><td style=\"padding:8px 10px;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:13.5px;border-bottom:1px solid #B9B2A5;text-align:left\">Debt / Equity</td><td style=\"padding:8px 10px;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:13.5px;border-bottom:1px solid #B9B2A5;text-align:right;white-space:nowrap;font-variant-numeric:tabular-nums\">1.23x</td><td style=\"padding:8px 10px;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:13.5px;border-bottom:1px solid #B9B2A5;text-align:right;white-space:nowrap;font-variant-numeric:tabular-nums\">8.44x</td><td style=\"padding:8px 10px;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:13.5px;border-bottom:1px solid #B9B2A5;text-align:right;white-space:nowrap;font-variant-numeric:tabular-nums\">11.57x</td></tr></table><p style=\"margin:0 0 6px 0;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:11.5px;color:#7B8491\">Source: restated financial information in the DRHP; EBITDA and ratios computed from it.</p><p style=\"margin:24px 0 8px 0;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:11.5px;font-weight:700;letter-spacing:1.6px;text-transform:uppercase;color:#A07A35;\">How we would like to participate</p><table role=\"presentation\" width=\"100%\" cellpadding=\"0\" cellspacing=\"0\" style=\"border-collapse:collapse;margin:0 0 8px 0\"><tr><td width=\"34\" valign=\"top\" style=\"padding-top:1px\"><div style=\"width:22px;height:22px;line-height:20px;border-radius:12px;border:1.5px solid #A07A35;color:#A07A35;text-align:center;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:12px;font-weight:700\">1</div></td><td style=\"font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:14.5px;line-height:1.6\"><b>Pre-IPO placement.</b> The DRHP contemplates a Pre-IPO Placement of up to 20% of the Fresh Issue. We would be keen to participate in this round.</td></tr></table><table role=\"presentation\" width=\"100%\" cellpadding=\"0\" cellspacing=\"0\" style=\"border-collapse:collapse;margin:0 0 8px 0\"><tr><td width=\"34\" valign=\"top\" style=\"padding-top:1px\"><div style=\"width:22px;height:22px;line-height:20px;border-radius:12px;border:1.5px solid #A07A35;color:#A07A35;text-align:center;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:12px;font-weight:700\">2</div></td><td style=\"font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:14.5px;line-height:1.6\"><b>Anchor Investor portion.</b> As a SEBI-registered Category III AIF, we qualify as a QIB and would like to be considered for the anchor book.</td></tr></table><table role=\"presentation\" width=\"100%\" cellpadding=\"0\" cellspacing=\"0\" style=\"border-collapse:collapse;margin:0 0 8px 0\"><tr><td width=\"34\" valign=\"top\" style=\"padding-top:1px\"><div style=\"width:22px;height:22px;line-height:20px;border-radius:12px;border:1.5px solid #A07A35;color:#A07A35;text-align:center;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:12px;font-weight:700\">3</div></td><td style=\"font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:14.5px;line-height:1.6\"><b>QIB portion.</b> We would also look to participate in the QIB portion of the IPO.</td></tr></table><p style=\"margin:24px 0 8px 0;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:11.5px;font-weight:700;letter-spacing:1.6px;text-transform:uppercase;color:#A07A35;\">Fund profile</p><table role=\"presentation\" cellpadding=\"0\" cellspacing=\"0\" style=\"border-collapse:collapse;margin:0 0 6px 0\"><tr><td style=\"border:1.5px solid #A07A35;border-radius:6px;padding:10px 18px\"><a href=\"https://drive.google.com/file/d/1yQX3TH3nmyqzt6rICyliVYFCP1okKqVv/view?usp=sharing\" style=\"font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:14px;font-weight:700;color:#A07A35;text-decoration:none\">View Fund Profile (PDF) &rarr;</a></td></tr></table><p style=\"margin:6px 0 0 0;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:12px;color:#7B8491\">Also attached to this email. Opens in Google Drive with view access; no sign-in needed.</p><p style=\"margin:0 0 14px 0;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:14.5px;line-height:1.65;margin-top:16px\">I would be grateful if you could introduce us to the promoters of Ekkaa Electronics (India) (Sagar Gupta, Chandra Prakash Gupta and Madhuri Gupta) and keep us informed as the pre-IPO and anchor book discussions progress. A short call at your convenience would be much appreciated.</p><p style=\"margin:0 0 14px 0;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:14.5px;line-height:1.65;\">I look forward to hearing from you.</p><p style=\"margin:0 0 14px 0;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:14.5px;line-height:1.65;margin-bottom:10px\">Warm regards,</p><table role=\"presentation\" cellpadding=\"0\" cellspacing=\"0\" style=\"border-collapse:collapse;margin:0\"><tr><td valign=\"top\" style=\"padding:2px 14px 0 0\"><img src=\"cid:pcvf-logo\" width=\"64\" height=\"64\" alt=\"PCVF\" style=\"display:block;border:0;border-radius:32px\"></td><td valign=\"top\" style=\"border-left:2px solid #A07A35;padding:0 0 0 14px\"><div style=\"font-family:Georgia, 'Times New Roman', Times, serif;font-size:19px;font-weight:700\">CA Deep Dalal</div><div style=\"font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:13px;color:#7B8491;margin:2px 0 8px 0\">Fund Manager, Parshwanath Capital Ventures Fund &middot; SEBI-registered Category III AIF</div><table role=\"presentation\" cellpadding=\"0\" cellspacing=\"0\" style=\"border-collapse:collapse\"><tr><td style=\"padding:2px 14px 2px 0;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:11px;letter-spacing:1px;text-transform:uppercase;color:#A07A35;white-space:nowrap\">Email</td><td style=\"padding:2px 0;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:14px\"><a href=\"mailto:fundmanager@parshwanath.in\" style=\"color:#3B78B8;text-decoration:none\">fundmanager@parshwanath.in</a></td></tr><tr><td style=\"padding:2px 14px 2px 0;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:11px;letter-spacing:1px;text-transform:uppercase;color:#A07A35;white-space:nowrap\">WhatsApp</td><td style=\"padding:2px 0;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:14px\"><a href=\"https://wa.me/918320052970\" style=\"color:#3B78B8;text-decoration:none\">+91 83200 52970</a></td></tr><tr><td style=\"padding:2px 14px 2px 0;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:11px;letter-spacing:1px;text-transform:uppercase;color:#A07A35;white-space:nowrap\">Phone / WhatsApp</td><td style=\"padding:2px 0;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:14px\"><a href=\"https://wa.me/917069006298\" style=\"color:#3B78B8;text-decoration:none\">+91 70690 06298</a></td></tr><tr><td style=\"padding:2px 14px 2px 0;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:11px;letter-spacing:1px;text-transform:uppercase;color:#A07A35;white-space:nowrap\">SEBI Reg. No.</td><td style=\"padding:2px 0;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:14px\">IN/AIF3/25-26/2108</td></tr></table></td></tr></table></td></tr><tr><td style=\"padding:12px 4px 8px 4px;border-top:1px solid #B9B2A5;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:11px;line-height:1.55;color:#7B8491\">This email is for introduction purposes only and does not constitute an offer, solicitation or commitment to invest. Any investment is subject to the Fund&#x27;s due diligence, investment committee approval and applicable SEBI regulations. To stop receiving emails from us, reply with “unsubscribe”.</td></tr></table></td></tr></table></body></html>",
+   "variant": "brlm",
+   "to": [
+    "ekkaa.ipo@shannon.co.in"
+   ],
+   "names": [
+    "Rishu Goyal",
+    "Pavan Kumar Agarwal"
+   ],
+   "brlm": "Shannon Advisors Private Limited*"
+  }
+ ],
+ "warnings": [],
+ "processed_at": "2026-11-07T23:18:54+05:30"
+}

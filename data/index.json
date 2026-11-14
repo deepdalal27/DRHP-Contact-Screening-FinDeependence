@@ -1,0 +1,4146 @@
+{
+ "updated_at": "2026-11-14T23:51:17+05:30",
+ "companies": [
+  {
+   "key": "sitaramdenimsindia",
+   "company": "Sitaram Denims India Ltd",
+   "board": "Mainboard",
+   "exchange": null,
+   "source": "SEBI",
+   "filed_on": "2026-11-13",
+   "doc_type": "DRHP",
+   "brlms": [
+    "SMC Capitals Limited"
+   ],
+   "promoters": [
+    "Anil Kumar Nuwal",
+    "Madhu Sudan Nuwal",
+    "Jugal Kishore Nuwal",
+    "Sitaram India Limited"
+   ],
+   "pre_ipo": true,
+   "latest": {
+    "revenue": {
+     "v": 242.384,
+     "s": "verified"
+    },
+    "total_equity": {
+     "v": 113.056,
+     "s": "verified"
+    },
+    "EBITDA margin": {
+     "v": 0.20826,
+     "s": "verified"
+    },
+    "Debt / Equity": {
+     "v": 2.010216,
+     "s": "verified"
+    },
+    "Revenue growth": {
+     "v": 0.160604,
+     "s": "verified"
+    },
+    "fy": "FY26"
+   },
+   "verified": false,
+   "warnings": [
+    "Some core figures could not be cross-checked; only verified figures are used in the email."
+   ],
+   "processed_at": "2026-11-14T23:44:13+05:30"
+  },
+  {
+   "key": "hindustancocacolaholdings",
+   "company": "Hindustan Coca-Cola Holdings Limited",
+   "board": "Mainboard",
+   "exchange": "BSE & NSE",
+   "source": "SEBI",
+   "filed_on": "2026-11-12",
+   "doc_type": "DRHP",
+   "brlms": [
+    "Kotak Mahindra Capital Company Limited",
+    "Citigroup Global Markets India Private Limited",
+    "J.P. Morgan India Private Limited",
+    null,
+    "Axis Capital Limited",
+    "Goldman Sachs (India) Securities Private Limited",
+    "IIFL Capital Services Limited"
+   ],
+   "promoters": [
+    "The Coca-cola Company",
+    "Hindustan Coca-cola Overseas Holdings Pte. LTD",
+    "Jubilant Beverages Limited",
+    "Jubilant Bevco Limited",
+    "Shyam Sunder Bhartia",
+    "Hari Shanker Bhartia",
+    "Arjun Shanker Bhartia",
+    "Shamit Bhartia",
+    "Shyam Sunder Bhartia Family Trust",
+    "Hari Shanker Bhartia Family Trust"
+   ],
+   "pre_ipo": false,
+   "latest": {},
+   "verified": null,
+   "warnings": [
+    "Financial statements not found in the DRHP"
+   ],
+   "processed_at": "2026-11-14T23:44:51+05:30"
+  },
+  {
+   "key": "snvatraveltech",
+   "company": "SNVA Traveltech Limited",
+   "board": "Mainboard",
+   "exchange": "BSE & NSE",
+   "source": "SEBI",
+   "filed_on": "2026-11-09",
+   "doc_type": "UDRHP",
+   "brlms": [
+    "Equirus Capital Limited (formerly known as Equirus Capital Private Limited)",
+    "Anand Rathi Advisors Limited"
+   ],
+   "promoters": [
+    "Alok Kumar Singh",
+    "Vivek Kumar Singh"
+   ],
+   "pre_ipo": false,
+   "latest": {
+    "revenue": {
+     "v": 189.109,
+     "s": "verified"
+    },
+    "total_equity": {
+     "v": 138.967,
+     "s": "verified"
+    },
+    "EBITDA margin": {
+     "v": 0.475308,
+     "s": "verified"
+    },
+    "Debt / Equity": {
+     "v": 0.0,
+     "s": "unverified"
+    },
+    "Revenue growth": {
+     "v": 0.581298,
+     "s": "verified"
+    },
+    "fy": "FY26"
+   },
+   "verified": false,
+   "warnings": [
+    "Some core figures could not be cross-checked; only verified figures are used in the email."
+   ],
+   "processed_at": "2026-11-14T23:45:41+05:30"
+  },
+  {
+   "key": "datasoftcomputerservices",
+   "company": "Datasoft Computer Services Limited",
+   "board": "SME",
+   "exchange": "NSE Emerge",
+   "source": "NSE Emerge",
+   "filed_on": "2026-11-06",
+   "doc_type": "DRHP",
+   "brlms": [
+    "Legal Advisor to the Offer"
+   ],
+   "promoters": [
+    "Sandeep Goel",
+    "Kunal Goel",
+    "Deepti Goel",
+    "Sandeep Goel HUF"
+   ],
+   "pre_ipo": false,
+   "latest": {},
+   "verified": null,
+   "warnings": [
+    "Financial statements not found in the DRHP"
+   ],
+   "processed_at": "2026-11-14T23:45:48+05:30"
+  },
+  {
+   "key": "uranusstoneproducts",
+   "company": "Uranus Stone Products Limited",
+   "board": "SME",
+   "exchange": "BSE SME",
+   "source": "BSE SME",
+   "filed_on": "2026-11-06",
+   "doc_type": "DRHP",
+   "brlms": [
+    "Indcap Advisors Pvt.ltd."
+   ],
+   "promoters": [
+    "Ankit Mittal",
+    "Shweta Mittal"
+   ],
+   "pre_ipo": null,
+   "latest": {},
+   "verified": null,
+   "warnings": [
+    "BSE SME filing: contacts and figures from Chittorgarh. BSE blocks cloud servers, so the DRHP PDF could not be read automatically; open it from the link above."
+   ],
+   "processed_at": "2026-11-10T17:25:48+05:30"
+  },
+  {
+   "key": "jamnagaragroindustries",
+   "company": "Jamnagar Agro Industries Limited",
+   "board": "SME",
+   "exchange": "BSE SME",
+   "source": "BSE SME",
+   "filed_on": "2026-11-05",
+   "doc_type": "DRHP",
+   "brlms": [
+    "Vatsa Capital Venture Pvt.ltd."
+   ],
+   "promoters": [
+    "Jatinkumar Pujara",
+    "Hemakshi Pujara"
+   ],
+   "pre_ipo": null,
+   "latest": {},
+   "verified": null,
+   "warnings": [
+    "BSE SME filing: contacts and figures from Chittorgarh. BSE blocks cloud servers, so the DRHP PDF could not be read automatically; open it from the link above."
+   ],
+   "processed_at": "2026-11-07T06:28:17+05:30"
+  },
+  {
+   "key": "pradeepitglobalconsulting",
+   "company": "Pradeepit Global Consulting Limited",
+   "board": "SME",
+   "exchange": "BSE SME",
+   "source": "BSE SME",
+   "filed_on": "2026-11-04",
+   "doc_type": "DRHP",
+   "brlms": [
+    "Aftertrade Broking Pvt.ltd."
+   ],
+   "promoters": [
+    "Vinod Kumar Beli",
+    "Geeta P Ari"
+   ],
+   "pre_ipo": null,
+   "latest": {},
+   "verified": null,
+   "warnings": [
+    "BSE SME filing: contacts and figures from Chittorgarh. BSE blocks cloud servers, so the DRHP PDF could not be read automatically; open it from the link above."
+   ],
+   "processed_at": "2026-11-07T06:29:39+05:30"
+  },
+  {
+   "key": "southeasterncoalfields",
+   "company": "South Eastern Coalfields Limited",
+   "board": "Mainboard",
+   "exchange": "BSE & NSE",
+   "source": "SEBI",
+   "filed_on": "2026-11-04",
+   "doc_type": "DRHP",
+   "brlms": [
+    "SBI Capital Markets Limited",
+    null,
+    "IDBI Capital Markets & Securities Limited",
+    "Motilal Oswal Investment Advisors Limited"
+   ],
+   "promoters": [
+    "President Of India",
+    "Acting Through The Ministry Of Coal",
+    "Government Of India",
+    "Coal India Limited"
+   ],
+   "pre_ipo": false,
+   "latest": {
+    "fy": "FY26"
+   },
+   "verified": false,
+   "warnings": [
+    "Some core figures could not be cross-checked; only verified figures are used in the email."
+   ],
+   "processed_at": "2026-11-14T23:46:54+05:30"
+  },
+  {
+   "key": "sahanaratnabh",
+   "company": "Sahanaratnabh Limited",
+   "board": "SME",
+   "exchange": "NSE Emerge",
+   "source": "NSE Emerge",
+   "filed_on": "2026-11-03",
+   "doc_type": "DRHP",
+   "brlms": [
+    "Getfive Advisors Private Limited"
+   ],
+   "promoters": [
+    "Bheeni Agrawal",
+    "Shubhendu Goyal"
+   ],
+   "pre_ipo": true,
+   "latest": {
+    "revenue": {
+     "v": 244.443,
+     "s": "verified"
+    },
+    "pat": {
+     "v": 11.8725,
+     "s": "verified"
+    },
+    "EBITDA margin": {
+     "v": 0.067437,
+     "s": "unverified"
+    },
+    "PAT margin": {
+     "v": 0.04857,
+     "s": "verified"
+    },
+    "Revenue growth": {
+     "v": 0.28763,
+     "s": "verified"
+    },
+    "fy": "FY26"
+   },
+   "verified": false,
+   "warnings": [
+    "Some core figures could not be cross-checked; only verified figures are used in the email."
+   ],
+   "processed_at": "2026-11-14T23:46:57+05:30"
+  },
+  {
+   "key": "carlsbergindia",
+   "company": "Carlsberg India Limited",
+   "board": "Mainboard",
+   "exchange": "BSE & NSE",
+   "source": "SEBI",
+   "filed_on": "2026-10-29",
+   "doc_type": "UDRHP",
+   "brlms": [
+    "Kotak Mahindra Capital Company Limited",
+    "Citigroup Global Markets India Private Limited",
+    "J.P. Morgan India Private Limited"
+   ],
+   "promoters": [
+    "Carlsberg A/s",
+    "South Asian Breweries Pte. LTD"
+   ],
+   "pre_ipo": false,
+   "latest": {
+    "revenue": {
+     "v": 8708.79,
+     "s": "verified"
+    },
+    "pat": {
+     "v": 534.507,
+     "s": "mismatch"
+    },
+    "total_equity": {
+     "v": 2225.819,
+     "s": "verified"
+    },
+    "EBITDA margin": {
+     "v": 0.080243,
+     "s": "mismatch"
+    },
+    "PAT margin": {
+     "v": 0.061376,
+     "s": "mismatch"
+    },
+    "RoNW (closing)": {
+     "v": 0.240139,
+     "s": "mismatch"
+    },
+    "Debt / Equity": {
+     "v": 0.000431,
+     "s": "verified"
+    },
+    "Revenue growth": {
+     "v": -0.022198,
+     "s": "verified"
+    },
+    "fy": "FY26"
+   },
+   "verified": false,
+   "warnings": [
+    "Some core figures could not be cross-checked; only verified figures are used in the email."
+   ],
+   "processed_at": "2026-11-14T23:47:55+05:30"
+  },
+  {
+   "key": "gampservices",
+   "company": "GAMP Services Limited",
+   "board": "Mainboard",
+   "exchange": null,
+   "source": "SEBI",
+   "filed_on": "2026-10-21",
+   "doc_type": "DRHP",
+   "brlms": [
+    "Valmiki Leela Capital Private Limited"
+   ],
+   "promoters": [
+    "Sanjeevkumar Mahendrakumar Patel",
+    "Girish Agrawal",
+    "Gaurav M Shah"
+   ],
+   "pre_ipo": true,
+   "latest": {
+    "revenue": {
+     "v": 45.8137,
+     "s": "verified"
+    },
+    "pat": {
+     "v": 10.9677,
+     "s": "verified"
+    },
+    "total_equity": {
+     "v": 19.727,
+     "s": "verified"
+    },
+    "EBITDA margin": {
+     "v": 0.331418,
+     "s": "verified"
+    },
+    "PAT margin": {
+     "v": 0.239398,
+     "s": "verified"
+    },
+    "RoNW (closing)": {
+     "v": 0.555974,
+     "s": "verified"
+    },
+    "Debt / Equity": {
+     "v": 0.012521,
+     "s": "verified"
+    },
+    "Revenue growth": {
+     "v": 0.283491,
+     "s": "verified"
+    },
+    "fy": "FY26"
+   },
+   "verified": true,
+   "warnings": [],
+   "processed_at": "2026-11-14T23:48:35+05:30"
+  },
+  {
+   "key": "hungerpangs",
+   "company": "Hunger Pangs Limited",
+   "board": "Mainboard",
+   "exchange": null,
+   "source": "SEBI",
+   "filed_on": "2026-10-21",
+   "doc_type": "DRHP",
+   "brlms": [
+    "Pantomath Capital Advisors Private Limited"
+   ],
+   "promoters": [
+    "Ankit Virendra Gupta",
+    "Chirag Narendra Chhajer"
+   ],
+   "pre_ipo": true,
+   "latest": {
+    "revenue": {
+     "v": 155.497,
+     "s": "verified"
+    },
+    "pat": {
+     "v": -15.372,
+     "s": "verified"
+    },
+    "total_equity": {
+     "v": 64.062,
+     "s": "verified"
+    },
+    "EBITDA margin": {
+     "v": 0.165129,
+     "s": "verified"
+    },
+    "PAT margin": {
+     "v": -0.098857,
+     "s": "verified"
+    },
+    "RoNW (closing)": {
+     "v": -0.239955,
+     "s": "verified"
+    },
+    "Debt / Equity": {
+     "v": 0.000156,
+     "s": "unverified"
+    },
+    "Revenue growth": {
+     "v": 0.465584,
+     "s": "verified"
+    },
+    "fy": "FY26"
+   },
+   "verified": true,
+   "warnings": [],
+   "processed_at": "2026-11-14T23:49:44+05:30"
+  },
+  {
+   "key": "mayurelectromeck",
+   "company": "Mayur Electromeck Limited",
+   "board": "SME",
+   "exchange": "BSE SME",
+   "source": "BSE SME",
+   "filed_on": "2026-10-21",
+   "doc_type": "DRHP",
+   "brlms": [
+    "Synfinx Capital Pvt.Ltd."
+   ],
+   "promoters": [
+    "Vikram Bansal",
+    "Poonam Bansal",
+    "Ojasvi Bansal"
+   ],
+   "pre_ipo": null,
+   "latest": {},
+   "verified": null,
+   "warnings": [
+    "BSE SME filing: contacts and figures from Chittorgarh. BSE blocks cloud servers, so the DRHP PDF could not be read automatically; open it from the link above."
+   ],
+   "processed_at": "2026-11-07T06:31:38+05:30"
+  },
+  {
+   "key": "paramotordigitaltechnology",
+   "company": "Paramotor Digital Technology Limited",
+   "board": "Mainboard",
+   "exchange": "BSE & NSE",
+   "source": "SEBI",
+   "filed_on": "2026-10-14",
+   "doc_type": "UDRHP",
+   "brlms": [
+    "Motilal Oswal Investment Advisors Limited",
+    "Equirus Capital Limited (Formerly known as Equirus"
+   ],
+   "promoters": [
+    "Sonia Pankaj Asher",
+    "Rahul Anand"
+   ],
+   "pre_ipo": true,
+   "latest": {},
+   "verified": null,
+   "warnings": [
+    "Financial statements could not be read from the DRHP"
+   ],
+   "processed_at": "2026-11-14T23:50:10+05:30"
+  },
+  {
+   "key": "soleosenergy",
+   "company": "Soleos Energy Limited",
+   "board": "Mainboard",
+   "exchange": "BSE & NSE",
+   "source": "SEBI",
+   "filed_on": "2026-10-13",
+   "doc_type": "DRHP",
+   "brlms": [
+    "Beeline Capital Advisors Private Limited"
+   ],
+   "promoters": [
+    "Bhaveshkumar C Rathod",
+    "Dhavalkumar Ghanshyambhai Jiyani",
+    "Parth R Rangholia",
+    "Aniket Rangholia",
+    "Vipul Rathod"
+   ],
+   "pre_ipo": true,
+   "latest": {
+    "revenue": {
+     "v": 281.1575,
+     "s": "verified"
+    },
+    "pat": {
+     "v": 21.4792,
+     "s": "verified"
+    },
+    "total_equity": {
+     "v": 198.828,
+     "s": "verified"
+    },
+    "EBITDA margin": {
+     "v": 0.106524,
+     "s": "verified"
+    },
+    "PAT margin": {
+     "v": 0.076396,
+     "s": "verified"
+    },
+    "RoNW (closing)": {
+     "v": 0.108029,
+     "s": "verified"
+    },
+    "Debt / Equity": {
+     "v": 0.512621,
+     "s": "verified"
+    },
+    "Revenue growth": {
+     "v": 0.267388,
+     "s": "verified"
+    },
+    "fy": "FY26"
+   },
+   "verified": true,
+   "warnings": [],
+   "processed_at": "2026-11-14T23:51:17+05:30"
+  },
+  {
+   "key": "integrumenergyinfrastructure",
+   "company": "Integrum Energy Infrastructure Limited",
+   "board": "Mainboard",
+   "exchange": "BSE & NSE",
+   "source": "SEBI",
+   "filed_on": "2026-10-07",
+   "doc_type": "DRHP",
+   "brlms": [
+    "Mefcom Capital Markets Limited",
+    "Centrum Broking Limited",
+    "Beeline Capital Advisors Private Limited"
+   ],
+   "promoters": [
+    "Anand Lahoti",
+    "Shyamsundar Maheswari",
+    "Puneet Goel",
+    "Shipra Goel"
+   ],
+   "pre_ipo": false,
+   "latest": {
+    "revenue": {
+     "v": 693.839,
+     "s": "verified"
+    },
+    "pat": {
+     "v": 63.156,
+     "s": "verified"
+    },
+    "total_equity": {
+     "v": 150.129,
+     "s": "verified"
+    },
+    "EBITDA margin": {
+     "v": 0.127156,
+     "s": "verified"
+    },
+    "PAT margin": {
+     "v": 0.091024,
+     "s": "verified"
+    },
+    "RoNW (closing)": {
+     "v": 0.420678,
+     "s": "verified"
+    },
+    "Debt / Equity": {
+     "v": 0.060102,
+     "s": "verified"
+    },
+    "Revenue growth": {
+     "v": 4.896682,
+     "s": "verified"
+    },
+    "fy": "FY26"
+   },
+   "verified": true,
+   "warnings": [],
+   "processed_at": "2026-11-07T06:37:11+05:30"
+  },
+  {
+   "key": "pentacleconsultantsi",
+   "company": "Pentacle Consultants I Limited",
+   "board": "Mainboard",
+   "exchange": "BSE & NSE",
+   "source": "SEBI",
+   "filed_on": "2026-10-06",
+   "doc_type": "DRHP",
+   "brlms": [
+    "Socradamus Capital Private Limited"
+   ],
+   "promoters": [
+    "Mahendra Pundalik More",
+    "Pallavi Mahendra More",
+    "Ganesh Pundalik More"
+   ],
+   "pre_ipo": false,
+   "latest": {
+    "total_equity": {
+     "v": 75.133,
+     "s": "verified"
+    },
+    "Debt / Equity": {
+     "v": 0.410925,
+     "s": "unverified"
+    },
+    "fy": "FY26"
+   },
+   "verified": false,
+   "warnings": [
+    "Some core figures could not be cross-checked; only verified figures are used in the email."
+   ],
+   "processed_at": "2026-11-05T16:45:17+05:30"
+  },
+  {
+   "key": "pmconaindustries",
+   "company": "PM Cona Industries Limited",
+   "board": "Mainboard",
+   "exchange": "BSE & NSE",
+   "source": "SEBI",
+   "filed_on": "2026-10-06",
+   "doc_type": "DRHP",
+   "brlms": [
+    "Valmiki Leela Capital Private Limited"
+   ],
+   "promoters": [
+    "Prakash Naraindas Motwani",
+    "Neelu Prakash Motwani",
+    "Mohit Prakash Motwani",
+    "Bhavika Mohit Motwani",
+    "Pm Family Trust"
+   ],
+   "pre_ipo": true,
+   "latest": {
+    "revenue": {
+     "v": 403.925,
+     "s": "verified"
+    },
+    "pat": {
+     "v": 30.83,
+     "s": "verified"
+    },
+    "total_equity": {
+     "v": 169.657,
+     "s": "verified"
+    },
+    "EBITDA margin": {
+     "v": 0.11514,
+     "s": "verified"
+    },
+    "PAT margin": {
+     "v": 0.076326,
+     "s": "verified"
+    },
+    "RoNW (closing)": {
+     "v": 0.18172,
+     "s": "verified"
+    },
+    "Debt / Equity": {
+     "v": 0.0,
+     "s": "unverified"
+    },
+    "Revenue growth": {
+     "v": 0.071718,
+     "s": "verified"
+    },
+    "fy": "FY26"
+   },
+   "verified": true,
+   "warnings": [],
+   "processed_at": "2026-11-07T06:38:47+05:30"
+  },
+  {
+   "key": "anarockpropertyconsultants",
+   "company": "Anarock Property Consultants Limited",
+   "board": "Mainboard",
+   "exchange": "BSE & NSE",
+   "source": "SEBI",
+   "filed_on": "2026-10-05",
+   "doc_type": "DRHP",
+   "brlms": [
+    "ICICI Securities Limited"
+   ],
+   "promoters": [
+    "Anuj Puri",
+    "Rohin Raja Shah",
+    "Priti Puri",
+    "Nita Shah",
+    "Khushi Trust",
+    "Peter Properties Limited"
+   ],
+   "pre_ipo": true,
+   "latest": {
+    "revenue": {
+     "v": 881.898,
+     "s": "verified"
+    },
+    "pat": {
+     "v": 93.218,
+     "s": "verified"
+    },
+    "total_equity": {
+     "v": 655.506,
+     "s": "verified"
+    },
+    "EBITDA margin": {
+     "v": 0.151357,
+     "s": "unverified"
+    },
+    "PAT margin": {
+     "v": 0.105702,
+     "s": "verified"
+    },
+    "RoNW (closing)": {
+     "v": 0.142208,
+     "s": "verified"
+    },
+    "Revenue growth": {
+     "v": 0.338342,
+     "s": "verified"
+    },
+    "fy": "FY26"
+   },
+   "verified": true,
+   "warnings": [],
+   "processed_at": "2026-11-07T16:03:33+05:30"
+  },
+  {
+   "key": "arete22",
+   "company": "Arete 22 Limited",
+   "board": "Mainboard",
+   "exchange": "BSE & NSE",
+   "source": "SEBI",
+   "filed_on": "2026-10-05",
+   "doc_type": "DRHP",
+   "brlms": [
+    "Unistone Capital Private Limited"
+   ],
+   "promoters": [
+    "Pawan Kumar Gupta",
+    "Abhishek Gupta",
+    "Konica Gupta",
+    "Naveen Gupta"
+   ],
+   "pre_ipo": true,
+   "latest": {
+    "revenue": {
+     "v": 537.9492,
+     "s": "verified"
+    },
+    "pat": {
+     "v": 44.9728,
+     "s": "verified"
+    },
+    "EBITDA margin": {
+     "v": 0.175997,
+     "s": "verified"
+    },
+    "PAT margin": {
+     "v": 0.0836,
+     "s": "verified"
+    },
+    "Revenue growth": {
+     "v": 1.532805,
+     "s": "verified"
+    },
+    "fy": "FY26"
+   },
+   "verified": false,
+   "warnings": [
+    "Some core figures could not be cross-checked; only verified figures are used in the email."
+   ],
+   "processed_at": "2026-11-07T14:11:56+05:30"
+  },
+  {
+   "key": "baangangagolddiamondi",
+   "company": "Baanganga Gold & Diamond (I) Limited",
+   "board": "Mainboard",
+   "exchange": "BSE & NSE",
+   "source": "SEBI",
+   "filed_on": "2026-10-05",
+   "doc_type": "DRHP",
+   "brlms": [
+    "DAM Capital Advisors Limited"
+   ],
+   "promoters": [
+    "Navratanmal Jeetmal Ganna",
+    "Vikas Navratanmal Ganna",
+    "Jinesh Navratanmal Ganna"
+   ],
+   "pre_ipo": true,
+   "latest": {
+    "revenue": {
+     "v": 3626.293,
+     "s": "verified"
+    },
+    "pat": {
+     "v": 111.779,
+     "s": "verified"
+    },
+    "total_equity": {
+     "v": 187.886,
+     "s": "verified"
+    },
+    "EBITDA margin": {
+     "v": 0.045711,
+     "s": "verified"
+    },
+    "PAT margin": {
+     "v": 0.030825,
+     "s": "verified"
+    },
+    "RoNW (closing)": {
+     "v": 0.59493,
+     "s": "verified"
+    },
+    "Debt / Equity": {
+     "v": 1.139734,
+     "s": "verified"
+    },
+    "Revenue growth": {
+     "v": 0.789037,
+     "s": "verified"
+    },
+    "fy": "FY26"
+   },
+   "verified": true,
+   "warnings": [],
+   "processed_at": "2026-11-07T14:08:43+05:30"
+  },
+  {
+   "key": "bssponge",
+   "company": "B S Sponge Limited",
+   "board": "Mainboard",
+   "exchange": "BSE & NSE",
+   "source": "SEBI",
+   "filed_on": "2026-10-05",
+   "doc_type": "DRHP",
+   "brlms": [],
+   "promoters": [
+    "Parmanand Agarwal",
+    "Ashish Agarwal",
+    "Richhi Agarwal",
+    "Bijay Kumar Agarwal",
+    "Nachiketa Gift-ads Private Limited"
+   ],
+   "pre_ipo": true,
+   "latest": {
+    "revenue": {
+     "v": 2592.524,
+     "s": "verified"
+    },
+    "pat": {
+     "v": 171.106,
+     "s": "mismatch"
+    },
+    "total_equity": {
+     "v": 797.475,
+     "s": "verified"
+    },
+    "EBITDA margin": {
+     "v": 0.143879,
+     "s": "mismatch"
+    },
+    "PAT margin": {
+     "v": 0.066,
+     "s": "mismatch"
+    },
+    "RoNW (closing)": {
+     "v": 0.21456,
+     "s": "mismatch"
+    },
+    "Debt / Equity": {
+     "v": 0.966784,
+     "s": "verified"
+    },
+    "Revenue growth": {
+     "v": 0.184981,
+     "s": "verified"
+    },
+    "fy": "FY26"
+   },
+   "verified": false,
+   "warnings": [
+    "Some core figures could not be cross-checked; only verified figures are used in the email."
+   ],
+   "processed_at": "2026-11-07T14:10:05+05:30"
+  },
+  {
+   "key": "deonenergy",
+   "company": "Deon Energy Limited",
+   "board": "Mainboard",
+   "exchange": "BSE & NSE",
+   "source": "SEBI",
+   "filed_on": "2026-10-05",
+   "doc_type": "DRHP",
+   "brlms": [
+    "Valmiki Leela Capital Private Limited"
+   ],
+   "promoters": [
+    "Dharmesh Ashokbhai Makadiya",
+    "Kalariya Chiragbhai Dineshbhai",
+    "Kalariya Archanaben",
+    "Bhargav Chaturbhai Kavar"
+   ],
+   "pre_ipo": true,
+   "latest": {
+    "revenue": {
+     "v": 456.278,
+     "s": "verified"
+    },
+    "pat": {
+     "v": 46.064,
+     "s": "verified"
+    },
+    "total_equity": {
+     "v": 71.45,
+     "s": "verified"
+    },
+    "EBITDA margin": {
+     "v": 0.138996,
+     "s": "verified"
+    },
+    "PAT margin": {
+     "v": 0.100956,
+     "s": "verified"
+    },
+    "RoNW (closing)": {
+     "v": 0.644703,
+     "s": "verified"
+    },
+    "Debt / Equity": {
+     "v": 0.162645,
+     "s": "verified"
+    },
+    "Revenue growth": {
+     "v": 0.52838,
+     "s": "verified"
+    },
+    "fy": "FY26"
+   },
+   "verified": true,
+   "warnings": [],
+   "processed_at": "2026-11-07T14:13:05+05:30"
+  },
+  {
+   "key": "electromechinfraprojects",
+   "company": "Electromech Infraprojects Limited",
+   "board": "Mainboard",
+   "exchange": "BSE & NSE",
+   "source": "SEBI",
+   "filed_on": "2026-10-05",
+   "doc_type": "DRHP",
+   "brlms": [
+    "Arihant Capital Markets Limited"
+   ],
+   "promoters": [
+    "Paresh Pratap Maniar",
+    "Varun Paresh Maniar",
+    "Mitesh Pratap Maniar",
+    "Chandrika Paresh Maniar"
+   ],
+   "pre_ipo": true,
+   "latest": {
+    "revenue": {
+     "v": 427.0523,
+     "s": "verified"
+    },
+    "pat": {
+     "v": 36.1906,
+     "s": "verified"
+    },
+    "total_equity": {
+     "v": 148.715,
+     "s": "verified"
+    },
+    "EBITDA margin": {
+     "v": 0.108884,
+     "s": "verified"
+    },
+    "PAT margin": {
+     "v": 0.084745,
+     "s": "verified"
+    },
+    "RoNW (closing)": {
+     "v": 0.243355,
+     "s": "verified"
+    },
+    "Debt / Equity": {
+     "v": 0.003348,
+     "s": "verified"
+    },
+    "Revenue growth": {
+     "v": 0.045399,
+     "s": "verified"
+    },
+    "fy": "FY26"
+   },
+   "verified": true,
+   "warnings": [],
+   "processed_at": "2026-11-05T16:46:09+05:30"
+  },
+  {
+   "key": "everbrandsindia",
+   "company": "Everbrands India Limited",
+   "board": "Mainboard",
+   "exchange": "BSE & NSE",
+   "source": "SEBI",
+   "filed_on": "2026-10-05",
+   "doc_type": "DRHP",
+   "brlms": [
+    "Motilal Oswal Investment Advisors Limited",
+    "ICICI Securities Limited",
+    "Nuvama Wealth Management Limited"
+   ],
+   "promoters": [
+    "Sameer Sain",
+    "Atul Kapur",
+    "Evergroup Limited"
+   ],
+   "pre_ipo": true,
+   "latest": {
+    "revenue": {
+     "v": 966.171,
+     "s": "verified"
+    },
+    "total_equity": {
+     "v": 679.422,
+     "s": "verified"
+    },
+    "EBITDA margin": {
+     "v": 0.102345,
+     "s": "verified"
+    },
+    "Debt / Equity": {
+     "v": 0.220345,
+     "s": "verified"
+    },
+    "Revenue growth": {
+     "v": 0.349284,
+     "s": "verified"
+    },
+    "fy": "FY26"
+   },
+   "verified": false,
+   "warnings": [
+    "Some core figures could not be cross-checked; only verified figures are used in the email."
+   ],
+   "processed_at": "2026-11-07T14:10:47+05:30"
+  },
+  {
+   "key": "inoxcleanenergy",
+   "company": "Inox Clean Energy Limited",
+   "board": "Mainboard",
+   "exchange": null,
+   "source": "SEBI",
+   "filed_on": "2026-10-05",
+   "doc_type": "DRHP",
+   "brlms": [
+    "Nuvama Wealth Management Limited",
+    "CLSA India Private Limited",
+    "Emirates NBD Capital India Private Limited",
+    "HSBC Securities and Capital Markets (India)",
+    "ICICI Securities Limited",
+    "IIFL Capital Services Limited (formerly",
+    "JM Financial Limited",
+    null,
+    "UBS Securities India Private Limited"
+   ],
+   "promoters": [
+    "Devansh Jain",
+    "Avarna Jain"
+   ],
+   "pre_ipo": true,
+   "latest": {
+    "revenue": {
+     "v": 178.129,
+     "s": "verified"
+    },
+    "pat": {
+     "v": 30.981,
+     "s": "verified"
+    },
+    "total_equity": {
+     "v": 3267.687,
+     "s": "verified"
+    },
+    "EBITDA margin": {
+     "v": 0.46294,
+     "s": "verified"
+    },
+    "PAT margin": {
+     "v": 0.173925,
+     "s": "verified"
+    },
+    "RoNW (closing)": {
+     "v": 0.009481,
+     "s": "verified"
+    },
+    "Debt / Equity": {
+     "v": 1.919189,
+     "s": "verified"
+    },
+    "Revenue growth": {
+     "v": 2.770405,
+     "s": "verified"
+    },
+    "fy": "FY26"
+   },
+   "verified": true,
+   "warnings": [],
+   "processed_at": "2026-11-07T14:16:22+05:30"
+  },
+  {
+   "key": "kataline",
+   "company": "Kataline Limited",
+   "board": "Mainboard",
+   "exchange": "BSE & NSE",
+   "source": "SEBI",
+   "filed_on": "2026-10-05",
+   "doc_type": "DRHP",
+   "brlms": [
+    "InCred Capital Financial Services Limited",
+    "Ashika Capital Limited"
+   ],
+   "promoters": [
+    "Amit Arvind Thatte",
+    "Ketaki Amit Thatte",
+    "Abhishek Amit Thatte"
+   ],
+   "pre_ipo": true,
+   "latest": {
+    "revenue": {
+     "v": 220.5802,
+     "s": "verified"
+    },
+    "pat": {
+     "v": 26.8284,
+     "s": "verified"
+    },
+    "total_equity": {
+     "v": 115.5384,
+     "s": "verified"
+    },
+    "EBITDA margin": {
+     "v": 0.164405,
+     "s": "verified"
+    },
+    "PAT margin": {
+     "v": 0.121627,
+     "s": "verified"
+    },
+    "RoNW (closing)": {
+     "v": 0.232203,
+     "s": "verified"
+    },
+    "Debt / Equity": {
+     "v": 0.003547,
+     "s": "verified"
+    },
+    "Revenue growth": {
+     "v": 0.38789,
+     "s": "verified"
+    },
+    "fy": "FY26"
+   },
+   "verified": true,
+   "warnings": [],
+   "processed_at": "2026-11-07T15:58:04+05:30"
+  },
+  {
+   "key": "pciinfraprojects",
+   "company": "PCI Infraprojects Limited",
+   "board": "Mainboard",
+   "exchange": "BSE & NSE",
+   "source": "SEBI",
+   "filed_on": "2026-10-05",
+   "doc_type": "DRHP",
+   "brlms": [
+    "Share India Capital Services Private Limited"
+   ],
+   "promoters": [
+    "Ankit Tayal",
+    "Mohit Sharma"
+   ],
+   "pre_ipo": true,
+   "latest": {
+    "revenue": {
+     "v": 304.0906,
+     "s": "verified"
+    },
+    "pat": {
+     "v": 23.8505,
+     "s": "verified"
+    },
+    "total_equity": {
+     "v": null,
+     "s": "unverified"
+    },
+    "EBITDA margin": {
+     "v": 0.175947,
+     "s": "verified"
+    },
+    "PAT margin": {
+     "v": 0.078432,
+     "s": "verified"
+    },
+    "RoNW (closing)": {
+     "v": null,
+     "s": null
+    },
+    "Debt / Equity": {
+     "v": null,
+     "s": null
+    },
+    "Revenue growth": {
+     "v": 0.076767,
+     "s": "verified"
+    },
+    "fy": "FY26"
+   },
+   "verified": false,
+   "warnings": [
+    "Some core figures could not be cross-checked; only verified figures are used in the email."
+   ],
+   "processed_at": "2026-11-07T16:02:17+05:30"
+  },
+  {
+   "key": "pesinstallations",
+   "company": "PES Installations Limited",
+   "board": "Mainboard",
+   "exchange": "BSE & NSE",
+   "source": "SEBI",
+   "filed_on": "2026-10-05",
+   "doc_type": "DRHP",
+   "brlms": [
+    "Turnaround Corporate Advisors Private Limited"
+   ],
+   "promoters": [
+    "Raghunandan Paul Chadha",
+    "Pankaj Chadha",
+    "Gaurav Chadha"
+   ],
+   "pre_ipo": false,
+   "latest": {
+    "total_equity": {
+     "v": 74.7742,
+     "s": "verified"
+    },
+    "Debt / Equity": {
+     "v": 0.173092,
+     "s": "unverified"
+    },
+    "fy": "FY26"
+   },
+   "verified": false,
+   "warnings": [
+    "Some core figures could not be cross-checked; only verified figures are used in the email."
+   ],
+   "processed_at": "2026-11-07T14:12:30+05:30"
+  },
+  {
+   "key": "sanghvihousingandinfrastructure",
+   "company": "Sanghvi Housing and Infrastructure Limited",
+   "board": "Mainboard",
+   "exchange": null,
+   "source": "SEBI",
+   "filed_on": "2026-10-05",
+   "doc_type": "DRHP",
+   "brlms": [
+    "Aryaman Financial Services Limited"
+   ],
+   "promoters": [
+    "Prithviraj Sankalchand Sanghvi",
+    "Pakshal Prithviraj Sanghvi"
+   ],
+   "pre_ipo": true,
+   "latest": {
+    "revenue": {
+     "v": 101.8386,
+     "s": "verified"
+    },
+    "pat": {
+     "v": 26.2636,
+     "s": "verified"
+    },
+    "total_equity": {
+     "v": 58.6589,
+     "s": "verified"
+    },
+    "EBITDA margin": {
+     "v": 0.352201,
+     "s": "verified"
+    },
+    "PAT margin": {
+     "v": 0.257894,
+     "s": "verified"
+    },
+    "RoNW (closing)": {
+     "v": 0.447734,
+     "s": "verified"
+    },
+    "Debt / Equity": {
+     "v": 1.964706,
+     "s": "verified"
+    },
+    "Revenue growth": {
+     "v": 0.347294,
+     "s": "verified"
+    },
+    "fy": "FY26"
+   },
+   "verified": true,
+   "warnings": [],
+   "processed_at": "2026-11-07T15:53:52+05:30"
+  },
+  {
+   "key": "shreejikrupaproject",
+   "company": "Shreejikrupa Project Limited",
+   "board": "Mainboard",
+   "exchange": "BSE & NSE",
+   "source": "SEBI",
+   "filed_on": "2026-10-05",
+   "doc_type": "DRHP",
+   "brlms": [
+    "Anand Rathi Advisors Limited",
+    "Intensive Fiscal Services Private Limited"
+   ],
+   "promoters": [
+    "Karsan Bachu Varsani",
+    "Kevin Karsan Varsani",
+    "Sanjay Kumar Varsani",
+    "Smit Kumanbhai Varsani",
+    "Kumanlal Bachubhai Varsani",
+    "Girishbhai Bachubhai Varsani"
+   ],
+   "pre_ipo": true,
+   "latest": {
+    "revenue": {
+     "v": 1385.679,
+     "s": "verified"
+    },
+    "pat": {
+     "v": 79.294,
+     "s": "verified"
+    },
+    "total_equity": {
+     "v": 299.012,
+     "s": "verified"
+    },
+    "EBITDA margin": {
+     "v": 0.089089,
+     "s": "verified"
+    },
+    "PAT margin": {
+     "v": 0.057224,
+     "s": "verified"
+    },
+    "RoNW (closing)": {
+     "v": 0.265187,
+     "s": "verified"
+    },
+    "Debt / Equity": {
+     "v": 0.868524,
+     "s": "verified"
+    },
+    "Revenue growth": {
+     "v": 0.625184,
+     "s": "verified"
+    },
+    "fy": "FY26"
+   },
+   "verified": true,
+   "warnings": [],
+   "processed_at": "2026-11-07T16:00:34+05:30"
+  },
+  {
+   "key": "tenty",
+   "company": "Tenty Limited",
+   "board": "Mainboard",
+   "exchange": "BSE & NSE",
+   "source": "SEBI",
+   "filed_on": "2026-10-05",
+   "doc_type": "DRHP",
+   "brlms": [
+    "Gretex Corporate Services Limited"
+   ],
+   "promoters": [
+    "Ashok Goyal",
+    "Nishi Goyal",
+    "Kanishk Goyal",
+    "Neelam Goyal",
+    "Giriraj Ratan Kothari",
+    "Asish Kothari",
+    "Anil Kamboj",
+    "Ranks Fiscals Private Limited"
+   ],
+   "pre_ipo": true,
+   "latest": {
+    "revenue": {
+     "v": 822.2547,
+     "s": "verified"
+    },
+    "pat": {
+     "v": 22.6483,
+     "s": "verified"
+    },
+    "total_equity": {
+     "v": 347.5509,
+     "s": "verified"
+    },
+    "EBITDA margin": {
+     "v": 0.096606,
+     "s": "verified"
+    },
+    "PAT margin": {
+     "v": 0.027544,
+     "s": "verified"
+    },
+    "RoNW (closing)": {
+     "v": 0.065165,
+     "s": "verified"
+    },
+    "Debt / Equity": {
+     "v": 0.749013,
+     "s": "verified"
+    },
+    "Revenue growth": {
+     "v": 0.979099,
+     "s": "verified"
+    },
+    "fy": "FY26"
+   },
+   "verified": true,
+   "warnings": [],
+   "processed_at": "2026-11-07T15:54:52+05:30"
+  },
+  {
+   "key": "ekkaaelectronicsindia",
+   "company": "Ekkaa Electronics (India) Limited",
+   "board": "Mainboard",
+   "exchange": "BSE & NSE",
+   "source": "SEBI",
+   "filed_on": "2026-10-01",
+   "doc_type": "DRHP",
+   "brlms": [
+    "Motilal Oswal Investment Advisors Limited",
+    "Shannon Advisors Private Limited*"
+   ],
+   "promoters": [
+    "Sagar Gupta",
+    "Chandra Prakash Gupta",
+    "Madhuri Gupta"
+   ],
+   "pre_ipo": true,
+   "latest": {
+    "revenue": {
+     "v": 1221.763,
+     "s": "verified"
+    },
+    "pat": {
+     "v": 65.379,
+     "s": "verified"
+    },
+    "total_equity": {
+     "v": 251.525,
+     "s": "verified"
+    },
+    "EBITDA margin": {
+     "v": 0.093745,
+     "s": "verified"
+    },
+    "PAT margin": {
+     "v": 0.053512,
+     "s": "verified"
+    },
+    "RoNW (closing)": {
+     "v": 0.25993,
+     "s": "verified"
+    },
+    "Debt / Equity": {
+     "v": 1.227528,
+     "s": "verified"
+    },
+    "Revenue growth": {
+     "v": 1.460682,
+     "s": "verified"
+    },
+    "fy": "FY26"
+   },
+   "verified": true,
+   "warnings": [],
+   "processed_at": "2026-11-07T23:18:54+05:30"
+  },
+  {
+   "key": "jagatjitagriengineering",
+   "company": "Jagatjit Agri Engineering Limited",
+   "board": "Mainboard",
+   "exchange": "BSE & NSE",
+   "source": "SEBI",
+   "filed_on": "2026-10-01",
+   "doc_type": "DRHP",
+   "brlms": [
+    "Keynote Financial Services Limited"
+   ],
+   "promoters": [
+    "Dharam Singh",
+    "Jagatjit Singh",
+    "Simran Saron"
+   ],
+   "pre_ipo": true,
+   "latest": {
+    "revenue": {
+     "v": 413.97,
+     "s": "verified"
+    },
+    "pat": {
+     "v": 31.39,
+     "s": "verified"
+    },
+    "total_equity": {
+     "v": 70.929,
+     "s": "verified"
+    },
+    "EBITDA margin": {
+     "v": 0.134643,
+     "s": "verified"
+    },
+    "PAT margin": {
+     "v": 0.075827,
+     "s": "verified"
+    },
+    "RoNW (closing)": {
+     "v": 0.442555,
+     "s": "verified"
+    },
+    "Debt / Equity": {
+     "v": 1.758491,
+     "s": "verified"
+    },
+    "Revenue growth": {
+     "v": 3.315514,
+     "s": "verified"
+    },
+    "fy": "FY26"
+   },
+   "verified": true,
+   "warnings": [],
+   "processed_at": "2026-11-07T23:18:06+05:30"
+  },
+  {
+   "key": "jinfratech",
+   "company": "J Infratech Limited",
+   "board": "Mainboard",
+   "exchange": "BSE & NSE",
+   "source": "SEBI",
+   "filed_on": "2026-10-01",
+   "doc_type": "DRHP",
+   "brlms": [
+    "Systematix Corporate Services Limited"
+   ],
+   "promoters": [
+    "Mohit Jandu",
+    "Hari Niwas",
+    "Kuldeep Kumar",
+    "Savitri",
+    "Hn Family Trust"
+   ],
+   "pre_ipo": true,
+   "latest": {
+    "revenue": {
+     "v": 1721.756,
+     "s": "verified"
+    },
+    "pat": {
+     "v": 246.594,
+     "s": "verified"
+    },
+    "total_equity": {
+     "v": 591.622,
+     "s": "verified"
+    },
+    "EBITDA margin": {
+     "v": 0.245721,
+     "s": "verified"
+    },
+    "PAT margin": {
+     "v": 0.143222,
+     "s": "verified"
+    },
+    "RoNW (closing)": {
+     "v": 0.41681,
+     "s": "verified"
+    },
+    "Debt / Equity": {
+     "v": 1.037629,
+     "s": "verified"
+    },
+    "Revenue growth": {
+     "v": 0.220053,
+     "s": "verified"
+    },
+    "fy": "FY26"
+   },
+   "verified": true,
+   "warnings": [],
+   "processed_at": "2026-11-07T23:21:19+05:30"
+  },
+  {
+   "key": "kianmexport",
+   "company": "Kian-M Export Limited",
+   "board": "Mainboard",
+   "exchange": "BSE & NSE",
+   "source": "SEBI",
+   "filed_on": "2026-10-01",
+   "doc_type": "DRHP",
+   "brlms": [
+    "Mirae Asset Capital Markets (India) Private Limited"
+   ],
+   "promoters": [
+    "Rajeshbhai Parshotam Malaviya",
+    "Ushaben Rajeshbhai Malaviya",
+    "Darsh Rajeshbhai Malaviya",
+    "Parth Rajeshbhai Malaviya"
+   ],
+   "pre_ipo": false,
+   "latest": {
+    "revenue": {
+     "v": 383.012,
+     "s": "verified"
+    },
+    "pat": {
+     "v": 42.192,
+     "s": "verified"
+    },
+    "total_equity": {
+     "v": 53.306,
+     "s": "verified"
+    },
+    "EBITDA margin": {
+     "v": 0.145638,
+     "s": "verified"
+    },
+    "PAT margin": {
+     "v": 0.110158,
+     "s": "verified"
+    },
+    "RoNW (closing)": {
+     "v": 0.791506,
+     "s": "verified"
+    },
+    "Debt / Equity": {
+     "v": 2.691273,
+     "s": "verified"
+    },
+    "Revenue growth": {
+     "v": 0.125907,
+     "s": "verified"
+    },
+    "fy": "FY26"
+   },
+   "verified": true,
+   "warnings": [],
+   "processed_at": "2026-11-07T23:17:20+05:30"
+  },
+  {
+   "key": "koolkingindustriesindia",
+   "company": "Koolking Industries India Limited",
+   "board": "Mainboard",
+   "exchange": "BSE & NSE",
+   "source": "SEBI",
+   "filed_on": "2026-10-01",
+   "doc_type": "DRHP",
+   "brlms": [
+    "Keynote Financial Services Limited"
+   ],
+   "promoters": [
+    "Sajiv Gopal",
+    "Malti Sood",
+    "Varun Gopal"
+   ],
+   "pre_ipo": true,
+   "latest": {
+    "revenue": {
+     "v": 526.745,
+     "s": "verified"
+    },
+    "pat": {
+     "v": 33.206,
+     "s": "verified"
+    },
+    "total_equity": {
+     "v": 94.117,
+     "s": "verified"
+    },
+    "EBITDA margin": {
+     "v": 0.108948,
+     "s": "verified"
+    },
+    "PAT margin": {
+     "v": 0.06304,
+     "s": "verified"
+    },
+    "RoNW (closing)": {
+     "v": 0.352816,
+     "s": "verified"
+    },
+    "Debt / Equity": {
+     "v": 1.627878,
+     "s": "verified"
+    },
+    "Revenue growth": {
+     "v": 0.090249,
+     "s": "verified"
+    },
+    "fy": "FY26"
+   },
+   "verified": true,
+   "warnings": [],
+   "processed_at": "2026-11-07T23:19:28+05:30"
+  },
+  {
+   "key": "pioneerfabricators",
+   "company": "Pioneer Fabricators Limited",
+   "board": "Mainboard",
+   "exchange": "BSE & NSE",
+   "source": "SEBI",
+   "filed_on": "2026-10-01",
+   "doc_type": "DRHP",
+   "brlms": [
+    "Corporate Professionals Capital Private Limited"
+   ],
+   "promoters": [
+    "Mr. Prakher Rajeev",
+    "Mrs. Seema Agarwal"
+   ],
+   "pre_ipo": true,
+   "latest": {
+    "revenue": {
+     "v": 186.2765,
+     "s": "verified"
+    },
+    "pat": {
+     "v": 25.6225,
+     "s": "verified"
+    },
+    "total_equity": {
+     "v": 126.0171,
+     "s": "verified"
+    },
+    "EBITDA margin": {
+     "v": 0.204171,
+     "s": "verified"
+    },
+    "PAT margin": {
+     "v": 0.137551,
+     "s": "verified"
+    },
+    "RoNW (closing)": {
+     "v": 0.203326,
+     "s": "verified"
+    },
+    "Debt / Equity": {
+     "v": 0.206395,
+     "s": "verified"
+    },
+    "Revenue growth": {
+     "v": 0.307985,
+     "s": "verified"
+    },
+    "fy": "FY26"
+   },
+   "verified": true,
+   "warnings": [],
+   "processed_at": "2026-11-07T16:04:27+05:30"
+  },
+  {
+   "key": "royalchain",
+   "company": "Royal Chain Limited",
+   "board": "Mainboard",
+   "exchange": "BSE & NSE",
+   "source": "SEBI",
+   "filed_on": "2026-10-01",
+   "doc_type": "DRHP",
+   "brlms": [
+    null,
+    null
+   ],
+   "promoters": [
+    "Suresh Futarmal Jain",
+    "Manish Futarmal Jain",
+    "Nilesh Futarmal Jain",
+    "Snneh Suresh Jain",
+    "Naman Manish Jain",
+    "Royal Family Welfare Trust",
+    "Celestial Charms",
+    "Foxy Feathers"
+   ],
+   "pre_ipo": false,
+   "latest": {
+    "revenue": {
+     "v": 4732.45,
+     "s": "verified"
+    },
+    "pat": {
+     "v": 173.342,
+     "s": "verified"
+    },
+    "total_equity": {
+     "v": 465.751,
+     "s": "verified"
+    },
+    "EBITDA margin": {
+     "v": 0.060905,
+     "s": "verified"
+    },
+    "PAT margin": {
+     "v": 0.036628,
+     "s": "verified"
+    },
+    "RoNW (closing)": {
+     "v": 0.372177,
+     "s": "verified"
+    },
+    "Debt / Equity": {
+     "v": 1.202872,
+     "s": "verified"
+    },
+    "Revenue growth": {
+     "v": 0.308327,
+     "s": "verified"
+    },
+    "fy": "FY26"
+   },
+   "verified": true,
+   "warnings": [],
+   "processed_at": "2026-11-07T23:21:45+05:30"
+  },
+  {
+   "key": "saiinfinium",
+   "company": "SAI Infinium Limited",
+   "board": "Mainboard",
+   "exchange": "BSE & NSE",
+   "source": "SEBI",
+   "filed_on": "2026-10-01",
+   "doc_type": "DRHP",
+   "brlms": [
+    "Fedex Securities Private Limited",
+    "Neomile Capital Advisors Private Limited*"
+   ],
+   "promoters": [
+    "Shivnarayan Bansal",
+    "Ishu Bansal",
+    "Devansh Infinium Private Limited"
+   ],
+   "pre_ipo": false,
+   "latest": {
+    "revenue": {
+     "v": 689.162,
+     "s": "verified"
+    },
+    "pat": {
+     "v": 82.379,
+     "s": "mismatch"
+    },
+    "EBITDA margin": {
+     "v": 0.186006,
+     "s": "mismatch"
+    },
+    "PAT margin": {
+     "v": 0.119535,
+     "s": "mismatch"
+    },
+    "Revenue growth": {
+     "v": 0.303567,
+     "s": "verified"
+    },
+    "fy": "FY26"
+   },
+   "verified": false,
+   "warnings": [
+    "Some core figures could not be cross-checked; only verified figures are used in the email."
+   ],
+   "processed_at": "2026-11-07T23:20:12+05:30"
+  },
+  {
+   "key": "srgnarrowfab",
+   "company": "S.R.G.NARROW FAB Limited",
+   "board": "SME",
+   "exchange": "BSE SME",
+   "source": "BSE SME",
+   "filed_on": "2026-10-01",
+   "doc_type": "DRHP",
+   "brlms": [
+    "Value Square Capital Private Ltd."
+   ],
+   "promoters": [
+    "Dhiraj Ummedsingh Gunecha",
+    "Ummed Singh Gunecha"
+   ],
+   "pre_ipo": null,
+   "latest": {},
+   "verified": null,
+   "warnings": [
+    "BSE SME filing: contacts and figures from Chittorgarh. BSE blocks cloud servers, so the DRHP PDF could not be read automatically; open it from the link above."
+   ],
+   "processed_at": "2026-11-07T23:21:47+05:30"
+  },
+  {
+   "key": "acefurnaces",
+   "company": "ACE Furnaces Limited",
+   "board": "SME",
+   "exchange": "BSE SME",
+   "source": "BSE SME",
+   "filed_on": "2026-09-30",
+   "doc_type": "DRHP",
+   "brlms": [
+    "Beeline Capital Advisors Pvt.ltd."
+   ],
+   "promoters": [
+    "Kailash Vishnu Nasta",
+    "Rhea Kailash Nasta",
+    "Nitin Jagannath Phirake"
+   ],
+   "pre_ipo": null,
+   "latest": {},
+   "verified": null,
+   "warnings": [
+    "BSE SME filing: contacts and figures from Chittorgarh. BSE blocks cloud servers, so the DRHP PDF could not be read automatically; open it from the link above."
+   ],
+   "processed_at": "2026-11-09T01:15:33+05:30"
+  },
+  {
+   "key": "aitmcventures",
+   "company": "AITMC Ventures Limited",
+   "board": "Mainboard",
+   "exchange": "BSE & NSE",
+   "source": "NSE",
+   "filed_on": "2026-09-30",
+   "doc_type": "DRHP",
+   "brlms": [],
+   "promoters": [
+    "Deep",
+    "Preet Sandhuu"
+   ],
+   "pre_ipo": false,
+   "latest": {
+    "revenue": {
+     "v": 106.7559,
+     "s": "verified"
+    },
+    "pat": {
+     "v": 13.3834,
+     "s": "verified"
+    },
+    "total_equity": {
+     "v": 70.3072,
+     "s": "verified"
+    },
+    "EBITDA margin": {
+     "v": 0.262582,
+     "s": "verified"
+    },
+    "PAT margin": {
+     "v": 0.125364,
+     "s": "verified"
+    },
+    "RoNW (closing)": {
+     "v": 0.190356,
+     "s": "verified"
+    },
+    "Debt / Equity": {
+     "v": 0.599873,
+     "s": "verified"
+    },
+    "Revenue growth": {
+     "v": 0.220486,
+     "s": "verified"
+    },
+    "fy": "FY26"
+   },
+   "verified": true,
+   "warnings": [],
+   "processed_at": "2026-11-08T03:28:50+05:30"
+  },
+  {
+   "key": "anilfashions",
+   "company": "Anil Fashions Limited",
+   "board": "SME",
+   "exchange": "BSE SME",
+   "source": "BSE SME",
+   "filed_on": "2026-09-30",
+   "doc_type": "DRHP",
+   "brlms": [
+    "Mark Corporate Advisors Pvt.Ltd."
+   ],
+   "promoters": [
+    "Navin Ramniwas Agarwal",
+    "Ashok Ramniwas Agarwal",
+    "Anup Ramniwas Agarwal"
+   ],
+   "pre_ipo": null,
+   "latest": {},
+   "verified": null,
+   "warnings": [
+    "BSE SME filing: contacts and figures from Chittorgarh. BSE blocks cloud servers, so the DRHP PDF could not be read automatically; open it from the link above."
+   ],
+   "processed_at": "2026-11-09T01:15:25+05:30"
+  },
+  {
+   "key": "anvipublishing",
+   "company": "Anvi Publishing Limited",
+   "board": "SME",
+   "exchange": "BSE SME",
+   "source": "BSE SME",
+   "filed_on": "2026-09-30",
+   "doc_type": "DRHP",
+   "brlms": [
+    "Sobhagya Capital Options Pvt.Ltd."
+   ],
+   "promoters": [
+    "Mohit Mehta",
+    "Mamona"
+   ],
+   "pre_ipo": null,
+   "latest": {},
+   "verified": null,
+   "warnings": [
+    "BSE SME filing: contacts and figures from Chittorgarh. BSE blocks cloud servers, so the DRHP PDF could not be read automatically; open it from the link above."
+   ],
+   "processed_at": "2026-11-09T01:15:09+05:30"
+  },
+  {
+   "key": "bestengineeringaidsconsultancies",
+   "company": "Best Engineering Aids & Consultancies Limited",
+   "board": "SME",
+   "exchange": "BSE SME",
+   "source": "BSE SME",
+   "filed_on": "2026-09-30",
+   "doc_type": "DRHP",
+   "brlms": [
+    "Hem Securities Ltd."
+   ],
+   "promoters": [
+    "Varakumar Siddavatam",
+    "Joseph Jerome",
+    "Sharada Kumari Siddavatam"
+   ],
+   "pre_ipo": null,
+   "latest": {},
+   "verified": null,
+   "warnings": [
+    "BSE SME filing: contacts and figures from Chittorgarh. BSE blocks cloud servers, so the DRHP PDF could not be read automatically; open it from the link above."
+   ],
+   "processed_at": "2026-11-09T06:28:13+05:30"
+  },
+  {
+   "key": "blueoceanecotech",
+   "company": "Blueocean Ecotech Limited",
+   "board": "SME",
+   "exchange": "NSE Emerge",
+   "source": "NSE Emerge",
+   "filed_on": "2026-09-30",
+   "doc_type": "DRHP",
+   "brlms": [
+    "Hem Securities Limited"
+   ],
+   "promoters": [
+    "Sumit Gupta",
+    "Amit Gupta",
+    "Deepika Gupta",
+    "Nainsi Gupta"
+   ],
+   "pre_ipo": true,
+   "latest": {},
+   "verified": null,
+   "warnings": [
+    "Financial statements not found in the DRHP"
+   ],
+   "processed_at": "2026-11-08T11:43:47+05:30"
+  },
+  {
+   "key": "bonbonventures",
+   "company": "Bon Bon Ventures Limited",
+   "board": "SME",
+   "exchange": "BSE SME",
+   "source": "BSE SME",
+   "filed_on": "2026-09-30",
+   "doc_type": "DRHP",
+   "brlms": [
+    "Sobhagya Capital Options Pvt.Ltd."
+   ],
+   "promoters": [
+    "Birenkumar Dahyalal Limbachiya",
+    "Manish Dahyalal Limbachiya",
+    "Damini Biren Limbachiya",
+    "Chandni Biren Limbachiya",
+    "Anjana M Limbachiya"
+   ],
+   "pre_ipo": null,
+   "latest": {},
+   "verified": null,
+   "warnings": [
+    "BSE SME filing: contacts and figures from Chittorgarh. BSE blocks cloud servers, so the DRHP PDF could not be read automatically; open it from the link above."
+   ],
+   "processed_at": "2026-11-08T19:05:19+05:30"
+  },
+  {
+   "key": "carnetbooks",
+   "company": "Carnet Books Limited",
+   "board": "SME",
+   "exchange": "BSE SME",
+   "source": "BSE SME",
+   "filed_on": "2026-09-30",
+   "doc_type": "DRHP",
+   "brlms": [
+    "Finshore Management Services Ltd."
+   ],
+   "promoters": [
+    "Alex Kuruvilla",
+    "Jyolsna Alex",
+    "Kuruvilla Alex"
+   ],
+   "pre_ipo": null,
+   "latest": {},
+   "verified": null,
+   "warnings": [
+    "BSE SME filing: contacts and figures from Chittorgarh. BSE blocks cloud servers, so the DRHP PDF could not be read automatically; open it from the link above."
+   ],
+   "processed_at": "2026-11-09T01:15:18+05:30"
+  },
+  {
+   "key": "gorantlageosynthetic",
+   "company": "Gorantla Geosynthetic Limited",
+   "board": "SME",
+   "exchange": "BSE SME",
+   "source": "BSE SME",
+   "filed_on": "2026-09-30",
+   "doc_type": "DRHP",
+   "brlms": [
+    "Rarever Financial Advisors Pvt.ltd."
+   ],
+   "promoters": [
+    "Praveenkumar Gorantla 📰 Gorantla Geosynthetic Ltd"
+   ],
+   "pre_ipo": null,
+   "latest": {},
+   "verified": null,
+   "warnings": [
+    "BSE SME filing: contacts and figures from Chittorgarh. BSE blocks cloud servers, so the DRHP PDF could not be read automatically; open it from the link above."
+   ],
+   "processed_at": "2026-11-08T19:05:25+05:30"
+  },
+  {
+   "key": "gracerenewableenergy",
+   "company": "Grace Renewable Energy Limited",
+   "board": "Mainboard",
+   "exchange": "BSE & NSE",
+   "source": "NSE",
+   "filed_on": "2026-09-30",
+   "doc_type": "DRHP",
+   "brlms": [
+    "Marwadi Chandarana Intermediaries Brokers Private Limited"
+   ],
+   "promoters": [
+    "Manish Bagadia",
+    "Karuna Bagadia",
+    "Harsh Bagadia"
+   ],
+   "pre_ipo": false,
+   "latest": {
+    "revenue": {
+     "v": 205.836,
+     "s": "verified"
+    },
+    "pat": {
+     "v": 18.667,
+     "s": "verified"
+    },
+    "total_equity": {
+     "v": null,
+     "s": "unverified"
+    },
+    "EBITDA margin": {
+     "v": 0.125323,
+     "s": "verified"
+    },
+    "PAT margin": {
+     "v": 0.090689,
+     "s": "verified"
+    },
+    "RoNW (closing)": {
+     "v": null,
+     "s": null
+    },
+    "Debt / Equity": {
+     "v": null,
+     "s": null
+    },
+    "Revenue growth": {
+     "v": 0.708296,
+     "s": "verified"
+    },
+    "fy": "FY26"
+   },
+   "verified": false,
+   "warnings": [
+    "Some core figures could not be cross-checked; only verified figures are used in the email."
+   ],
+   "processed_at": "2026-11-14T16:07:23+05:30"
+  },
+  {
+   "key": "hyrefoxconsultants",
+   "company": "Hyrefox Consultants Limited",
+   "board": "SME",
+   "exchange": "BSE SME",
+   "source": "BSE SME",
+   "filed_on": "2026-09-30",
+   "doc_type": "DRHP",
+   "brlms": [
+    "Expert Global Consultants Pvt.ltd."
+   ],
+   "promoters": [
+    "Navaldeep Singh",
+    "Prateek Jain",
+    "Aditya Kedia"
+   ],
+   "pre_ipo": null,
+   "latest": {},
+   "verified": null,
+   "warnings": [
+    "BSE SME filing: contacts and figures from Chittorgarh. BSE blocks cloud servers, so the DRHP PDF could not be read automatically; open it from the link above."
+   ],
+   "processed_at": "2026-11-08T11:43:51+05:30"
+  },
+  {
+   "key": "inoxairproducts",
+   "company": "INOX Air Products Limited",
+   "board": "Mainboard",
+   "exchange": "BSE & NSE",
+   "source": "NSE",
+   "filed_on": "2026-09-30",
+   "doc_type": "DRHP",
+   "brlms": [
+    "Kotak Mahindra Capital Company Limited",
+    "Citigroup Global Markets India Private Limited",
+    "ICICI Securities Limited",
+    "J.P. Morgan India Private Limited"
+   ],
+   "promoters": [
+    "Pavan Kumar Jain",
+    "Siddharth Jain",
+    "Prodair Corporation",
+    "Inox Chemicals LLP",
+    "Siddho Mal Trading LLP",
+    "Air Products",
+    "Chemicals",
+    "Inc",
+    "Air Products Manufacturing Corporation"
+   ],
+   "pre_ipo": false,
+   "latest": {
+    "total_equity": {
+     "v": 7268.505,
+     "s": "verified"
+    },
+    "Debt / Equity": {
+     "v": 0.187885,
+     "s": "verified"
+    },
+    "fy": "FY26"
+   },
+   "verified": false,
+   "warnings": [
+    "Some core figures could not be cross-checked; only verified figures are used in the email."
+   ],
+   "processed_at": "2026-11-14T07:00:01+05:30"
+  },
+  {
+   "key": "jayteealloyscomponents",
+   "company": "Jaytee Alloys & Components Limited",
+   "board": "SME",
+   "exchange": "BSE SME",
+   "source": "BSE SME",
+   "filed_on": "2026-09-30",
+   "doc_type": "DRHP",
+   "brlms": [
+    "Getfive Advisors Pvt.ltd."
+   ],
+   "promoters": [
+    "Ashok Kumar Jain",
+    "Naman Jain"
+   ],
+   "pre_ipo": null,
+   "latest": {},
+   "verified": null,
+   "warnings": [
+    "BSE SME filing: contacts and figures from Chittorgarh. BSE blocks cloud servers, so the DRHP PDF could not be read automatically; open it from the link above."
+   ],
+   "processed_at": "2026-11-09T01:15:47+05:30"
+  },
+  {
+   "key": "kasliwalprojects",
+   "company": "Kasliwal Projects Limited",
+   "board": "SME",
+   "exchange": "NSE Emerge",
+   "source": "NSE Emerge",
+   "filed_on": "2026-09-30",
+   "doc_type": "DRHP",
+   "brlms": [
+    "Hem Securities Limited"
+   ],
+   "promoters": [
+    "Padam Kumar Jain",
+    "Anish Padam Jain",
+    "Nitish Padam Jain"
+   ],
+   "pre_ipo": false,
+   "latest": {
+    "revenue": {
+     "v": null,
+     "s": "verified"
+    },
+    "pat": {
+     "v": null,
+     "s": "mismatch"
+    },
+    "EBITDA margin": {
+     "v": 0.156184,
+     "s": "mismatch"
+    },
+    "PAT margin": {
+     "v": 0.099742,
+     "s": "mismatch"
+    },
+    "Revenue growth": {
+     "v": 0.415849,
+     "s": "verified"
+    },
+    "fy": "FY26"
+   },
+   "verified": false,
+   "warnings": [
+    "Some core figures could not be cross-checked; only verified figures are used in the email."
+   ],
+   "processed_at": "2026-11-08T11:43:39+05:30"
+  },
+  {
+   "key": "kmcaluminium",
+   "company": "K M C Aluminium Limited",
+   "board": "SME",
+   "exchange": "BSE SME",
+   "source": "BSE SME",
+   "filed_on": "2026-09-30",
+   "doc_type": "DRHP",
+   "brlms": [
+    "GYR Capital Advisors Pvt.Ltd."
+   ],
+   "promoters": [
+    "Sanjay Kumar Agarwal",
+    "Anamika Agarwal",
+    "Nidhi Agarwal"
+   ],
+   "pre_ipo": null,
+   "latest": {},
+   "verified": null,
+   "warnings": [
+    "BSE SME filing: contacts and figures from Chittorgarh. BSE blocks cloud servers, so the DRHP PDF could not be read automatically; open it from the link above."
+   ],
+   "processed_at": "2026-11-08T11:43:55+05:30"
+  },
+  {
+   "key": "lgcengineering",
+   "company": "LGC Engineering Limited",
+   "board": "SME",
+   "exchange": "BSE SME",
+   "source": "BSE SME",
+   "filed_on": "2026-09-30",
+   "doc_type": "DRHP",
+   "brlms": [
+    "Finshore Management Services Ltd."
+   ],
+   "promoters": [
+    "Arjun Krishna Shastry",
+    "Deepika Gerty Laxmi",
+    "Geetha Krishna"
+   ],
+   "pre_ipo": null,
+   "latest": {},
+   "verified": null,
+   "warnings": [
+    "BSE SME filing: contacts and figures from Chittorgarh. BSE blocks cloud servers, so the DRHP PDF could not be read automatically; open it from the link above."
+   ],
+   "processed_at": "2026-11-09T01:15:29+05:30"
+  },
+  {
+   "key": "madhavaacrafts",
+   "company": "Madhavaa Crafts Limited",
+   "board": "SME",
+   "exchange": "NSE Emerge",
+   "source": "NSE Emerge",
+   "filed_on": "2026-09-30",
+   "doc_type": "DRHP",
+   "brlms": [
+    "GYR Capital Advisors Private Limited"
+   ],
+   "promoters": [
+    "Mr. D Kathirvel",
+    "Mrs. Priya Lavaniya"
+   ],
+   "pre_ipo": false,
+   "latest": {
+    "fy": "Col1"
+   },
+   "verified": false,
+   "warnings": [
+    "Some core figures could not be cross-checked; only verified figures are used in the email."
+   ],
+   "processed_at": "2026-11-08T11:43:21+05:30"
+  },
+  {
+   "key": "microfilterpolymers",
+   "company": "Microfilter Polymers Limited",
+   "board": "SME",
+   "exchange": "BSE SME",
+   "source": "BSE SME",
+   "filed_on": "2026-09-30",
+   "doc_type": "DRHP",
+   "brlms": [
+    "Aftertrade Broking Pvt.ltd."
+   ],
+   "promoters": [
+    "Shailendra Mangal",
+    "Ritu Mangal",
+    "Samrudhi Mangal"
+   ],
+   "pre_ipo": null,
+   "latest": {},
+   "verified": null,
+   "warnings": [
+    "BSE SME filing: contacts and figures from Chittorgarh. BSE blocks cloud servers, so the DRHP PDF could not be read automatically; open it from the link above."
+   ],
+   "processed_at": "2026-11-08T19:05:34+05:30"
+  },
+  {
+   "key": "momaiart",
+   "company": "Momai Art Limited",
+   "board": "Mainboard",
+   "exchange": null,
+   "source": "NSE",
+   "filed_on": "2026-09-30",
+   "doc_type": "DRHP",
+   "brlms": [
+    "Marwadi Chandarana Intermediaries Brokers Private Limited"
+   ],
+   "promoters": [
+    "Nikhil Tulsidas Vaya",
+    "Rahul Tulsibhai Vaya",
+    "Atul Jentilal Patt"
+   ],
+   "pre_ipo": false,
+   "latest": {
+    "revenue": {
+     "v": 662.23,
+     "s": "verified"
+    },
+    "pat": {
+     "v": 39.005,
+     "s": "mismatch"
+    },
+    "total_equity": {
+     "v": 50.807,
+     "s": "verified"
+    },
+    "EBITDA margin": {
+     "v": 0.090923,
+     "s": "verified"
+    },
+    "PAT margin": {
+     "v": 0.058899,
+     "s": "mismatch"
+    },
+    "RoNW (closing)": {
+     "v": 0.767709,
+     "s": "mismatch"
+    },
+    "Debt / Equity": {
+     "v": 1.737438,
+     "s": "verified"
+    },
+    "Revenue growth": {
+     "v": 0.189205,
+     "s": "verified"
+    },
+    "fy": "FY26"
+   },
+   "verified": false,
+   "warnings": [
+    "Some core figures could not be cross-checked; only verified figures are used in the email."
+   ],
+   "processed_at": "2026-11-09T17:16:00+05:30"
+  },
+  {
+   "key": "nntdevelopers",
+   "company": "Nnt Developers Limited",
+   "board": "Mainboard",
+   "exchange": null,
+   "source": "NSE",
+   "filed_on": "2026-09-30",
+   "doc_type": "DRHP",
+   "brlms": [],
+   "promoters": [
+    "Mr. Suyash Kumar",
+    "Mr. Jitendra Singh",
+    "Mr. Shrawan Singh"
+   ],
+   "pre_ipo": true,
+   "latest": {
+    "revenue": {
+     "v": 223.6551,
+     "s": "verified"
+    },
+    "pat": {
+     "v": 21.5656,
+     "s": "verified"
+    },
+    "EBITDA margin": {
+     "v": 0.147034,
+     "s": "verified"
+    },
+    "PAT margin": {
+     "v": 0.096423,
+     "s": "verified"
+    },
+    "Revenue growth": {
+     "v": 0.079711,
+     "s": "verified"
+    },
+    "fy": "FY26"
+   },
+   "verified": false,
+   "warnings": [
+    "Some core figures could not be cross-checked; only verified figures are used in the email.",
+    "No usable email found for promoters, BRLM or the company."
+   ],
+   "processed_at": "2026-11-14T07:00:07+05:30"
+  },
+  {
+   "key": "qualityenviroengineers",
+   "company": "Quality Enviro Engineers Limited",
+   "board": "SME",
+   "exchange": "BSE SME",
+   "source": "BSE SME",
+   "filed_on": "2026-09-30",
+   "doc_type": "DRHP",
+   "brlms": [
+    "Shannon Advisors Pvt.Ltd."
+   ],
+   "promoters": [
+    "Ashwani Srivastava",
+    "Neha Srivastava"
+   ],
+   "pre_ipo": null,
+   "latest": {},
+   "verified": null,
+   "warnings": [
+    "BSE SME filing: contacts and figures from Chittorgarh. BSE blocks cloud servers, so the DRHP PDF could not be read automatically; open it from the link above."
+   ],
+   "processed_at": "2026-11-09T06:28:16+05:30"
+  },
+  {
+   "key": "rajpolypack",
+   "company": "Raj Polypack Limited",
+   "board": "SME",
+   "exchange": "BSE SME",
+   "source": "BSE SME",
+   "filed_on": "2026-09-30",
+   "doc_type": "DRHP",
+   "brlms": [
+    "Wealth Mine Networks Ltd."
+   ],
+   "promoters": [
+    "Arun Ashokbhai Maheshwari",
+    "Amit Ashokkumar Maheshwari",
+    "Chakshu Arun Maheshwari"
+   ],
+   "pre_ipo": null,
+   "latest": {},
+   "verified": null,
+   "warnings": [
+    "BSE SME filing: contacts and figures from Chittorgarh. BSE blocks cloud servers, so the DRHP PDF could not be read automatically; open it from the link above."
+   ],
+   "processed_at": "2026-11-08T19:05:37+05:30"
+  },
+  {
+   "key": "rathodjewellerymanufacturing",
+   "company": "Rathod Jewellery Manufacturing Limited",
+   "board": "Mainboard",
+   "exchange": "BSE & NSE",
+   "source": "NSE",
+   "filed_on": "2026-09-30",
+   "doc_type": "DRHP",
+   "brlms": [
+    "Hem Securities Limited"
+   ],
+   "promoters": [
+    "Chandrakant Hanjarimal Rathod",
+    "Rupali Chandrakant Rathod",
+    "Reeva Chandrakant Rathod",
+    "Hridhay Chandrakant Rathod"
+   ],
+   "pre_ipo": false,
+   "latest": {
+    "revenue": {
+     "v": 667.3337,
+     "s": "verified"
+    },
+    "pat": {
+     "v": 50.4677,
+     "s": "mismatch"
+    },
+    "EBITDA margin": {
+     "v": 0.108152,
+     "s": "verified"
+    },
+    "PAT margin": {
+     "v": 0.075626,
+     "s": "mismatch"
+    },
+    "Revenue growth": {
+     "v": 0.313913,
+     "s": "verified"
+    },
+    "fy": "FY26"
+   },
+   "verified": false,
+   "warnings": [
+    "Some core figures could not be cross-checked; only verified figures are used in the email."
+   ],
+   "processed_at": "2026-11-14T16:07:28+05:30"
+  },
+  {
+   "key": "rudragreenshiprecycling",
+   "company": "Rudra Green Ship Recycling Limited",
+   "board": "Mainboard",
+   "exchange": null,
+   "source": "NSE",
+   "filed_on": "2026-09-30",
+   "doc_type": "DRHP",
+   "brlms": [
+    "Cumulative Capital Private Limited"
+   ],
+   "promoters": [
+    "Ashokkumar Jagdishram Gupta",
+    "Shamarani Ashokkumar Gupta",
+    "Sahil Ashok Gupta",
+    "Shrishti Nikhilkumar Gupta",
+    "Sonthalia Steel Rolling Mills Private Limited"
+   ],
+   "pre_ipo": true,
+   "latest": {
+    "revenue": {
+     "v": 204.5153,
+     "s": "verified"
+    },
+    "pat": {
+     "v": 12.6451,
+     "s": "verified"
+    },
+    "total_equity": {
+     "v": 52.4745,
+     "s": "verified"
+    },
+    "EBITDA margin": {
+     "v": 0.106525,
+     "s": "verified"
+    },
+    "PAT margin": {
+     "v": 0.06183,
+     "s": "verified"
+    },
+    "RoNW (closing)": {
+     "v": 0.240976,
+     "s": "verified"
+    },
+    "Debt / Equity": {
+     "v": 1.185522,
+     "s": "verified"
+    },
+    "Revenue growth": {
+     "v": 0.141298,
+     "s": "verified"
+    },
+    "fy": "FY26"
+   },
+   "verified": true,
+   "warnings": [],
+   "processed_at": "2026-11-14T16:07:02+05:30"
+  },
+  {
+   "key": "rysainfratech",
+   "company": "Rysa Infratech Limited",
+   "board": "SME",
+   "exchange": "BSE SME",
+   "source": "BSE SME",
+   "filed_on": "2026-09-30",
+   "doc_type": "DRHP",
+   "brlms": [
+    "Diggi Corporate Advisors Pvt.Ltd."
+   ],
+   "promoters": [
+    "Sanjiv Kumar Chaudhary",
+    "Yogesh Tomar"
+   ],
+   "pre_ipo": null,
+   "latest": {},
+   "verified": null,
+   "warnings": [
+    "BSE SME filing: contacts and figures from Chittorgarh. BSE blocks cloud servers, so the DRHP PDF could not be read automatically; open it from the link above."
+   ],
+   "processed_at": "2026-11-09T01:15:49+05:30"
+  },
+  {
+   "key": "sabariconstructiontechnologies",
+   "company": "Sabari Construction Technologies Limited",
+   "board": "SME",
+   "exchange": "NSE Emerge",
+   "source": "NSE Emerge",
+   "filed_on": "2026-09-30",
+   "doc_type": "DRHP",
+   "brlms": [],
+   "promoters": [
+    "Mr. Vangatachalapathy K",
+    "Mr. A Arunsakdeeban",
+    "Mrs. Preethi Vangat"
+   ],
+   "pre_ipo": false,
+   "latest": {
+    "pat": {
+     "v": 56.6267,
+     "s": "verified"
+    },
+    "fy": "FY26"
+   },
+   "verified": false,
+   "warnings": [
+    "Some core figures could not be cross-checked; only verified figures are used in the email.",
+    "No usable email found for promoters, BRLM or the company."
+   ],
+   "processed_at": "2026-11-08T03:29:13+05:30"
+  },
+  {
+   "key": "sanwariyamultiventures",
+   "company": "Sanwariya Multiventures Limited",
+   "board": "SME",
+   "exchange": "BSE SME",
+   "source": "BSE SME",
+   "filed_on": "2026-09-30",
+   "doc_type": "DRHP",
+   "brlms": [
+    "Corporate Makers Capital Ltd."
+   ],
+   "promoters": [
+    "Rajaram Vaishnav Offer For Sale - Selling Shareholder Name Category No"
+   ],
+   "pre_ipo": null,
+   "latest": {},
+   "verified": null,
+   "warnings": [
+    "BSE SME filing: contacts and figures from Chittorgarh. BSE blocks cloud servers, so the DRHP PDF could not be read automatically; open it from the link above."
+   ],
+   "processed_at": "2026-11-09T01:15:22+05:30"
+  },
+  {
+   "key": "sarvafoamindustries",
+   "company": "Sarva Foam Industries Limited",
+   "board": "Mainboard",
+   "exchange": "BSE & NSE",
+   "source": "NSE",
+   "filed_on": "2026-09-30",
+   "doc_type": "DRHP",
+   "brlms": [
+    "Beeline Capital Advisors Private Limited"
+   ],
+   "promoters": [
+    "Kunal Giani"
+   ],
+   "pre_ipo": true,
+   "latest": {
+    "revenue": {
+     "v": 206.121,
+     "s": "verified"
+    },
+    "pat": {
+     "v": 17.927,
+     "s": "verified"
+    },
+    "total_equity": {
+     "v": 72.16,
+     "s": "verified"
+    },
+    "EBITDA margin": {
+     "v": 0.160532,
+     "s": "verified"
+    },
+    "PAT margin": {
+     "v": 0.086973,
+     "s": "verified"
+    },
+    "RoNW (closing)": {
+     "v": 0.248434,
+     "s": "verified"
+    },
+    "Debt / Equity": {
+     "v": 1.368265,
+     "s": "verified"
+    },
+    "Revenue growth": {
+     "v": 0.178899,
+     "s": "verified"
+    },
+    "fy": "FY26"
+   },
+   "verified": false,
+   "warnings": [
+    "Some core figures could not be cross-checked; only verified figures are used in the email."
+   ],
+   "processed_at": "2026-11-09T17:15:56+05:30"
+  },
+  {
+   "key": "sbiplprojects",
+   "company": "Sbipl Projects Limited",
+   "board": "SME",
+   "exchange": "NSE Emerge",
+   "source": "NSE Emerge",
+   "filed_on": "2026-09-30",
+   "doc_type": "DRHP",
+   "brlms": [
+    "Hem Securities Limited"
+   ],
+   "promoters": [
+    "Surender Pal",
+    "Suramveer",
+    "Vishal Choudhary"
+   ],
+   "pre_ipo": false,
+   "latest": {
+    "fy": "FY26"
+   },
+   "verified": false,
+   "warnings": [
+    "Some core figures could not be cross-checked; only verified figures are used in the email."
+   ],
+   "processed_at": "2026-11-08T03:29:29+05:30"
+  },
+  {
+   "key": "sceptremedicalindia",
+   "company": "Sceptre Medical (India) Limited",
+   "board": "SME",
+   "exchange": "BSE SME",
+   "source": "BSE SME",
+   "filed_on": "2026-09-30",
+   "doc_type": "DRHP",
+   "brlms": [
+    "Unicon Capital Services Pvt.Ltd."
+   ],
+   "promoters": [
+    "Sanjay Manocha",
+    "Yogesh Sachdeva",
+    "Kartik Palta",
+    "Sukesh Arora",
+    "Archna Manocha",
+    "Mona Sachdeva",
+    "Charu Palta",
+    "Siddharth Manocha"
+   ],
+   "pre_ipo": null,
+   "latest": {},
+   "verified": null,
+   "warnings": [
+    "BSE SME filing: contacts and figures from Chittorgarh. BSE blocks cloud servers, so the DRHP PDF could not be read automatically; open it from the link above."
+   ],
+   "processed_at": "2026-11-08T19:05:31+05:30"
+  },
+  {
+   "key": "shaktiinfraprojects",
+   "company": "Shakti Infra Projects Limited",
+   "board": "SME",
+   "exchange": "BSE SME",
+   "source": "BSE SME",
+   "filed_on": "2026-09-30",
+   "doc_type": "DRHP",
+   "brlms": [
+    "Sobhagya Capital Options Pvt.Ltd."
+   ],
+   "promoters": [
+    "Amitendra Singh",
+    "Shakti Narayan Singh"
+   ],
+   "pre_ipo": null,
+   "latest": {},
+   "verified": null,
+   "warnings": [
+    "BSE SME filing: contacts and figures from Chittorgarh. BSE blocks cloud servers, so the DRHP PDF could not be read automatically; open it from the link above."
+   ],
+   "processed_at": "2026-11-09T01:15:41+05:30"
+  },
+  {
+   "key": "solankimechanicworks",
+   "company": "Solanki Mechanic Works Limited",
+   "board": "SME",
+   "exchange": "BSE SME",
+   "source": "BSE SME",
+   "filed_on": "2026-09-30",
+   "doc_type": "DRHP",
+   "brlms": [
+    "Swaraj Shares & Securities Pvt.ltd."
+   ],
+   "promoters": [
+    "Solanki Nira Brijesh",
+    "Solanki Jaisal Nipulbhai",
+    "Solanki Nipul Hasmukhbhai",
+    "Solanki Naman Manojbhai"
+   ],
+   "pre_ipo": null,
+   "latest": {},
+   "verified": null,
+   "warnings": [
+    "BSE SME filing: contacts and figures from Chittorgarh. BSE blocks cloud servers, so the DRHP PDF could not be read automatically; open it from the link above."
+   ],
+   "processed_at": "2026-11-09T06:28:21+05:30"
+  },
+  {
+   "key": "solitariolabgrown",
+   "company": "Solitario Lab Grown Limited",
+   "board": "SME",
+   "exchange": "BSE SME",
+   "source": "BSE SME",
+   "filed_on": "2026-09-30",
+   "doc_type": "DRHP",
+   "brlms": [
+    "Socradamus Capital Pvt.ltd."
+   ],
+   "promoters": [
+    "Ricky Hiro Vasandani Offer For Sale - Selling Shareholder Name Category No"
+   ],
+   "pre_ipo": null,
+   "latest": {},
+   "verified": null,
+   "warnings": [
+    "BSE SME filing: contacts and figures from Chittorgarh. BSE blocks cloud servers, so the DRHP PDF could not be read automatically; open it from the link above."
+   ],
+   "processed_at": "2026-11-09T01:15:37+05:30"
+  },
+  {
+   "key": "steamequipments",
+   "company": "Steam Equipments Limited",
+   "board": "SME",
+   "exchange": "BSE SME",
+   "source": "BSE SME",
+   "filed_on": "2026-09-30",
+   "doc_type": "DRHP",
+   "brlms": [
+    "Sobhagya Capital Options Pvt.Ltd."
+   ],
+   "promoters": [
+    "Rasheed Syed",
+    "Nayab Rasheed Syed",
+    "Nida Rasheed Syed"
+   ],
+   "pre_ipo": null,
+   "latest": {},
+   "verified": null,
+   "warnings": [
+    "BSE SME filing: contacts and figures from Chittorgarh. BSE blocks cloud servers, so the DRHP PDF could not be read automatically; open it from the link above."
+   ],
+   "processed_at": "2026-11-08T11:44:00+05:30"
+  },
+  {
+   "key": "sunilgoldindia",
+   "company": "Sunil Gold India Limited",
+   "board": "Mainboard",
+   "exchange": "BSE & NSE",
+   "source": "NSE",
+   "filed_on": "2026-09-30",
+   "doc_type": "DRHP",
+   "brlms": [
+    "Choice Capital Advisors Private Limited"
+   ],
+   "promoters": [
+    "Prem Mohanlal Jain",
+    "Shrenik Mohanlal Jain",
+    "Anil Mohanlal Jain"
+   ],
+   "pre_ipo": false,
+   "latest": {
+    "revenue": {
+     "v": 1341.949,
+     "s": "verified"
+    },
+    "pat": {
+     "v": 93.422,
+     "s": "verified"
+    },
+    "total_equity": {
+     "v": 155.218,
+     "s": "verified"
+    },
+    "EBITDA margin": {
+     "v": 0.070374,
+     "s": "verified"
+    },
+    "PAT margin": {
+     "v": 0.069617,
+     "s": "verified"
+    },
+    "RoNW (closing)": {
+     "v": 0.601876,
+     "s": "verified"
+    },
+    "Debt / Equity": {
+     "v": 1.127021,
+     "s": "verified"
+    },
+    "Revenue growth": {
+     "v": 1.574996,
+     "s": "verified"
+    },
+    "fy": "FY26"
+   },
+   "verified": true,
+   "warnings": [],
+   "processed_at": "2026-11-12T16:58:17+05:30"
+  },
+  {
+   "key": "suntekaxpressindia",
+   "company": "Suntek Axpress India Limited",
+   "board": "SME",
+   "exchange": "NSE Emerge",
+   "source": "NSE Emerge",
+   "filed_on": "2026-09-30",
+   "doc_type": "DRHP",
+   "brlms": [],
+   "promoters": [
+    "Mr. Khushi Ram Sharma",
+    "Mrs. Renu K Sharma",
+    "Mr. Sunil Khushiram Sharma"
+   ],
+   "pre_ipo": true,
+   "latest": {
+    "revenue": {
+     "v": 182.19,
+     "s": "verified"
+    },
+    "pat": {
+     "v": 8.503,
+     "s": "verified"
+    },
+    "EBITDA margin": {
+     "v": 0.069081,
+     "s": "verified"
+    },
+    "PAT margin": {
+     "v": 0.046671,
+     "s": "verified"
+    },
+    "Revenue growth": {
+     "v": 0.159732,
+     "s": "verified"
+    },
+    "fy": "FY26"
+   },
+   "verified": false,
+   "warnings": [
+    "Some core figures could not be cross-checked; only verified figures are used in the email.",
+    "No usable email found for promoters, BRLM or the company."
+   ],
+   "processed_at": "2026-11-08T03:29:05+05:30"
+  },
+  {
+   "key": "tanviexportsindia",
+   "company": "Tanvi Exports India Limited",
+   "board": "Mainboard",
+   "exchange": "BSE & NSE",
+   "source": "NSE",
+   "filed_on": "2026-09-30",
+   "doc_type": "DRHP",
+   "brlms": [
+    "Aryaman Financial Services Limited"
+   ],
+   "promoters": [
+    "Bipinbhai Gordhanbhai Viradiya",
+    "Raj Ashokbhai Bhalara",
+    "Mayur Bhupatbhai Limbasiya",
+    "Hiteshbhai Mohanbhai Sardhara",
+    "Hareshbhai Mohanbhai Sardhara"
+   ],
+   "pre_ipo": true,
+   "latest": {
+    "revenue": {
+     "v": 1139.936,
+     "s": "verified"
+    },
+    "pat": {
+     "v": 65.797,
+     "s": "verified"
+    },
+    "total_equity": {
+     "v": 108.387,
+     "s": "verified"
+    },
+    "EBITDA margin": {
+     "v": 0.080771,
+     "s": "verified"
+    },
+    "PAT margin": {
+     "v": 0.05772,
+     "s": "verified"
+    },
+    "RoNW (closing)": {
+     "v": 0.607056,
+     "s": "verified"
+    },
+    "Debt / Equity": {
+     "v": 1.047257,
+     "s": "verified"
+    },
+    "Revenue growth": {
+     "v": 0.130435,
+     "s": "verified"
+    },
+    "fy": "FY26"
+   },
+   "verified": true,
+   "warnings": [],
+   "processed_at": "2026-11-14T16:07:07+05:30"
+  },
+  {
+   "key": "technomeddevicesindia",
+   "company": "Technomed Devices India Limited",
+   "board": "SME",
+   "exchange": "BSE SME",
+   "source": "BSE SME",
+   "filed_on": "2026-09-30",
+   "doc_type": "DRHP",
+   "brlms": [
+    "Hem Securities Ltd."
+   ],
+   "promoters": [
+    "Rishi Agarwal",
+    "Rahul Rajan",
+    "Vidhi Agarwal"
+   ],
+   "pre_ipo": null,
+   "latest": {},
+   "verified": null,
+   "warnings": [
+    "BSE SME filing: contacts and figures from Chittorgarh. BSE blocks cloud servers, so the DRHP PDF could not be read automatically; open it from the link above."
+   ],
+   "processed_at": "2026-11-09T06:28:06+05:30"
+  },
+  {
+   "key": "vardhmanappliances",
+   "company": "Vardhman Appliances Limited",
+   "board": "Mainboard",
+   "exchange": "BSE & NSE",
+   "source": "NSE",
+   "filed_on": "2026-09-30",
+   "doc_type": "DRHP",
+   "brlms": [
+    "IDBI Capital Markets & Securities Limited",
+    "Pantomath Capital Advisors Private Limited^"
+   ],
+   "promoters": [
+    "Parmod Kumar Jain",
+    "Subodh Kumar Jain",
+    "Vinod Kumar Jain",
+    "Piyush Jain",
+    "Akhil Jain",
+    "Siddharth Jain",
+    "Sambhav Jain",
+    "Vineet Jain"
+   ],
+   "pre_ipo": true,
+   "latest": {
+    "revenue": {
+     "v": 869.618,
+     "s": "verified"
+    },
+    "pat": {
+     "v": 22.485,
+     "s": "verified"
+    },
+    "total_equity": {
+     "v": 100.472,
+     "s": "verified"
+    },
+    "EBITDA margin": {
+     "v": 0.059753,
+     "s": "verified"
+    },
+    "PAT margin": {
+     "v": 0.025856,
+     "s": "verified"
+    },
+    "RoNW (closing)": {
+     "v": 0.223794,
+     "s": "verified"
+    },
+    "Debt / Equity": {
+     "v": 1.216548,
+     "s": "verified"
+    },
+    "Revenue growth": {
+     "v": 0.040296,
+     "s": "verified"
+    },
+    "fy": "FY26"
+   },
+   "verified": true,
+   "warnings": [],
+   "processed_at": "2026-11-08T03:28:39+05:30"
+  },
+  {
+   "key": "vetrivelexplosives",
+   "company": "Vetrivel Explosives Limited",
+   "board": "SME",
+   "exchange": "NSE Emerge",
+   "source": "NSE Emerge",
+   "filed_on": "2026-09-30",
+   "doc_type": "DRHP",
+   "brlms": [
+    "GYR Capital Advisors Private Limited"
+   ],
+   "promoters": [
+    "Vijayakannan Ramalingam",
+    "Vetrivel Ramalingam",
+    "Premalatha Rangasamy Mudaliar"
+   ],
+   "pre_ipo": false,
+   "latest": {
+    "pat": {
+     "v": 14.6317,
+     "s": "verified"
+    },
+    "fy": "FY26"
+   },
+   "verified": false,
+   "warnings": [
+    "Some core figures could not be cross-checked; only verified figures are used in the email."
+   ],
+   "processed_at": "2026-11-08T03:29:16+05:30"
+  },
+  {
+   "key": "vinirengineering",
+   "company": "Vinir Engineering Limited",
+   "board": "Mainboard",
+   "exchange": "BSE & NSE",
+   "source": "NSE",
+   "filed_on": "2026-09-30",
+   "doc_type": "DRHP",
+   "brlms": [
+    "GYR Capital Advisors Private Limited"
+   ],
+   "promoters": [
+    "Naresh Chandra Gupta",
+    "Nitesh Gupta",
+    "Ritesh Gupta"
+   ],
+   "pre_ipo": false,
+   "latest": {},
+   "verified": null,
+   "warnings": [
+    "Financial statements not found in the DRHP"
+   ],
+   "processed_at": "2026-11-14T16:07:15+05:30"
+  },
+  {
+   "key": "vishakharenewables",
+   "company": "Vishakha Renewables Limited",
+   "board": "Mainboard",
+   "exchange": "BSE & NSE",
+   "source": "NSE",
+   "filed_on": "2026-09-30",
+   "doc_type": "DRHP",
+   "brlms": [
+    "SBI Capital Markets Limited",
+    "ICICI Securities Limited",
+    "IIFL Capital Services Limited"
+   ],
+   "promoters": [
+    "Jigish Nagindas Doshi",
+    "Akshat Jigishbhai Doshi",
+    "Gautam S. Adani",
+    "Rajesh S. Adani",
+    "Vinod S. Adani",
+    "Adani Properties Private Limited",
+    "Adani Commodities",
+    "S.b. Adani Family Trust"
+   ],
+   "pre_ipo": true,
+   "latest": {
+    "revenue": {
+     "v": 1893.378,
+     "s": "verified"
+    },
+    "pat": {
+     "v": 173.448,
+     "s": "verified"
+    },
+    "EBITDA margin": {
+     "v": 0.20595,
+     "s": "verified"
+    },
+    "PAT margin": {
+     "v": 0.091608,
+     "s": "verified"
+    },
+    "Revenue growth": {
+     "v": 0.248062,
+     "s": "verified"
+    },
+    "fy": "FY26"
+   },
+   "verified": false,
+   "warnings": [
+    "Some core figures could not be cross-checked; only verified figures are used in the email."
+   ],
+   "processed_at": "2026-11-13T16:39:55+05:30"
+  },
+  {
+   "key": "weldorcncmachines",
+   "company": "Weldor CNC Machines Limited",
+   "board": "SME",
+   "exchange": "BSE SME",
+   "source": "BSE SME",
+   "filed_on": "2026-09-30",
+   "doc_type": "DRHP",
+   "brlms": [
+    "Seren Capital Pvt.Ltd."
+   ],
+   "promoters": [
+    "Maheshkumar Gordhandas Vaghela",
+    "Nikunj Maheshkumar Vaghela",
+    "Minaben Maheshkumar Vaghela"
+   ],
+   "pre_ipo": null,
+   "latest": {},
+   "verified": null,
+   "warnings": [
+    "BSE SME filing: contacts and figures from Chittorgarh. BSE blocks cloud servers, so the DRHP PDF could not be read automatically; open it from the link above."
+   ],
+   "processed_at": "2026-11-08T19:05:28+05:30"
+  },
+  {
+   "key": "birdmachines",
+   "company": "Bird Machines Limited",
+   "board": "SME",
+   "exchange": "BSE SME",
+   "source": "BSE SME",
+   "filed_on": "2026-09-29",
+   "doc_type": "DRHP",
+   "brlms": [
+    "Sobhagya Capital Options Pvt.Ltd."
+   ],
+   "promoters": [
+    "Prakash Chand Jain",
+    "Ranjeet Kumar Jain",
+    "Praveen Kumar Jain",
+    "Vikram Kumar",
+    "Milap Chand Jain"
+   ],
+   "pre_ipo": null,
+   "latest": {},
+   "verified": null,
+   "warnings": [
+    "BSE SME filing: contacts and figures from Chittorgarh. BSE blocks cloud servers, so the DRHP PDF could not be read automatically; open it from the link above."
+   ],
+   "processed_at": "2026-11-09T06:28:59+05:30"
+  },
+  {
+   "key": "chandranipearls",
+   "company": "Chandrani Pearls Limited",
+   "board": "SME",
+   "exchange": "NSE Emerge",
+   "source": "NSE Emerge",
+   "filed_on": "2026-09-29",
+   "doc_type": "DRHP",
+   "brlms": [
+    "Jajodia Equity Advisors Services Limited"
+   ],
+   "promoters": [
+    "Mr. Kuldip Nayar",
+    "Mr. Nisheeth Nayar",
+    "Mr. Vinayak Nayar",
+    "Mrs Shilpa Kedia Nayar",
+    "Mrs. Deepa Nangia Nayar",
+    "Chandrani Enterprises Private Limited"
+   ],
+   "pre_ipo": false,
+   "latest": {
+    "pat": {
+     "v": 9.1625,
+     "s": "verified"
+    },
+    "fy": "FY26"
+   },
+   "verified": false,
+   "warnings": [
+    "Some core figures could not be cross-checked; only verified figures are used in the email."
+   ],
+   "processed_at": "2026-11-09T06:28:32+05:30"
+  },
+  {
+   "key": "conceptiatechnologies",
+   "company": "Conceptia Technologies Limited",
+   "board": "SME",
+   "exchange": "NSE Emerge",
+   "source": "NSE Emerge",
+   "filed_on": "2026-09-29",
+   "doc_type": "DRHP",
+   "brlms": [],
+   "promoters": [
+    "Anildas Narayanapillai Thulasidas",
+    "Jithesh Keedathu Ayyappan Pillai",
+    "Geetha Das"
+   ],
+   "pre_ipo": false,
+   "latest": {
+    "revenue": {
+     "v": 91.7814,
+     "s": "verified"
+    },
+    "pat": {
+     "v": 6.0299,
+     "s": "verified"
+    },
+    "EBITDA margin": {
+     "v": 0.104848,
+     "s": "verified"
+    },
+    "PAT margin": {
+     "v": 0.065698,
+     "s": "verified"
+    },
+    "Revenue growth": {
+     "v": 0.475697,
+     "s": "verified"
+    },
+    "fy": "FY26"
+   },
+   "verified": false,
+   "warnings": [
+    "Some core figures could not be cross-checked; only verified figures are used in the email.",
+    "No usable email found for promoters, BRLM or the company."
+   ],
+   "processed_at": "2026-11-09T06:28:58+05:30"
+  },
+  {
+   "key": "gleamingapparels",
+   "company": "Gleaming Apparels Limited",
+   "board": "SME",
+   "exchange": "BSE SME",
+   "source": "BSE SME",
+   "filed_on": "2026-09-29",
+   "doc_type": "DRHP",
+   "brlms": [
+    "GYR Capital Advisors Pvt.Ltd."
+   ],
+   "promoters": [
+    "Amit Bansal",
+    "Ritu Bansal"
+   ],
+   "pre_ipo": null,
+   "latest": {},
+   "verified": null,
+   "warnings": [
+    "BSE SME filing: contacts and figures from Chittorgarh. BSE blocks cloud servers, so the DRHP PDF could not be read automatically; open it from the link above."
+   ],
+   "processed_at": "2026-11-09T17:16:08+05:30"
+  },
+  {
+   "key": "gromaglobal",
+   "company": "Groma Global Limited",
+   "board": "SME",
+   "exchange": "BSE SME",
+   "source": "BSE SME",
+   "filed_on": "2026-09-29",
+   "doc_type": "DRHP",
+   "brlms": [
+    "Smart Horizon Capital Advisors Pvt.Ltd."
+   ],
+   "promoters": [
+    "Dhruv D Kabra",
+    "Shishir D Kabra"
+   ],
+   "pre_ipo": null,
+   "latest": {},
+   "verified": null,
+   "warnings": [
+    "BSE SME filing: contacts and figures from Chittorgarh. BSE blocks cloud servers, so the DRHP PDF could not be read automatically; open it from the link above."
+   ],
+   "processed_at": "2026-11-09T06:29:03+05:30"
+  },
+  {
+   "key": "jksalt",
+   "company": "JK Salt Limited",
+   "board": "SME",
+   "exchange": "BSE SME",
+   "source": "BSE SME",
+   "filed_on": "2026-09-29",
+   "doc_type": "DRHP",
+   "brlms": [
+    "Flookup Capital Advisors Pvt.Ltd."
+   ],
+   "promoters": [
+    "Jugal Kishore Modi",
+    "Manish Gupta",
+    "Manoj Kumar Gupta",
+    "Abhishek Modi"
+   ],
+   "pre_ipo": null,
+   "latest": {},
+   "verified": null,
+   "warnings": [
+    "BSE SME filing: contacts and figures from Chittorgarh. BSE blocks cloud servers, so the DRHP PDF could not be read automatically; open it from the link above."
+   ],
+   "processed_at": "2026-11-09T17:16:50+05:30"
+  },
+  {
+   "key": "ph1industries",
+   "company": "Ph1 Industries Limited",
+   "board": "SME",
+   "exchange": "NSE Emerge",
+   "source": "NSE Emerge",
+   "filed_on": "2026-09-29",
+   "doc_type": "DRHP",
+   "brlms": [
+    "GYR Capital Advisors Private Limited"
+   ],
+   "promoters": [
+    "Mr. Bhaskar J",
+    "Mr. S Saravanan",
+    "Mr. E Surendra Babu",
+    "Mr. B Prabakaran"
+   ],
+   "pre_ipo": false,
+   "latest": {
+    "pat": {
+     "v": 7.831,
+     "s": "verified"
+    },
+    "fy": "FY26"
+   },
+   "verified": false,
+   "warnings": [
+    "Some core figures could not be cross-checked; only verified figures are used in the email."
+   ],
+   "processed_at": "2026-11-09T06:28:41+05:30"
+  },
+  {
+   "key": "ppbooks",
+   "company": "P.P.Books Limited",
+   "board": "SME",
+   "exchange": "BSE SME",
+   "source": "BSE SME",
+   "filed_on": "2026-09-29",
+   "doc_type": "DRHP",
+   "brlms": [
+    "Socradamus Capital Pvt.ltd."
+   ],
+   "promoters": [
+    "Prateek Gupta",
+    "Aman Gupta",
+    "Parvesh Kumar Gupta",
+    "Poonam Gupta"
+   ],
+   "pre_ipo": null,
+   "latest": {},
+   "verified": null,
+   "warnings": [
+    "BSE SME filing: contacts and figures from Chittorgarh. BSE blocks cloud servers, so the DRHP PDF could not be read automatically; open it from the link above."
+   ],
+   "processed_at": "2026-11-09T17:16:11+05:30"
+  },
+  {
+   "key": "roongtaentertainment",
+   "company": "Roongta Entertainment Limited",
+   "board": "SME",
+   "exchange": "NSE Emerge",
+   "source": "NSE Emerge",
+   "filed_on": "2026-09-29",
+   "doc_type": "DRHP",
+   "brlms": [
+    "Interactive Financial Services Limited"
+   ],
+   "promoters": [
+    "Of The Company Ankur Roongta"
+   ],
+   "pre_ipo": false,
+   "latest": {},
+   "verified": null,
+   "warnings": [
+    "Financial statements not found in the DRHP"
+   ],
+   "processed_at": "2026-11-09T06:28:49+05:30"
+  },
+  {
+   "key": "swyomadvisors",
+   "company": "Swyom Advisors Limited",
+   "board": "SME",
+   "exchange": "BSE SME",
+   "source": "BSE SME",
+   "filed_on": "2026-09-29",
+   "doc_type": "DRHP",
+   "brlms": [
+    "GYR Capital Advisors Pvt.Ltd."
+   ],
+   "promoters": [
+    "Radha Raman Agarwal",
+    "Sweta Agarwal"
+   ],
+   "pre_ipo": null,
+   "latest": {},
+   "verified": null,
+   "warnings": [
+    "BSE SME filing: contacts and figures from Chittorgarh. BSE blocks cloud servers, so the DRHP PDF could not be read automatically; open it from the link above."
+   ],
+   "processed_at": "2026-11-09T17:16:05+05:30"
+  },
+  {
+   "key": "autorecyclingsystems",
+   "company": "Auto Recycling Systems Limited",
+   "board": "SME",
+   "exchange": "BSE SME",
+   "source": "BSE SME",
+   "filed_on": "2026-09-28",
+   "doc_type": "DRHP",
+   "brlms": [
+    "Finaax Capital Advisors Pvt.Ltd."
+   ],
+   "promoters": [
+    "Sanjeev Malhotra",
+    "Sarthak Malhotra"
+   ],
+   "pre_ipo": null,
+   "latest": {},
+   "verified": null,
+   "warnings": [
+    "BSE SME filing: contacts and figures from Chittorgarh. BSE blocks cloud servers, so the DRHP PDF could not be read automatically; open it from the link above."
+   ],
+   "processed_at": "2026-11-10T03:58:46+05:30"
+  },
+  {
+   "key": "bestcastit",
+   "company": "Best Cast It Limited",
+   "board": "SME",
+   "exchange": "NSE Emerge",
+   "source": "NSE Emerge",
+   "filed_on": "2026-09-28",
+   "doc_type": "DRHP",
+   "brlms": [
+    "GYR Capital Advisors Private Limited"
+   ],
+   "promoters": [
+    "Mr. Kabirdass Murali",
+    "Mr. Shreyas M Kabirdass"
+   ],
+   "pre_ipo": false,
+   "latest": {
+    "fy": "Col1"
+   },
+   "verified": false,
+   "warnings": [
+    "Some core figures could not be cross-checked; only verified figures are used in the email."
+   ],
+   "processed_at": "2026-11-10T03:58:30+05:30"
+  },
+  {
+   "key": "intergenenergy",
+   "company": "Intergen Energy Limited",
+   "board": "SME",
+   "exchange": "BSE SME",
+   "source": "BSE SME",
+   "filed_on": "2026-09-28",
+   "doc_type": "DRHP",
+   "brlms": [
+    "Turnaround Corporate Advisors Pvt.Ltd."
+   ],
+   "promoters": [
+    "KARAN SINGH",
+    "Yusuf Surtee",
+    "KMGA Holdings Pte.Ltd.",
+    "Pacific Coast Import Export FZE",
+    "Emerging Investments Ltd."
+   ],
+   "pre_ipo": null,
+   "latest": {},
+   "verified": null,
+   "warnings": [
+    "BSE SME filing: contacts and figures from Chittorgarh. BSE blocks cloud servers, so the DRHP PDF could not be read automatically; open it from the link above."
+   ],
+   "processed_at": "2026-11-10T03:58:49+05:30"
+  },
+  {
+   "key": "jbecotex",
+   "company": "J B Ecotex Limited",
+   "board": "Mainboard",
+   "exchange": "BSE & NSE",
+   "source": "NSE",
+   "filed_on": "2026-09-28",
+   "doc_type": "DRHP",
+   "brlms": [
+    "Motilal Oswal Investment Advisors Limited",
+    "JM Financial Limited"
+   ],
+   "promoters": [
+    "Ayodhyaprasad Jugalkishore Singhal",
+    "Hemant Vimalkumar Dhandharia",
+    "Himanshu Surendra Jariwala",
+    "Jitendrakumar Fulchand Arya",
+    "Monika Rajesh Gupta",
+    "Rajesh Ramniwas Gupta",
+    "Ramdas Laxminarayan Jindal",
+    "Sajjan Kumar Kejriwal",
+    "Samarth Arya",
+    "Vishal Kejriwal",
+    "Gupta Family Private Trust"
+   ],
+   "pre_ipo": true,
+   "latest": {
+    "revenue": {
+     "v": 827.602,
+     "s": "verified"
+    },
+    "pat": {
+     "v": 22.492,
+     "s": "verified"
+    },
+    "total_equity": {
+     "v": 273.77,
+     "s": "verified"
+    },
+    "EBITDA margin": {
+     "v": 0.108598,
+     "s": "verified"
+    },
+    "PAT margin": {
+     "v": 0.027177,
+     "s": "verified"
+    },
+    "RoNW (closing)": {
+     "v": 0.082157,
+     "s": "verified"
+    },
+    "Debt / Equity": {
+     "v": 1.13912,
+     "s": "verified"
+    },
+    "Revenue growth": {
+     "v": 0.155493,
+     "s": "verified"
+    },
+    "fy": "FY26"
+   },
+   "verified": true,
+   "warnings": [],
+   "processed_at": "2026-11-09T17:16:56+05:30"
+  },
+  {
+   "key": "parswamfashion",
+   "company": "Parswam Fashion Limited",
+   "board": "SME",
+   "exchange": "BSE SME",
+   "source": "BSE SME",
+   "filed_on": "2026-09-28",
+   "doc_type": "DRHP",
+   "brlms": [
+    "Galactico Corporate Services Ltd."
+   ],
+   "promoters": [
+    "Anand Bohra",
+    "Arvind Bohra",
+    "Palak Bohra",
+    "Garima Jain",
+    "Aditya Bohra"
+   ],
+   "pre_ipo": null,
+   "latest": {},
+   "verified": null,
+   "warnings": [
+    "BSE SME filing: contacts and figures from Chittorgarh. BSE blocks cloud servers, so the DRHP PDF could not be read automatically; open it from the link above."
+   ],
+   "processed_at": "2026-11-10T03:58:51+05:30"
+  },
+  {
+   "key": "selzerpolymers",
+   "company": "Selzer Polymers Limited",
+   "board": "SME",
+   "exchange": "NSE Emerge",
+   "source": "NSE Emerge",
+   "filed_on": "2026-09-28",
+   "doc_type": "DRHP",
+   "brlms": [
+    "GYR Capital Advisors Private Limited"
+   ],
+   "promoters": [
+    "Mr. Tony Pellissery Lonappan",
+    "Mr. Sunny Thannikkot Poulose",
+    "Mr. Kuriokkose Francis Kannanayakal",
+    "Mr. Subin Sunny",
+    "Ms. Snehal Tony"
+   ],
+   "pre_ipo": false,
+   "latest": {
+    "pat": {
+     "v": 8.5458,
+     "s": "verified"
+    },
+    "fy": "FY26"
+   },
+   "verified": false,
+   "warnings": [
+    "Some core figures could not be cross-checked; only verified figures are used in the email."
+   ],
+   "processed_at": "2026-11-09T17:17:24+05:30"
+  },
+  {
+   "key": "suviraindustries",
+   "company": "Suvira Industries Limited",
+   "board": "SME",
+   "exchange": "BSE SME",
+   "source": "BSE SME",
+   "filed_on": "2026-09-28",
+   "doc_type": "DRHP",
+   "brlms": [
+    "Turnaround Corporate Advisors Pvt.Ltd."
+   ],
+   "promoters": [
+    "K Panneer Selvan",
+    "Vinoth S",
+    "Yasodha M",
+    "Sobana",
+    "J Giri",
+    "G Lakshmi"
+   ],
+   "pre_ipo": null,
+   "latest": {},
+   "verified": null,
+   "warnings": [
+    "BSE SME filing: contacts and figures from Chittorgarh. BSE blocks cloud servers, so the DRHP PDF could not be read automatically; open it from the link above."
+   ],
+   "processed_at": "2026-11-10T03:58:42+05:30"
+  },
+  {
+   "key": "technopaintsandchemicals",
+   "company": "Technopaints And Chemicals Limited",
+   "board": "Mainboard",
+   "exchange": "BSE & NSE",
+   "source": "NSE",
+   "filed_on": "2026-09-28",
+   "doc_type": "DRHP",
+   "brlms": [
+    "Anand Rathi Advisors Limited"
+   ],
+   "promoters": [
+    "Akuri Srinivasa Reddy",
+    "A Sandhya"
+   ],
+   "pre_ipo": true,
+   "latest": {
+    "revenue": {
+     "v": 350.504,
+     "s": "verified"
+    },
+    "pat": {
+     "v": 37.775,
+     "s": "verified"
+    },
+    "total_equity": {
+     "v": 136.5,
+     "s": "verified"
+    },
+    "PAT margin": {
+     "v": 0.107773,
+     "s": "verified"
+    },
+    "RoNW (closing)": {
+     "v": 0.27674,
+     "s": "verified"
+    },
+    "Debt / Equity": {
+     "v": 0.682527,
+     "s": "verified"
+    },
+    "Revenue growth": {
+     "v": 0.684346,
+     "s": "verified"
+    },
+    "fy": "FY26"
+   },
+   "verified": true,
+   "warnings": [],
+   "processed_at": "2026-11-09T17:17:07+05:30"
+  },
+  {
+   "key": "uepresstools",
+   "company": "Ue Press Tools Limited",
+   "board": "SME",
+   "exchange": "NSE Emerge",
+   "source": "NSE Emerge",
+   "filed_on": "2026-09-27",
+   "doc_type": "DRHP",
+   "brlms": [
+    "GYR Capital Advisors Private Limited"
+   ],
+   "promoters": [
+    "Mr. K Panneer Selvan",
+    "Mr. Vinoth S",
+    "Ms. Yasodha M",
+    "Ms. Sobana",
+    "Mr. J Giri",
+    "Ms. G Lakshmi"
+   ],
+   "pre_ipo": false,
+   "latest": {
+    "pat": {
+     "v": 11.2291,
+     "s": "verified"
+    },
+    "fy": "FY26"
+   },
+   "verified": false,
+   "warnings": [
+    "Some core figures could not be cross-checked; only verified figures are used in the email."
+   ],
+   "processed_at": "2026-11-10T03:58:59+05:30"
+  },
+  {
+   "key": "natrajenergy",
+   "company": "Natraj Energy Limited",
+   "board": "SME",
+   "exchange": "NSE Emerge",
+   "source": "NSE Emerge",
+   "filed_on": "2026-09-26",
+   "doc_type": "DRHP",
+   "brlms": [],
+   "promoters": [
+    "Mr. Durgesh Chandra Gupta",
+    "Ms. Anupam Varshney",
+    "Mr. Divya Gupta"
+   ],
+   "pre_ipo": true,
+   "latest": {
+    "revenue": {
+     "v": 119.8084,
+     "s": "verified"
+    },
+    "pat": {
+     "v": 8.8349,
+     "s": "verified"
+    },
+    "PAT margin": {
+     "v": 0.073742,
+     "s": "verified"
+    },
+    "Revenue growth": {
+     "v": 0.099645,
+     "s": "verified"
+    },
+    "fy": "FY26"
+   },
+   "verified": false,
+   "warnings": [
+    "Some core figures could not be cross-checked; only verified figures are used in the email.",
+    "No usable email found for promoters, BRLM or the company."
+   ],
+   "processed_at": "2026-11-10T03:59:11+05:30"
+  },
+  {
+   "key": "sgencon",
+   "company": "S. G. Encon Limited",
+   "board": "Mainboard",
+   "exchange": "BSE & NSE",
+   "source": "NSE",
+   "filed_on": "2026-09-26",
+   "doc_type": "DRHP",
+   "brlms": [
+    "Marwadi Chandarana Intermediaries Brokers Private Limited"
+   ],
+   "promoters": [
+    "Rajiv Gandhi",
+    "Pankaj Setia"
+   ],
+   "pre_ipo": false,
+   "latest": {
+    "pat": {
+     "v": 22.885,
+     "s": "verified"
+    },
+    "total_equity": {
+     "v": 95.217,
+     "s": "verified"
+    },
+    "RoNW (closing)": {
+     "v": 0.240346,
+     "s": "verified"
+    },
+    "Debt / Equity": {
+     "v": 0.089879,
+     "s": "verified"
+    },
+    "fy": "FY26"
+   },
+   "verified": false,
+   "warnings": [
+    "Some core figures could not be cross-checked; only verified figures are used in the email."
+   ],
+   "processed_at": "2026-11-10T03:59:05+05:30"
+  },
+  {
+   "key": "anmolindustries",
+   "company": "Anmol Industries Limited",
+   "board": "Mainboard",
+   "exchange": "BSE & NSE",
+   "source": "NSE",
+   "filed_on": "2026-09-25",
+   "doc_type": "DRHP",
+   "brlms": [
+    "Intensive Fiscal Services Private Limited",
+    "ICICI Securities Limited",
+    "IIFL Capital Services Limited (formerly known as IIFL"
+   ],
+   "promoters": [
+    "Baijnath Choudhary & Family Trust",
+    "Biswanath Choudhary",
+    "Dilip Kumar Choudhary",
+    "Gobind Ram Choudhary",
+    "Bimal Kumar Choudhary",
+    "Vikash Choudhary",
+    "Sunil Choudhary",
+    "Deepak Choudhary",
+    "Ankit Choudhary",
+    "Ashish Choudhary",
+    "Aman Choudhary",
+    "Keshav Choudhary"
+   ],
+   "pre_ipo": false,
+   "latest": {
+    "revenue": {
+     "v": 2101.839,
+     "s": "verified"
+    },
+    "pat": {
+     "v": 190.968,
+     "s": "verified"
+    },
+    "total_equity": {
+     "v": 452.783,
+     "s": "verified"
+    },
+    "EBITDA margin": {
+     "v": 0.136732,
+     "s": "verified"
+    },
+    "PAT margin": {
+     "v": 0.090858,
+     "s": "verified"
+    },
+    "RoNW (closing)": {
+     "v": 0.421765,
+     "s": "verified"
+    },
+    "Debt / Equity": {
+     "v": 0.569796,
+     "s": "verified"
+    },
+    "Revenue growth": {
+     "v": 0.280906,
+     "s": "verified"
+    },
+    "fy": "FY26"
+   },
+   "verified": true,
+   "warnings": [],
+   "processed_at": "2026-11-10T03:59:15+05:30"
+  }
+ ]
+}
