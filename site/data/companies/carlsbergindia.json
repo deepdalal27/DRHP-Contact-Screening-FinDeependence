@@ -4,14 +4,16 @@
  "short": "Carlsberg India",
  "board": "Mainboard",
  "exchange": "BSE & NSE",
- "source": "NSE",
- "also_on": [],
- "filed_on": "2026-10-27",
- "doc_type": "DRHP",
+ "source": "SEBI",
+ "also_on": [
+  "NSE"
+ ],
+ "filed_on": "2026-10-29",
+ "doc_type": "UDRHP",
  "document_type": "Updated Draft Red Herring Prospectus – I",
  "document_date": "October 27, 2026",
- "doc_url": "https://nsearchives.nseindia.com/corporate/Carlsberg_India_Limited_UDRHP1.zip",
- "page_url": null,
+ "doc_url": "https://www.sebi.gov.in/sebi_data/attachdocs/oct-2026/1793273741929.pdf",
+ "page_url": "https://www.sebi.gov.in/filings/public-issues/oct-2026/carlsberg-india-limited-udrhp-1_105485.html",
  "pages": 522,
  "cin": "U15111DL2006PLC148579",
  "website": null,
@@ -1594,5 +1596,5 @@
  "warnings": [
   "Some core figures could not be cross-checked; only verified figures are used in the email."
  ],
- "processed_at": "2026-11-14T06:59:50+05:30"
+ "processed_at": "2026-11-14T23:47:55+05:30"
 }

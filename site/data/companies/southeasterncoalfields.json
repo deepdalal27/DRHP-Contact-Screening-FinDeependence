@@ -4,14 +4,16 @@
  "short": "South Eastern Coalfields",
  "board": "Mainboard",
  "exchange": "BSE & NSE",
- "source": "NSE",
- "also_on": [],
- "filed_on": "2026-11-01",
+ "source": "SEBI",
+ "also_on": [
+  "NSE"
+ ],
+ "filed_on": "2026-11-04",
  "doc_type": "DRHP",
  "document_type": "Draft Red Herring Prospectus",
  "document_date": "November 1, 2026",
- "doc_url": "https://nsearchives.nseindia.com/corporate/AD_IPO_7968_02112026074519.zip",
- "page_url": null,
+ "doc_url": "https://www.sebi.gov.in/sebi_data/attachdocs/nov-2026/1793877677653.pdf",
+ "page_url": "https://www.sebi.gov.in/filings/public-issues/nov-2026/south-eastern-coalfields-limited-drhp_105620.html",
  "pages": 707,
  "cin": "U10102CT1985GOI003161",
  "website": "www.secl-cil.in",
@@ -996,5 +998,5 @@
  "warnings": [
   "Some core figures could not be cross-checked; only verified figures are used in the email."
  ],
- "processed_at": "2026-11-14T06:59:46+05:30"
+ "processed_at": "2026-11-14T23:46:54+05:30"
 }

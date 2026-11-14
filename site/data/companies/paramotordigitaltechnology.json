@@ -4,14 +4,16 @@
  "short": "Paramotor Digital Technology",
  "board": "Mainboard",
  "exchange": "BSE & NSE",
- "source": "NSE",
- "also_on": [],
+ "source": "SEBI",
+ "also_on": [
+  "NSE"
+ ],
  "filed_on": "2026-10-14",
- "doc_type": "DRHP",
+ "doc_type": "UDRHP",
  "document_type": "Updated Draft Red Herring Prospectus - I",
  "document_date": "October 14, 2026",
- "doc_url": "https://nsearchives.nseindia.com/corporate/PDTL.zip",
- "page_url": null,
+ "doc_url": "https://www.sebi.gov.in/sebi_data/attachdocs/oct-2026/1791979527596.pdf",
+ "page_url": "https://www.sebi.gov.in/filings/public-issues/oct-2026/paramotor-digital-technology-limited-udrhp-i_105258.html",
  "pages": 450,
  "cin": "U74999MH2016PLC287408",
  "website": "www.paramotordt.com",
@@ -128,5 +130,5 @@
  "warnings": [
   "Financial statements could not be read from the DRHP"
  ],
- "processed_at": "2026-11-14T06:59:57+05:30"
+ "processed_at": "2026-11-14T23:50:10+05:30"
 }

@@ -10,7 +10,7 @@
  "doc_type": "DRHP",
  "document_type": "Draft Red Herring Prospectus",
  "document_date": "November 06, 2026",
- "doc_url": "https://nsearchives.nseindia.com/emerge/corporates/content/Final_DRHP_Datasoft.zip",
+ "doc_url": "https://nsearchives.nseindia.in/emerge/corporates/content/Final_DRHP_Datasoft.zip",
  "page_url": null,
  "pages": 418,
  "cin": "U72300DL1997PLC088908",
@@ -120,5 +120,5 @@
  "warnings": [
   "Financial statements not found in the DRHP"
  ],
- "processed_at": "2026-11-12T16:58:08+05:30"
+ "processed_at": "2026-11-14T23:45:48+05:30"
 }
