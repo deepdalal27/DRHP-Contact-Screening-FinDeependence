@@ -10,7 +10,7 @@
  "doc_type": "DRHP",
  "document_type": "Draft Red Herring Prospectus",
  "document_date": "September 30, 2026",
- "doc_url": "https://nsearchives.nseindia.com/corporate/AD_IPO_7825_30092026213023.zip",
+ "doc_url": "https://nsearchives.nseindia.in/corporate/AD_IPO_7825_30092026213023.zip",
  "page_url": null,
  "pages": 520,
  "cin": "U23101GJ2020PLC116955",
@@ -1454,5 +1454,5 @@
  "warnings": [
   "Some core figures could not be cross-checked; only verified figures are used in the email."
  ],
- "processed_at": "2026-11-13T16:39:55+05:30"
+ "processed_at": "2026-11-15T04:10:01+05:30"
 }

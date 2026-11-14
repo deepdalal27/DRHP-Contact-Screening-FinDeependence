@@ -4,14 +4,16 @@
  "short": "Rudra Green Ship Recycling",
  "board": "Mainboard",
  "exchange": null,
- "source": "NSE",
- "also_on": [],
- "filed_on": "2026-09-30",
+ "source": "SEBI",
+ "also_on": [
+  "NSE"
+ ],
+ "filed_on": "2026-10-05",
  "doc_type": "DRHP",
  "document_type": "Draft Red Herring Prospectus",
  "document_date": "September 30, 2026",
- "doc_url": "https://nsearchives.nseindia.com/corporate/RudraGreen.zip",
- "page_url": null,
+ "doc_url": "https://www.sebi.gov.in/sebi_data/attachdocs/oct-2026/1791185432391_1400.pdf",
+ "page_url": "https://www.sebi.gov.in/filings/public-issues/oct-2026/rudra-green-ship-recycling-limited-drhp_105008.html",
  "pages": 442,
  "cin": "U74999GJ2018PLC102791",
  "website": "www.rudragreenshiprecycling.com",
@@ -800,14 +802,14 @@
     "statement": "Cash flow",
     "page": 77,
     "values": [
-     -3.8081,
-     -8.3672,
-     -20.812
+     -4.653,
+     -9.2307,
+     -22.0632
     ],
     "raw": [
-     "(380.81)",
-     "(836.72)",
-     "(2,081.20)"
+     "(465.30)",
+     "(923.07)",
+     "(2,206.32)"
     ],
     "status": [
      "verified",
@@ -816,13 +818,13 @@
     ],
     "notes": [
      [
-      "also printed on page 329"
+      "also printed on page 33, 329"
      ],
      [
-      "also printed on page 329"
+      "also printed on page 33, 329"
      ],
      [
-      "also printed on page 329"
+      "also printed on page 33, 329"
      ]
     ]
    },
@@ -832,14 +834,14 @@
     "statement": "Cash flow",
     "page": 77,
     "values": [
-     6.5819,
-     -7.9427,
-     -1.0527
+     7.4268,
+     -7.0793,
+     0.1985
     ],
     "raw": [
-     "658.19",
-     "(794.27)",
-     "(105.27)"
+     "742.68",
+     "(707.93)",
+     "19.85"
     ],
     "status": [
      "unverified",
@@ -1583,5 +1585,5 @@
   }
  ],
  "warnings": [],
- "processed_at": "2026-11-14T16:07:02+05:30"
+ "processed_at": "2026-11-15T04:06:12+05:30"
 }
