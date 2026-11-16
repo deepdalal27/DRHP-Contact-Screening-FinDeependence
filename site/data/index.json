@@ -1,6 +1,65 @@
 {
- "updated_at": "2026-11-16T12:12:26+05:30",
+ "updated_at": "2026-11-17T01:10:33+05:30",
  "companies": [
+  {
+   "key": "meganettechnologiesglobal",
+   "company": "Meganet Technologies Global Limited",
+   "board": "Mainboard",
+   "exchange": "BSE & NSE",
+   "source": "NSE",
+   "filed_on": "2026-11-16",
+   "doc_type": "DRHP",
+   "brlms": [
+    "Motilal Oswal Investment Advisors Limited",
+    "ICICI Securities Limited"
+   ],
+   "promoters": [
+    "Amrish Dulraj Pipada",
+    "Amit Dulraj Pipada",
+    "Shreyans Amrish Pipada",
+    "Sangeeta A Pipada Family Trust",
+    "Amit Pipada Family Trust"
+   ],
+   "pre_ipo": true,
+   "latest": {
+    "revenue": {
+     "v": 447.12,
+     "s": "verified"
+    },
+    "pat": {
+     "v": 37.943,
+     "s": "verified"
+    },
+    "total_equity": {
+     "v": 119.854,
+     "s": "verified"
+    },
+    "EBITDA margin": {
+     "v": 0.117362,
+     "s": "verified"
+    },
+    "PAT margin": {
+     "v": 0.084861,
+     "s": "verified"
+    },
+    "RoNW (closing)": {
+     "v": 0.316577,
+     "s": "verified"
+    },
+    "Debt / Equity": {
+     "v": 0.039231,
+     "s": "verified"
+    },
+    "Revenue growth": {
+     "v": 0.213994,
+     "s": "verified"
+    },
+    "fy": "FY26"
+   },
+   "verified": true,
+   "warnings": [],
+   "processed_at": "2026-11-17T01:10:27+05:30"
+  },
   {
    "key": "sitaramdenimsindia",
    "company": "Sitaram Denims India Ltd",

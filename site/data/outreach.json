@@ -9485,7 +9485,149 @@
    },
    "website": "https://datasoftindia.in/",
    "doc_url": "https://nsearchives.nseindia.com/emerge/corporates/content/Final_DRHP_Datasoft.zip"
+  },
+  {
+   "id": "meganettechnologiesglobal|meganet.ipo@motilaloswal.com",
+   "company_key": "meganettechnologiesglobal",
+   "company": "Meganet Technologies Global Limited",
+   "board": "Mainboard",
+   "filed_on": "2026-11-16",
+   "variant": "brlm",
+   "role": "BRLM contact",
+   "organisation": "Motilal Oswal Investment Advisors Limited",
+   "names": [
+    "Ritu Sharma",
+    "Disha Doshi"
+   ],
+   "email": "meganet.ipo@motilaloswal.com",
+   "phones": [
+    "+91 22 7193 4380"
+   ],
+   "subject": "Parshwanath Capital Ventures Fund | Pre-IPO & Anchor interest – Meganet Technologies Global Limited",
+   "status": "sent",
+   "sent_at": "2026-11-17T01:10:32+05:30",
+   "created_at": "2026-11-17T01:10:32+05:30",
+   "message_id": "<179485802762.2673.11794467734699011959@gmail.com>",
+   "error": null,
+   "promoters": [
+    "Amrish Dulraj Pipada",
+    "Amit Dulraj Pipada",
+    "Shreyans Amrish Pipada",
+    "Sangeeta A Pipada Family Trust",
+    "Amit Pipada Family Trust"
+   ],
+   "brlm_contacts": [
+    {
+     "firm": "Motilal Oswal Investment Advisors Limited",
+     "people": [
+      "Ritu Sharma",
+      "Disha Doshi"
+     ],
+     "emails": [
+      "meganet.ipo@motilaloswal.com"
+     ],
+     "phones": [
+      "+91 22 7193 4380"
+     ]
+    },
+    {
+     "firm": "ICICI Securities Limited",
+     "people": [
+      "Ramesh Vaswana",
+      "Kuldeep Singh"
+     ],
+     "emails": [
+      "meganet.ipo@icicisecurities.com"
+     ],
+     "phones": [
+      "+91 22 6807 7100"
+     ]
+    }
+   ],
+   "cs": {
+    "name": "Sinha Pooja Birendra",
+    "emails": [
+     "cs@meganet1.com"
+    ],
+    "phones": [
+     "+91 22 2562 8282"
+    ],
+    "page": 86
+   },
+   "website": "www.meganet.in",
+   "doc_url": "https://nsearchives.nseindia.in/corporate/AD_IPO_7996_16112026204154.zip"
+  },
+  {
+   "id": "meganettechnologiesglobal|meganet.ipo@icicisecurities.com",
+   "company_key": "meganettechnologiesglobal",
+   "company": "Meganet Technologies Global Limited",
+   "board": "Mainboard",
+   "filed_on": "2026-11-16",
+   "variant": "brlm",
+   "role": "BRLM contact",
+   "organisation": "ICICI Securities Limited",
+   "names": [
+    "Ramesh Vaswana",
+    "Kuldeep Singh"
+   ],
+   "email": "meganet.ipo@icicisecurities.com",
+   "phones": [
+    "+91 22 6807 7100"
+   ],
+   "subject": "Parshwanath Capital Ventures Fund | Pre-IPO & Anchor interest – Meganet Technologies Global Limited",
+   "status": "sent",
+   "sent_at": "2026-11-17T01:10:33+05:30",
+   "created_at": "2026-11-17T01:10:33+05:30",
+   "message_id": "<179485803213.2673.15733943192992486463@gmail.com>",
+   "error": null,
+   "promoters": [
+    "Amrish Dulraj Pipada",
+    "Amit Dulraj Pipada",
+    "Shreyans Amrish Pipada",
+    "Sangeeta A Pipada Family Trust",
+    "Amit Pipada Family Trust"
+   ],
+   "brlm_contacts": [
+    {
+     "firm": "Motilal Oswal Investment Advisors Limited",
+     "people": [
+      "Ritu Sharma",
+      "Disha Doshi"
+     ],
+     "emails": [
+      "meganet.ipo@motilaloswal.com"
+     ],
+     "phones": [
+      "+91 22 7193 4380"
+     ]
+    },
+    {
+     "firm": "ICICI Securities Limited",
+     "people": [
+      "Ramesh Vaswana",
+      "Kuldeep Singh"
+     ],
+     "emails": [
+      "meganet.ipo@icicisecurities.com"
+     ],
+     "phones": [
+      "+91 22 6807 7100"
+     ]
+    }
+   ],
+   "cs": {
+    "name": "Sinha Pooja Birendra",
+    "emails": [
+     "cs@meganet1.com"
+    ],
+    "phones": [
+     "+91 22 2562 8282"
+    ],
+    "page": 86
+   },
+   "website": "www.meganet.in",
+   "doc_url": "https://nsearchives.nseindia.in/corporate/AD_IPO_7996_16112026204154.zip"
   }
  ],
- "updated_at": "2026-11-16T12:12:26+05:30"
+ "updated_at": "2026-11-17T01:10:33+05:30"
 }
