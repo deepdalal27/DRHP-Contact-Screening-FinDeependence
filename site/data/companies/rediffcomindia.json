@@ -1,0 +1,1458 @@
+{
+ "key": "rediffcomindia",
+ "company": "Rediff com India Limited",
+ "short": "Rediff com India",
+ "board": "Mainboard",
+ "exchange": null,
+ "source": "SEBI",
+ "also_on": [],
+ "filed_on": "2026-11-14",
+ "doc_type": "UDRHP",
+ "document_type": "Updated Draft Red Herring Prospectus - I",
+ "document_date": "November 13, 2026",
+ "doc_url": "https://www.sebi.gov.in/sebi_data/attachdocs/nov-2026/1794830920691.PDF",
+ "page_url": "https://www.sebi.gov.in/filings/public-issues/nov-2026/rediff-com-india-limited-udrhp-i_105794.html",
+ "pages": 586,
+ "cin": "U22100MH1996PLC096077",
+ "website": "www.investor.rediff.com",
+ "icdr_regulation": "6(2)",
+ "fresh_issue": true,
+ "ofs": false,
+ "pre_ipo_placement": false,
+ "pre_ipo_limit_pct": null,
+ "promoters": [
+  {
+   "name": "Vishal Ajitbhai Mehta",
+   "designation": "Chairman and Managing Director",
+   "emails": []
+  },
+  {
+   "name": "Avenuesai Limited (formerly Known As Infibeam Avenues Limited)",
+   "designation": null,
+   "emails": []
+  }
+ ],
+ "cs": {
+  "name": "Vandana Sharma",
+  "emails": [
+   "secretarial@rediff-inc.com"
+  ],
+  "phones": [
+   "+91 22 6182 0000"
+  ],
+  "page": 123
+ },
+ "brlms": [
+  {
+   "name": "Keynote Financial Services Limited",
+   "contact_persons": [
+    "Milan Soni",
+    "Virendra Chaurasia"
+   ],
+   "emails": [
+    "mbd@keynoteindia.net"
+   ],
+   "grievance_emails": [
+    "investors@keynoteindia.net"
+   ],
+   "phones": [
+    "+91 22 6826 6000"
+   ],
+   "website": "www.keynoteindia.net",
+   "sebi_reg": "INM000003606",
+   "page": 125
+  }
+ ],
+ "registrar": {
+  "name": "MUFG Intime India Private Limited (formerly known as Link Intime India Private Limited)",
+  "emails": [
+   "rediff.com.ipo@in.mpms.mufg.com"
+  ],
+  "phones": [
+   "+91 8108114949"
+  ],
+  "contact_persons": [
+   "Shanti Gopalkrishnan"
+  ],
+  "page": 126
+ },
+ "business": {
+  "text": "We are a diversified digital platform company with a consumer internet brand and a multi-decade presence in India’s digital ecosystem. We operate across consumer communication (Rediffmail), digital content and media (Rediff News and Rediff TV), personal finance information (MoneyWiz), digital payments (Rediff Pay), enterprise communication and productivity (Rediff Enterprise) and business enablement platform for e-commerce (Rediff Commerce).",
+  "page": 245
+ },
+ "business_summary": "Rediff com India is a diversified digital platform company with a consumer internet brand and a multi-decade presence in India’s digital ecosystem.",
+ "financials": {
+  "ok": true,
+  "unit_in_drhp": "million",
+  "source": "Summary Financial Information",
+  "periods": [
+   {
+    "iso": "2026-06-30",
+    "label": "Jun-26",
+    "stub": true
+   },
+   {
+    "iso": "2026-03-31",
+    "label": "FY26",
+    "stub": false
+   },
+   {
+    "iso": "2025-03-31",
+    "label": "FY25",
+    "stub": false
+   },
+   {
+    "iso": "2024-03-31",
+    "label": "FY24",
+    "stub": false
+   }
+  ],
+  "items": {
+   "revenue": {
+    "label": "Revenue from operations",
+    "drhp_label": "Revenue From Operations",
+    "statement": "P&L",
+    "page": 113,
+    "values": [
+     58.377,
+     133.588,
+     37.228,
+     36.074
+    ],
+    "raw": [
+     "583.77",
+     "1,335.88",
+     "372.28",
+     "360.74"
+    ],
+    "status": [
+     "verified",
+     "verified",
+     "verified",
+     "verified"
+    ],
+    "notes": [
+     [
+      "adds up to total income",
+      "also printed on page 347, 419, 448"
+     ],
+     [
+      "adds up to total income",
+      "also printed on page 347, 419, 449"
+     ],
+     [
+      "adds up to total income",
+      "also printed on page 347, 419, 449"
+     ],
+     [
+      "adds up to total income",
+      "also printed on page 347, 419, 450"
+     ]
+    ]
+   },
+   "other_income": {
+    "label": "Other income",
+    "drhp_label": "Other Income",
+    "statement": "P&L",
+    "page": 113,
+    "values": [
+     6.7,
+     21.2,
+     5.6,
+     0.558
+    ],
+    "raw": [
+     "67.00",
+     "212.00",
+     "56.00",
+     "5.58"
+    ],
+    "status": [
+     "verified",
+     "verified",
+     "verified",
+     "verified"
+    ],
+    "notes": [
+     [
+      "adds up to total income"
+     ],
+     [
+      "adds up to total income"
+     ],
+     [
+      "adds up to total income"
+     ],
+     [
+      "adds up to total income"
+     ]
+    ]
+   },
+   "total_income": {
+    "label": "Total income",
+    "drhp_label": "Total income (I)",
+    "statement": "P&L",
+    "page": 113,
+    "values": [
+     65.076,
+     154.788,
+     42.828,
+     36.632
+    ],
+    "raw": [
+     "650.76",
+     "1,547.88",
+     "428.28",
+     "366.32"
+    ],
+    "status": [
+     "verified",
+     "verified",
+     "verified",
+     "verified"
+    ],
+    "notes": [
+     [
+      "adds up to total income",
+      "also printed on page 174, 249, 347"
+     ],
+     [
+      "adds up to total income",
+      "also printed on page 174, 249, 347"
+     ],
+     [
+      "adds up to total income",
+      "also printed on page 174, 249, 347"
+     ],
+     [
+      "adds up to total income",
+      "also printed on page 174, 249, 347"
+     ]
+    ]
+   },
+   "finance_cost": {
+    "label": "Finance cost",
+    "drhp_label": "Finance costs",
+    "statement": "P&L",
+    "page": 113,
+    "values": [
+     8.092,
+     11.127,
+     0.839,
+     0.027
+    ],
+    "raw": [
+     "80.92",
+     "111.27",
+     "8.39",
+     "0.27"
+    ],
+    "status": [
+     "verified",
+     "verified",
+     "verified",
+     "unverified"
+    ],
+    "notes": [
+     [
+      "also printed on page 115, 347, 348"
+     ],
+     [
+      "also printed on page 115, 347, 348"
+     ],
+     [
+      "also printed on page 347, 419, 447"
+     ],
+     []
+    ]
+   },
+   "depreciation": {
+    "label": "Depreciation & amortisation",
+    "drhp_label": "Depreciation and amortization expenses",
+    "statement": "P&L",
+    "page": 113,
+    "values": [
+     9.022,
+     15.542,
+     2.058,
+     2.034
+    ],
+    "raw": [
+     "90.22",
+     "155.42",
+     "20.58",
+     "20.34"
+    ],
+    "status": [
+     "verified",
+     "verified",
+     "verified",
+     "verified"
+    ],
+    "notes": [
+     [
+      "also printed on page 115, 347, 348"
+     ],
+     [
+      "also printed on page 115, 347, 348"
+     ],
+     [
+      "also printed on page 115, 347, 348"
+     ],
+     [
+      "also printed on page 115, 347, 348"
+     ]
+    ]
+   },
+   "total_expenses": {
+    "label": "Total expenses",
+    "drhp_label": "Total expenses (II)",
+    "statement": "P&L",
+    "page": 113,
+    "values": [
+     36.065,
+     95.02,
+     44.416,
+     42.735
+    ],
+    "raw": [
+     "360.65",
+     "950.20",
+     "444.16",
+     "427.35"
+    ],
+    "status": [
+     "unverified",
+     "unverified",
+     "unverified",
+     "unverified"
+    ],
+    "notes": [
+     [],
+     [],
+     [],
+     []
+    ]
+   },
+   "pbt": {
+    "label": "Profit before tax",
+    "drhp_label": "Restated profit/(loss) before tax (VII) = (V+VI)",
+    "statement": "P&L",
+    "page": 113,
+    "values": [
+     28.766,
+     50.015,
+     5.884,
+     -6.103
+    ],
+    "raw": [
+     "287.66",
+     "500.15",
+     "58.84",
+     "(61.03)"
+    ],
+    "status": [
+     "verified",
+     "verified",
+     "verified",
+     "verified"
+    ],
+    "notes": [
+     [
+      "also printed on page 347, 419, 447"
+     ],
+     [
+      "also printed on page 347, 419, 447"
+     ],
+     [
+      "also printed on page 347, 419, 447"
+     ],
+     [
+      "also printed on page 115, 347, 348"
+     ]
+    ]
+   },
+   "tax": {
+    "label": "Total tax expense",
+    "drhp_label": "Total tax expense (VIII)",
+    "statement": "P&L",
+    "page": 113,
+    "values": [
+     -6.434,
+     -5.973,
+     -0.02,
+     -0.07
+    ],
+    "raw": [
+     "(64.34)",
+     "(59.73)",
+     "(0.20)",
+     "(0.70)"
+    ],
+    "status": [
+     "unverified",
+     "unverified",
+     "unverified",
+     "unverified"
+    ],
+    "notes": [
+     [],
+     [],
+     [],
+     []
+    ]
+   },
+   "eps_basic": {
+    "label": "EPS – basic (₹)",
+    "drhp_label": "Basic (In ₹)",
+    "statement": "P&L",
+    "page": 114,
+    "values": [
+     0.72,
+     1.67,
+     1.0,
+     -2.33
+    ],
+    "raw": [
+     "0.72",
+     "1.67",
+     "1.00",
+     "(2.33)"
+    ],
+    "status": [
+     "unverified",
+     "verified",
+     "verified",
+     "verified"
+    ],
+    "notes": [
+     [],
+     [
+      "also printed on page 347, 391, 418"
+     ],
+     [
+      "also printed on page 347, 391, 418"
+     ],
+     [
+      "also printed on page 347, 391, 418"
+     ]
+    ]
+   },
+   "eps_diluted": {
+    "label": "EPS – diluted (₹)",
+    "drhp_label": "Diluted (In ₹)",
+    "statement": "P&L",
+    "page": 114,
+    "values": [
+     0.72,
+     1.66,
+     0.99,
+     -2.33
+    ],
+    "raw": [
+     "0.72",
+     "1.66",
+     "0.99",
+     "(2.33)"
+    ],
+    "status": [
+     "unverified",
+     "unverified",
+     "unverified",
+     "unverified"
+    ],
+    "notes": [
+     [],
+     [],
+     [],
+     []
+    ]
+   },
+   "total_assets": {
+    "label": "Total assets",
+    "drhp_label": "Total Assets",
+    "statement": "Balance sheet",
+    "page": 111,
+    "values": [
+     1153.114,
+     1132.401,
+     122.373,
+     19.776
+    ],
+    "raw": [
+     "11,531.14",
+     "11,324.01",
+     "1,223.73",
+     "197.76"
+    ],
+    "status": [
+     "verified",
+     "verified",
+     "verified",
+     "verified"
+    ],
+    "notes": [
+     [
+      "balance sheet balances",
+      "also printed on page 346"
+     ],
+     [
+      "balance sheet balances",
+      "also printed on page 346"
+     ],
+     [
+      "balance sheet balances",
+      "also printed on page 346"
+     ],
+     [
+      "balance sheet balances",
+      "also printed on page 346"
+     ]
+    ]
+   },
+   "share_capital": {
+    "label": "Equity share capital",
+    "drhp_label": "Equity Share Capital",
+    "statement": "Balance sheet",
+    "page": 111,
+    "values": [
+     245.581,
+     245.581,
+     92.682,
+     13.464
+    ],
+    "raw": [
+     "2,455.81",
+     "2,455.81",
+     "926.82",
+     "134.64"
+    ],
+    "status": [
+     "verified",
+     "verified",
+     "verified",
+     "verified"
+    ],
+    "notes": [
+     [
+      "share capital + other equity = net worth"
+     ],
+     [
+      "share capital + other equity = net worth"
+     ],
+     [
+      "share capital + other equity = net worth"
+     ],
+     [
+      "share capital + other equity = net worth"
+     ]
+    ]
+   },
+   "other_equity": {
+    "label": "Other equity",
+    "drhp_label": "Other Equity",
+    "statement": "Balance sheet",
+    "page": 111,
+    "values": [
+     427.281,
+     395.354,
+     -9.923,
+     -58.205
+    ],
+    "raw": [
+     "4,272.81",
+     "3,953.54",
+     "(99.23)",
+     "(582.05)"
+    ],
+    "status": [
+     "verified",
+     "verified",
+     "verified",
+     "verified"
+    ],
+    "notes": [
+     [
+      "share capital + other equity = net worth"
+     ],
+     [
+      "share capital + other equity = net worth"
+     ],
+     [
+      "share capital + other equity = net worth"
+     ],
+     [
+      "share capital + other equity = net worth"
+     ]
+    ]
+   },
+   "total_equity": {
+    "label": "Net worth (total equity)",
+    "drhp_label": "Total equity",
+    "statement": "Balance sheet",
+    "page": 111,
+    "values": [
+     672.862,
+     640.935,
+     82.759,
+     -44.741
+    ],
+    "raw": [
+     "6,728.62",
+     "6,409.35",
+     "827.59",
+     "(447.41)"
+    ],
+    "status": [
+     "verified",
+     "verified",
+     "verified",
+     "verified"
+    ],
+    "notes": [
+     [
+      "share capital + other equity = net worth",
+      "also printed on page 346, 420, 421",
+      "DRHP KPI table shows 6,367.39 (page 174) – definition may differ"
+     ],
+     [
+      "share capital + other equity = net worth",
+      "also printed on page 346, 420, 421",
+      "DRHP KPI table shows 6,016.37 (page 174) – definition may differ"
+     ],
+     [
+      "share capital + other equity = net worth",
+      "also printed on page 346, 420, 421",
+      "DRHP KPI table shows 593.29 (page 174) – definition may differ"
+     ],
+     [
+      "share capital + other equity = net worth",
+      "also printed on page 346, 420, 421",
+      "DRHP KPI table shows (682.28) (page 174) – definition may differ"
+     ]
+    ]
+   },
+   "total_equity_liabilities": {
+    "label": "Total equity & liabilities",
+    "drhp_label": "Total equity and liabilities",
+    "statement": "Balance sheet",
+    "page": 112,
+    "values": [
+     1153.114,
+     1132.401,
+     122.373,
+     19.776
+    ],
+    "raw": [
+     "11,531.14",
+     "11,324.01",
+     "1,223.73",
+     "197.76"
+    ],
+    "status": [
+     "verified",
+     "verified",
+     "verified",
+     "verified"
+    ],
+    "notes": [
+     [
+      "balance sheet balances"
+     ],
+     [
+      "balance sheet balances"
+     ],
+     [
+      "balance sheet balances"
+     ],
+     [
+      "balance sheet balances"
+     ]
+    ]
+   },
+   "trade_receivables": {
+    "label": "Trade receivables",
+    "drhp_label": "ii) Trade Receivables",
+    "statement": "Balance sheet",
+    "page": 111,
+    "values": [
+     53.728,
+     70.54,
+     3.223,
+     3.747
+    ],
+    "raw": [
+     "537.28",
+     "705.40",
+     "32.23",
+     "37.47"
+    ],
+    "status": [
+     "verified",
+     "verified",
+     "verified",
+     "verified"
+    ],
+    "notes": [
+     [
+      "also printed on page 28, 35, 93"
+     ],
+     [
+      "also printed on page 346, 382, 388"
+     ],
+     [
+      "also printed on page 346, 382, 388"
+     ],
+     [
+      "also printed on page 346, 382, 388"
+     ]
+    ]
+   },
+   "cash": {
+    "label": "Cash & cash equivalents",
+    "drhp_label": "iii) Cash and Cash Equivalents",
+    "statement": "Balance sheet",
+    "page": 111,
+    "values": [
+     55.479,
+     149.53,
+     1.329,
+     4.27
+    ],
+    "raw": [
+     "554.79",
+     "1,495.30",
+     "13.29",
+     "42.70"
+    ],
+    "status": [
+     "verified",
+     "verified",
+     "verified",
+     "verified"
+    ],
+    "notes": [
+     [
+      "also printed on page 93, 116, 346"
+     ],
+     [
+      "also printed on page 116, 346, 348"
+     ],
+     [
+      "also printed on page 116, 346, 348"
+     ],
+     [
+      "also printed on page 116, 346, 348"
+     ]
+    ]
+   },
+   "current_assets": {
+    "label": "Total current assets",
+    "drhp_label": "Total current assets",
+    "statement": "Balance sheet",
+    "page": 111,
+    "values": [
+     710.447,
+     689.715,
+     83.222,
+     14.173
+    ],
+    "raw": [
+     "7,104.47",
+     "6,897.15",
+     "832.22",
+     "141.73"
+    ],
+    "status": [
+     "unverified",
+     "unverified",
+     "unverified",
+     "unverified"
+    ],
+    "notes": [
+     [],
+     [],
+     [],
+     []
+    ]
+   },
+   "current_liabilities": {
+    "label": "Total current liabilities",
+    "drhp_label": "Total current liabilities",
+    "statement": "Balance sheet",
+    "page": 112,
+    "values": [
+     184.617,
+     191.08,
+     31.297,
+     57.831
+    ],
+    "raw": [
+     "1,846.17",
+     "1,910.80",
+     "312.97",
+     "578.31"
+    ],
+    "status": [
+     "unverified",
+     "unverified",
+     "unverified",
+     "unverified"
+    ],
+    "notes": [
+     [],
+     [],
+     [],
+     []
+    ]
+   },
+   "cfi": {
+    "label": "Net cash from investing activities",
+    "drhp_label": "Net Cash from/ (used in) Investing Activities (B)",
+    "statement": "Cash flow",
+    "page": 115,
+    "values": [
+     -108.628,
+     -474.917,
+     -49.471,
+     0.46
+    ],
+    "raw": [
+     "(1,086.28)",
+     "(4,749.17)",
+     "(494.71)",
+     "4.60"
+    ],
+    "status": [
+     "unverified",
+     "unverified",
+     "unverified",
+     "unverified"
+    ],
+    "notes": [
+     [],
+     [],
+     [],
+     []
+    ]
+   },
+   "borrowings": {
+    "label": "Total borrowings",
+    "drhp_label": "i) Borrowings (Non-Current Liabilities) + i) Borrowings (Current Liabilities)",
+    "statement": "Balance sheet",
+    "page": 111,
+    "values": [
+     399.256,
+     399.133,
+     7.741,
+     25.037
+    ],
+    "raw": [
+     null,
+     null,
+     null,
+     null
+    ],
+    "status": [
+     "verified",
+     "verified",
+     "verified",
+     "verified"
+    ],
+    "notes": [
+     [
+      "sum of borrowing lines",
+      "also printed on page 461"
+     ],
+     [
+      "sum of borrowing lines",
+      "also printed on page 386, 389, 408"
+     ],
+     [
+      "sum of borrowing lines",
+      "also printed on page 111, 346, 386"
+     ],
+     [
+      "sum of borrowing lines",
+      "also printed on page 111, 346, 386"
+     ]
+    ]
+   }
+  },
+  "ratios": {
+   "EBITDA": {
+    "values": [
+     39.18,
+     55.484,
+     3.181,
+     -4.6
+    ],
+    "status": [
+     "verified",
+     "verified",
+     "verified",
+     "unverified"
+    ],
+    "fmt": "amount",
+    "formula": "PBT before exceptional items + Finance cost + D&A − Other income"
+   },
+   "EBITDA margin": {
+    "values": [
+     0.671155,
+     0.415337,
+     0.085446,
+     -0.127516
+    ],
+    "status": [
+     "verified",
+     "verified",
+     "verified",
+     "unverified"
+    ],
+    "fmt": "pct",
+    "formula": "EBITDA ÷ Revenue from operations"
+   },
+   "Debt / Equity": {
+    "values": [
+     0.59337,
+     0.622736,
+     0.093537,
+     -0.559599
+    ],
+    "status": [
+     "verified",
+     "verified",
+     "verified",
+     "verified"
+    ],
+    "fmt": "x",
+    "formula": "Total borrowings ÷ Net worth"
+   },
+   "RoCE (closing)": {
+    "values": [
+     0.034379,
+     0.058787,
+     0.074287,
+     0.308364
+    ],
+    "status": [
+     "verified",
+     "verified",
+     "verified",
+     "unverified"
+    ],
+    "fmt": "pct",
+    "formula": "(PBT + Finance cost) ÷ (Net worth + Borrowings) (not annualised)"
+   },
+   "Interest coverage": {
+    "values": [
+     4.554869,
+     5.494922,
+     8.013111,
+     -225.037037
+    ],
+    "status": [
+     "verified",
+     "verified",
+     "verified",
+     "unverified"
+    ],
+    "fmt": "x",
+    "formula": "(PBT + Finance cost) ÷ Finance cost"
+   },
+   "Current ratio": {
+    "values": [
+     3.848221,
+     3.609561,
+     2.659105,
+     0.245076
+    ],
+    "status": [
+     "unverified",
+     "unverified",
+     "unverified",
+     "unverified"
+    ],
+    "fmt": "x",
+    "formula": "Current assets ÷ Current liabilities"
+   },
+   "Receivable days": {
+    "values": [
+     83.752985,
+     192.735126,
+     31.599737,
+     37.912485
+    ],
+    "status": [
+     "verified",
+     "verified",
+     "verified",
+     "verified"
+    ],
+    "fmt": "days",
+    "formula": "Trade receivables ÷ Revenue × days in period"
+   },
+   "Asset turnover": {
+    "values": [
+     null,
+     0.117969,
+     0.304217,
+     1.82413
+    ],
+    "status": [
+     null,
+     "verified",
+     "verified",
+     "verified"
+    ],
+    "fmt": "x",
+    "formula": "Revenue ÷ Total assets"
+   },
+   "Revenue growth": {
+    "values": [
+     null,
+     2.588374,
+     0.03199,
+     null
+    ],
+    "status": [
+     null,
+     "verified",
+     "verified",
+     null
+    ],
+    "fmt": "pct",
+    "formula": "FY26 vs FY25"
+   },
+   "EBITDA growth": {
+    "values": [
+     null,
+     16.442314,
+     null,
+     null
+    ],
+    "status": [
+     null,
+     "verified",
+     null,
+     null
+    ],
+    "fmt": "pct",
+    "formula": "FY26 vs FY25"
+   },
+   "Revenue CAGR (2 yr)": {
+    "values": [
+     null,
+     0.924361,
+     null,
+     null
+    ],
+    "status": [
+     null,
+     "verified",
+     null,
+     null
+    ],
+    "fmt": "pct",
+    "formula": "FY24 → FY26"
+   }
+  },
+  "checks": [
+   {
+    "period": "Jun-26",
+    "check": "Total assets = Total equity & liabilities",
+    "ok": true,
+    "lhs": 11531.14,
+    "rhs": 11531.14
+   },
+   {
+    "period": "Jun-26",
+    "check": "Revenue + Other income = Total income",
+    "ok": true,
+    "lhs": 650.77,
+    "rhs": 650.76
+   },
+   {
+    "period": "Jun-26",
+    "check": "Share capital + Other equity = Net worth",
+    "ok": true,
+    "lhs": 6728.620000000001,
+    "rhs": 6728.62,
+    "soft": true
+   },
+   {
+    "period": "FY26",
+    "check": "Total assets = Total equity & liabilities",
+    "ok": true,
+    "lhs": 11324.01,
+    "rhs": 11324.01
+   },
+   {
+    "period": "FY26",
+    "check": "Revenue + Other income = Total income",
+    "ok": true,
+    "lhs": 1547.88,
+    "rhs": 1547.88
+   },
+   {
+    "period": "FY26",
+    "check": "Share capital + Other equity = Net worth",
+    "ok": true,
+    "lhs": 6409.35,
+    "rhs": 6409.35,
+    "soft": true
+   },
+   {
+    "period": "FY25",
+    "check": "Total assets = Total equity & liabilities",
+    "ok": true,
+    "lhs": 1223.73,
+    "rhs": 1223.73
+   },
+   {
+    "period": "FY25",
+    "check": "Revenue + Other income = Total income",
+    "ok": true,
+    "lhs": 428.28,
+    "rhs": 428.28
+   },
+   {
+    "period": "FY25",
+    "check": "Share capital + Other equity = Net worth",
+    "ok": true,
+    "lhs": 827.59,
+    "rhs": 827.59,
+    "soft": true
+   },
+   {
+    "period": "FY24",
+    "check": "Total assets = Total equity & liabilities",
+    "ok": true,
+    "lhs": 197.76,
+    "rhs": 197.76
+   },
+   {
+    "period": "FY24",
+    "check": "Revenue + Other income = Total income",
+    "ok": true,
+    "lhs": 366.32,
+    "rhs": 366.32
+   },
+   {
+    "period": "FY24",
+    "check": "Share capital + Other equity = Net worth",
+    "ok": true,
+    "lhs": -447.40999999999997,
+    "rhs": -447.41,
+    "soft": true
+   }
+  ],
+  "kpi_stated": [
+   {
+    "label": "operations(1)",
+    "values": [
+     583.77,
+     1335.88,
+     372.28,
+     360.74
+    ],
+    "raw": [
+     "583.77",
+     "1,335.88",
+     "372.28",
+     "360.74"
+    ],
+    "page": 174
+   },
+   {
+    "label": "Total Income(2) ₹ in millions",
+    "values": [
+     650.76,
+     1547.88,
+     428.28,
+     366.32
+    ],
+    "raw": [
+     "650.76",
+     "1,547.88",
+     "428.28",
+     "366.32"
+    ],
+    "page": 174
+   },
+   {
+    "label": "income)",
+    "values": [
+     394.26,
+     652.36,
+     -42.91,
+     -46.0
+    ],
+    "raw": [
+     "394.26",
+     "652.36",
+     "(42.91)",
+     "(46.00)"
+    ],
+    "page": 174
+   },
+   {
+    "label": "other income)",
+    "values": [
+     67.54,
+     48.83,
+     -11.53,
+     -12.75
+    ],
+    "raw": [
+     "67.54",
+     "48.83",
+     "(11.53)",
+     "(12.75)"
+    ],
+    "page": 174
+   },
+   {
+    "label": "PAT(5) ₹ in millions",
+    "values": [
+     352.0,
+     559.88,
+     59.04,
+     -60.33
+    ],
+    "raw": [
+     "352.00",
+     "559.88",
+     "59.04",
+     "(60.33)"
+    ],
+    "page": 174
+   },
+   {
+    "label": "PAT Margin(6) %",
+    "values": [
+     60.3,
+     41.91,
+     15.86,
+     -16.72
+    ],
+    "raw": [
+     "60.30",
+     "41.91",
+     "15.86",
+     "(16.72)"
+    ],
+    "page": 174
+   },
+   {
+    "label": "Flows(7)",
+    "values": [
+     233.74,
+     1605.0,
+     -612.91,
+     -27.98
+    ],
+    "raw": [
+     "233.74",
+     "1,605.00",
+     "(612.91)",
+     "(27.98)"
+    ],
+    "page": 174
+   },
+   {
+    "label": "Net Worth(8) ₹ in millions",
+    "values": [
+     6367.39,
+     6016.37,
+     593.29,
+     -682.28
+    ],
+    "raw": [
+     "6,367.39",
+     "6,016.37",
+     "593.29",
+     "(682.28)"
+    ],
+    "page": 174
+   },
+   {
+    "label": "Net Debt(9) ₹ in millions",
+    "values": [
+     3549.49,
+     2614.79,
+     79.17,
+     209.29
+    ],
+    "raw": [
+     "3,549.49",
+     "2,614.79",
+     "79.17",
+     "209.29"
+    ],
+    "page": 174
+   },
+   {
+    "label": "Ratio(10)",
+    "values": [
+     0.61,
+     0.64,
+     0.11,
+     -0.56
+    ],
+    "raw": [
+     "0.61",
+     "0.64",
+     "0.11",
+     "(0.56)"
+    ],
+    "page": 174
+   },
+   {
+    "label": "(Uptime) (13)",
+    "values": [
+     99.94,
+     99.69,
+     99.99,
+     99.88
+    ],
+    "raw": [
+     "99.94",
+     "99.69",
+     "99.99",
+     "99.88"
+    ],
+    "page": 174
+   },
+   {
+    "label": "Retention Rate(14)",
+    "values": [
+     79.0,
+     78.0,
+     78.0,
+     80.0
+    ],
+    "raw": [
+     "79",
+     "78",
+     "78",
+     "80"
+    ],
+    "page": 174
+   },
+   {
+    "label": "Average)",
+    "values": [
+     5.69,
+     5.46,
+     6.45,
+     7.56
+    ],
+    "raw": [
+     "5.69",
+     "5.46",
+     "6.45",
+     "7.56"
+    ],
+    "page": 174
+   },
+   {
+    "label": "Pages Per visit(17) Number",
+    "values": [
+     4.97,
+     4.95,
+     5.59,
+     6.1
+    ],
+    "raw": [
+     "4.97",
+     "4.95",
+     "5.59",
+     "6.10"
+    ],
+    "page": 174
+   },
+   {
+    "label": "Bounce Rate(18) Percentage",
+    "values": [
+     32.73,
+     32.7,
+     32.03,
+     31.12
+    ],
+    "raw": [
+     "32.73",
+     "32.70",
+     "32.03",
+     "31.12"
+    ],
+    "page": 174
+   },
+   {
+    "label": "Time(19)",
+    "values": [
+     91.0,
+     93.0,
+     46.0,
+     49.0
+    ],
+    "raw": [
+     "91",
+     "93",
+     "46",
+     "49"
+    ],
+    "page": 174
+   }
+  ],
+  "kpi_periods": [
+   {
+    "iso": "2026-06-30",
+    "label": "Jun-26",
+    "stub": true
+   },
+   {
+    "iso": "2026-03-31",
+    "label": "FY26",
+    "stub": false
+   },
+   {
+    "iso": "2025-03-31",
+    "label": "FY25",
+    "stub": false
+   },
+   {
+    "iso": "2024-03-31",
+    "label": "FY24",
+    "stub": false
+   }
+  ],
+  "kpi_page": 174,
+  "pages": {
+   "bs": 111,
+   "pl": 113,
+   "cf": 115
+  },
+  "core_verified": false
+ },
+ "emails": [
+  {
+   "subject": "Parshwanath Capital Ventures Fund | Pre-IPO & Anchor interest – Rediff com India Limited",
+   "text": "Dear Milan Soni and Virendra Chaurasia,\n\nI am CA Deep Dalal, Fund Manager of Parshwanath Capital Ventures Fund. I am writing to you as the Book Running Lead Manager to the proposed IPO of Rediff com India Limited, whose Draft Red Herring Prospectus dated November 13, 2026 has been filed with SEBI for listing on the Main Board of BSE and NSE.\n\nABOUT US\nParshwanath Capital Ventures Fund is a SEBI-registered Category III Alternative Investment Fund focused on India's primary markets. We invest through Pre-IPO placements, IPO Anchor Investor books, the QIB portion of IPOs and Qualified Institutional Placements (QIPs), working closely with promoters and merchant bankers through the listing journey.\n\nOUR VIEW ON REDIFF COM INDIA\nRediff com India is a diversified digital platform company with a consumer internet brand and a multi-decade presence in India’s digital ecosystem. We have studied the DRHP closely, and the business and its growth trajectory fit well with our investment focus.\n\nKey financials (restated, ₹ crore unless stated)\n                                    Jun-26*       FY26       FY25       FY24\nRevenue from operations (₹ cr)        58.38     133.59      37.23      36.07\nGrowth (YoY)                              –     258.8%       3.2%          –\nEBITDA (₹ cr)                         39.18      55.48       3.18          –\nEBITDA margin                         67.1%      41.5%       8.5%          –\nNet worth (₹ cr)                     672.86     640.94      82.76     -44.74\nDebt / Equity                         0.59x      0.62x      0.09x     -0.56x\n* Jun-26: interim period, not annualised.\nSource: restated financial information in the DRHP; EBITDA and ratios computed from it.\n\nHOW WE WOULD LIKE TO PARTICIPATE\n  1. Pre-IPO round: Should the Company consider a pre-IPO placement ahead of the RHP, we would be keen to participate.\n  2. Anchor Investor portion: As a SEBI-registered Category III AIF, we qualify as a QIB and would like to be considered for the anchor book.\n  3. QIB portion: We would also look to participate in the QIB portion of the IPO.\n\nFUND PROFILE\nView our fund profile (PDF): https://drive.google.com/file/d/1yQX3TH3nmyqzt6rICyliVYFCP1okKqVv/view?usp=sharing (also attached)\n\nI would be grateful if you could introduce us to the promoters of Rediff com India (Vishal Ajitbhai Mehta) and keep us informed as the pre-IPO and anchor book discussions progress. A short call at your convenience would be much appreciated.\n\nI look forward to hearing from you.\n\nWarm regards,\n\nCA Deep Dalal\nFund Manager, Parshwanath Capital Ventures Fund\nSEBI-registered Category III AIF\nEmail: fundmanager@parshwanath.in\nWhatsApp: +91 83200 52970\nPhone / WhatsApp: +91 70690 06298\nSEBI Reg. No.: IN/AIF3/25-26/2108\n\nThis email is for introduction purposes only and does not constitute an offer, solicitation or commitment to invest. Any investment is subject to the Fund's due diligence, investment committee approval and applicable SEBI regulations. To stop receiving emails from us, reply with “unsubscribe”.",
+   "html": "<!doctype html><html><head><meta charset=\"utf-8\"><meta name=\"color-scheme\" content=\"light dark\"><meta name=\"supported-color-schemes\" content=\"light dark\"></head><body style=\"margin:0;padding:0\"><table role=\"presentation\" width=\"100%\" cellpadding=\"0\" cellspacing=\"0\" style=\"border-collapse:collapse\"><tr><td align=\"center\" style=\"padding:20px 12px\"><table role=\"presentation\" width=\"640\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:100%;max-width:640px;border-collapse:collapse\"><tr><td align=\"center\" style=\"padding:0 4px 16px 4px;border-bottom:3px double #A07A35;text-align:center\"><img src=\"cid:pcvf-logo\" width=\"96\" height=\"96\" alt=\"Parshwanath Capital Ventures Fund logo\" style=\"display:block;margin:0 auto 10px auto;border:0;width:96px;height:96px;border-radius:48px\"><div style=\"font-family:Georgia, 'Times New Roman', Times, serif;font-size:24px;font-weight:700;letter-spacing:1.2px;color:#A07A35;line-height:1.25\">Parshwanath Capital Ventures Fund</div><div style=\"font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:10.5px;letter-spacing:2.2px;text-transform:uppercase;color:#7B8491;margin-top:6px\">SEBI-registered Category III AIF &middot; Pre-IPO &middot; Anchor &middot; QIB &middot; QIP</div><div style=\"font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:11px;letter-spacing:1px;color:#7B8491;margin-top:4px\">SEBI Regn. No. IN/AIF3/25-26/2108</div></td></tr><tr><td style=\"padding:10px 4px;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:12px;letter-spacing:.4px;color:#7B8491;border-bottom:1px solid #B9B2A5\">Re: <b style=\"color:#A07A35\">Rediff com India Limited</b> &nbsp;|&nbsp; Mainboard IPO &nbsp;|&nbsp; DRHP dated November 13, 2026</td></tr><tr><td style=\"padding:24px 4px 22px 4px\"><p style=\"margin:0 0 14px 0;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:14.5px;line-height:1.65;\">Dear Milan Soni and Virendra Chaurasia,</p><p style=\"margin:0 0 14px 0;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:14.5px;line-height:1.65;\">I am CA Deep Dalal, Fund Manager of Parshwanath Capital Ventures Fund. I am writing to you as the Book Running Lead Manager to the proposed IPO of Rediff com India Limited, whose Draft Red Herring Prospectus dated November 13, 2026 has been filed with SEBI for listing on the Main Board of BSE and NSE.</p><p style=\"margin:24px 0 8px 0;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:11.5px;font-weight:700;letter-spacing:1.6px;text-transform:uppercase;color:#A07A35;\">About us</p><table role=\"presentation\" width=\"100%\" cellpadding=\"0\" cellspacing=\"0\" style=\"border-collapse:collapse;margin:0 0 6px 0\"><tr><td style=\"border-left:3px solid #A07A35;padding:4px 0 4px 16px;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:14.5px;line-height:1.65\">Parshwanath Capital Ventures Fund is a SEBI-registered Category III Alternative Investment Fund focused on India&#x27;s primary markets. We invest through Pre-IPO placements, IPO Anchor Investor books, the QIB portion of IPOs and Qualified Institutional Placements (QIPs), working closely with promoters and merchant bankers through the listing journey.</td></tr></table><p style=\"margin:24px 0 8px 0;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:11.5px;font-weight:700;letter-spacing:1.6px;text-transform:uppercase;color:#A07A35;\">Our view on Rediff com India</p><p style=\"margin:0 0 14px 0;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:14.5px;line-height:1.65;\">Rediff com India is a diversified digital platform company with a consumer internet brand and a multi-decade presence in India’s digital ecosystem. We have studied the DRHP closely, and the business and its growth trajectory fit well with our investment focus.</p><p style=\"margin:24px 0 8px 0;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:11.5px;font-weight:700;letter-spacing:1.6px;text-transform:uppercase;color:#A07A35;\">Key financials <span style=\"color:#7B8491;letter-spacing:.4px;text-transform:none;font-weight:400\">(₹ crore unless stated)</span></p><table role=\"presentation\" width=\"100%\" cellpadding=\"0\" cellspacing=\"0\" style=\"border-collapse:collapse;margin:0 0 6px 0\"><tr><th style=\"padding:9px 10px;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:11.5px;font-weight:700;letter-spacing:.8px;text-transform:uppercase;color:#A07A35;text-align:right;border-top:2px solid #A07A35;border-bottom:2px solid #A07A35;text-align:left\">Particulars</th><th style=\"padding:9px 10px;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:11.5px;font-weight:700;letter-spacing:.8px;text-transform:uppercase;color:#A07A35;text-align:right;border-top:2px solid #A07A35;border-bottom:2px solid #A07A35;\">Jun-26*</th><th style=\"padding:9px 10px;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:11.5px;font-weight:700;letter-spacing:.8px;text-transform:uppercase;color:#A07A35;text-align:right;border-top:2px solid #A07A35;border-bottom:2px solid #A07A35;\">FY26</th><th style=\"padding:9px 10px;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:11.5px;font-weight:700;letter-spacing:.8px;text-transform:uppercase;color:#A07A35;text-align:right;border-top:2px solid #A07A35;border-bottom:2px solid #A07A35;\">FY25</th><th style=\"padding:9px 10px;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:11.5px;font-weight:700;letter-spacing:.8px;text-transform:uppercase;color:#A07A35;text-align:right;border-top:2px solid #A07A35;border-bottom:2px solid #A07A35;\">FY24</th></tr><tr><td style=\"padding:8px 10px;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:13.5px;border-bottom:1px solid #B9B2A5;text-align:left\">Revenue from operations (₹ cr)</td><td style=\"padding:8px 10px;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:13.5px;border-bottom:1px solid #B9B2A5;text-align:right;white-space:nowrap;font-variant-numeric:tabular-nums\">58.38</td><td style=\"padding:8px 10px;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:13.5px;border-bottom:1px solid #B9B2A5;text-align:right;white-space:nowrap;font-variant-numeric:tabular-nums\">133.59</td><td style=\"padding:8px 10px;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:13.5px;border-bottom:1px solid #B9B2A5;text-align:right;white-space:nowrap;font-variant-numeric:tabular-nums\">37.23</td><td style=\"padding:8px 10px;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:13.5px;border-bottom:1px solid #B9B2A5;text-align:right;white-space:nowrap;font-variant-numeric:tabular-nums\">36.07</td></tr><tr><td style=\"padding:8px 10px;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:13.5px;border-bottom:1px solid #B9B2A5;text-align:left\">Growth (YoY)</td><td style=\"padding:8px 10px;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:13.5px;border-bottom:1px solid #B9B2A5;text-align:right;white-space:nowrap;font-variant-numeric:tabular-nums\">–</td><td style=\"padding:8px 10px;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:13.5px;border-bottom:1px solid #B9B2A5;text-align:right;white-space:nowrap;font-variant-numeric:tabular-nums\">258.8%</td><td style=\"padding:8px 10px;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:13.5px;border-bottom:1px solid #B9B2A5;text-align:right;white-space:nowrap;font-variant-numeric:tabular-nums\">3.2%</td><td style=\"padding:8px 10px;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:13.5px;border-bottom:1px solid #B9B2A5;text-align:right;white-space:nowrap;font-variant-numeric:tabular-nums\">–</td></tr><tr><td style=\"padding:8px 10px;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:13.5px;border-bottom:1px solid #B9B2A5;text-align:left\">EBITDA (₹ cr)</td><td style=\"padding:8px 10px;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:13.5px;border-bottom:1px solid #B9B2A5;text-align:right;white-space:nowrap;font-variant-numeric:tabular-nums\">39.18</td><td style=\"padding:8px 10px;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:13.5px;border-bottom:1px solid #B9B2A5;text-align:right;white-space:nowrap;font-variant-numeric:tabular-nums\">55.48</td><td style=\"padding:8px 10px;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:13.5px;border-bottom:1px solid #B9B2A5;text-align:right;white-space:nowrap;font-variant-numeric:tabular-nums\">3.18</td><td style=\"padding:8px 10px;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:13.5px;border-bottom:1px solid #B9B2A5;text-align:right;white-space:nowrap;font-variant-numeric:tabular-nums\">–</td></tr><tr><td style=\"padding:8px 10px;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:13.5px;border-bottom:1px solid #B9B2A5;text-align:left\">EBITDA margin</td><td style=\"padding:8px 10px;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:13.5px;border-bottom:1px solid #B9B2A5;text-align:right;white-space:nowrap;font-variant-numeric:tabular-nums\">67.1%</td><td style=\"padding:8px 10px;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:13.5px;border-bottom:1px solid #B9B2A5;text-align:right;white-space:nowrap;font-variant-numeric:tabular-nums\">41.5%</td><td style=\"padding:8px 10px;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:13.5px;border-bottom:1px solid #B9B2A5;text-align:right;white-space:nowrap;font-variant-numeric:tabular-nums\">8.5%</td><td style=\"padding:8px 10px;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:13.5px;border-bottom:1px solid #B9B2A5;text-align:right;white-space:nowrap;font-variant-numeric:tabular-nums\">–</td></tr><tr><td style=\"padding:8px 10px;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:13.5px;border-bottom:1px solid #B9B2A5;text-align:left\">Net worth (₹ cr)</td><td style=\"padding:8px 10px;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:13.5px;border-bottom:1px solid #B9B2A5;text-align:right;white-space:nowrap;font-variant-numeric:tabular-nums\">672.86</td><td style=\"padding:8px 10px;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:13.5px;border-bottom:1px solid #B9B2A5;text-align:right;white-space:nowrap;font-variant-numeric:tabular-nums\">640.94</td><td style=\"padding:8px 10px;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:13.5px;border-bottom:1px solid #B9B2A5;text-align:right;white-space:nowrap;font-variant-numeric:tabular-nums\">82.76</td><td style=\"padding:8px 10px;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:13.5px;border-bottom:1px solid #B9B2A5;text-align:right;white-space:nowrap;font-variant-numeric:tabular-nums\">-44.74</td></tr><tr><td style=\"padding:8px 10px;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:13.5px;border-bottom:1px solid #B9B2A5;text-align:left\">Debt / Equity</td><td style=\"padding:8px 10px;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:13.5px;border-bottom:1px solid #B9B2A5;text-align:right;white-space:nowrap;font-variant-numeric:tabular-nums\">0.59x</td><td style=\"padding:8px 10px;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:13.5px;border-bottom:1px solid #B9B2A5;text-align:right;white-space:nowrap;font-variant-numeric:tabular-nums\">0.62x</td><td style=\"padding:8px 10px;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:13.5px;border-bottom:1px solid #B9B2A5;text-align:right;white-space:nowrap;font-variant-numeric:tabular-nums\">0.09x</td><td style=\"padding:8px 10px;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:13.5px;border-bottom:1px solid #B9B2A5;text-align:right;white-space:nowrap;font-variant-numeric:tabular-nums\">-0.56x</td></tr></table><p style=\"margin:0 0 6px 0;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:11.5px;color:#7B8491\">* Jun-26: interim period, not annualised. Source: restated financial information in the DRHP; EBITDA and ratios computed from it.</p><p style=\"margin:24px 0 8px 0;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:11.5px;font-weight:700;letter-spacing:1.6px;text-transform:uppercase;color:#A07A35;\">How we would like to participate</p><table role=\"presentation\" width=\"100%\" cellpadding=\"0\" cellspacing=\"0\" style=\"border-collapse:collapse;margin:0 0 8px 0\"><tr><td width=\"34\" valign=\"top\" style=\"padding-top:1px\"><div style=\"width:22px;height:22px;line-height:20px;border-radius:12px;border:1.5px solid #A07A35;color:#A07A35;text-align:center;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:12px;font-weight:700\">1</div></td><td style=\"font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:14.5px;line-height:1.6\"><b>Pre-IPO round.</b> Should the Company consider a pre-IPO placement ahead of the RHP, we would be keen to participate.</td></tr></table><table role=\"presentation\" width=\"100%\" cellpadding=\"0\" cellspacing=\"0\" style=\"border-collapse:collapse;margin:0 0 8px 0\"><tr><td width=\"34\" valign=\"top\" style=\"padding-top:1px\"><div style=\"width:22px;height:22px;line-height:20px;border-radius:12px;border:1.5px solid #A07A35;color:#A07A35;text-align:center;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:12px;font-weight:700\">2</div></td><td style=\"font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:14.5px;line-height:1.6\"><b>Anchor Investor portion.</b> As a SEBI-registered Category III AIF, we qualify as a QIB and would like to be considered for the anchor book.</td></tr></table><table role=\"presentation\" width=\"100%\" cellpadding=\"0\" cellspacing=\"0\" style=\"border-collapse:collapse;margin:0 0 8px 0\"><tr><td width=\"34\" valign=\"top\" style=\"padding-top:1px\"><div style=\"width:22px;height:22px;line-height:20px;border-radius:12px;border:1.5px solid #A07A35;color:#A07A35;text-align:center;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:12px;font-weight:700\">3</div></td><td style=\"font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:14.5px;line-height:1.6\"><b>QIB portion.</b> We would also look to participate in the QIB portion of the IPO.</td></tr></table><p style=\"margin:24px 0 8px 0;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:11.5px;font-weight:700;letter-spacing:1.6px;text-transform:uppercase;color:#A07A35;\">Fund profile</p><table role=\"presentation\" cellpadding=\"0\" cellspacing=\"0\" style=\"border-collapse:collapse;margin:0 0 6px 0\"><tr><td style=\"border:1.5px solid #A07A35;border-radius:6px;padding:10px 18px\"><a href=\"https://drive.google.com/file/d/1yQX3TH3nmyqzt6rICyliVYFCP1okKqVv/view?usp=sharing\" style=\"font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:14px;font-weight:700;color:#A07A35;text-decoration:none\">View Fund Profile (PDF) &rarr;</a></td></tr></table><p style=\"margin:6px 0 0 0;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:12px;color:#7B8491\">Also attached to this email. Opens in Google Drive with view access; no sign-in needed.</p><p style=\"margin:0 0 14px 0;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:14.5px;line-height:1.65;margin-top:16px\">I would be grateful if you could introduce us to the promoters of Rediff com India (Vishal Ajitbhai Mehta) and keep us informed as the pre-IPO and anchor book discussions progress. A short call at your convenience would be much appreciated.</p><p style=\"margin:0 0 14px 0;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:14.5px;line-height:1.65;\">I look forward to hearing from you.</p><p style=\"margin:0 0 14px 0;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:14.5px;line-height:1.65;margin-bottom:10px\">Warm regards,</p><table role=\"presentation\" cellpadding=\"0\" cellspacing=\"0\" style=\"border-collapse:collapse;margin:0\"><tr><td valign=\"top\" style=\"padding:2px 14px 0 0\"><img src=\"cid:pcvf-logo\" width=\"64\" height=\"64\" alt=\"PCVF\" style=\"display:block;border:0;border-radius:32px\"></td><td valign=\"top\" style=\"border-left:2px solid #A07A35;padding:0 0 0 14px\"><div style=\"font-family:Georgia, 'Times New Roman', Times, serif;font-size:19px;font-weight:700\">CA Deep Dalal</div><div style=\"font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:13px;color:#7B8491;margin:2px 0 8px 0\">Fund Manager, Parshwanath Capital Ventures Fund &middot; SEBI-registered Category III AIF</div><table role=\"presentation\" cellpadding=\"0\" cellspacing=\"0\" style=\"border-collapse:collapse\"><tr><td style=\"padding:2px 14px 2px 0;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:11px;letter-spacing:1px;text-transform:uppercase;color:#A07A35;white-space:nowrap\">Email</td><td style=\"padding:2px 0;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:14px\"><a href=\"mailto:fundmanager@parshwanath.in\" style=\"color:#3B78B8;text-decoration:none\">fundmanager@parshwanath.in</a></td></tr><tr><td style=\"padding:2px 14px 2px 0;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:11px;letter-spacing:1px;text-transform:uppercase;color:#A07A35;white-space:nowrap\">WhatsApp</td><td style=\"padding:2px 0;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:14px\"><a href=\"https://wa.me/918320052970\" style=\"color:#3B78B8;text-decoration:none\">+91 83200 52970</a></td></tr><tr><td style=\"padding:2px 14px 2px 0;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:11px;letter-spacing:1px;text-transform:uppercase;color:#A07A35;white-space:nowrap\">Phone / WhatsApp</td><td style=\"padding:2px 0;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:14px\"><a href=\"https://wa.me/917069006298\" style=\"color:#3B78B8;text-decoration:none\">+91 70690 06298</a></td></tr><tr><td style=\"padding:2px 14px 2px 0;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:11px;letter-spacing:1px;text-transform:uppercase;color:#A07A35;white-space:nowrap\">SEBI Reg. No.</td><td style=\"padding:2px 0;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:14px\">IN/AIF3/25-26/2108</td></tr></table></td></tr></table></td></tr><tr><td style=\"padding:12px 4px 8px 4px;border-top:1px solid #B9B2A5;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:11px;line-height:1.55;color:#7B8491\">This email is for introduction purposes only and does not constitute an offer, solicitation or commitment to invest. Any investment is subject to the Fund&#x27;s due diligence, investment committee approval and applicable SEBI regulations. To stop receiving emails from us, reply with “unsubscribe”.</td></tr></table></td></tr></table></body></html>",
+   "variant": "brlm",
+   "to": [
+    "mbd@keynoteindia.net"
+   ],
+   "names": [
+    "Milan Soni",
+    "Virendra Chaurasia"
+   ],
+   "brlm": "Keynote Financial Services Limited"
+  }
+ ],
+ "warnings": [
+  "Some core figures could not be cross-checked; only verified figures are used in the email."
+ ],
+ "processed_at": "2026-11-17T21:41:18+05:30"
+}

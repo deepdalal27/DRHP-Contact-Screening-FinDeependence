@@ -127,12 +127,10 @@
    "listing_ref": "https://www.chittorgarh.com/ipo/mayur-electromeck-ipo/3392/"
   },
   "iljinelectronicsindia": {
-   "ref": "https://nsearchives.nseindia.in/corporate/AD_IPO_7990_07112026090107.zip",
-   "listing_ref": "https://nsearchives.nseindia.in/corporate/AD_IPO_7990_07112026090107.zip",
-   "error": "NSE: zip has no PDF",
-   "at": "2026-11-14T23:45:43+05:30",
-   "company": "Il Jin Electronics (India) Limited",
-   "attempts": 4,
+   "ref": "https://www.sebi.gov.in/sebi_data/attachdocs/nov-2026/1794907751564.pdf",
+   "listing_ref": "https://www.sebi.gov.in/filings/public-issues/nov-2026/il-jin-electronics-india-limited-drhp_105795.html",
+   "at": "2026-11-17T21:40:28+05:30",
+   "company": "IL JIN Electronics (India) Limited",
    "version": 4
   },
   "hindustancocacolaholdings": {
@@ -837,6 +835,20 @@
    "listing_ref": "https://nsearchives.nseindia.in/corporate/AD_IPO_7996_16112026204154.zip",
    "at": "2026-11-17T01:10:27+05:30",
    "company": "Meganet Technologies Global Limited",
+   "version": 4
+  },
+  "zadleyindia": {
+   "ref": "https://www.bsesme.com/download/323118/SME_IPO%20InPrinciple/DRHP_Zadley_16112026_20261116190532.zip",
+   "listing_ref": "https://www.chittorgarh.com/ipo/zadley-india-ipo/3403/",
+   "at": "2026-11-17T21:40:35+05:30",
+   "company": "Zadley India Limited",
+   "version": 4
+  },
+  "rediffcomindia": {
+   "ref": "https://www.sebi.gov.in/sebi_data/attachdocs/nov-2026/1794830920691.PDF",
+   "listing_ref": "https://www.sebi.gov.in/filings/public-issues/nov-2026/rediff-com-india-limited-udrhp-i_105794.html",
+   "at": "2026-11-17T21:41:18+05:30",
+   "company": "Rediff com India Limited",
    "version": 4
   }
  }

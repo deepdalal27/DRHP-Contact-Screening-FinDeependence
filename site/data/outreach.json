@@ -9627,7 +9627,348 @@
    },
    "website": "www.meganet.in",
    "doc_url": "https://nsearchives.nseindia.in/corporate/AD_IPO_7996_16112026204154.zip"
+  },
+  {
+   "id": "iljinelectronicsindia|iljin.ipo@motilaloswal.com",
+   "company_key": "iljinelectronicsindia",
+   "company": "IL JIN Electronics (India) Limited",
+   "board": "Mainboard",
+   "filed_on": "2026-11-17",
+   "variant": "brlm",
+   "role": "BRLM contact",
+   "organisation": "Motilal Oswal Investment Advisors Limited",
+   "names": [
+    "Ronak Shah",
+    "Ritu Sharma"
+   ],
+   "email": "iljin.ipo@motilaloswal.com",
+   "phones": [
+    "+ 91 22 7193 4380"
+   ],
+   "subject": "Parshwanath Capital Ventures Fund | Pre-IPO & Anchor interest – IL JIN Electronics (India) Limited",
+   "status": "sent",
+   "sent_at": "2026-11-17T21:40:32+05:30",
+   "created_at": "2026-11-17T21:40:32+05:30",
+   "message_id": "<179493182824.2760.1624169226395257323@gmail.com>",
+   "error": null,
+   "promoters": [
+    "Amber Enterprises India Limited"
+   ],
+   "brlm_contacts": [
+    {
+     "firm": "Motilal Oswal Investment Advisors Limited",
+     "people": [
+      "Ronak Shah",
+      "Ritu Sharma"
+     ],
+     "emails": [
+      "iljin.ipo@motilaloswal.com"
+     ],
+     "phones": [
+      "+ 91 22 7193 4380"
+     ]
+    },
+    {
+     "firm": "Axis Capital Limited",
+     "people": [
+      "Simran Gadh",
+      "Devika Kanani"
+     ],
+     "emails": [
+      "iljin.ipo@axiscap.in"
+     ],
+     "phones": [
+      "+91 22 4325 2183"
+     ]
+    },
+    {
+     "firm": "Jefferies India Private Limited",
+     "people": [
+      "Nidhi Rana",
+      "Chirag Agarwal"
+     ],
+     "emails": [
+      "iljin.ipo@jefferies.com"
+     ],
+     "phones": [
+      "+ 91 22 4356 6000"
+     ]
+    }
+   ],
+   "cs": {
+    "name": "Sakshi Gupta",
+    "emails": [
+     "csiljin@iljin.co.in"
+    ],
+    "phones": [
+     "+91 120 681 1297"
+    ],
+    "page": 113
+   },
+   "website": "www.iljin.co.in",
+   "doc_url": "https://www.sebi.gov.in/sebi_data/attachdocs/nov-2026/1794907751564.pdf"
+  },
+  {
+   "id": "iljinelectronicsindia|iljin.ipo@axiscap.in",
+   "company_key": "iljinelectronicsindia",
+   "company": "IL JIN Electronics (India) Limited",
+   "board": "Mainboard",
+   "filed_on": "2026-11-17",
+   "variant": "brlm",
+   "role": "BRLM contact",
+   "organisation": "Axis Capital Limited",
+   "names": [
+    "Simran Gadh",
+    "Devika Kanani"
+   ],
+   "email": "iljin.ipo@axiscap.in",
+   "phones": [
+    "+91 22 4325 2183"
+   ],
+   "subject": "Parshwanath Capital Ventures Fund | Pre-IPO & Anchor interest – IL JIN Electronics (India) Limited",
+   "status": "sent",
+   "sent_at": "2026-11-17T21:40:34+05:30",
+   "created_at": "2026-11-17T21:40:34+05:30",
+   "message_id": "<179493183285.2760.18058440390295777307@gmail.com>",
+   "error": null,
+   "promoters": [
+    "Amber Enterprises India Limited"
+   ],
+   "brlm_contacts": [
+    {
+     "firm": "Motilal Oswal Investment Advisors Limited",
+     "people": [
+      "Ronak Shah",
+      "Ritu Sharma"
+     ],
+     "emails": [
+      "iljin.ipo@motilaloswal.com"
+     ],
+     "phones": [
+      "+ 91 22 7193 4380"
+     ]
+    },
+    {
+     "firm": "Axis Capital Limited",
+     "people": [
+      "Simran Gadh",
+      "Devika Kanani"
+     ],
+     "emails": [
+      "iljin.ipo@axiscap.in"
+     ],
+     "phones": [
+      "+91 22 4325 2183"
+     ]
+    },
+    {
+     "firm": "Jefferies India Private Limited",
+     "people": [
+      "Nidhi Rana",
+      "Chirag Agarwal"
+     ],
+     "emails": [
+      "iljin.ipo@jefferies.com"
+     ],
+     "phones": [
+      "+ 91 22 4356 6000"
+     ]
+    }
+   ],
+   "cs": {
+    "name": "Sakshi Gupta",
+    "emails": [
+     "csiljin@iljin.co.in"
+    ],
+    "phones": [
+     "+91 120 681 1297"
+    ],
+    "page": 113
+   },
+   "website": "www.iljin.co.in",
+   "doc_url": "https://www.sebi.gov.in/sebi_data/attachdocs/nov-2026/1794907751564.pdf"
+  },
+  {
+   "id": "iljinelectronicsindia|iljin.ipo@jefferies.com",
+   "company_key": "iljinelectronicsindia",
+   "company": "IL JIN Electronics (India) Limited",
+   "board": "Mainboard",
+   "filed_on": "2026-11-17",
+   "variant": "brlm",
+   "role": "BRLM contact",
+   "organisation": "Jefferies India Private Limited",
+   "names": [
+    "Nidhi Rana",
+    "Chirag Agarwal"
+   ],
+   "email": "iljin.ipo@jefferies.com",
+   "phones": [
+    "+ 91 22 4356 6000"
+   ],
+   "subject": "Parshwanath Capital Ventures Fund | Pre-IPO & Anchor interest – IL JIN Electronics (India) Limited",
+   "status": "sent",
+   "sent_at": "2026-11-17T21:40:35+05:30",
+   "created_at": "2026-11-17T21:40:35+05:30",
+   "message_id": "<179493183414.2760.15810838008055982579@gmail.com>",
+   "error": null,
+   "promoters": [
+    "Amber Enterprises India Limited"
+   ],
+   "brlm_contacts": [
+    {
+     "firm": "Motilal Oswal Investment Advisors Limited",
+     "people": [
+      "Ronak Shah",
+      "Ritu Sharma"
+     ],
+     "emails": [
+      "iljin.ipo@motilaloswal.com"
+     ],
+     "phones": [
+      "+ 91 22 7193 4380"
+     ]
+    },
+    {
+     "firm": "Axis Capital Limited",
+     "people": [
+      "Simran Gadh",
+      "Devika Kanani"
+     ],
+     "emails": [
+      "iljin.ipo@axiscap.in"
+     ],
+     "phones": [
+      "+91 22 4325 2183"
+     ]
+    },
+    {
+     "firm": "Jefferies India Private Limited",
+     "people": [
+      "Nidhi Rana",
+      "Chirag Agarwal"
+     ],
+     "emails": [
+      "iljin.ipo@jefferies.com"
+     ],
+     "phones": [
+      "+ 91 22 4356 6000"
+     ]
+    }
+   ],
+   "cs": {
+    "name": "Sakshi Gupta",
+    "emails": [
+     "csiljin@iljin.co.in"
+    ],
+    "phones": [
+     "+91 120 681 1297"
+    ],
+    "page": 113
+   },
+   "website": "www.iljin.co.in",
+   "doc_url": "https://www.sebi.gov.in/sebi_data/attachdocs/nov-2026/1794907751564.pdf"
+  },
+  {
+   "id": "zadleyindia|co@zadley.com",
+   "company_key": "zadleyindia",
+   "company": "Zadley India Limited",
+   "board": "SME",
+   "filed_on": "2026-11-16",
+   "variant": "company",
+   "role": "Company Secretary / IR",
+   "organisation": "Zadley India Limited",
+   "names": [],
+   "email": "co@zadley.com",
+   "phones": [],
+   "subject": "Parshwanath Capital Ventures Fund | Pre-IPO & Anchor interest – Zadley India Limited",
+   "status": "sent",
+   "sent_at": "2026-11-17T21:40:36+05:30",
+   "created_at": "2026-11-17T21:40:36+05:30",
+   "message_id": "<179493183551.2760.13885324515394104855@gmail.com>",
+   "error": null,
+   "promoters": [
+    "Gopal Aggarwal",
+    "Sanjeev Aggarwal",
+    "Mohit Aggarwal",
+    "Mukul Aggarwal",
+    "Bhawna Aggarwal",
+    "Kriti Aggarwal",
+    "Mayur Aggarwal"
+   ],
+   "brlm_contacts": [
+    {
+     "firm": "Expert Global Consultants Pvt.ltd.",
+     "people": [],
+     "emails": [],
+     "phones": []
+    }
+   ],
+   "cs": {
+    "name": null,
+    "emails": [
+     "co@zadley.com"
+    ],
+    "phones": [],
+    "page": null
+   },
+   "website": "https://zadleyindia.com/",
+   "doc_url": "https://www.bsesme.com/download/323118/SME_IPO%20InPrinciple/DRHP_Zadley_16112026_20261116190532.zip"
+  },
+  {
+   "id": "rediffcomindia|mbd@keynoteindia.net",
+   "company_key": "rediffcomindia",
+   "company": "Rediff com India Limited",
+   "board": "Mainboard",
+   "filed_on": "2026-11-14",
+   "variant": "brlm",
+   "role": "BRLM contact",
+   "organisation": "Keynote Financial Services Limited",
+   "names": [
+    "Milan Soni",
+    "Virendra Chaurasia"
+   ],
+   "email": "mbd@keynoteindia.net",
+   "phones": [
+    "+91 22 6826 6000"
+   ],
+   "subject": "Parshwanath Capital Ventures Fund | Pre-IPO & Anchor interest – Rediff com India Limited",
+   "status": "sent",
+   "sent_at": "2026-11-17T21:41:20+05:30",
+   "created_at": "2026-11-17T21:41:20+05:30",
+   "message_id": "<179493187899.2760.5755313910901615157@gmail.com>",
+   "error": null,
+   "promoters": [
+    "Vishal Ajitbhai Mehta",
+    "Avenuesai Limited (formerly Known As Infibeam Avenues Limited)"
+   ],
+   "brlm_contacts": [
+    {
+     "firm": "Keynote Financial Services Limited",
+     "people": [
+      "Milan Soni",
+      "Virendra Chaurasia"
+     ],
+     "emails": [
+      "mbd@keynoteindia.net"
+     ],
+     "phones": [
+      "+91 22 6826 6000"
+     ]
+    }
+   ],
+   "cs": {
+    "name": "Vandana Sharma",
+    "emails": [
+     "secretarial@rediff-inc.com"
+    ],
+    "phones": [
+     "+91 22 6182 0000"
+    ],
+    "page": 123
+   },
+   "website": "www.investor.rediff.com",
+   "doc_url": "https://www.sebi.gov.in/sebi_data/attachdocs/nov-2026/1794830920691.PDF"
   }
  ],
- "updated_at": "2026-11-17T09:27:50+05:30"
+ "updated_at": "2026-11-17T21:41:20+05:30"
 }
