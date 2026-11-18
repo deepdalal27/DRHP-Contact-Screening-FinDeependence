@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-18T06:31:47+05:30",
+ "updated_at": "2026-11-18T17:23:27+05:30",
  "companies": [
   {
    "key": "iljinelectronicsindia",
@@ -919,7 +919,7 @@
   },
   {
    "key": "pmconaindustries",
-   "company": "PM Cona Industries Limited",
+   "company": "PM CONA Industries Limited",
    "board": "Mainboard",
    "exchange": "BSE & NSE",
    "source": "SEBI",
@@ -973,7 +973,7 @@
    },
    "verified": true,
    "warnings": [],
-   "processed_at": "2026-11-07T06:38:47+05:30"
+   "processed_at": "2026-11-18T17:23:27+05:30"
   },
   {
    "key": "anarockpropertyconsultants",
