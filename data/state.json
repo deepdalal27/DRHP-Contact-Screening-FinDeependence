@@ -850,6 +850,15 @@
    "at": "2026-11-17T21:41:18+05:30",
    "company": "Rediff com India Limited",
    "version": 4
+  },
+  "nlcindiarenewables": {
+   "ref": "https://nsearchives.nseindia.in/corporate/AD_IPO_8002_19112026124914.zip",
+   "listing_ref": "https://nsearchives.nseindia.in/corporate/AD_IPO_8002_19112026124914.zip",
+   "error": "NSE: document has only 13 pages (incomplete download or not the DRHP)",
+   "at": "2026-11-19T17:19:44+05:30",
+   "company": "Nlc India Renewables Limited",
+   "attempts": 1,
+   "version": 4
   }
  }
 }
