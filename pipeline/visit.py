@@ -56,10 +56,8 @@ def compose_visit(f, s):
     fs = firm_short(firm)
     deals = deals_line(f)
     attn = f"Kind attention: Managing Director / Head – Merchant Banking, {firm}"
-    p1 = ("Greetings from Parshwanath Capital Ventures Fund. "
-          + (f"Further to our recent correspondence with your team on the proposed IPO{'s' if len(f['deals']) > 1 else ''} of {deals}, "
-             if deals else "")
-          + f"I am pleased to share that {VISIT['sponsor']}, Sponsor of the Fund, and I will be in Mumbai from {VISIT['dates']}.")
+    p1 = ("Greetings from Parshwanath Capital Ventures Fund. Further to our recent correspondence with your team, "
+          f"I am pleased to share that {VISIT['sponsor']}, Sponsor of the Fund, and I will be in Mumbai from {VISIT['dates']}.")
     p2 = (f"We would value the opportunity to call on you for a brief introductory meeting with the Promoter / Managing Director "
           f"of {fs} or, if more convenient, the Head of your Merchant Banking division.")
     agenda = [
@@ -67,11 +65,9 @@ def compose_visit(f, s):
         ("Your pipeline", "An understanding of your upcoming Mainboard and SME IPO mandates, pre-IPO rounds and QIPs."),
         ("Working together", "A structured engagement for Pre-IPO placements, Anchor and QIB participation, and early sharing of opportunities."),
     ]
-    rows = [("Dates", VISIT["dates_short"]), ("Time", VISIT["time"]), ("Duration", VISIT["duration"]), ("Venue", VISIT["venue"]),
-            ("Attending", f"{VISIT['sponsor']}, Sponsor  ·  CA Deep Dalal, Fund Manager")]
-    book = (f"To book a slot, simply reply to this email with your preferred date and time (and an alternative, if possible), "
-            f"or WhatsApp / call me on {s.get('phone')}. We will confirm by return and plan our schedule accordingly. "
-            f"As the available slots are limited, we would be grateful to hear from you by {VISIT['reply_by']}.")
+    rows = [("Dates", VISIT["dates_short"]), ("Attending", f"{VISIT['sponsor']}, Sponsor  ·  CA Deep Dalal, Fund Manager")]
+    book = (f"To book a slot, kindly reply to this email or WhatsApp / call me on {s.get('phone')}, and we will agree a convenient "
+            f"time and place over a call. As the available slots are limited, we would be grateful to hear from you by {VISIT['reply_by']}.")
     subject = f"Mumbai visit, 14–16 December 2026 | Request for an introductory meeting – {fs}"
     mail_subject = urllib.parse.quote(f"Meeting slot – {fs} – Parshwanath Capital Ventures Fund")
     reply_href = f"mailto:{s.get('email')}?subject={mail_subject}"
@@ -82,7 +78,7 @@ def compose_visit(f, s):
     # plain text
     t = [attn, "", "Dear Sir / Madam,", "", p1, "", p2, "", "PROPOSED AGENDA"]
     t += [f"  {k}. {h}: {b}" for k, (h, b) in enumerate(agenda, 1)]
-    t += ["", "MEETING DETAILS"] + [f"  {k}: {v}" for k, v in rows] + ["", book]
+    t += ["", "VISIT DETAILS"] + [f"  {k}: {v}" for k, v in rows] + ["", book]
     if prof.get("view_url"):
         t += ["", f"Our fund profile (also attached): {prof['view_url']}"]
     t += ["", "I look forward to meeting you.", "", "Warm regards,", "", s["name"], f"{s['designation']}, {s['fund']}",
@@ -114,7 +110,7 @@ def compose_visit(f, s):
             f'<tr><td width="34" valign="top" style="padding-top:1px"><div style="width:22px;height:22px;line-height:20px;border-radius:12px;'
             f'border:1.5px solid {GOLD};color:{GOLD};text-align:center;font-family:{SANS};font-size:12px;font-weight:700">{k}</div></td>'
             f'<td style="font-family:{SANS};font-size:14.5px;line-height:1.6"><b>{e(h)}.</b> {e(b)}</td></tr></table>')
-    parts.append(f'<p style="{H}">Meeting details</p>')
+    parts.append(f'<p style="{H}">Visit details</p>')
     parts.append(
         f'<table role="presentation" width="100%" cellpadding="0" cellspacing="0" style="border-collapse:collapse;border-top:2px solid {GOLD};border-bottom:2px solid {GOLD}">'
         + "".join(f'<tr><td style="padding:9px 12px 9px 0;font-family:{SANS};font-size:11.5px;letter-spacing:1px;text-transform:uppercase;'
@@ -181,19 +177,14 @@ def whatsapp(f, s):
         "",
         "Dear Sir / Madam,",
         "",
-        "Greetings from Parshwanath Capital Ventures Fund."
-        + (f" Further to our recent correspondence with your team on the proposed IPO{'s' if len(f['deals']) > 1 else ''} of {deals}," if deals else "")
-        + f" I am pleased to share that *{VISIT['sponsor']}* (Sponsor of the Fund) and I will be in *Mumbai from {VISIT['dates_short']}*.",
+        "Greetings from Parshwanath Capital Ventures Fund. Further to our recent correspondence with your team, "
+        f"I am pleased to share that *{VISIT['sponsor']}* (Sponsor of the Fund) and I will be in *Mumbai from {VISIT['dates_short']}*.",
         "",
         f"We would value a brief introductory meeting with the *Promoter / Managing Director* of {fs} or, if more convenient, the *Head – Merchant Banking*.",
         "",
-        f"📅 {VISIT['dates_short']}",
-        f"🕙 {VISIT['time']} (about 45 minutes)",
-        "📍 At your office, Mumbai",
-        "",
         "*Agenda:* an introduction to our Fund, your upcoming IPO, pre-IPO and QIP mandates, and how we can work together on Pre-IPO, Anchor and QIB participation.",
         "",
-        f"Kindly share a convenient date and time, and we will confirm and plan our schedule accordingly. We would be grateful to hear from you by {VISIT['reply_by']}.",
+        f"Kindly let me know a convenient day, and we will agree the time and place over a call. We would be grateful to hear from you by {VISIT['reply_by']}.",
     ]
     if prof:
         lines += ["", f"Fund profile: {prof}"]
