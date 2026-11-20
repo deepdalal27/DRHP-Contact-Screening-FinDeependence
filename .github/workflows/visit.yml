@@ -1,0 +1,37 @@
+name: Send Mumbai visit invites
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: drhp-pipeline
+  cancel-in-progress: false
+
+jobs:
+  send:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref_name }}
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Send (each firm once; log saved after every mail)
+        env:
+          GMAIL_ADDRESS: ${{ secrets.GMAIL_ADDRESS }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+        run: python -m pipeline.visit --send
+      - name: Save campaign log
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/campaigns.json || true
+          if ! git diff --cached --quiet; then
+            git commit -m "Campaign log: Mumbai visit invites"
+            for i in 1 2 3 4 5; do git pull --rebase -X theirs origin "${GITHUB_REF_NAME}" && git push && break; sleep $((i*5)); done
+          fi
