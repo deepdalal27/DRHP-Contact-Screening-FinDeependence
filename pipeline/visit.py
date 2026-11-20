@@ -76,7 +76,7 @@ def compose_visit(f, s):
     prof = s.get("fund_profile") or {}
 
     # plain text
-    t = [attn, "", "Dear Sir / Madam,", "", p1, "", p2, "", "PROPOSED AGENDA"]
+    t = [attn, "", f"Sub: Request for an introductory meeting – Mumbai visit, {VISIT['dates_short']}", "", "Dear Sir / Madam,", "", p1, "", p2, "", "PROPOSED AGENDA"]
     t += [f"  {k}. {h}: {b}" for k, (h, b) in enumerate(agenda, 1)]
     t += ["", "VISIT DETAILS"] + [f"  {k}: {v}" for k, v in rows] + ["", book]
     if prof.get("view_url"):
@@ -90,18 +90,27 @@ def compose_visit(f, s):
     P = f"margin:0 0 14px 0;font-family:{SANS};font-size:14.5px;line-height:1.7;"
     H = (f"margin:24px 0 10px 0;font-family:{SANS};font-size:11.5px;font-weight:700;letter-spacing:1.6px;"
          f"text-transform:uppercase;color:{GOLD};")
+    B = lambda x: f"<b>{e(x)}</b>"
+    sub = f"Request for an introductory meeting – Mumbai visit, {VISIT['dates_short']}"
+    p1_html = (f"Greetings from <i>Parshwanath Capital Ventures Fund</i>. Further to our recent correspondence with your team, "
+               f"I am pleased to share that {B(VISIT['sponsor'])}, <b>Sponsor of the Fund</b>, and I will be in "
+               f"<b>Mumbai from {e(VISIT['dates'])}</b>.")
+    p2_html = (f"We would value the opportunity to call on you for a brief introductory meeting with the "
+               f"<b>Promoter / Managing Director</b> of {B(fs)} or, if more convenient, the <b>Head of your Merchant Banking division</b>.")
     parts = [
-        f'<p style="margin:0 0 16px 0;font-family:{SANS};font-size:12.5px;letter-spacing:.3px;color:{MUTED}">{e(attn)}</p>',
+        f'<p style="margin:0 0 4px 0;font-family:{SANS};font-size:12.5px;letter-spacing:.3px;color:{MUTED}"><i>Kind attention:</i></p>',
+        f'<p style="margin:0 0 16px 0;font-family:{SANS};font-size:13.5px;line-height:1.5"><b>Managing Director / Head – Merchant Banking</b><br>{e(firm)}</p>',
+        f'<p style="margin:0 0 16px 0;font-family:{SANS};font-size:14.5px;line-height:1.6"><b><u>Sub: {e(sub)}</u></b></p>',
         f'<p style="{P}">Dear Sir / Madam,</p>',
         # visit banner
         f'<table role="presentation" width="100%" cellpadding="0" cellspacing="0" style="border-collapse:collapse;margin:4px 0 20px 0">'
         f'<tr><td align="center" style="border-top:1px solid {GOLD};border-bottom:1px solid {GOLD};padding:16px 10px;text-align:center">'
         f'<div style="font-family:{SANS};font-size:11px;letter-spacing:3px;text-transform:uppercase;color:{MUTED}">Mumbai Visit</div>'
         f'<div style="font-family:{SERIF};font-size:24px;font-weight:700;color:{GOLD};margin:6px 0 2px 0">{e(VISIT["dates_short"])}</div>'
-        f'<div style="font-family:{SANS};font-size:12.5px;color:{MUTED}">{e(VISIT["sponsor"])}, Sponsor &nbsp;&middot;&nbsp; CA Deep Dalal, Fund Manager</div>'
+        f'<div style="font-family:{SANS};font-size:12.5px;color:{MUTED}"><i>{e(VISIT["sponsor"])}, Sponsor &nbsp;&middot;&nbsp; CA Deep Dalal, Fund Manager</i></div>'
         f'</td></tr></table>',
-        f'<p style="{P}">{e(p1)}</p>',
-        f'<p style="{P}">{e(p2)}</p>',
+        f'<p style="{P}">{p1_html}</p>',
+        f'<p style="{P}">{p2_html}</p>',
         f'<p style="{H}">Proposed agenda</p>',
     ]
     for k, (h, b) in enumerate(agenda, 1):
@@ -117,7 +126,10 @@ def compose_visit(f, s):
                   f'color:{GOLD};white-space:nowrap;border-bottom:1px solid {LINE};width:120px">{e(k)}</td>'
                   f'<td style="padding:9px 0;font-family:{SANS};font-size:14px;border-bottom:1px solid {LINE}">{e(v)}</td></tr>' for k, v in rows)
         + '</table>')
-    parts.append(f'<p style="{P}margin-top:18px">{e(book)}</p>')
+    book_html = (f"<b>To book a slot</b>, kindly reply to this email or WhatsApp / call me on <b>{e(s.get('phone'))}</b>, and we will "
+                 f"agree a convenient time and place over a call. As the available slots are limited, we would be grateful to hear "
+                 f"from you by <b><u>{e(VISIT['reply_by'])}</u></b>.")
+    parts.append(f'<p style="{P}margin-top:18px">{book_html}</p>')
     # booking buttons
     btn = (f'border:1.5px solid {GOLD};border-radius:6px;padding:10px 18px;font-family:{SANS};font-size:14px;font-weight:700;'
            f'color:{GOLD};text-decoration:none;display:inline-block')
@@ -126,8 +138,8 @@ def compose_visit(f, s):
         f'<td style="padding:0 10px 8px 0"><a href="{e(reply_href)}" style="{btn}">Reply to book a slot &rarr;</a></td>'
         f'<td style="padding:0 0 8px 0"><a href="{e(wa_href)}" style="{btn}">Book on WhatsApp &rarr;</a></td></tr></table>')
     if prof.get("view_url"):
-        parts.append(f'<p style="margin:4px 0 14px 0;font-family:{SANS};font-size:13px;color:{MUTED}">Our fund profile is attached for your reference, '
-                     f'and also available <a href="{e(prof["view_url"])}" style="color:{LINK};text-decoration:none">here on Google Drive</a>.</p>')
+        parts.append(f'<p style="margin:4px 0 14px 0;font-family:{SANS};font-size:13px;color:{MUTED}"><i>Our fund profile is attached for your reference, '
+                     f'and also available <a href="{e(prof["view_url"])}" style="color:{LINK};text-decoration:none">here on Google Drive</a>.</i></p>')
     parts.append(f'<p style="{P}">I look forward to meeting you.</p>')
     parts.append(f'<p style="{P}margin-bottom:10px">Warm regards,</p>')
     contacts = [("Email", s.get("email")), ("WhatsApp", s.get("whatsapp")), ("Phone / WhatsApp", s.get("phone")),
@@ -144,7 +156,7 @@ def compose_visit(f, s):
         f'<td valign="top" style="border-left:2px solid {GOLD};padding:0 0 0 14px">'
         f'<div style="font-family:{SERIF};font-size:19px;font-weight:700">{e(s["name"])}</div>'
         f'<div style="font-family:{SANS};font-size:13px;color:{MUTED};margin:2px 0 2px 0">{e(s["designation"])}, {e(s["fund"])}</div>'
-        f'<div style="font-family:{SANS};font-size:12.5px;color:{MUTED};margin:0 0 8px 0">On behalf of {e(VISIT["sponsor"])}, Sponsor</div>'
+        f'<div style="font-family:{SANS};font-size:12.5px;color:{MUTED};margin:0 0 8px 0"><i>On behalf of {e(VISIT["sponsor"])}, Sponsor</i></div>'
         f'<table role="presentation" cellpadding="0" cellspacing="0" style="border-collapse:collapse">{contact_rows}</table></td></tr></table>')
     body = "".join(parts)
     page = (
@@ -161,8 +173,8 @@ def compose_visit(f, s):
         f'<div style="font-family:{SANS};font-size:11px;letter-spacing:1px;color:{MUTED};margin-top:4px">SEBI Regn. No. {e(s.get("sebi_registration", ""))}</div>'
         f'</td></tr><tr><td style="padding:24px 4px 22px 4px">{body}</td></tr>'
         f'<tr><td style="padding:12px 4px 8px 4px;border-top:1px solid {LINE};font-family:{SANS};font-size:11px;line-height:1.55;color:{MUTED}">'
-        f'This email is addressed to a SEBI-registered intermediary for business purposes only and does not constitute an offer or '
-        f'solicitation to subscribe to units of the Fund. To stop receiving emails from us, reply with &ldquo;unsubscribe&rdquo;.</td></tr>'
+        f'<i>This email is addressed to a SEBI-registered intermediary for business purposes only and does not constitute an offer or '
+        f'solicitation to subscribe to units of the Fund. To stop receiving emails from us, reply with &ldquo;unsubscribe&rdquo;.</i></td></tr>'
         f'</table></td></tr></table></body></html>')
     return {"subject": subject, "text": text, "html": page, "to": f["to"], "variant": "visit"}
 
