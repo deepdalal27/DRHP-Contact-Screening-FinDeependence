@@ -1,6 +1,83 @@
 {
- "updated_at": "2026-11-20T07:52:59+05:30",
+ "updated_at": "2026-11-20T14:14:38+05:30",
  "companies": [
+  {
+   "key": "sagardefenceengineering",
+   "company": "Sagar Defence Engineering Limited",
+   "board": "Mainboard",
+   "exchange": "BSE & NSE",
+   "source": "SEBI",
+   "filed_on": "2026-11-19",
+   "doc_type": "UDRHP",
+   "brlms": [
+    "JM Financial Limited",
+    "IIFL Capital Services Limited",
+    "Kotak Mahindra Capital Company Limited",
+    "UBS Securities India Private Limited"
+   ],
+   "promoters": [
+    "Nikunj Parashar",
+    "Mridul Babbar",
+    "Lakshay Dang",
+    "Saurabh Avinash Patil",
+    "Ankit Kumar",
+    "Amit Singla",
+    "Manoj Kanhaiyalal Agrawal"
+   ],
+   "pre_ipo": false,
+   "latest": {},
+   "verified": null,
+   "warnings": [
+    "Financial statements could not be read from the DRHP"
+   ],
+   "processed_at": "2026-11-20T14:13:57+05:30"
+  },
+  {
+   "key": "nlcindiarenewables",
+   "company": "Nlc India Renewables Limited",
+   "board": "Mainboard",
+   "exchange": null,
+   "source": "NSE",
+   "filed_on": "2026-11-18",
+   "doc_type": "DRHP",
+   "brlms": [
+    "SBI Capital Markets Limited",
+    "HDFC Bank Limited",
+    "IDBI Capital Markets & Securities Limited",
+    "IIFL Capital Services Limited"
+   ],
+   "promoters": [
+    "President Of India",
+    "Acting Through The Ministry Of Coal",
+    "Government Of India",
+    "Nlc India Limited"
+   ],
+   "pre_ipo": true,
+   "latest": {
+    "revenue": {
+     "v": 172.641,
+     "s": "verified"
+    },
+    "pat": {
+     "v": 45.424,
+     "s": "verified"
+    },
+    "EBITDA margin": {
+     "v": 0.700135,
+     "s": "verified"
+    },
+    "PAT margin": {
+     "v": 0.263112,
+     "s": "verified"
+    },
+    "fy": "FY26"
+   },
+   "verified": false,
+   "warnings": [
+    "Some core figures could not be cross-checked; only verified figures are used in the email."
+   ],
+   "processed_at": "2026-11-20T14:14:21+05:30"
+  },
   {
    "key": "iljinelectronicsindia",
    "company": "IL JIN Electronics (India) Limited",

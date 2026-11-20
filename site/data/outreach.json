@@ -9968,7 +9968,736 @@
    },
    "website": "www.investor.rediff.com",
    "doc_url": "https://www.sebi.gov.in/sebi_data/attachdocs/nov-2026/1794830920691.PDF"
+  },
+  {
+   "id": "sagardefenceengineering|sde.ipo@jmfl.com",
+   "company_key": "sagardefenceengineering",
+   "company": "Sagar Defence Engineering Limited",
+   "board": "Mainboard",
+   "filed_on": "2026-11-19",
+   "variant": "brlm",
+   "role": "BRLM contact",
+   "organisation": "JM Financial Limited",
+   "names": [
+    "Prachee Dhuri"
+   ],
+   "email": "sde.ipo@jmfl.com",
+   "phones": [
+    "+91 22 6630 3030"
+   ],
+   "subject": "Parshwanath Capital Ventures Fund | Pre-IPO & Anchor interest – Sagar Defence Engineering Limited",
+   "status": "sent",
+   "sent_at": "2026-11-20T14:14:03+05:30",
+   "created_at": "2026-11-20T14:14:03+05:30",
+   "message_id": "<179516423718.2497.5265161517064809416@gmail.com>",
+   "error": null,
+   "promoters": [
+    "Nikunj Parashar",
+    "Mridul Babbar",
+    "Lakshay Dang",
+    "Saurabh Avinash Patil",
+    "Ankit Kumar",
+    "Amit Singla",
+    "Manoj Kanhaiyalal Agrawal"
+   ],
+   "brlm_contacts": [
+    {
+     "firm": "JM Financial Limited",
+     "people": [
+      "Prachee Dhuri"
+     ],
+     "emails": [
+      "sde.ipo@jmfl.com"
+     ],
+     "phones": [
+      "+91 22 6630 3030"
+     ]
+    },
+    {
+     "firm": "IIFL Capital Services Limited",
+     "people": [
+      "Pawan Kumar Jain",
+      "Jesica Thakkar"
+     ],
+     "emails": [
+      "sagardefence.ipo@iiflcap.com"
+     ],
+     "phones": [
+      "+91 22 4646 4728"
+     ]
+    },
+    {
+     "firm": "Kotak Mahindra Capital Company Limited",
+     "people": [
+      "Ganesh Rane"
+     ],
+     "emails": [
+      "sagardefence.ipo@kotak.com"
+     ],
+     "phones": [
+      "+91 22 4336 0000"
+     ]
+    },
+    {
+     "firm": "UBS Securities India Private Limited",
+     "people": [
+      "Pavan Teja Macharla",
+      "Viral Jain"
+     ],
+     "emails": [
+      "ol-sagardefenceipo@ubs.com"
+     ],
+     "phones": [
+      "+91 22 6155 6000"
+     ]
+    }
+   ],
+   "cs": null,
+   "website": "www.sagardefence.com",
+   "doc_url": "https://www.sebi.gov.in/sebi_data/attachdocs/nov-2026/1795158305846.pdf"
+  },
+  {
+   "id": "sagardefenceengineering|sagardefence.ipo@iiflcap.com",
+   "company_key": "sagardefenceengineering",
+   "company": "Sagar Defence Engineering Limited",
+   "board": "Mainboard",
+   "filed_on": "2026-11-19",
+   "variant": "brlm",
+   "role": "BRLM contact",
+   "organisation": "IIFL Capital Services Limited",
+   "names": [
+    "Pawan Kumar Jain",
+    "Jesica Thakkar"
+   ],
+   "email": "sagardefence.ipo@iiflcap.com",
+   "phones": [
+    "+91 22 4646 4728"
+   ],
+   "subject": "Parshwanath Capital Ventures Fund | Pre-IPO & Anchor interest – Sagar Defence Engineering Limited",
+   "status": "sent",
+   "sent_at": "2026-11-20T14:14:07+05:30",
+   "created_at": "2026-11-20T14:14:07+05:30",
+   "message_id": "<179516424396.2497.5339483181796615948@gmail.com>",
+   "error": null,
+   "promoters": [
+    "Nikunj Parashar",
+    "Mridul Babbar",
+    "Lakshay Dang",
+    "Saurabh Avinash Patil",
+    "Ankit Kumar",
+    "Amit Singla",
+    "Manoj Kanhaiyalal Agrawal"
+   ],
+   "brlm_contacts": [
+    {
+     "firm": "JM Financial Limited",
+     "people": [
+      "Prachee Dhuri"
+     ],
+     "emails": [
+      "sde.ipo@jmfl.com"
+     ],
+     "phones": [
+      "+91 22 6630 3030"
+     ]
+    },
+    {
+     "firm": "IIFL Capital Services Limited",
+     "people": [
+      "Pawan Kumar Jain",
+      "Jesica Thakkar"
+     ],
+     "emails": [
+      "sagardefence.ipo@iiflcap.com"
+     ],
+     "phones": [
+      "+91 22 4646 4728"
+     ]
+    },
+    {
+     "firm": "Kotak Mahindra Capital Company Limited",
+     "people": [
+      "Ganesh Rane"
+     ],
+     "emails": [
+      "sagardefence.ipo@kotak.com"
+     ],
+     "phones": [
+      "+91 22 4336 0000"
+     ]
+    },
+    {
+     "firm": "UBS Securities India Private Limited",
+     "people": [
+      "Pavan Teja Macharla",
+      "Viral Jain"
+     ],
+     "emails": [
+      "ol-sagardefenceipo@ubs.com"
+     ],
+     "phones": [
+      "+91 22 6155 6000"
+     ]
+    }
+   ],
+   "cs": null,
+   "website": "www.sagardefence.com",
+   "doc_url": "https://www.sebi.gov.in/sebi_data/attachdocs/nov-2026/1795158305846.pdf"
+  },
+  {
+   "id": "sagardefenceengineering|sagardefence.ipo@kotak.com",
+   "company_key": "sagardefenceengineering",
+   "company": "Sagar Defence Engineering Limited",
+   "board": "Mainboard",
+   "filed_on": "2026-11-19",
+   "variant": "brlm",
+   "role": "BRLM contact",
+   "organisation": "Kotak Mahindra Capital Company Limited",
+   "names": [
+    "Ganesh Rane"
+   ],
+   "email": "sagardefence.ipo@kotak.com",
+   "phones": [
+    "+91 22 4336 0000"
+   ],
+   "subject": "Parshwanath Capital Ventures Fund | Pre-IPO & Anchor interest – Sagar Defence Engineering Limited",
+   "status": "sent",
+   "sent_at": "2026-11-20T14:14:12+05:30",
+   "created_at": "2026-11-20T14:14:12+05:30",
+   "message_id": "<179516424791.2497.15080759620669760696@gmail.com>",
+   "error": null,
+   "promoters": [
+    "Nikunj Parashar",
+    "Mridul Babbar",
+    "Lakshay Dang",
+    "Saurabh Avinash Patil",
+    "Ankit Kumar",
+    "Amit Singla",
+    "Manoj Kanhaiyalal Agrawal"
+   ],
+   "brlm_contacts": [
+    {
+     "firm": "JM Financial Limited",
+     "people": [
+      "Prachee Dhuri"
+     ],
+     "emails": [
+      "sde.ipo@jmfl.com"
+     ],
+     "phones": [
+      "+91 22 6630 3030"
+     ]
+    },
+    {
+     "firm": "IIFL Capital Services Limited",
+     "people": [
+      "Pawan Kumar Jain",
+      "Jesica Thakkar"
+     ],
+     "emails": [
+      "sagardefence.ipo@iiflcap.com"
+     ],
+     "phones": [
+      "+91 22 4646 4728"
+     ]
+    },
+    {
+     "firm": "Kotak Mahindra Capital Company Limited",
+     "people": [
+      "Ganesh Rane"
+     ],
+     "emails": [
+      "sagardefence.ipo@kotak.com"
+     ],
+     "phones": [
+      "+91 22 4336 0000"
+     ]
+    },
+    {
+     "firm": "UBS Securities India Private Limited",
+     "people": [
+      "Pavan Teja Macharla",
+      "Viral Jain"
+     ],
+     "emails": [
+      "ol-sagardefenceipo@ubs.com"
+     ],
+     "phones": [
+      "+91 22 6155 6000"
+     ]
+    }
+   ],
+   "cs": null,
+   "website": "www.sagardefence.com",
+   "doc_url": "https://www.sebi.gov.in/sebi_data/attachdocs/nov-2026/1795158305846.pdf"
+  },
+  {
+   "id": "sagardefenceengineering|ol-sagardefenceipo@ubs.com",
+   "company_key": "sagardefenceengineering",
+   "company": "Sagar Defence Engineering Limited",
+   "board": "Mainboard",
+   "filed_on": "2026-11-19",
+   "variant": "brlm",
+   "role": "BRLM contact",
+   "organisation": "UBS Securities India Private Limited",
+   "names": [
+    "Pavan Teja Macharla",
+    "Viral Jain"
+   ],
+   "email": "ol-sagardefenceipo@ubs.com",
+   "phones": [
+    "+91 22 6155 6000"
+   ],
+   "subject": "Parshwanath Capital Ventures Fund | Pre-IPO & Anchor interest – Sagar Defence Engineering Limited",
+   "status": "sent",
+   "sent_at": "2026-11-20T14:14:16+05:30",
+   "created_at": "2026-11-20T14:14:16+05:30",
+   "message_id": "<179516425207.2497.4342872067078013001@gmail.com>",
+   "error": null,
+   "promoters": [
+    "Nikunj Parashar",
+    "Mridul Babbar",
+    "Lakshay Dang",
+    "Saurabh Avinash Patil",
+    "Ankit Kumar",
+    "Amit Singla",
+    "Manoj Kanhaiyalal Agrawal"
+   ],
+   "brlm_contacts": [
+    {
+     "firm": "JM Financial Limited",
+     "people": [
+      "Prachee Dhuri"
+     ],
+     "emails": [
+      "sde.ipo@jmfl.com"
+     ],
+     "phones": [
+      "+91 22 6630 3030"
+     ]
+    },
+    {
+     "firm": "IIFL Capital Services Limited",
+     "people": [
+      "Pawan Kumar Jain",
+      "Jesica Thakkar"
+     ],
+     "emails": [
+      "sagardefence.ipo@iiflcap.com"
+     ],
+     "phones": [
+      "+91 22 4646 4728"
+     ]
+    },
+    {
+     "firm": "Kotak Mahindra Capital Company Limited",
+     "people": [
+      "Ganesh Rane"
+     ],
+     "emails": [
+      "sagardefence.ipo@kotak.com"
+     ],
+     "phones": [
+      "+91 22 4336 0000"
+     ]
+    },
+    {
+     "firm": "UBS Securities India Private Limited",
+     "people": [
+      "Pavan Teja Macharla",
+      "Viral Jain"
+     ],
+     "emails": [
+      "ol-sagardefenceipo@ubs.com"
+     ],
+     "phones": [
+      "+91 22 6155 6000"
+     ]
+    }
+   ],
+   "cs": null,
+   "website": "www.sagardefence.com",
+   "doc_url": "https://www.sebi.gov.in/sebi_data/attachdocs/nov-2026/1795158305846.pdf"
+  },
+  {
+   "id": "nlcindiarenewables|nirl.ipo@sbicaps.com",
+   "company_key": "nlcindiarenewables",
+   "company": "Nlc India Renewables Limited",
+   "board": "Mainboard",
+   "filed_on": "2026-11-18",
+   "variant": "brlm",
+   "role": "BRLM contact",
+   "organisation": "SBI Capital Markets Limited",
+   "names": [
+    "Sylvia Mendonca",
+    "Prashant Patankar"
+   ],
+   "email": "nirl.ipo@sbicaps.com",
+   "phones": [
+    "+91 22 4006 9807"
+   ],
+   "subject": "Parshwanath Capital Ventures Fund | Pre-IPO & Anchor interest – Nlc India Renewables Limited",
+   "status": "sent",
+   "sent_at": "2026-11-20T14:14:25+05:30",
+   "created_at": "2026-11-20T14:14:25+05:30",
+   "message_id": "<179516426133.2497.6602786838198710176@gmail.com>",
+   "error": null,
+   "promoters": [
+    "President Of India",
+    "Acting Through The Ministry Of Coal",
+    "Government Of India",
+    "Nlc India Limited"
+   ],
+   "brlm_contacts": [
+    {
+     "firm": "SBI Capital Markets Limited",
+     "people": [
+      "Sylvia Mendonca",
+      "Prashant Patankar"
+     ],
+     "emails": [
+      "nirl.ipo@sbicaps.com"
+     ],
+     "phones": [
+      "+91 22 4006 9807"
+     ]
+    },
+    {
+     "firm": "HDFC Bank Limited",
+     "people": [
+      "Gaurav Khandelwal",
+      "Souradeep Ghosh"
+     ],
+     "emails": [
+      "nirl.ipo@hdfc.bank.in"
+     ],
+     "phones": [
+      "+91 22 3395 8233"
+     ]
+    },
+    {
+     "firm": "IDBI Capital Markets & Securities Limited",
+     "people": [
+      "Sri Krishna Tapariya"
+     ],
+     "emails": [
+      "nirl.ipo@idbicapital.com"
+     ],
+     "phones": [
+      "+91 22 40691953"
+     ]
+    },
+    {
+     "firm": "IIFL Capital Services Limited",
+     "people": [
+      "Gaurav Mittal",
+      "Pawan Kumar Jain"
+     ],
+     "emails": [
+      "nirl.ipo@iiflcap.com"
+     ],
+     "phones": [
+      "+91 (22) 4646 4728"
+     ]
+    }
+   ],
+   "cs": {
+    "name": "Prashant Vinay Kaushik",
+    "emails": [
+     "cosec.nirl@nlcindia.in"
+    ],
+    "phones": [
+     "044 28369146"
+    ],
+    "page": 88
+   },
+   "website": "www.nirl.co.in",
+   "doc_url": "https://nsearchives.nseindia.in/corporate/NIRL.zip"
+  },
+  {
+   "id": "nlcindiarenewables|nirl.ipo@hdfc.bank.in",
+   "company_key": "nlcindiarenewables",
+   "company": "Nlc India Renewables Limited",
+   "board": "Mainboard",
+   "filed_on": "2026-11-18",
+   "variant": "brlm",
+   "role": "BRLM contact",
+   "organisation": "HDFC Bank Limited",
+   "names": [
+    "Gaurav Khandelwal",
+    "Souradeep Ghosh"
+   ],
+   "email": "nirl.ipo@hdfc.bank.in",
+   "phones": [
+    "+91 22 3395 8233"
+   ],
+   "subject": "Parshwanath Capital Ventures Fund | Pre-IPO & Anchor interest – Nlc India Renewables Limited",
+   "status": "sent",
+   "sent_at": "2026-11-20T14:14:29+05:30",
+   "created_at": "2026-11-20T14:14:29+05:30",
+   "message_id": "<179516426572.2497.13386061969101346686@gmail.com>",
+   "error": null,
+   "promoters": [
+    "President Of India",
+    "Acting Through The Ministry Of Coal",
+    "Government Of India",
+    "Nlc India Limited"
+   ],
+   "brlm_contacts": [
+    {
+     "firm": "SBI Capital Markets Limited",
+     "people": [
+      "Sylvia Mendonca",
+      "Prashant Patankar"
+     ],
+     "emails": [
+      "nirl.ipo@sbicaps.com"
+     ],
+     "phones": [
+      "+91 22 4006 9807"
+     ]
+    },
+    {
+     "firm": "HDFC Bank Limited",
+     "people": [
+      "Gaurav Khandelwal",
+      "Souradeep Ghosh"
+     ],
+     "emails": [
+      "nirl.ipo@hdfc.bank.in"
+     ],
+     "phones": [
+      "+91 22 3395 8233"
+     ]
+    },
+    {
+     "firm": "IDBI Capital Markets & Securities Limited",
+     "people": [
+      "Sri Krishna Tapariya"
+     ],
+     "emails": [
+      "nirl.ipo@idbicapital.com"
+     ],
+     "phones": [
+      "+91 22 40691953"
+     ]
+    },
+    {
+     "firm": "IIFL Capital Services Limited",
+     "people": [
+      "Gaurav Mittal",
+      "Pawan Kumar Jain"
+     ],
+     "emails": [
+      "nirl.ipo@iiflcap.com"
+     ],
+     "phones": [
+      "+91 (22) 4646 4728"
+     ]
+    }
+   ],
+   "cs": {
+    "name": "Prashant Vinay Kaushik",
+    "emails": [
+     "cosec.nirl@nlcindia.in"
+    ],
+    "phones": [
+     "044 28369146"
+    ],
+    "page": 88
+   },
+   "website": "www.nirl.co.in",
+   "doc_url": "https://nsearchives.nseindia.in/corporate/NIRL.zip"
+  },
+  {
+   "id": "nlcindiarenewables|nirl.ipo@idbicapital.com",
+   "company_key": "nlcindiarenewables",
+   "company": "Nlc India Renewables Limited",
+   "board": "Mainboard",
+   "filed_on": "2026-11-18",
+   "variant": "brlm",
+   "role": "BRLM contact",
+   "organisation": "IDBI Capital Markets & Securities Limited",
+   "names": [
+    "Sri Krishna Tapariya"
+   ],
+   "email": "nirl.ipo@idbicapital.com",
+   "phones": [
+    "+91 22 40691953"
+   ],
+   "subject": "Parshwanath Capital Ventures Fund | Pre-IPO & Anchor interest – Nlc India Renewables Limited",
+   "status": "sent",
+   "sent_at": "2026-11-20T14:14:33+05:30",
+   "created_at": "2026-11-20T14:14:33+05:30",
+   "message_id": "<179516426981.2497.8360789277293716417@gmail.com>",
+   "error": null,
+   "promoters": [
+    "President Of India",
+    "Acting Through The Ministry Of Coal",
+    "Government Of India",
+    "Nlc India Limited"
+   ],
+   "brlm_contacts": [
+    {
+     "firm": "SBI Capital Markets Limited",
+     "people": [
+      "Sylvia Mendonca",
+      "Prashant Patankar"
+     ],
+     "emails": [
+      "nirl.ipo@sbicaps.com"
+     ],
+     "phones": [
+      "+91 22 4006 9807"
+     ]
+    },
+    {
+     "firm": "HDFC Bank Limited",
+     "people": [
+      "Gaurav Khandelwal",
+      "Souradeep Ghosh"
+     ],
+     "emails": [
+      "nirl.ipo@hdfc.bank.in"
+     ],
+     "phones": [
+      "+91 22 3395 8233"
+     ]
+    },
+    {
+     "firm": "IDBI Capital Markets & Securities Limited",
+     "people": [
+      "Sri Krishna Tapariya"
+     ],
+     "emails": [
+      "nirl.ipo@idbicapital.com"
+     ],
+     "phones": [
+      "+91 22 40691953"
+     ]
+    },
+    {
+     "firm": "IIFL Capital Services Limited",
+     "people": [
+      "Gaurav Mittal",
+      "Pawan Kumar Jain"
+     ],
+     "emails": [
+      "nirl.ipo@iiflcap.com"
+     ],
+     "phones": [
+      "+91 (22) 4646 4728"
+     ]
+    }
+   ],
+   "cs": {
+    "name": "Prashant Vinay Kaushik",
+    "emails": [
+     "cosec.nirl@nlcindia.in"
+    ],
+    "phones": [
+     "044 28369146"
+    ],
+    "page": 88
+   },
+   "website": "www.nirl.co.in",
+   "doc_url": "https://nsearchives.nseindia.in/corporate/NIRL.zip"
+  },
+  {
+   "id": "nlcindiarenewables|nirl.ipo@iiflcap.com",
+   "company_key": "nlcindiarenewables",
+   "company": "Nlc India Renewables Limited",
+   "board": "Mainboard",
+   "filed_on": "2026-11-18",
+   "variant": "brlm",
+   "role": "BRLM contact",
+   "organisation": "IIFL Capital Services Limited",
+   "names": [
+    "Gaurav Mittal",
+    "Pawan Kumar Jain"
+   ],
+   "email": "nirl.ipo@iiflcap.com",
+   "phones": [
+    "+91 (22) 4646 4728"
+   ],
+   "subject": "Parshwanath Capital Ventures Fund | Pre-IPO & Anchor interest – Nlc India Renewables Limited",
+   "status": "sent",
+   "sent_at": "2026-11-20T14:14:37+05:30",
+   "created_at": "2026-11-20T14:14:37+05:30",
+   "message_id": "<179516427393.2497.8280672681935022697@gmail.com>",
+   "error": null,
+   "promoters": [
+    "President Of India",
+    "Acting Through The Ministry Of Coal",
+    "Government Of India",
+    "Nlc India Limited"
+   ],
+   "brlm_contacts": [
+    {
+     "firm": "SBI Capital Markets Limited",
+     "people": [
+      "Sylvia Mendonca",
+      "Prashant Patankar"
+     ],
+     "emails": [
+      "nirl.ipo@sbicaps.com"
+     ],
+     "phones": [
+      "+91 22 4006 9807"
+     ]
+    },
+    {
+     "firm": "HDFC Bank Limited",
+     "people": [
+      "Gaurav Khandelwal",
+      "Souradeep Ghosh"
+     ],
+     "emails": [
+      "nirl.ipo@hdfc.bank.in"
+     ],
+     "phones": [
+      "+91 22 3395 8233"
+     ]
+    },
+    {
+     "firm": "IDBI Capital Markets & Securities Limited",
+     "people": [
+      "Sri Krishna Tapariya"
+     ],
+     "emails": [
+      "nirl.ipo@idbicapital.com"
+     ],
+     "phones": [
+      "+91 22 40691953"
+     ]
+    },
+    {
+     "firm": "IIFL Capital Services Limited",
+     "people": [
+      "Gaurav Mittal",
+      "Pawan Kumar Jain"
+     ],
+     "emails": [
+      "nirl.ipo@iiflcap.com"
+     ],
+     "phones": [
+      "+91 (22) 4646 4728"
+     ]
+    }
+   ],
+   "cs": {
+    "name": "Prashant Vinay Kaushik",
+    "emails": [
+     "cosec.nirl@nlcindia.in"
+    ],
+    "phones": [
+     "044 28369146"
+    ],
+    "page": 88
+   },
+   "website": "www.nirl.co.in",
+   "doc_url": "https://nsearchives.nseindia.in/corporate/NIRL.zip"
   }
  ],
- "updated_at": "2026-11-20T07:52:59+05:30"
+ "updated_at": "2026-11-20T14:14:38+05:30"
 }

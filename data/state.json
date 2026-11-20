@@ -852,12 +852,17 @@
    "version": 4
   },
   "nlcindiarenewables": {
-   "ref": "https://nsearchives.nseindia.in/corporate/AD_IPO_8002_19112026124914.zip",
-   "listing_ref": "https://nsearchives.nseindia.in/corporate/AD_IPO_8002_19112026124914.zip",
-   "error": "NSE: document has only 13 pages (incomplete download or not the DRHP)",
-   "at": "2026-11-20T07:52:59+05:30",
+   "ref": "https://nsearchives.nseindia.in/corporate/NIRL.zip",
+   "listing_ref": "https://nsearchives.nseindia.in/corporate/NIRL.zip",
+   "at": "2026-11-20T14:14:21+05:30",
    "company": "Nlc India Renewables Limited",
-   "attempts": 3,
+   "version": 4
+  },
+  "sagardefenceengineering": {
+   "ref": "https://www.sebi.gov.in/sebi_data/attachdocs/nov-2026/1795158305846.pdf",
+   "listing_ref": "https://www.sebi.gov.in/filings/public-issues/nov-2026/sagar-defence-engineering-limited-udrhp-i_105801.html",
+   "at": "2026-11-20T14:13:57+05:30",
+   "company": "Sagar Defence Engineering Limited",
    "version": 4
   }
  }
