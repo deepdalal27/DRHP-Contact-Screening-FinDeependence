@@ -1,0 +1,1521 @@
+{
+ "key": "sanghvihousingandinfrastructure",
+ "company": "Sanghvi Housing and Infrastructure Limited",
+ "short": "Sanghvi Housing and Infrastructure",
+ "board": "Mainboard",
+ "exchange": null,
+ "source": "SEBI",
+ "also_on": [
+  "NSE"
+ ],
+ "filed_on": "2026-10-05",
+ "doc_type": "DRHP",
+ "document_type": "Draft Red Herring Prospectus",
+ "document_date": "September 29, 2026",
+ "doc_url": "https://www.sebi.gov.in/sebi_data/attachdocs/oct-2026/1791191031146.pdf",
+ "page_url": "https://www.sebi.gov.in/filings/public-issues/oct-2026/sanghvi-housing-and-infrastructure-limited-drhp_105004.html",
+ "pages": 408,
+ "cin": "U45200MH2005PLC150465",
+ "website": "www.sanghvirealty.com",
+ "icdr_regulation": "6(1)",
+ "fresh_issue": true,
+ "ofs": true,
+ "pre_ipo_placement": true,
+ "pre_ipo_limit_pct": 20,
+ "promoters": [
+  {
+   "name": "Prithviraj Sankalchand Sanghvi",
+   "designation": "Chairman",
+   "emails": []
+  },
+  {
+   "name": "Pakshal Prithviraj Sanghvi",
+   "designation": "Chairman",
+   "emails": []
+  }
+ ],
+ "cs": {
+  "name": null,
+  "emails": [
+   "shil@sanghvirealty.com"
+  ],
+  "phones": [
+   "+91 90040 48434"
+  ],
+  "page": 75
+ },
+ "brlms": [
+  {
+   "name": "Aryaman Financial Services Limited",
+   "contact_persons": [
+    "Vatsal Ganatra"
+   ],
+   "emails": [
+    "ipo@afsl.co.in"
+   ],
+   "grievance_emails": [
+    "feedback@afsl.co.in"
+   ],
+   "phones": [
+    "22-6216 6999"
+   ],
+   "website": "www.afsl.co.in",
+   "sebi_reg": "INM000011344",
+   "page": 75
+  }
+ ],
+ "registrar": {
+  "name": "Bigshare Services Private Limited",
+  "emails": [
+   "ipo@bigshareonline.com",
+   "investor@bigshareonline.com"
+  ],
+  "phones": [
+   "+91 22 6263 8200"
+  ],
+  "contact_persons": [
+   "Babu Rapheal C."
+  ],
+  "page": 76
+ },
+ "business": {
+  "text": "We are a real estate developer primarily engaged in the construction and development of commercial and residential projects across the Mumbai Metropolitan Region (“MMR”) and Thane district, Maharashtra. Our company has a major presence in the Western Suburbs of the Mumbai region, where it has executed and continues to develop most of its projects.",
+  "page": 165
+ },
+ "business_summary": "Sanghvi Housing and Infrastructure is a real estate developer primarily engaged in the construction and development of commercial and residential projects across the Mumbai Metropolitan Region and Thane district, Maharashtra.",
+ "financials": {
+  "ok": true,
+  "unit_in_drhp": "lakhs",
+  "source": "Summary Financial Information",
+  "periods": [
+   {
+    "iso": "2026-03-31",
+    "label": "FY26",
+    "stub": false
+   },
+   {
+    "iso": "2025-03-31",
+    "label": "FY25",
+    "stub": false
+   },
+   {
+    "iso": "2024-03-31",
+    "label": "FY24",
+    "stub": false
+   }
+  ],
+  "items": {
+   "revenue": {
+    "label": "Revenue from operations",
+    "drhp_label": "I Revenue from operation",
+    "statement": "P&L",
+    "page": 68,
+    "values": [
+     101.8386,
+     75.5875,
+     62.6444
+    ],
+    "raw": [
+     "10,183.86",
+     "7,558.75",
+     "6,264.44"
+    ],
+    "status": [
+     "verified",
+     "verified",
+     "verified"
+    ],
+    "notes": [
+     [
+      "adds up to total income",
+      "also printed on page 40, 45, 46",
+      "matches DRHP KPI table (page 115)"
+     ],
+     [
+      "adds up to total income",
+      "also printed on page 40, 45, 46",
+      "matches DRHP KPI table (page 115)"
+     ],
+     [
+      "adds up to total income",
+      "also printed on page 40, 45, 46",
+      "matches DRHP KPI table (page 115)"
+     ]
+    ]
+   },
+   "other_income": {
+    "label": "Other income",
+    "drhp_label": "II Other Income",
+    "statement": "P&L",
+    "page": 68,
+    "values": [
+     2.6341,
+     2.8488,
+     2.4452
+    ],
+    "raw": [
+     "263.41",
+     "284.88",
+     "244.52"
+    ],
+    "status": [
+     "verified",
+     "verified",
+     "verified"
+    ],
+    "notes": [
+     [
+      "adds up to total income"
+     ],
+     [
+      "adds up to total income"
+     ],
+     [
+      "adds up to total income"
+     ]
+    ]
+   },
+   "total_income": {
+    "label": "Total income",
+    "drhp_label": "III Total Revenue (I + II)",
+    "statement": "P&L",
+    "page": 68,
+    "values": [
+     104.4727,
+     78.4363,
+     65.0896
+    ],
+    "raw": [
+     "10,447.27",
+     "7,843.63",
+     "6,508.96"
+    ],
+    "status": [
+     "verified",
+     "verified",
+     "verified"
+    ],
+    "notes": [
+     [
+      "adds up to total income",
+      "also printed on page 46, 115, 118"
+     ],
+     [
+      "adds up to total income",
+      "also printed on page 46, 115, 118"
+     ],
+     [
+      "adds up to total income",
+      "also printed on page 46, 115, 118"
+     ]
+    ]
+   },
+   "finance_cost": {
+    "label": "Finance cost",
+    "drhp_label": "Finance Costs",
+    "statement": "P&L",
+    "page": 68,
+    "values": [
+     2.2493,
+     0.8467,
+     2.3039
+    ],
+    "raw": [
+     "224.93",
+     "84.67",
+     "230.39"
+    ],
+    "status": [
+     "verified",
+     "verified",
+     "verified"
+    ],
+    "notes": [
+     [
+      "also printed on page 69, 245, 246"
+     ],
+     [
+      "also printed on page 69, 245, 246"
+     ],
+     [
+      "also printed on page 69, 245, 246"
+     ]
+    ]
+   },
+   "depreciation": {
+    "label": "Depreciation & amortisation",
+    "drhp_label": "Depreciation",
+    "statement": "P&L",
+    "page": 68,
+    "values": [
+     0.669,
+     0.3184,
+     0.3145
+    ],
+    "raw": [
+     "66.90",
+     "31.84",
+     "31.45"
+    ],
+    "status": [
+     "verified",
+     "verified",
+     "verified"
+    ],
+    "notes": [
+     [
+      "also printed on page 69, 245, 246"
+     ],
+     [
+      "also printed on page 69, 245, 246"
+     ],
+     [
+      "also printed on page 69, 245, 246"
+     ]
+    ]
+   },
+   "total_expenses": {
+    "label": "Total expenses",
+    "drhp_label": "Total Expenses (IV)",
+    "statement": "P&L",
+    "page": 68,
+    "values": [
+     73.6241,
+     48.689,
+     52.3818
+    ],
+    "raw": [
+     "7,362.41",
+     "4,868.90",
+     "5,238.18"
+    ],
+    "status": [
+     "unverified",
+     "unverified",
+     "unverified"
+    ],
+    "notes": [
+     [],
+     [],
+     []
+    ]
+   },
+   "pbt": {
+    "label": "Profit before tax",
+    "drhp_label": "(VII) Profit/(Loss) Before Tax [ (V) + (VI)]",
+    "statement": "P&L",
+    "page": 68,
+    "values": [
+     35.5835,
+     31.254,
+     12.7084
+    ],
+    "raw": [
+     "3,558.35",
+     "3,125.40",
+     "1,270.84"
+    ],
+    "status": [
+     "verified",
+     "verified",
+     "verified"
+    ],
+    "notes": [
+     [
+      "PBT − tax = PAT",
+      "also printed on page 245, 276, 302"
+     ],
+     [
+      "PBT − tax = PAT",
+      "also printed on page 245, 276, 302"
+     ],
+     [
+      "PBT − tax = PAT",
+      "also printed on page 245, 276, 302"
+     ]
+    ]
+   },
+   "tax": {
+    "label": "Total tax expense",
+    "drhp_label": "Total tax Expenses [ a to d ]",
+    "statement": "P&L",
+    "page": 68,
+    "values": [
+     9.3199,
+     10.4447,
+     5.1039
+    ],
+    "raw": [
+     "931.99",
+     "1,044.47",
+     "510.39"
+    ],
+    "status": [
+     "verified",
+     "verified",
+     "verified"
+    ],
+    "notes": [
+     [
+      "PBT − tax = PAT"
+     ],
+     [
+      "PBT − tax = PAT"
+     ],
+     [
+      "PBT − tax = PAT"
+     ]
+    ]
+   },
+   "pat": {
+    "label": "Profit after tax (PAT)",
+    "drhp_label": "(IX) Profit / (Loss) for the Period [ (VII) - (VIII)]",
+    "statement": "P&L",
+    "page": 68,
+    "values": [
+     26.2636,
+     20.8093,
+     7.6045
+    ],
+    "raw": [
+     "2,626.36",
+     "2,080.93",
+     "760.45"
+    ],
+    "status": [
+     "verified",
+     "verified",
+     "verified"
+    ],
+    "notes": [
+     [
+      "PBT − tax = PAT",
+      "also printed on page 46, 115, 118",
+      "matches DRHP KPI table (page 115)"
+     ],
+     [
+      "PBT − tax = PAT",
+      "also printed on page 46, 115, 118",
+      "matches DRHP KPI table (page 115)"
+     ],
+     [
+      "PBT − tax = PAT",
+      "also printed on page 46, 115, 118",
+      "matches DRHP KPI table (page 115)"
+     ]
+    ]
+   },
+   "eps_basic": {
+    "label": "EPS – basic (₹)",
+    "drhp_label": "Basic & Diluted (in Rs.)",
+    "statement": "P&L",
+    "page": 68,
+    "values": [
+     14.6,
+     13.69,
+     5.08
+    ],
+    "raw": [
+     "14.60",
+     "13.69",
+     "5.08"
+    ],
+    "status": [
+     "verified",
+     "verified",
+     "verified"
+    ],
+    "notes": [
+     [
+      "also printed on page 47, 112, 114"
+     ],
+     [
+      "also printed on page 47, 112, 115"
+     ],
+     [
+      "also printed on page 47, 115, 118"
+     ]
+    ]
+   },
+   "eps_diluted": {
+    "label": "EPS – diluted (₹)",
+    "drhp_label": "Basic & Diluted (in Rs.)",
+    "statement": "P&L",
+    "page": 68,
+    "values": [
+     14.6,
+     13.69,
+     5.08
+    ],
+    "raw": [
+     "14.60",
+     "13.69",
+     "5.08"
+    ],
+    "status": [
+     "unverified",
+     "unverified",
+     "unverified"
+    ],
+    "notes": [
+     [],
+     [],
+     []
+    ]
+   },
+   "total_assets": {
+    "label": "Total assets",
+    "drhp_label": "TOTAL ASSETS",
+    "statement": "Balance sheet",
+    "page": 67,
+    "values": [
+     273.2435,
+     221.7208,
+     184.1887
+    ],
+    "raw": [
+     "27,324.35",
+     "22,172.08",
+     "18,418.87"
+    ],
+    "status": [
+     "verified",
+     "verified",
+     "verified"
+    ],
+    "notes": [
+     [
+      "balance sheet balances",
+      "also printed on page 244"
+     ],
+     [
+      "balance sheet balances",
+      "also printed on page 244"
+     ],
+     [
+      "balance sheet balances",
+      "also printed on page 244"
+     ]
+    ]
+   },
+   "share_capital": {
+    "label": "Equity share capital",
+    "drhp_label": "a Equity Share Capital",
+    "statement": "Balance sheet",
+    "page": 67,
+    "values": [
+     14.5,
+     7.25,
+     7.25
+    ],
+    "raw": [
+     "1,450.00",
+     "725.00",
+     "725.00"
+    ],
+    "status": [
+     "verified",
+     "verified",
+     "verified"
+    ],
+    "notes": [
+     [
+      "share capital + other equity = net worth"
+     ],
+     [
+      "share capital + other equity = net worth"
+     ],
+     [
+      "share capital + other equity = net worth"
+     ]
+    ]
+   },
+   "other_equity": {
+    "label": "Other equity",
+    "drhp_label": "b Other Equity",
+    "statement": "Balance sheet",
+    "page": 67,
+    "values": [
+     44.1589,
+     30.2327,
+     10.3846
+    ],
+    "raw": [
+     "4,415.89",
+     "3,023.27",
+     "1,038.46"
+    ],
+    "status": [
+     "verified",
+     "verified",
+     "verified"
+    ],
+    "notes": [
+     [
+      "share capital + other equity = net worth"
+     ],
+     [
+      "share capital + other equity = net worth"
+     ],
+     [
+      "share capital + other equity = net worth"
+     ]
+    ]
+   },
+   "total_equity": {
+    "label": "Net worth (total equity)",
+    "drhp_label": "Equity attributable to the owners of the company",
+    "statement": "Balance sheet",
+    "page": 67,
+    "values": [
+     58.6589,
+     37.4827,
+     17.6346
+    ],
+    "raw": [
+     "5,865.89",
+     "3,748.27",
+     "1,763.46"
+    ],
+    "status": [
+     "verified",
+     "verified",
+     "verified"
+    ],
+    "notes": [
+     [
+      "share capital + other equity = net worth",
+      "also printed on page 281, 336"
+     ],
+     [
+      "share capital + other equity = net worth",
+      "also printed on page 281, 336"
+     ],
+     [
+      "share capital + other equity = net worth",
+      "also printed on page 281, 336"
+     ]
+    ]
+   },
+   "total_equity_liabilities": {
+    "label": "Total equity & liabilities",
+    "drhp_label": "TOTAL EQUITY AND LIABILITIES",
+    "statement": "Balance sheet",
+    "page": 67,
+    "values": [
+     273.2435,
+     221.7208,
+     184.1887
+    ],
+    "raw": [
+     "27,324.35",
+     "22,172.08",
+     "18,418.87"
+    ],
+    "status": [
+     "verified",
+     "verified",
+     "verified"
+    ],
+    "notes": [
+     [
+      "balance sheet balances"
+     ],
+     [
+      "balance sheet balances"
+     ],
+     [
+      "balance sheet balances"
+     ]
+    ]
+   },
+   "inventories": {
+    "label": "Inventories",
+    "drhp_label": "a Inventories",
+    "statement": "Balance sheet",
+    "page": 67,
+    "values": [
+     182.0393,
+     131.5097,
+     100.3215
+    ],
+    "raw": [
+     "18,203.93",
+     "13,150.97",
+     "10,032.15"
+    ],
+    "status": [
+     "verified",
+     "verified",
+     "verified"
+    ],
+    "notes": [
+     [
+      "also printed on page 244"
+     ],
+     [
+      "also printed on page 244"
+     ],
+     [
+      "also printed on page 244"
+     ]
+    ]
+   },
+   "trade_receivables": {
+    "label": "Trade receivables",
+    "drhp_label": "(i) Trade Receivables",
+    "statement": "Balance sheet",
+    "page": 67,
+    "values": [
+     3.954,
+     0.1909,
+     0.0225
+    ],
+    "raw": [
+     "395.40",
+     "19.09",
+     "2.25"
+    ],
+    "status": [
+     "verified",
+     "verified",
+     "verified"
+    ],
+    "notes": [
+     [
+      "also printed on page 244, 262, 273"
+     ],
+     [
+      "also printed on page 244, 263, 273"
+     ],
+     [
+      "also printed on page 244, 263, 273"
+     ]
+    ]
+   },
+   "cash": {
+    "label": "Cash & cash equivalents",
+    "drhp_label": "(ii) Cash & Cash Equivalents",
+    "statement": "Balance sheet",
+    "page": 67,
+    "values": [
+     6.8054,
+     7.5772,
+     4.7063
+    ],
+    "raw": [
+     "680.54",
+     "757.72",
+     "470.63"
+    ],
+    "status": [
+     "verified",
+     "verified",
+     "verified"
+    ],
+    "notes": [
+     [
+      "also printed on page 69, 244, 246"
+     ],
+     [
+      "also printed on page 69, 244, 246"
+     ],
+     [
+      "also printed on page 69, 244, 246"
+     ]
+    ]
+   },
+   "current_assets": {
+    "label": "Total current assets",
+    "drhp_label": "Subtotal: Current Assets",
+    "statement": "Balance sheet",
+    "page": 67,
+    "values": [
+     213.3012,
+     176.2091,
+     136.0806
+    ],
+    "raw": [
+     "21,330.12",
+     "17,620.91",
+     "13,608.06"
+    ],
+    "status": [
+     "unverified",
+     "unverified",
+     "unverified"
+    ],
+    "notes": [
+     [],
+     [],
+     []
+    ]
+   },
+   "current_liabilities": {
+    "label": "Total current liabilities",
+    "drhp_label": "Subtotal: Current Liabilities",
+    "statement": "Balance sheet",
+    "page": 67,
+    "values": [
+     0.0,
+     null,
+     null
+    ],
+    "raw": [
+     "-",
+     null,
+     null
+    ],
+    "status": [
+     "unverified",
+     "unverified",
+     "unverified"
+    ],
+    "notes": [
+     [],
+     [],
+     []
+    ]
+   },
+   "cfo": {
+    "label": "Net cash from operating activities",
+    "drhp_label": "Net Cash Flow from / (used in) Operating Activities",
+    "statement": "Cash flow",
+    "page": 69,
+    "values": [
+     -37.2606,
+     -24.4337,
+     -3.1595
+    ],
+    "raw": [
+     "(3,726.06)",
+     "(2,443.37)",
+     "(315.95)"
+    ],
+    "status": [
+     "verified",
+     "verified",
+     "verified"
+    ],
+    "notes": [
+     [
+      "also printed on page 33, 246, 309"
+     ],
+     [
+      "also printed on page 33, 246, 309"
+     ],
+     [
+      "also printed on page 33, 246, 309"
+     ]
+    ]
+   },
+   "cfi": {
+    "label": "Net cash from investing activities",
+    "drhp_label": "Net Cash Flow from / (used in) Investing Activities",
+    "statement": "Cash flow",
+    "page": 69,
+    "values": [
+     16.5277,
+     1.5919,
+     -5.7992
+    ],
+    "raw": [
+     "1,652.77",
+     "159.19",
+     "(579.92)"
+    ],
+    "status": [
+     "unverified",
+     "unverified",
+     "unverified"
+    ],
+    "notes": [
+     [],
+     [],
+     []
+    ]
+   },
+   "cff": {
+    "label": "Net cash from financing activities",
+    "drhp_label": "Net Cash Flow from / (used in) Financing Activities",
+    "statement": "Cash flow",
+    "page": 69,
+    "values": [
+     19.9611,
+     25.7127,
+     12.0635
+    ],
+    "raw": [
+     "1,996.11",
+     "2,571.27",
+     "1,206.35"
+    ],
+    "status": [
+     "unverified",
+     "unverified",
+     "unverified"
+    ],
+    "notes": [
+     [],
+     [],
+     []
+    ]
+   },
+   "borrowings": {
+    "label": "Total borrowings",
+    "drhp_label": "(i) Borrowings (Non-Current Liabilities) + (i) Borrowings (Current Liabilities)",
+    "statement": "Balance sheet",
+    "page": 67,
+    "values": [
+     115.2475,
+     108.2124,
+     102.8312
+    ],
+    "raw": [
+     null,
+     null,
+     null
+    ],
+    "status": [
+     "verified",
+     "verified",
+     "unverified"
+    ],
+    "notes": [
+     [
+      "sum of borrowing lines",
+      "also printed on page 33, 282, 306"
+     ],
+     [
+      "sum of borrowing lines",
+      "also printed on page 306"
+     ],
+     [
+      "sum of borrowing lines"
+     ]
+    ]
+   }
+  },
+  "ratios": {
+   "EBITDA": {
+    "values": [
+     35.8677,
+     29.5703,
+     12.8816
+    ],
+    "status": [
+     "verified",
+     "verified",
+     "verified"
+    ],
+    "fmt": "amount",
+    "formula": "PBT before exceptional items + Finance cost + D&A − Other income",
+    "notes": [
+     [
+      "matches DRHP KPI table (page 115)"
+     ],
+     [
+      "matches DRHP KPI table (page 115)"
+     ],
+     [
+      "matches DRHP KPI table (page 115)"
+     ]
+    ]
+   },
+   "EBITDA margin": {
+    "values": [
+     0.352201,
+     0.391206,
+     0.205631
+    ],
+    "status": [
+     "verified",
+     "verified",
+     "verified"
+    ],
+    "fmt": "pct",
+    "formula": "EBITDA ÷ Revenue from operations",
+    "notes": [
+     [
+      "matches DRHP KPI table (page 115)"
+     ],
+     [
+      "matches DRHP KPI table (page 115)"
+     ],
+     [
+      "matches DRHP KPI table (page 115)"
+     ]
+    ]
+   },
+   "PAT margin": {
+    "values": [
+     0.257894,
+     0.275301,
+     0.121392
+    ],
+    "status": [
+     "verified",
+     "verified",
+     "verified"
+    ],
+    "fmt": "pct",
+    "formula": "PAT ÷ Revenue from operations",
+    "notes": [
+     [
+      "matches DRHP KPI table (page 115)"
+     ],
+     [
+      "matches DRHP KPI table (page 115)"
+     ],
+     [
+      "matches DRHP KPI table (page 115)"
+     ]
+    ]
+   },
+   "RoNW (closing)": {
+    "values": [
+     0.447734,
+     0.555171,
+     0.431226
+    ],
+    "status": [
+     "verified",
+     "verified",
+     "verified"
+    ],
+    "fmt": "pct",
+    "formula": "PAT ÷ closing net worth"
+   },
+   "Debt / Equity": {
+    "values": [
+     1.964706,
+     2.886996,
+     5.831218
+    ],
+    "status": [
+     "verified",
+     "verified",
+     "unverified"
+    ],
+    "fmt": "x",
+    "formula": "Total borrowings ÷ Net worth",
+    "notes": [
+     [
+      "DRHP KPI table shows 1.61 (page 115) – definition may differ"
+     ],
+     [
+      "DRHP KPI table shows 2.30 (page 115) – definition may differ"
+     ],
+     [
+      "DRHP KPI table shows 3.75 (page 115) – definition may differ"
+     ]
+    ]
+   },
+   "RoCE (closing)": {
+    "values": [
+     0.217547,
+     0.220328,
+     0.124619
+    ],
+    "status": [
+     "verified",
+     "verified",
+     "unverified"
+    ],
+    "fmt": "pct",
+    "formula": "(PBT + Finance cost) ÷ (Net worth + Borrowings)"
+   },
+   "Interest coverage": {
+    "values": [
+     16.819811,
+     37.91272,
+     6.516038
+    ],
+    "status": [
+     "verified",
+     "verified",
+     "verified"
+    ],
+    "fmt": "x",
+    "formula": "(PBT + Finance cost) ÷ Finance cost"
+   },
+   "Receivable days": {
+    "values": [
+     14.171542,
+     0.921826,
+     0.131097
+    ],
+    "status": [
+     "verified",
+     "verified",
+     "verified"
+    ],
+    "fmt": "days",
+    "formula": "Trade receivables ÷ Revenue × days in period"
+   },
+   "Asset turnover": {
+    "values": [
+     0.372703,
+     0.340913,
+     0.34011
+    ],
+    "status": [
+     "verified",
+     "verified",
+     "verified"
+    ],
+    "fmt": "x",
+    "formula": "Revenue ÷ Total assets"
+   },
+   "Revenue growth": {
+    "values": [
+     0.347294,
+     0.206612,
+     null
+    ],
+    "status": [
+     "verified",
+     "verified",
+     null
+    ],
+    "fmt": "pct",
+    "formula": "FY26 vs FY25",
+    "notes": [
+     [
+      "matches DRHP KPI table (page 115)"
+     ],
+     [
+      "matches DRHP KPI table (page 115)"
+     ],
+     []
+    ]
+   },
+   "PAT growth": {
+    "values": [
+     0.262109,
+     1.736446,
+     null
+    ],
+    "status": [
+     "verified",
+     "verified",
+     null
+    ],
+    "fmt": "pct",
+    "formula": "FY26 vs FY25"
+   },
+   "EBITDA growth": {
+    "values": [
+     0.212964,
+     1.295546,
+     null
+    ],
+    "status": [
+     "verified",
+     "verified",
+     null
+    ],
+    "fmt": "pct",
+    "formula": "FY26 vs FY25"
+   },
+   "Revenue CAGR (2 yr)": {
+    "values": [
+     0.275014,
+     null,
+     null
+    ],
+    "status": [
+     "verified",
+     null,
+     null
+    ],
+    "fmt": "pct",
+    "formula": "FY24 → FY26"
+   }
+  },
+  "checks": [
+   {
+    "period": "FY26",
+    "check": "Total assets = Total equity & liabilities",
+    "ok": true,
+    "lhs": 27324.35,
+    "rhs": 27324.35
+   },
+   {
+    "period": "FY26",
+    "check": "Revenue + Other income = Total income",
+    "ok": true,
+    "lhs": 10447.27,
+    "rhs": 10447.27
+   },
+   {
+    "period": "FY26",
+    "check": "Profit before tax − Tax = Profit after tax",
+    "ok": true,
+    "lhs": 2626.3599999999997,
+    "rhs": 2626.36
+   },
+   {
+    "period": "FY26",
+    "check": "Share capital + Other equity = Net worth",
+    "ok": true,
+    "lhs": 5865.89,
+    "rhs": 5865.89,
+    "soft": true
+   },
+   {
+    "period": "FY25",
+    "check": "Total assets = Total equity & liabilities",
+    "ok": true,
+    "lhs": 22172.08,
+    "rhs": 22172.08
+   },
+   {
+    "period": "FY25",
+    "check": "Revenue + Other income = Total income",
+    "ok": true,
+    "lhs": 7843.63,
+    "rhs": 7843.63
+   },
+   {
+    "period": "FY25",
+    "check": "Profit before tax − Tax = Profit after tax",
+    "ok": true,
+    "lhs": 2080.9300000000003,
+    "rhs": 2080.93
+   },
+   {
+    "period": "FY25",
+    "check": "Share capital + Other equity = Net worth",
+    "ok": true,
+    "lhs": 3748.27,
+    "rhs": 3748.27,
+    "soft": true
+   },
+   {
+    "period": "FY24",
+    "check": "Total assets = Total equity & liabilities",
+    "ok": true,
+    "lhs": 18418.87,
+    "rhs": 18418.87
+   },
+   {
+    "period": "FY24",
+    "check": "Revenue + Other income = Total income",
+    "ok": true,
+    "lhs": 6508.96,
+    "rhs": 6508.96
+   },
+   {
+    "period": "FY24",
+    "check": "Profit before tax − Tax = Profit after tax",
+    "ok": true,
+    "lhs": 760.4499999999999,
+    "rhs": 760.45
+   },
+   {
+    "period": "FY24",
+    "check": "Share capital + Other equity = Net worth",
+    "ok": true,
+    "lhs": 1763.46,
+    "rhs": 1763.46,
+    "soft": true
+   }
+  ],
+  "kpi_stated": [
+   {
+    "label": "Revenue from Operations",
+    "values": [
+     10183.86,
+     7558.75,
+     6264.44
+    ],
+    "raw": [
+     "10,183.86",
+     "7,558.75",
+     "6,264.44"
+    ],
+    "page": 115
+   },
+   {
+    "label": "Growth in Revenue",
+    "values": [
+     34.73,
+     20.66,
+     0.0
+    ],
+    "raw": [
+     "34.73",
+     "20.66",
+     "-"
+    ],
+    "page": 115
+   },
+   {
+    "label": "Total Income",
+    "values": [
+     10447.27,
+     7843.63,
+     6508.96
+    ],
+    "raw": [
+     "10,447.27",
+     "7,843.63",
+     "6,508.96"
+    ],
+    "page": 115
+   },
+   {
+    "label": "EBITDA",
+    "values": [
+     3586.77,
+     2957.03,
+     1288.16
+    ],
+    "raw": [
+     "3,586.77",
+     "2,957.03",
+     "1,288.16"
+    ],
+    "page": 115
+   },
+   {
+    "label": "EBITDA Margin",
+    "values": [
+     35.22,
+     39.12,
+     20.56
+    ],
+    "raw": [
+     "35.22",
+     "39.12",
+     "20.56"
+    ],
+    "page": 115
+   },
+   {
+    "label": "PAT",
+    "values": [
+     2626.36,
+     2080.93,
+     760.45
+    ],
+    "raw": [
+     "2,626.36",
+     "2,080.93",
+     "760.45"
+    ],
+    "page": 115
+   },
+   {
+    "label": "PAT Margin*",
+    "values": [
+     25.79,
+     27.53,
+     12.14
+    ],
+    "raw": [
+     "25.79",
+     "27.53",
+     "12.14"
+    ],
+    "page": 115
+   },
+   {
+    "label": "Debt to Equity Ratio",
+    "values": [
+     1.61,
+     2.3,
+     3.75
+    ],
+    "raw": [
+     "1.61",
+     "2.30",
+     "3.75"
+    ],
+    "page": 115
+   },
+   {
+    "label": "Debt to EBITDA Ratio",
+    "values": [
+     3.21,
+     3.66,
+     7.98
+    ],
+    "raw": [
+     "3.21",
+     "3.66",
+     "7.98"
+    ],
+    "page": 115
+   },
+   {
+    "label": "Basic / Diluted EPS",
+    "values": [
+     14.6,
+     13.69,
+     5.08
+    ],
+    "raw": [
+     "14.60",
+     "13.69",
+     "5.08"
+    ],
+    "page": 115
+   },
+   {
+    "label": "Return on Capital Employed",
+    "values": [
+     20.25,
+     20.67,
+     11.52
+    ],
+    "raw": [
+     "20.25",
+     "20.67",
+     "11.52"
+    ],
+    "page": 115
+   },
+   {
+    "label": "Return on Equity",
+    "values": [
+     36.7,
+     44.18,
+     27.71
+    ],
+    "raw": [
+     "36.70",
+     "44.18",
+     "27.71"
+    ],
+    "page": 115
+   },
+   {
+    "label": "Developable area commenced",
+    "values": [
+     376000.0,
+     201730.0,
+     333550.0
+    ],
+    "raw": [
+     "3,76,000",
+     "2,01,730",
+     "3,33,550"
+    ],
+    "page": 115
+   },
+   {
+    "label": "Saleable area commenced",
+    "values": [
+     111435.0,
+     76992.0,
+     126119.0
+    ],
+    "raw": [
+     "1,11,435",
+     "76,992",
+     "1,26,119"
+    ],
+    "page": 115
+   },
+   {
+    "label": "Units available for sale commenced",
+    "values": [
+     172.0,
+     103.0,
+     243.0
+    ],
+    "raw": [
+     "172",
+     "103",
+     "243"
+    ],
+    "page": 115
+   },
+   {
+    "label": "Total Projects under development",
+    "values": [
+     11.0,
+     13.0,
+     11.0
+    ],
+    "raw": [
+     "11",
+     "13",
+     "11"
+    ],
+    "page": 115
+   },
+   {
+    "label": "Total Developable area under development",
+    "values": [
+     967430.0,
+     980135.0,
+     889905.0
+    ],
+    "raw": [
+     "9,67,430",
+     "9,80,135",
+     "8,89,905"
+    ],
+    "page": 115
+   },
+   {
+    "label": "Total Saleable area under development",
+    "values": [
+     342493.0,
+     353584.0,
+     338778.0
+    ],
+    "raw": [
+     "3,42,493",
+     "3,53,584",
+     "3,38,778"
+    ],
+    "page": 115
+   }
+  ],
+  "kpi_periods": [
+   {
+    "iso": "2026-03-31",
+    "label": "FY26",
+    "stub": false
+   },
+   {
+    "iso": "2025-03-31",
+    "label": "FY25",
+    "stub": false
+   },
+   {
+    "iso": "2024-03-31",
+    "label": "FY24",
+    "stub": false
+   }
+  ],
+  "kpi_page": 115,
+  "pages": {
+   "bs": 67,
+   "pl": 68,
+   "cf": 69
+  },
+  "core_verified": true
+ },
+ "emails": [
+  {
+   "subject": "Parshwanath Capital Ventures Fund | Pre-IPO & Anchor interest – Sanghvi Housing and Infrastructure Limited",
+   "text": "Dear Vatsal Ganatra,\n\nI am CA Deep Dalal, Fund Manager of Parshwanath Capital Ventures Fund. I am writing to you as the Book Running Lead Manager to the proposed IPO of Sanghvi Housing and Infrastructure Limited, whose Draft Red Herring Prospectus dated September 29, 2026 has been filed with SEBI for listing on the Main Board of BSE and NSE.\n\nABOUT US\nParshwanath Capital Ventures Fund is a SEBI-registered Category III Alternative Investment Fund focused on India's primary markets. We invest through Pre-IPO placements, IPO Anchor Investor books, the QIB portion of IPOs and Qualified Institutional Placements (QIPs), working closely with promoters and merchant bankers through the listing journey.\n\nOUR VIEW ON SANGHVI HOUSING AND INFRASTRUCTURE\nSanghvi Housing and Infrastructure is a real estate developer primarily engaged in the construction and development of commercial and residential projects across the Mumbai Metropolitan Region and Thane district, Maharashtra. We have studied the DRHP closely, and the business and its growth trajectory fit well with our investment focus.\n\nKey financials (restated, ₹ crore unless stated)\n                                       FY26       FY25       FY24\nRevenue from operations (₹ cr)       101.84      75.59      62.64\nGrowth (YoY)                          34.7%      20.7%          –\nEBITDA (₹ cr)                         35.87      29.57      12.88\nEBITDA margin                         35.2%      39.1%      20.6%\nProfit after tax (₹ cr)               26.26      20.81       7.60\nPAT margin                            25.8%      27.5%      12.1%\nNet worth (₹ cr)                      58.66      37.48      17.63\nReturn on net worth                   44.8%      55.5%      43.1%\nDebt / Equity                         1.96x      2.89x          –\nSource: restated financial information in the DRHP; EBITDA and ratios computed from it.\n\nHOW WE WOULD LIKE TO PARTICIPATE\n  1. Pre-IPO placement: The DRHP contemplates a Pre-IPO Placement of up to 20% of the Fresh Issue. We would be keen to participate in this round.\n  2. Anchor Investor portion: As a SEBI-registered Category III AIF, we qualify as a QIB and would like to be considered for the anchor book.\n  3. QIB portion: We would also look to participate in the QIB portion of the IPO.\n\nFUND PROFILE\nView our fund profile (PDF): https://drive.google.com/file/d/1yQX3TH3nmyqzt6rICyliVYFCP1okKqVv/view?usp=sharing (also attached)\n\nI would be grateful if you could introduce us to the promoters of Sanghvi Housing and Infrastructure (Prithviraj Sankalchand Sanghvi and Pakshal Prithviraj Sanghvi) and keep us informed as the pre-IPO and anchor book discussions progress. A short call at your convenience would be much appreciated.\n\nI look forward to hearing from you.\n\nWarm regards,\n\nCA Deep Dalal\nFund Manager, Parshwanath Capital Ventures Fund\nSEBI-registered Category III AIF\nEmail: fundmanager@parshwanath.in\nWhatsApp: +91 83200 52970\nPhone / WhatsApp: +91 70690 06298\nSEBI Reg. No.: IN/AIF3/25-26/2108\n\nThis email is for introduction purposes only and does not constitute an offer, solicitation or commitment to invest. Any investment is subject to the Fund's due diligence, investment committee approval and applicable SEBI regulations. To stop receiving emails from us, reply with “unsubscribe”.",
+   "html": "<!doctype html><html><head><meta charset=\"utf-8\"><meta name=\"color-scheme\" content=\"light dark\"><meta name=\"supported-color-schemes\" content=\"light dark\"></head><body style=\"margin:0;padding:0\"><table role=\"presentation\" width=\"100%\" cellpadding=\"0\" cellspacing=\"0\" style=\"border-collapse:collapse\"><tr><td align=\"center\" style=\"padding:20px 12px\"><table role=\"presentation\" width=\"640\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:100%;max-width:640px;border-collapse:collapse\"><tr><td align=\"center\" style=\"padding:0 4px 16px 4px;border-bottom:3px double #A07A35;text-align:center\"><img src=\"cid:pcvf-logo\" width=\"96\" height=\"96\" alt=\"Parshwanath Capital Ventures Fund logo\" style=\"display:block;margin:0 auto 10px auto;border:0;width:96px;height:96px;border-radius:48px\"><div style=\"font-family:Georgia, 'Times New Roman', Times, serif;font-size:24px;font-weight:700;letter-spacing:1.2px;color:#A07A35;line-height:1.25\">Parshwanath Capital Ventures Fund</div><div style=\"font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:10.5px;letter-spacing:2.2px;text-transform:uppercase;color:#7B8491;margin-top:6px\">SEBI-registered Category III AIF &middot; Pre-IPO &middot; Anchor &middot; QIB &middot; QIP</div><div style=\"font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:11px;letter-spacing:1px;color:#7B8491;margin-top:4px\">SEBI Regn. No. IN/AIF3/25-26/2108</div></td></tr><tr><td style=\"padding:10px 4px;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:12px;letter-spacing:.4px;color:#7B8491;border-bottom:1px solid #B9B2A5\">Re: <b style=\"color:#A07A35\">Sanghvi Housing and Infrastructure Limited</b> &nbsp;|&nbsp; Mainboard IPO &nbsp;|&nbsp; DRHP dated September 29, 2026</td></tr><tr><td style=\"padding:24px 4px 22px 4px\"><p style=\"margin:0 0 14px 0;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:14.5px;line-height:1.65;\">Dear Vatsal Ganatra,</p><p style=\"margin:0 0 14px 0;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:14.5px;line-height:1.65;\">I am CA Deep Dalal, Fund Manager of Parshwanath Capital Ventures Fund. I am writing to you as the Book Running Lead Manager to the proposed IPO of Sanghvi Housing and Infrastructure Limited, whose Draft Red Herring Prospectus dated September 29, 2026 has been filed with SEBI for listing on the Main Board of BSE and NSE.</p><p style=\"margin:24px 0 8px 0;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:11.5px;font-weight:700;letter-spacing:1.6px;text-transform:uppercase;color:#A07A35;\">About us</p><table role=\"presentation\" width=\"100%\" cellpadding=\"0\" cellspacing=\"0\" style=\"border-collapse:collapse;margin:0 0 6px 0\"><tr><td style=\"border-left:3px solid #A07A35;padding:4px 0 4px 16px;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:14.5px;line-height:1.65\">Parshwanath Capital Ventures Fund is a SEBI-registered Category III Alternative Investment Fund focused on India&#x27;s primary markets. We invest through Pre-IPO placements, IPO Anchor Investor books, the QIB portion of IPOs and Qualified Institutional Placements (QIPs), working closely with promoters and merchant bankers through the listing journey.</td></tr></table><p style=\"margin:24px 0 8px 0;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:11.5px;font-weight:700;letter-spacing:1.6px;text-transform:uppercase;color:#A07A35;\">Our view on Sanghvi Housing and Infrastructure</p><p style=\"margin:0 0 14px 0;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:14.5px;line-height:1.65;\">Sanghvi Housing and Infrastructure is a real estate developer primarily engaged in the construction and development of commercial and residential projects across the Mumbai Metropolitan Region and Thane district, Maharashtra. We have studied the DRHP closely, and the business and its growth trajectory fit well with our investment focus.</p><p style=\"margin:24px 0 8px 0;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:11.5px;font-weight:700;letter-spacing:1.6px;text-transform:uppercase;color:#A07A35;\">Key financials <span style=\"color:#7B8491;letter-spacing:.4px;text-transform:none;font-weight:400\">(₹ crore unless stated)</span></p><table role=\"presentation\" width=\"100%\" cellpadding=\"0\" cellspacing=\"0\" style=\"border-collapse:collapse;margin:0 0 6px 0\"><tr><th style=\"padding:9px 10px;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:11.5px;font-weight:700;letter-spacing:.8px;text-transform:uppercase;color:#A07A35;text-align:right;border-top:2px solid #A07A35;border-bottom:2px solid #A07A35;text-align:left\">Particulars</th><th style=\"padding:9px 10px;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:11.5px;font-weight:700;letter-spacing:.8px;text-transform:uppercase;color:#A07A35;text-align:right;border-top:2px solid #A07A35;border-bottom:2px solid #A07A35;\">FY26</th><th style=\"padding:9px 10px;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:11.5px;font-weight:700;letter-spacing:.8px;text-transform:uppercase;color:#A07A35;text-align:right;border-top:2px solid #A07A35;border-bottom:2px solid #A07A35;\">FY25</th><th style=\"padding:9px 10px;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:11.5px;font-weight:700;letter-spacing:.8px;text-transform:uppercase;color:#A07A35;text-align:right;border-top:2px solid #A07A35;border-bottom:2px solid #A07A35;\">FY24</th></tr><tr><td style=\"padding:8px 10px;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:13.5px;border-bottom:1px solid #B9B2A5;text-align:left\">Revenue from operations (₹ cr)</td><td style=\"padding:8px 10px;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:13.5px;border-bottom:1px solid #B9B2A5;text-align:right;white-space:nowrap;font-variant-numeric:tabular-nums\">101.84</td><td style=\"padding:8px 10px;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:13.5px;border-bottom:1px solid #B9B2A5;text-align:right;white-space:nowrap;font-variant-numeric:tabular-nums\">75.59</td><td style=\"padding:8px 10px;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:13.5px;border-bottom:1px solid #B9B2A5;text-align:right;white-space:nowrap;font-variant-numeric:tabular-nums\">62.64</td></tr><tr><td style=\"padding:8px 10px;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:13.5px;border-bottom:1px solid #B9B2A5;text-align:left\">Growth (YoY)</td><td style=\"padding:8px 10px;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:13.5px;border-bottom:1px solid #B9B2A5;text-align:right;white-space:nowrap;font-variant-numeric:tabular-nums\">34.7%</td><td style=\"padding:8px 10px;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:13.5px;border-bottom:1px solid #B9B2A5;text-align:right;white-space:nowrap;font-variant-numeric:tabular-nums\">20.7%</td><td style=\"padding:8px 10px;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:13.5px;border-bottom:1px solid #B9B2A5;text-align:right;white-space:nowrap;font-variant-numeric:tabular-nums\">–</td></tr><tr><td style=\"padding:8px 10px;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:13.5px;border-bottom:1px solid #B9B2A5;text-align:left\">EBITDA (₹ cr)</td><td style=\"padding:8px 10px;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:13.5px;border-bottom:1px solid #B9B2A5;text-align:right;white-space:nowrap;font-variant-numeric:tabular-nums\">35.87</td><td style=\"padding:8px 10px;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:13.5px;border-bottom:1px solid #B9B2A5;text-align:right;white-space:nowrap;font-variant-numeric:tabular-nums\">29.57</td><td style=\"padding:8px 10px;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:13.5px;border-bottom:1px solid #B9B2A5;text-align:right;white-space:nowrap;font-variant-numeric:tabular-nums\">12.88</td></tr><tr><td style=\"padding:8px 10px;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:13.5px;border-bottom:1px solid #B9B2A5;text-align:left\">EBITDA margin</td><td style=\"padding:8px 10px;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:13.5px;border-bottom:1px solid #B9B2A5;text-align:right;white-space:nowrap;font-variant-numeric:tabular-nums\">35.2%</td><td style=\"padding:8px 10px;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:13.5px;border-bottom:1px solid #B9B2A5;text-align:right;white-space:nowrap;font-variant-numeric:tabular-nums\">39.1%</td><td style=\"padding:8px 10px;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:13.5px;border-bottom:1px solid #B9B2A5;text-align:right;white-space:nowrap;font-variant-numeric:tabular-nums\">20.6%</td></tr><tr><td style=\"padding:8px 10px;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:13.5px;border-bottom:1px solid #B9B2A5;text-align:left\">Profit after tax (₹ cr)</td><td style=\"padding:8px 10px;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:13.5px;border-bottom:1px solid #B9B2A5;text-align:right;white-space:nowrap;font-variant-numeric:tabular-nums\">26.26</td><td style=\"padding:8px 10px;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:13.5px;border-bottom:1px solid #B9B2A5;text-align:right;white-space:nowrap;font-variant-numeric:tabular-nums\">20.81</td><td style=\"padding:8px 10px;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:13.5px;border-bottom:1px solid #B9B2A5;text-align:right;white-space:nowrap;font-variant-numeric:tabular-nums\">7.60</td></tr><tr><td style=\"padding:8px 10px;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:13.5px;border-bottom:1px solid #B9B2A5;text-align:left\">PAT margin</td><td style=\"padding:8px 10px;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:13.5px;border-bottom:1px solid #B9B2A5;text-align:right;white-space:nowrap;font-variant-numeric:tabular-nums\">25.8%</td><td style=\"padding:8px 10px;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:13.5px;border-bottom:1px solid #B9B2A5;text-align:right;white-space:nowrap;font-variant-numeric:tabular-nums\">27.5%</td><td style=\"padding:8px 10px;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:13.5px;border-bottom:1px solid #B9B2A5;text-align:right;white-space:nowrap;font-variant-numeric:tabular-nums\">12.1%</td></tr><tr><td style=\"padding:8px 10px;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:13.5px;border-bottom:1px solid #B9B2A5;text-align:left\">Net worth (₹ cr)</td><td style=\"padding:8px 10px;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:13.5px;border-bottom:1px solid #B9B2A5;text-align:right;white-space:nowrap;font-variant-numeric:tabular-nums\">58.66</td><td style=\"padding:8px 10px;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:13.5px;border-bottom:1px solid #B9B2A5;text-align:right;white-space:nowrap;font-variant-numeric:tabular-nums\">37.48</td><td style=\"padding:8px 10px;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:13.5px;border-bottom:1px solid #B9B2A5;text-align:right;white-space:nowrap;font-variant-numeric:tabular-nums\">17.63</td></tr><tr><td style=\"padding:8px 10px;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:13.5px;border-bottom:1px solid #B9B2A5;text-align:left\">Return on net worth</td><td style=\"padding:8px 10px;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:13.5px;border-bottom:1px solid #B9B2A5;text-align:right;white-space:nowrap;font-variant-numeric:tabular-nums\">44.8%</td><td style=\"padding:8px 10px;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:13.5px;border-bottom:1px solid #B9B2A5;text-align:right;white-space:nowrap;font-variant-numeric:tabular-nums\">55.5%</td><td style=\"padding:8px 10px;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:13.5px;border-bottom:1px solid #B9B2A5;text-align:right;white-space:nowrap;font-variant-numeric:tabular-nums\">43.1%</td></tr><tr><td style=\"padding:8px 10px;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:13.5px;border-bottom:1px solid #B9B2A5;text-align:left\">Debt / Equity</td><td style=\"padding:8px 10px;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:13.5px;border-bottom:1px solid #B9B2A5;text-align:right;white-space:nowrap;font-variant-numeric:tabular-nums\">1.96x</td><td style=\"padding:8px 10px;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:13.5px;border-bottom:1px solid #B9B2A5;text-align:right;white-space:nowrap;font-variant-numeric:tabular-nums\">2.89x</td><td style=\"padding:8px 10px;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:13.5px;border-bottom:1px solid #B9B2A5;text-align:right;white-space:nowrap;font-variant-numeric:tabular-nums\">–</td></tr></table><p style=\"margin:0 0 6px 0;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:11.5px;color:#7B8491\">Source: restated financial information in the DRHP; EBITDA and ratios computed from it.</p><p style=\"margin:24px 0 8px 0;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:11.5px;font-weight:700;letter-spacing:1.6px;text-transform:uppercase;color:#A07A35;\">How we would like to participate</p><table role=\"presentation\" width=\"100%\" cellpadding=\"0\" cellspacing=\"0\" style=\"border-collapse:collapse;margin:0 0 8px 0\"><tr><td width=\"34\" valign=\"top\" style=\"padding-top:1px\"><div style=\"width:22px;height:22px;line-height:20px;border-radius:12px;border:1.5px solid #A07A35;color:#A07A35;text-align:center;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:12px;font-weight:700\">1</div></td><td style=\"font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:14.5px;line-height:1.6\"><b>Pre-IPO placement.</b> The DRHP contemplates a Pre-IPO Placement of up to 20% of the Fresh Issue. We would be keen to participate in this round.</td></tr></table><table role=\"presentation\" width=\"100%\" cellpadding=\"0\" cellspacing=\"0\" style=\"border-collapse:collapse;margin:0 0 8px 0\"><tr><td width=\"34\" valign=\"top\" style=\"padding-top:1px\"><div style=\"width:22px;height:22px;line-height:20px;border-radius:12px;border:1.5px solid #A07A35;color:#A07A35;text-align:center;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:12px;font-weight:700\">2</div></td><td style=\"font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:14.5px;line-height:1.6\"><b>Anchor Investor portion.</b> As a SEBI-registered Category III AIF, we qualify as a QIB and would like to be considered for the anchor book.</td></tr></table><table role=\"presentation\" width=\"100%\" cellpadding=\"0\" cellspacing=\"0\" style=\"border-collapse:collapse;margin:0 0 8px 0\"><tr><td width=\"34\" valign=\"top\" style=\"padding-top:1px\"><div style=\"width:22px;height:22px;line-height:20px;border-radius:12px;border:1.5px solid #A07A35;color:#A07A35;text-align:center;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:12px;font-weight:700\">3</div></td><td style=\"font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:14.5px;line-height:1.6\"><b>QIB portion.</b> We would also look to participate in the QIB portion of the IPO.</td></tr></table><p style=\"margin:24px 0 8px 0;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:11.5px;font-weight:700;letter-spacing:1.6px;text-transform:uppercase;color:#A07A35;\">Fund profile</p><table role=\"presentation\" cellpadding=\"0\" cellspacing=\"0\" style=\"border-collapse:collapse;margin:0 0 6px 0\"><tr><td style=\"border:1.5px solid #A07A35;border-radius:6px;padding:10px 18px\"><a href=\"https://drive.google.com/file/d/1yQX3TH3nmyqzt6rICyliVYFCP1okKqVv/view?usp=sharing\" style=\"font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:14px;font-weight:700;color:#A07A35;text-decoration:none\">View Fund Profile (PDF) &rarr;</a></td></tr></table><p style=\"margin:6px 0 0 0;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:12px;color:#7B8491\">Also attached to this email. Opens in Google Drive with view access; no sign-in needed.</p><p style=\"margin:0 0 14px 0;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:14.5px;line-height:1.65;margin-top:16px\">I would be grateful if you could introduce us to the promoters of Sanghvi Housing and Infrastructure (Prithviraj Sankalchand Sanghvi and Pakshal Prithviraj Sanghvi) and keep us informed as the pre-IPO and anchor book discussions progress. A short call at your convenience would be much appreciated.</p><p style=\"margin:0 0 14px 0;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:14.5px;line-height:1.65;\">I look forward to hearing from you.</p><p style=\"margin:0 0 14px 0;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:14.5px;line-height:1.65;margin-bottom:10px\">Warm regards,</p><table role=\"presentation\" cellpadding=\"0\" cellspacing=\"0\" style=\"border-collapse:collapse;margin:0\"><tr><td valign=\"top\" style=\"padding:2px 14px 0 0\"><img src=\"cid:pcvf-logo\" width=\"64\" height=\"64\" alt=\"PCVF\" style=\"display:block;border:0;border-radius:32px\"></td><td valign=\"top\" style=\"border-left:2px solid #A07A35;padding:0 0 0 14px\"><div style=\"font-family:Georgia, 'Times New Roman', Times, serif;font-size:19px;font-weight:700\">CA Deep Dalal</div><div style=\"font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:13px;color:#7B8491;margin:2px 0 8px 0\">Fund Manager, Parshwanath Capital Ventures Fund &middot; SEBI-registered Category III AIF</div><table role=\"presentation\" cellpadding=\"0\" cellspacing=\"0\" style=\"border-collapse:collapse\"><tr><td style=\"padding:2px 14px 2px 0;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:11px;letter-spacing:1px;text-transform:uppercase;color:#A07A35;white-space:nowrap\">Email</td><td style=\"padding:2px 0;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:14px\"><a href=\"mailto:fundmanager@parshwanath.in\" style=\"color:#3B78B8;text-decoration:none\">fundmanager@parshwanath.in</a></td></tr><tr><td style=\"padding:2px 14px 2px 0;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:11px;letter-spacing:1px;text-transform:uppercase;color:#A07A35;white-space:nowrap\">WhatsApp</td><td style=\"padding:2px 0;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:14px\"><a href=\"https://wa.me/918320052970\" style=\"color:#3B78B8;text-decoration:none\">+91 83200 52970</a></td></tr><tr><td style=\"padding:2px 14px 2px 0;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:11px;letter-spacing:1px;text-transform:uppercase;color:#A07A35;white-space:nowrap\">Phone / WhatsApp</td><td style=\"padding:2px 0;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:14px\"><a href=\"https://wa.me/917069006298\" style=\"color:#3B78B8;text-decoration:none\">+91 70690 06298</a></td></tr><tr><td style=\"padding:2px 14px 2px 0;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:11px;letter-spacing:1px;text-transform:uppercase;color:#A07A35;white-space:nowrap\">SEBI Reg. No.</td><td style=\"padding:2px 0;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:14px\">IN/AIF3/25-26/2108</td></tr></table></td></tr></table></td></tr><tr><td style=\"padding:12px 4px 8px 4px;border-top:1px solid #B9B2A5;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:11px;line-height:1.55;color:#7B8491\">This email is for introduction purposes only and does not constitute an offer, solicitation or commitment to invest. Any investment is subject to the Fund&#x27;s due diligence, investment committee approval and applicable SEBI regulations. To stop receiving emails from us, reply with “unsubscribe”.</td></tr></table></td></tr></table></body></html>",
+   "variant": "brlm",
+   "to": [
+    "ipo@afsl.co.in"
+   ],
+   "names": [
+    "Vatsal Ganatra"
+   ],
+   "brlm": "Aryaman Financial Services Limited"
+  }
+ ],
+ "warnings": [],
+ "processed_at": "2026-11-07T15:53:52+05:30"
+}

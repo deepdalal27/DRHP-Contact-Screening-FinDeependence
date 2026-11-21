@@ -1,0 +1,1080 @@
+{
+ "key": "suntekaxpressindia",
+ "company": "Suntek Axpress India Limited",
+ "short": "Suntek Axpress India",
+ "board": "SME",
+ "exchange": "NSE Emerge",
+ "source": "NSE Emerge",
+ "also_on": [],
+ "filed_on": "2026-09-30",
+ "doc_type": "DRHP",
+ "document_type": "Draft Red Herring Prospectus",
+ "document_date": null,
+ "doc_url": "https://nsearchives.nseindia.com/emerge/corporates/content/AD_IPO_7830_30092026223019.zip",
+ "page_url": null,
+ "pages": 367,
+ "cin": "U60210HR2020PLC085479",
+ "website": "www.suntekaxpress.in",
+ "icdr_regulation": "229(2)",
+ "fresh_issue": true,
+ "ofs": true,
+ "pre_ipo_placement": true,
+ "pre_ipo_limit_pct": 20,
+ "promoters": [
+  {
+   "name": "Mr. Khushi Ram Sharma",
+   "designation": "Executive Director",
+   "emails": []
+  },
+  {
+   "name": "Mrs. Renu K Sharma",
+   "designation": null,
+   "emails": []
+  },
+  {
+   "name": "Mr. Sunil Khushiram Sharma",
+   "designation": "Executive Director",
+   "emails": []
+  }
+ ],
+ "cs": null,
+ "brlms": [],
+ "registrar": {
+  "name": "Corporate Professionals Capital Private Limited",
+  "emails": [
+   "project-suntek@indiacp.com",
+   "mb@indiacp.com",
+   "ipo@bigshareonline.com",
+   "investor@bigshareonline.com"
+  ],
+  "phones": [
+   "+91-11-40622248"
+  ],
+  "contact_persons": [
+   "Mr. Manoj Kumar",
+   "Ms. Ruchika"
+  ],
+  "page": 65
+ },
+ "business": {
+  "text": "Some of the information in this section, including information with respect to our business plans and strategies, contains forward-looking statements that involve risks, assumptions and uncertainties and other factors, some of which are beyond our control. Our actual results may differ materially from those expressed in or implied by these forward-looking statements.",
+  "page": 129
+ },
+ "business_summary": null,
+ "financials": {
+  "ok": true,
+  "unit_in_drhp": "lakhs",
+  "source": "Restated Financial Information",
+  "periods": [
+   {
+    "iso": "2026-03-31",
+    "label": "FY26",
+    "stub": false
+   },
+   {
+    "iso": "2025-03-31",
+    "label": "FY25",
+    "stub": false
+   },
+   {
+    "iso": "2024-03-31",
+    "label": "FY24",
+    "stub": false
+   }
+  ],
+  "items": {
+   "revenue": {
+    "label": "Revenue from operations",
+    "drhp_label": "Revenue from operations",
+    "statement": "P&L",
+    "page": 58,
+    "values": [
+     182.19,
+     157.0966,
+     156.692
+    ],
+    "raw": [
+     "18,219.00",
+     "15,709.66",
+     "15,669.20"
+    ],
+    "status": [
+     "verified",
+     "verified",
+     "verified"
+    ],
+    "notes": [
+     [
+      "adds up to total income",
+      "also printed on page 26, 100, 101",
+      "matches DRHP KPI table (page 100)"
+     ],
+     [
+      "adds up to total income",
+      "also printed on page 26, 100, 101",
+      "matches DRHP KPI table (page 100)"
+     ],
+     [
+      "adds up to total income",
+      "also printed on page 26, 100, 101",
+      "matches DRHP KPI table (page 100)"
+     ]
+    ]
+   },
+   "other_income": {
+    "label": "Other income",
+    "drhp_label": "Other income",
+    "statement": "P&L",
+    "page": 58,
+    "values": [
+     0.6212,
+     0.5392,
+     0.4179
+    ],
+    "raw": [
+     "62.12",
+     "53.92",
+     "41.79"
+    ],
+    "status": [
+     "verified",
+     "verified",
+     "verified"
+    ],
+    "notes": [
+     [
+      "adds up to total income"
+     ],
+     [
+      "adds up to total income"
+     ],
+     [
+      "adds up to total income"
+     ]
+    ]
+   },
+   "total_income": {
+    "label": "Total income",
+    "drhp_label": "Total income",
+    "statement": "P&L",
+    "page": 58,
+    "values": [
+     182.8112,
+     157.6358,
+     157.1099
+    ],
+    "raw": [
+     "18,281.12",
+     "15,763.58",
+     "15,710.99"
+    ],
+    "status": [
+     "verified",
+     "verified",
+     "verified"
+    ],
+    "notes": [
+     [
+      "adds up to total income",
+      "also printed on page 215, 261"
+     ],
+     [
+      "adds up to total income",
+      "also printed on page 215, 261"
+     ],
+     [
+      "adds up to total income",
+      "also printed on page 215, 261"
+     ]
+    ]
+   },
+   "finance_cost": {
+    "label": "Finance cost",
+    "drhp_label": "Finance costs",
+    "statement": "P&L",
+    "page": 58,
+    "values": [
+     1.1735,
+     0.5601,
+     0.2646
+    ],
+    "raw": [
+     "117.35",
+     "56.01",
+     "26.46"
+    ],
+    "status": [
+     "verified",
+     "verified",
+     "verified"
+    ],
+    "notes": [
+     [
+      "also printed on page 59, 215, 216"
+     ],
+     [
+      "also printed on page 59, 215, 216"
+     ],
+     [
+      "also printed on page 59, 215, 216"
+     ]
+    ]
+   },
+   "depreciation": {
+    "label": "Depreciation & amortisation",
+    "drhp_label": "Depreciation and amortisation expense",
+    "statement": "P&L",
+    "page": 58,
+    "values": [
+     0.6255,
+     0.5568,
+     0.4148
+    ],
+    "raw": [
+     "62.55",
+     "55.68",
+     "41.48"
+    ],
+    "status": [
+     "verified",
+     "verified",
+     "verified"
+    ],
+    "notes": [
+     [
+      "also printed on page 59, 215, 216"
+     ],
+     [
+      "also printed on page 59, 215, 216"
+     ],
+     [
+      "also printed on page 59, 215, 216"
+     ]
+    ]
+   },
+   "total_expenses": {
+    "label": "Total expenses",
+    "drhp_label": "Total expenses",
+    "statement": "P&L",
+    "page": 58,
+    "values": [
+     171.4031,
+     150.9429,
+     153.1425
+    ],
+    "raw": [
+     "17,140.31",
+     "15,094.29",
+     "15,314.25"
+    ],
+    "status": [
+     "unverified",
+     "unverified",
+     "unverified"
+    ],
+    "notes": [
+     [],
+     [],
+     []
+    ]
+   },
+   "pbt": {
+    "label": "Profit before tax",
+    "drhp_label": "Profit before tax",
+    "statement": "P&L",
+    "page": 58,
+    "values": [
+     11.4081,
+     6.6929,
+     3.9673
+    ],
+    "raw": [
+     "1,140.81",
+     "669.29",
+     "396.73"
+    ],
+    "status": [
+     "verified",
+     "verified",
+     "verified"
+    ],
+    "notes": [
+     [
+      "PBT − tax = PAT",
+      "also printed on page 59, 215, 216"
+     ],
+     [
+      "PBT − tax = PAT",
+      "also printed on page 59, 215, 216"
+     ],
+     [
+      "PBT − tax = PAT",
+      "also printed on page 59, 215, 216"
+     ]
+    ]
+   },
+   "tax": {
+    "label": "Total tax expense",
+    "drhp_label": "Total tax expense",
+    "statement": "P&L",
+    "page": 58,
+    "values": [
+     2.9051,
+     1.6845,
+     0.997
+    ],
+    "raw": [
+     "290.51",
+     "168.45",
+     "99.70"
+    ],
+    "status": [
+     "verified",
+     "verified",
+     "verified"
+    ],
+    "notes": [
+     [
+      "PBT − tax = PAT"
+     ],
+     [
+      "PBT − tax = PAT"
+     ],
+     [
+      "PBT − tax = PAT"
+     ]
+    ]
+   },
+   "pat": {
+    "label": "Profit after tax (PAT)",
+    "drhp_label": "Profit for the year",
+    "statement": "P&L",
+    "page": 58,
+    "values": [
+     8.503,
+     5.0084,
+     2.9703
+    ],
+    "raw": [
+     "850.30",
+     "500.84",
+     "297.03"
+    ],
+    "status": [
+     "verified",
+     "verified",
+     "verified"
+    ],
+    "notes": [
+     [
+      "PBT − tax = PAT",
+      "also printed on page 100, 101, 131",
+      "matches DRHP KPI table (page 100)"
+     ],
+     [
+      "PBT − tax = PAT",
+      "also printed on page 100, 101, 131",
+      "matches DRHP KPI table (page 100)"
+     ],
+     [
+      "PBT − tax = PAT",
+      "also printed on page 100, 101, 131",
+      "matches DRHP KPI table (page 100)"
+     ]
+    ]
+   },
+   "eps_basic": {
+    "label": "EPS – basic (₹)",
+    "drhp_label": "Earnings per share (face value ₹10) – basic and",
+    "statement": "P&L",
+    "page": 58,
+    "values": [
+     8.5,
+     5.01,
+     2.97
+    ],
+    "raw": [
+     "8.50",
+     "5.01",
+     "2.97"
+    ],
+    "status": [
+     "verified",
+     "verified",
+     "verified"
+    ],
+    "notes": [
+     [
+      "also printed on page 97, 100, 101"
+     ],
+     [
+      "also printed on page 97, 100, 101"
+     ],
+     [
+      "also printed on page 100, 101, 131"
+     ]
+    ]
+   },
+   "share_capital": {
+    "label": "Equity share capital",
+    "drhp_label": "(a) Share capital",
+    "statement": "Balance sheet",
+    "page": 57,
+    "values": [
+     0.1,
+     0.1,
+     0.1
+    ],
+    "raw": [
+     "10.00",
+     "10.00",
+     "10.00"
+    ],
+    "status": [
+     "unverified",
+     "unverified",
+     "unverified"
+    ],
+    "notes": [
+     [],
+     [],
+     []
+    ]
+   },
+   "other_equity": {
+    "label": "Other equity",
+    "drhp_label": "(b) Reserves and surplus",
+    "statement": "Balance sheet",
+    "page": 57,
+    "values": [
+     21.1391,
+     12.6361,
+     7.6277
+    ],
+    "raw": [
+     "2,113.91",
+     "1,263.61",
+     "762.77"
+    ],
+    "status": [
+     "unverified",
+     "unverified",
+     "unverified"
+    ],
+    "notes": [
+     [],
+     [],
+     []
+    ]
+   },
+   "trade_receivables": {
+    "label": "Trade receivables",
+    "drhp_label": "(a) Trade receivables",
+    "statement": "Balance sheet",
+    "page": 57,
+    "values": [
+     40.1745,
+     34.6352,
+     32.7664
+    ],
+    "raw": [
+     "4,017.45",
+     "3,463.52",
+     "3,276.64"
+    ],
+    "status": [
+     "verified",
+     "verified",
+     "verified"
+    ],
+    "notes": [
+     [
+      "also printed on page 31, 233, 262"
+     ],
+     [
+      "also printed on page 31, 233, 262"
+     ],
+     [
+      "also printed on page 31, 233, 262"
+     ]
+    ]
+   },
+   "current_assets": {
+    "label": "Total current assets",
+    "drhp_label": "Total current assets",
+    "statement": "Balance sheet",
+    "page": 57,
+    "values": [
+     46.5263,
+     46.1778,
+     41.175
+    ],
+    "raw": [
+     "4,652.63",
+     "4,617.78",
+     "4,117.50"
+    ],
+    "status": [
+     "unverified",
+     "unverified",
+     "unverified"
+    ],
+    "notes": [
+     [],
+     [],
+     []
+    ]
+   },
+   "current_liabilities": {
+    "label": "Total current liabilities",
+    "drhp_label": "Total current liabilities",
+    "statement": "Balance sheet",
+    "page": 57,
+    "values": [
+     35.5565,
+     37.7792,
+     37.2203
+    ],
+    "raw": [
+     "3,555.65",
+     "3,777.92",
+     "3,722.03"
+    ],
+    "status": [
+     "unverified",
+     "unverified",
+     "unverified"
+    ],
+    "notes": [
+     [],
+     [],
+     []
+    ]
+   },
+   "cfo": {
+    "label": "Net cash from operating activities",
+    "drhp_label": "Net cash from / (used in) operating activities (A)",
+    "statement": "Cash flow",
+    "page": 59,
+    "values": [
+     0.7326,
+     -2.7435,
+     5.173
+    ],
+    "raw": [
+     "73.26",
+     "(274.35)",
+     "517.30"
+    ],
+    "status": [
+     "verified",
+     "verified",
+     "verified"
+    ],
+    "notes": [
+     [
+      "also printed on page 29, 216, 271"
+     ],
+     [
+      "also printed on page 29, 216, 271"
+     ],
+     [
+      "also printed on page 29, 216, 271"
+     ]
+    ]
+   },
+   "cfi": {
+    "label": "Net cash from investing activities",
+    "drhp_label": "Net cash used in investing activities (B)",
+    "statement": "Cash flow",
+    "page": 59,
+    "values": [
+     -3.3587,
+     -1.5011,
+     -4.6128
+    ],
+    "raw": [
+     "(335.87)",
+     "(150.11)",
+     "(461.28)"
+    ],
+    "status": [
+     "unverified",
+     "unverified",
+     "unverified"
+    ],
+    "notes": [
+     [],
+     [],
+     []
+    ]
+   },
+   "cff": {
+    "label": "Net cash from financing activities",
+    "drhp_label": "Net cash from / (used in) financing activities (C)",
+    "statement": "Cash flow",
+    "page": 59,
+    "values": [
+     2.2961,
+     5.8007,
+     -3.9415
+    ],
+    "raw": [
+     "229.61",
+     "580.07",
+     "(394.15)"
+    ],
+    "status": [
+     "unverified",
+     "unverified",
+     "unverified"
+    ],
+    "notes": [
+     [],
+     [],
+     []
+    ]
+   },
+   "borrowings": {
+    "label": "Total borrowings",
+    "drhp_label": "(a) Long-term borrowings (Non-current liabilities) + (a) Short-term borrowings (Current liabilities)",
+    "statement": "Balance sheet",
+    "page": 57,
+    "values": [
+     11.6269,
+     8.1573,
+     1.7965
+    ],
+    "raw": [
+     null,
+     null,
+     null
+    ],
+    "status": [
+     "verified",
+     "verified",
+     "verified"
+    ],
+    "notes": [
+     [
+      "sum of borrowing lines",
+      "also printed on page 242, 246, 259"
+     ],
+     [
+      "sum of borrowing lines",
+      "also printed on page 242, 262, 265"
+     ],
+     [
+      "sum of borrowing lines",
+      "also printed on page 242, 262, 269"
+     ]
+    ]
+   }
+  },
+  "ratios": {
+   "EBITDA": {
+    "values": [
+     12.5859,
+     7.2706,
+     4.2288
+    ],
+    "status": [
+     "verified",
+     "verified",
+     "verified"
+    ],
+    "fmt": "amount",
+    "formula": "PBT before exceptional items + Finance cost + D&A − Other income",
+    "notes": [
+     [
+      "matches DRHP KPI table (page 100)"
+     ],
+     [
+      "matches DRHP KPI table (page 100)"
+     ],
+     [
+      "matches DRHP KPI table (page 100)"
+     ]
+    ]
+   },
+   "EBITDA margin": {
+    "values": [
+     0.069081,
+     0.046281,
+     0.026988
+    ],
+    "status": [
+     "verified",
+     "verified",
+     "verified"
+    ],
+    "fmt": "pct",
+    "formula": "EBITDA ÷ Revenue from operations",
+    "notes": [
+     [
+      "matches DRHP KPI table (page 100)"
+     ],
+     [
+      "matches DRHP KPI table (page 100)"
+     ],
+     [
+      "matches DRHP KPI table (page 100)"
+     ]
+    ]
+   },
+   "PAT margin": {
+    "values": [
+     0.046671,
+     0.031881,
+     0.018956
+    ],
+    "status": [
+     "verified",
+     "verified",
+     "verified"
+    ],
+    "fmt": "pct",
+    "formula": "PAT ÷ Revenue from operations",
+    "notes": [
+     [
+      "matches DRHP KPI table (page 100)"
+     ],
+     [
+      "matches DRHP KPI table (page 100)"
+     ],
+     [
+      "matches DRHP KPI table (page 100)"
+     ]
+    ]
+   },
+   "Interest coverage": {
+    "values": [
+     10.721432,
+     12.949473,
+     15.993575
+    ],
+    "status": [
+     "verified",
+     "verified",
+     "verified"
+    ],
+    "fmt": "x",
+    "formula": "(PBT + Finance cost) ÷ Finance cost"
+   },
+   "Current ratio": {
+    "values": [
+     1.308517,
+     1.222308,
+     1.106251
+    ],
+    "status": [
+     "unverified",
+     "unverified",
+     "unverified"
+    ],
+    "fmt": "x",
+    "formula": "Current assets ÷ Current liabilities"
+   },
+   "Receivable days": {
+    "values": [
+     80.485715,
+     80.471812,
+     76.326398
+    ],
+    "status": [
+     "verified",
+     "verified",
+     "verified"
+    ],
+    "fmt": "days",
+    "formula": "Trade receivables ÷ Revenue × days in period"
+   },
+   "Revenue growth": {
+    "values": [
+     0.159732,
+     0.002582,
+     null
+    ],
+    "status": [
+     "verified",
+     "verified",
+     null
+    ],
+    "fmt": "pct",
+    "formula": "FY26 vs FY25"
+   },
+   "PAT growth": {
+    "values": [
+     0.697748,
+     0.68616,
+     null
+    ],
+    "status": [
+     "verified",
+     "verified",
+     null
+    ],
+    "fmt": "pct",
+    "formula": "FY26 vs FY25"
+   },
+   "EBITDA growth": {
+    "values": [
+     0.731068,
+     0.719306,
+     null
+    ],
+    "status": [
+     "verified",
+     "verified",
+     null
+    ],
+    "fmt": "pct",
+    "formula": "FY26 vs FY25"
+   },
+   "Revenue CAGR (2 yr)": {
+    "values": [
+     0.078298,
+     null,
+     null
+    ],
+    "status": [
+     "verified",
+     null,
+     null
+    ],
+    "fmt": "pct",
+    "formula": "FY24 → FY26"
+   }
+  },
+  "checks": [
+   {
+    "period": "FY26",
+    "check": "Revenue + Other income = Total income",
+    "ok": true,
+    "lhs": 18281.12,
+    "rhs": 18281.12
+   },
+   {
+    "period": "FY26",
+    "check": "Profit before tax − Tax = Profit after tax",
+    "ok": true,
+    "lhs": 850.3,
+    "rhs": 850.3
+   },
+   {
+    "period": "FY25",
+    "check": "Revenue + Other income = Total income",
+    "ok": true,
+    "lhs": 15763.58,
+    "rhs": 15763.58
+   },
+   {
+    "period": "FY25",
+    "check": "Profit before tax − Tax = Profit after tax",
+    "ok": true,
+    "lhs": 500.84,
+    "rhs": 500.84
+   },
+   {
+    "period": "FY24",
+    "check": "Revenue + Other income = Total income",
+    "ok": true,
+    "lhs": 15710.990000000002,
+    "rhs": 15710.99
+   },
+   {
+    "period": "FY24",
+    "check": "Profit before tax − Tax = Profit after tax",
+    "ok": true,
+    "lhs": 297.03000000000003,
+    "rhs": 297.03
+   }
+  ],
+  "kpi_stated": [
+   {
+    "label": "Revenue from Operations (Rs. in Lakhs) (1) Lakhs",
+    "values": [
+     18219.0,
+     15709.66,
+     15669.2
+    ],
+    "raw": [
+     "18,219.00",
+     "15,709.66",
+     "15,669.20"
+    ],
+    "page": 100
+   },
+   {
+    "label": "EBITDA (Rs. in Lakhs) (2) Lakhs",
+    "values": [
+     1258.59,
+     727.07,
+     422.89
+    ],
+    "raw": [
+     "1,258.59",
+     "727.07",
+     "422.89"
+    ],
+    "page": 100
+   },
+   {
+    "label": "EBITDA margin (%) (3) %",
+    "values": [
+     6.91,
+     4.63,
+     2.7
+    ],
+    "raw": [
+     "6.91",
+     "4.63",
+     "2.70"
+    ],
+    "page": 100
+   },
+   {
+    "label": "PAT (Rs. in Lakhs) (4) Lakhs",
+    "values": [
+     850.3,
+     500.84,
+     297.03
+    ],
+    "raw": [
+     "850.30",
+     "500.84",
+     "297.03"
+    ],
+    "page": 100
+   },
+   {
+    "label": "PAT margin (%) (5) %",
+    "values": [
+     4.67,
+     3.19,
+     1.9
+    ],
+    "raw": [
+     "4.67",
+     "3.19",
+     "1.90"
+    ],
+    "page": 100
+   },
+   {
+    "label": "Debt-Equity (6) Times",
+    "values": [
+     0.55,
+     0.64,
+     0.23
+    ],
+    "raw": [
+     "0.55",
+     "0.64",
+     "0.23"
+    ],
+    "page": 100
+   },
+   {
+    "label": "ROE (%) (7) %",
+    "values": [
+     50.05,
+     48.95,
+     47.58
+    ],
+    "raw": [
+     "50.05",
+     "48.95",
+     "47.58"
+    ],
+    "page": 100
+   },
+   {
+    "label": "Capital Employed * (Rs. in Lakhs) (8) Lakhs",
+    "values": [
+     3286.6,
+     2089.34,
+     952.42
+    ],
+    "raw": [
+     "3,286.60",
+     "2,089.34",
+     "952.42"
+    ],
+    "page": 100
+   },
+   {
+    "label": "ROCE (%) (9) %",
+    "values": [
+     38.28,
+     34.71,
+     44.43
+    ],
+    "raw": [
+     "38.28",
+     "34.71",
+     "44.43"
+    ],
+    "page": 100
+   },
+   {
+    "label": "Current Ratio (10) (11) Times",
+    "values": [
+     1.31,
+     1.22,
+     1.11
+    ],
+    "raw": [
+     "1.31",
+     "1.22",
+     "1.11"
+    ],
+    "page": 100
+   },
+   {
+    "label": "EPS (Basic & Diluted) (11) INR",
+    "values": [
+     8.5,
+     5.01,
+     2.97
+    ],
+    "raw": [
+     "8.50",
+     "5.01",
+     "2.97"
+    ],
+    "page": 100
+   }
+  ],
+  "kpi_periods": [
+   {
+    "iso": "2026-03-31",
+    "label": "FY26",
+    "stub": false
+   },
+   {
+    "iso": "2025-03-31",
+    "label": "FY25",
+    "stub": false
+   },
+   {
+    "iso": "2024-03-31",
+    "label": "FY24",
+    "stub": false
+   }
+  ],
+  "kpi_page": 100,
+  "pages": {
+   "bs": 57,
+   "pl": 58,
+   "cf": 59
+  },
+  "core_verified": false
+ },
+ "emails": [],
+ "warnings": [
+  "Some core figures could not be cross-checked; only verified figures are used in the email.",
+  "No usable email found for promoters, BRLM or the company."
+ ],
+ "processed_at": "2026-11-08T03:29:05+05:30"
+}
