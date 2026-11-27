@@ -1,6 +1,64 @@
 {
- "updated_at": "2026-11-27T07:16:23+05:30",
+ "updated_at": "2026-11-27T18:10:00+05:30",
  "companies": [
+  {
+   "key": "swarajgreenpowerandfuel",
+   "company": "Swaraj Green Power and Fuel Limited",
+   "board": "Mainboard",
+   "exchange": null,
+   "source": "SEBI",
+   "filed_on": "2026-11-27",
+   "doc_type": "UDRHP",
+   "brlms": [
+    "Centrum Broking Limited (as successor to the merchant banking business of Centrum Capital Limited)",
+    "InCred Capital Financial Services Limited (formerly InCred Capital Financial Services Private Limited)$",
+    ", wherein the merchant banking business of InCred Capital Wealth Portfolio Managers Private Limited (ICWPMPL) was",
+    "PNB Investment Services Limited"
+   ],
+   "promoters": [
+    "Ranjeetsingh Hindurao Naik Nimbalkar",
+    "Jijamala Ranjeetsingh Naik Nimbalkar"
+   ],
+   "pre_ipo": true,
+   "latest": {
+    "revenue": {
+     "v": 1021.664,
+     "s": "verified"
+    },
+    "pat": {
+     "v": 25.348,
+     "s": "verified"
+    },
+    "total_equity": {
+     "v": 265.199,
+     "s": "verified"
+    },
+    "EBITDA margin": {
+     "v": 0.153664,
+     "s": "verified"
+    },
+    "PAT margin": {
+     "v": 0.024811,
+     "s": "verified"
+    },
+    "RoNW (closing)": {
+     "v": 0.095581,
+     "s": "verified"
+    },
+    "Debt / Equity": {
+     "v": 3.187508,
+     "s": "verified"
+    },
+    "Revenue growth": {
+     "v": 0.512971,
+     "s": "verified"
+    },
+    "fy": "FY26"
+   },
+   "verified": true,
+   "warnings": [],
+   "processed_at": "2026-11-27T18:09:52+05:30"
+  },
   {
    "key": "nlcindiarenewables",
    "company": "NLC India Renewables Limited",

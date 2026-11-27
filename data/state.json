@@ -864,6 +864,13 @@
    "at": "2026-11-20T14:13:57+05:30",
    "company": "Sagar Defence Engineering Limited",
    "version": 4
+  },
+  "swarajgreenpowerandfuel": {
+   "ref": "https://www.sebi.gov.in/sebi_data/attachdocs/nov-2026/1795771270025.pdf",
+   "listing_ref": "https://www.sebi.gov.in/filings/public-issues/nov-2026/swaraj-green-power-and-fuel-limited-udrhp-1_103847.html",
+   "at": "2026-11-27T18:09:52+05:30",
+   "company": "Swaraj Green Power and Fuel Limited",
+   "version": 4
   }
  }
 }

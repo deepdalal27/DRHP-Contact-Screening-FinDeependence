@@ -10697,7 +10697,268 @@
    },
    "website": "www.nirl.co.in",
    "doc_url": "https://nsearchives.nseindia.in/corporate/NIRL.zip"
+  },
+  {
+   "id": "swarajgreenpowerandfuel|swaraj.ipo@centrum.co.in",
+   "company_key": "swarajgreenpowerandfuel",
+   "company": "Swaraj Green Power and Fuel Limited",
+   "board": "Mainboard",
+   "filed_on": "2026-11-27",
+   "variant": "brlm",
+   "role": "BRLM contact",
+   "organisation": "Centrum Broking Limited (as successor to the merchant banking business of Centrum Capital Limited)",
+   "names": [
+    "Pooja Sanghvi",
+    "Tarun Parmani"
+   ],
+   "email": "swaraj.ipo@centrum.co.in",
+   "phones": [
+    "+91 22 4215 9000"
+   ],
+   "subject": "Parshwanath Capital Ventures Fund | Pre-IPO & Anchor interest – Swaraj Green Power and Fuel Limited",
+   "status": "sent",
+   "sent_at": "2026-11-27T18:09:57+05:30",
+   "created_at": "2026-11-27T18:09:57+05:30",
+   "message_id": "<179578319254.2662.1142523547142310193@gmail.com>",
+   "error": null,
+   "promoters": [
+    "Ranjeetsingh Hindurao Naik Nimbalkar",
+    "Jijamala Ranjeetsingh Naik Nimbalkar"
+   ],
+   "brlm_contacts": [
+    {
+     "firm": "Centrum Broking Limited (as successor to the merchant banking business of Centrum Capital Limited)",
+     "people": [
+      "Pooja Sanghvi",
+      "Tarun Parmani"
+     ],
+     "emails": [
+      "swaraj.ipo@centrum.co.in"
+     ],
+     "phones": [
+      "+91 22 4215 9000"
+     ]
+    },
+    {
+     "firm": "InCred Capital Financial Services Limited (formerly InCred Capital Financial Services Private Limited)$",
+     "people": [
+      "Harish Mallawat",
+      "Mayank Jain"
+     ],
+     "emails": [
+      "sgpfl.ipo@incredcapital.com"
+     ],
+     "phones": [
+      "+91 22 4161 1500"
+     ]
+    },
+    {
+     "firm": ", wherein the merchant banking business of InCred Capital Wealth Portfolio Managers Private Limited (ICWPMPL) was",
+     "people": [],
+     "emails": [],
+     "phones": []
+    },
+    {
+     "firm": "PNB Investment Services Limited",
+     "people": [
+      "Taher Engineer",
+      "Omkar Nage"
+     ],
+     "emails": [
+      "swaraj.ipo@pnbisl.com"
+     ],
+     "phones": [
+      "+91 22 6917 4200"
+     ]
+    }
+   ],
+   "cs": {
+    "name": "Lalit Ashok Karne",
+    "emails": [
+     "investors@swarajindia.co.in"
+    ],
+    "phones": [
+     "91) 7378722722"
+    ],
+    "page": 106
+   },
+   "website": "www.swarajindia.co.in",
+   "doc_url": "https://www.sebi.gov.in/sebi_data/attachdocs/nov-2026/1795771270025.pdf"
+  },
+  {
+   "id": "swarajgreenpowerandfuel|sgpfl.ipo@incredcapital.com",
+   "company_key": "swarajgreenpowerandfuel",
+   "company": "Swaraj Green Power and Fuel Limited",
+   "board": "Mainboard",
+   "filed_on": "2026-11-27",
+   "variant": "brlm",
+   "role": "BRLM contact",
+   "organisation": "InCred Capital Financial Services Limited (formerly InCred Capital Financial Services Private Limited)$",
+   "names": [
+    "Harish Mallawat",
+    "Mayank Jain"
+   ],
+   "email": "sgpfl.ipo@incredcapital.com",
+   "phones": [
+    "+91 22 4161 1500"
+   ],
+   "subject": "Parshwanath Capital Ventures Fund | Pre-IPO & Anchor interest – Swaraj Green Power and Fuel Limited",
+   "status": "sent",
+   "sent_at": "2026-11-27T18:09:58+05:30",
+   "created_at": "2026-11-27T18:09:58+05:30",
+   "message_id": "<179578319711.2662.7906777699811718079@gmail.com>",
+   "error": null,
+   "promoters": [
+    "Ranjeetsingh Hindurao Naik Nimbalkar",
+    "Jijamala Ranjeetsingh Naik Nimbalkar"
+   ],
+   "brlm_contacts": [
+    {
+     "firm": "Centrum Broking Limited (as successor to the merchant banking business of Centrum Capital Limited)",
+     "people": [
+      "Pooja Sanghvi",
+      "Tarun Parmani"
+     ],
+     "emails": [
+      "swaraj.ipo@centrum.co.in"
+     ],
+     "phones": [
+      "+91 22 4215 9000"
+     ]
+    },
+    {
+     "firm": "InCred Capital Financial Services Limited (formerly InCred Capital Financial Services Private Limited)$",
+     "people": [
+      "Harish Mallawat",
+      "Mayank Jain"
+     ],
+     "emails": [
+      "sgpfl.ipo@incredcapital.com"
+     ],
+     "phones": [
+      "+91 22 4161 1500"
+     ]
+    },
+    {
+     "firm": ", wherein the merchant banking business of InCred Capital Wealth Portfolio Managers Private Limited (ICWPMPL) was",
+     "people": [],
+     "emails": [],
+     "phones": []
+    },
+    {
+     "firm": "PNB Investment Services Limited",
+     "people": [
+      "Taher Engineer",
+      "Omkar Nage"
+     ],
+     "emails": [
+      "swaraj.ipo@pnbisl.com"
+     ],
+     "phones": [
+      "+91 22 6917 4200"
+     ]
+    }
+   ],
+   "cs": {
+    "name": "Lalit Ashok Karne",
+    "emails": [
+     "investors@swarajindia.co.in"
+    ],
+    "phones": [
+     "91) 7378722722"
+    ],
+    "page": 106
+   },
+   "website": "www.swarajindia.co.in",
+   "doc_url": "https://www.sebi.gov.in/sebi_data/attachdocs/nov-2026/1795771270025.pdf"
+  },
+  {
+   "id": "swarajgreenpowerandfuel|swaraj.ipo@pnbisl.com",
+   "company_key": "swarajgreenpowerandfuel",
+   "company": "Swaraj Green Power and Fuel Limited",
+   "board": "Mainboard",
+   "filed_on": "2026-11-27",
+   "variant": "brlm",
+   "role": "BRLM contact",
+   "organisation": "PNB Investment Services Limited",
+   "names": [
+    "Taher Engineer",
+    "Omkar Nage"
+   ],
+   "email": "swaraj.ipo@pnbisl.com",
+   "phones": [
+    "+91 22 6917 4200"
+   ],
+   "subject": "Parshwanath Capital Ventures Fund | Pre-IPO & Anchor interest – Swaraj Green Power and Fuel Limited",
+   "status": "sent",
+   "sent_at": "2026-11-27T18:10:00+05:30",
+   "created_at": "2026-11-27T18:10:00+05:30",
+   "message_id": "<179578319899.2662.11013225508396541588@gmail.com>",
+   "error": null,
+   "promoters": [
+    "Ranjeetsingh Hindurao Naik Nimbalkar",
+    "Jijamala Ranjeetsingh Naik Nimbalkar"
+   ],
+   "brlm_contacts": [
+    {
+     "firm": "Centrum Broking Limited (as successor to the merchant banking business of Centrum Capital Limited)",
+     "people": [
+      "Pooja Sanghvi",
+      "Tarun Parmani"
+     ],
+     "emails": [
+      "swaraj.ipo@centrum.co.in"
+     ],
+     "phones": [
+      "+91 22 4215 9000"
+     ]
+    },
+    {
+     "firm": "InCred Capital Financial Services Limited (formerly InCred Capital Financial Services Private Limited)$",
+     "people": [
+      "Harish Mallawat",
+      "Mayank Jain"
+     ],
+     "emails": [
+      "sgpfl.ipo@incredcapital.com"
+     ],
+     "phones": [
+      "+91 22 4161 1500"
+     ]
+    },
+    {
+     "firm": ", wherein the merchant banking business of InCred Capital Wealth Portfolio Managers Private Limited (ICWPMPL) was",
+     "people": [],
+     "emails": [],
+     "phones": []
+    },
+    {
+     "firm": "PNB Investment Services Limited",
+     "people": [
+      "Taher Engineer",
+      "Omkar Nage"
+     ],
+     "emails": [
+      "swaraj.ipo@pnbisl.com"
+     ],
+     "phones": [
+      "+91 22 6917 4200"
+     ]
+    }
+   ],
+   "cs": {
+    "name": "Lalit Ashok Karne",
+    "emails": [
+     "investors@swarajindia.co.in"
+    ],
+    "phones": [
+     "91) 7378722722"
+    ],
+    "page": 106
+   },
+   "website": "www.swarajindia.co.in",
+   "doc_url": "https://www.sebi.gov.in/sebi_data/attachdocs/nov-2026/1795771270025.pdf"
   }
  ],
- "updated_at": "2026-11-27T07:16:23+05:30"
+ "updated_at": "2026-11-27T18:10:00+05:30"
 }
