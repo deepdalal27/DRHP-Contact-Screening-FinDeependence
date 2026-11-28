@@ -1,0 +1,657 @@
+{
+ "key": "chandranipearls",
+ "company": "Chandrani Pearls Limited",
+ "short": "Chandrani Pearls",
+ "board": "SME",
+ "exchange": "NSE Emerge",
+ "source": "NSE Emerge",
+ "also_on": [],
+ "filed_on": "2026-09-29",
+ "doc_type": "DRHP",
+ "document_type": "Draft Red Herring Prospectus",
+ "document_date": "September 29, 2026",
+ "doc_url": "https://nsearchives.nseindia.com/emerge/corporates/content/AD_IPO_7800_30092026015542.zip",
+ "page_url": null,
+ "pages": 532,
+ "cin": "U74999WB2011PLC165200",
+ "website": "www.chandranipearls.in",
+ "icdr_regulation": "229(2)",
+ "fresh_issue": true,
+ "ofs": true,
+ "pre_ipo_placement": false,
+ "pre_ipo_limit_pct": null,
+ "promoters": [
+  {
+   "name": "Mr. Kuldip Nayar",
+   "designation": "Wholetime Director",
+   "emails": []
+  },
+  {
+   "name": "Mr. Nisheeth Nayar",
+   "designation": "Wholetime Director",
+   "emails": []
+  },
+  {
+   "name": "Mr. Vinayak Nayar",
+   "designation": "Wholetime Director",
+   "emails": []
+  },
+  {
+   "name": "Mrs Shilpa Kedia Nayar",
+   "designation": null,
+   "emails": []
+  },
+  {
+   "name": "Mrs. Deepa Nangia Nayar",
+   "designation": null,
+   "emails": []
+  },
+  {
+   "name": "Chandrani Enterprises Private Limited",
+   "designation": null,
+   "emails": []
+  }
+ ],
+ "cs": null,
+ "brlms": [
+  {
+   "name": "Jajodia Equity Advisors Services Limited",
+   "contact_persons": [
+    "Manav Goenka"
+   ],
+   "emails": [
+    "mb@jajodiaequity.com"
+   ],
+   "grievance_emails": [],
+   "phones": [
+    "033 4509-6991"
+   ],
+   "website": "www.jajodiaequity.com",
+   "sebi_reg": "INM000013448",
+   "page": 82
+  }
+ ],
+ "registrar": {
+  "name": "Name: Cameo Corporate Services Limited",
+  "emails": [
+   "ipo@cameoindia.com",
+   "investor@cameoindia.com"
+  ],
+  "phones": [
+   "+91 44 4002 0700"
+  ],
+  "contact_persons": [
+   "Ms. K. Sreepriya"
+  ],
+  "page": 84
+ },
+ "business": {
+  "text": "Our Company is engaged in the manufacturing of a wide range of Pearl jewellery and related accessories crafted using freshwater cultured pearls. Our operation involves multiple stages including design development, silicon mould making, casting of metal jewellery, stone/ diamond setting, polishing, pearl integration etc.",
+  "page": 160
+ },
+ "business_summary": "Chandrani Pearls is engaged in the manufacturing of a wide range of Pearl jewellery and related accessories crafted using freshwater cultured pearls.",
+ "financials": {
+  "ok": true,
+  "unit_in_drhp": "lakhs",
+  "source": "Summary Financial Information",
+  "periods": [
+   {
+    "iso": "2026-03-31",
+    "label": "FY26",
+    "stub": false
+   },
+   {
+    "iso": "2025-03-31",
+    "label": "FY25",
+    "stub": false
+   },
+   {
+    "iso": "2024-03-31",
+    "label": "FY24",
+    "stub": false
+   }
+  ],
+  "items": {
+   "total_income": {
+    "label": "Total income",
+    "drhp_label": "Total Income",
+    "statement": "P&L",
+    "page": 75,
+    "values": [
+     58.7938,
+     48.9165,
+     41.4701
+    ],
+    "raw": [
+     "5,879.38",
+     "4,891.65",
+     "4,147.01"
+    ],
+    "status": [
+     "verified",
+     "verified",
+     "verified"
+    ],
+    "notes": [
+     [
+      "also printed on page 286, 315, 321"
+     ],
+     [
+      "also printed on page 286, 315, 321"
+     ],
+     [
+      "also printed on page 286, 315, 329"
+     ]
+    ]
+   },
+   "depreciation": {
+    "label": "Depreciation & amortisation",
+    "drhp_label": "XXIX (e) Depreciation and Amortisation Expenses",
+    "statement": "P&L",
+    "page": 75,
+    "values": [
+     1.29,
+     0.8475,
+     0.6007
+    ],
+    "raw": [
+     "129.00",
+     "84.75",
+     "60.07"
+    ],
+    "status": [
+     "verified",
+     "verified",
+     "verified"
+    ],
+    "notes": [
+     [
+      "also printed on page 76, 286, 287"
+     ],
+     [
+      "also printed on page 76, 286, 287"
+     ],
+     [
+      "also printed on page 76, 286, 287"
+     ]
+    ]
+   },
+   "total_expenses": {
+    "label": "Total expenses",
+    "drhp_label": "Total Expenses",
+    "statement": "P&L",
+    "page": 75,
+    "values": [
+     46.1928,
+     40.5921,
+     36.959
+    ],
+    "raw": [
+     "4,619.28",
+     "4,059.21",
+     "3,695.90"
+    ],
+    "status": [
+     "unverified",
+     "unverified",
+     "unverified"
+    ],
+    "notes": [
+     [],
+     [],
+     []
+    ]
+   },
+   "pbt": {
+    "label": "Profit before tax",
+    "drhp_label": "Profit before tax",
+    "statement": "P&L",
+    "page": 75,
+    "values": [
+     12.601,
+     8.3244,
+     4.5111
+    ],
+    "raw": [
+     "1,260.10",
+     "832.44",
+     "451.11"
+    ],
+    "status": [
+     "verified",
+     "verified",
+     "verified"
+    ],
+    "notes": [
+     [
+      "PBT − tax = PAT",
+      "also printed on page 76, 286, 287"
+     ],
+     [
+      "PBT − tax = PAT",
+      "also printed on page 76, 286, 287"
+     ],
+     [
+      "PBT − tax = PAT",
+      "also printed on page 76, 286, 287"
+     ]
+    ]
+   },
+   "tax": {
+    "label": "Total tax expense",
+    "drhp_label": "Total tax expense",
+    "statement": "P&L",
+    "page": 75,
+    "values": [
+     3.4385,
+     2.383,
+     1.1271
+    ],
+    "raw": [
+     "343.85",
+     "238.30",
+     "112.71"
+    ],
+    "status": [
+     "verified",
+     "verified",
+     "verified"
+    ],
+    "notes": [
+     [
+      "PBT − tax = PAT"
+     ],
+     [
+      "PBT − tax = PAT"
+     ],
+     [
+      "PBT − tax = PAT"
+     ]
+    ]
+   },
+   "pat": {
+    "label": "Profit after tax (PAT)",
+    "drhp_label": "Profit After tax",
+    "statement": "P&L",
+    "page": 75,
+    "values": [
+     9.1625,
+     5.9414,
+     3.384
+    ],
+    "raw": [
+     "916.25",
+     "594.14",
+     "338.40"
+    ],
+    "status": [
+     "verified",
+     "verified",
+     "verified"
+    ],
+    "notes": [
+     [
+      "PBT − tax = PAT",
+      "also printed on page 123, 126, 161"
+     ],
+     [
+      "PBT − tax = PAT",
+      "also printed on page 123, 126, 161"
+     ],
+     [
+      "PBT − tax = PAT",
+      "also printed on page 123, 126, 161"
+     ]
+    ]
+   },
+   "eps_basic": {
+    "label": "EPS – basic (₹)",
+    "drhp_label": "Basic EPS (in Rs)",
+    "statement": "P&L",
+    "page": 75,
+    "values": [
+     6.64,
+     4.31,
+     2.45
+    ],
+    "raw": [
+     "6.64",
+     "4.31",
+     "2.45"
+    ],
+    "status": [
+     "verified",
+     "verified",
+     "verified"
+    ],
+    "notes": [
+     [
+      "also printed on page 120, 122, 123"
+     ],
+     [
+      "also printed on page 123, 126, 162"
+     ],
+     [
+      "also printed on page 123, 126, 162"
+     ]
+    ]
+   },
+   "eps_diluted": {
+    "label": "EPS – diluted (₹)",
+    "drhp_label": "Diluted EPS(in Rs)",
+    "statement": "P&L",
+    "page": 75,
+    "values": [
+     6.64,
+     4.31,
+     2.45
+    ],
+    "raw": [
+     "6.64",
+     "4.31",
+     "2.45"
+    ],
+    "status": [
+     "unverified",
+     "unverified",
+     "unverified"
+    ],
+    "notes": [
+     [],
+     [],
+     []
+    ]
+   },
+   "share_capital": {
+    "label": "Equity share capital",
+    "drhp_label": "(a) Share Capital V",
+    "statement": "Balance sheet",
+    "page": 73,
+    "values": [
+     13.8,
+     13.8,
+     13.8
+    ],
+    "raw": [
+     "1,380.00",
+     "1,380.00",
+     "1,380.00"
+    ],
+    "status": [
+     "unverified",
+     "unverified",
+     "unverified"
+    ],
+    "notes": [
+     [],
+     [],
+     []
+    ]
+   },
+   "other_equity": {
+    "label": "Other equity",
+    "drhp_label": "(b) Reserves and surplus",
+    "statement": "Balance sheet",
+    "page": 73,
+    "values": [
+     24.9021,
+     15.7396,
+     9.7982
+    ],
+    "raw": [
+     "2,490.21",
+     "1,573.96",
+     "979.82"
+    ],
+    "status": [
+     "unverified",
+     "unverified",
+     "unverified"
+    ],
+    "notes": [
+     [],
+     [],
+     []
+    ]
+   },
+   "trade_receivables": {
+    "label": "Trade receivables",
+    "drhp_label": "(c) Trade Receivables",
+    "statement": "Balance sheet",
+    "page": 74,
+    "values": [
+     11.7763,
+     10.069,
+     9.426
+    ],
+    "raw": [
+     "1,177.63",
+     "1,006.90",
+     "942.60"
+    ],
+    "status": [
+     "unverified",
+     "unverified",
+     "unverified"
+    ],
+    "notes": [
+     [],
+     [],
+     []
+    ]
+   },
+   "current_assets": {
+    "label": "Total current assets",
+    "drhp_label": "Subtotal: Current Assets",
+    "statement": "Balance sheet",
+    "page": 74,
+    "values": [
+     3.6756,
+     3.3236,
+     2.261
+    ],
+    "raw": [
+     "367.56",
+     "332.36",
+     "226.10"
+    ],
+    "status": [
+     "unverified",
+     "unverified",
+     "unverified"
+    ],
+    "notes": [
+     [],
+     [],
+     []
+    ]
+   },
+   "cfo": {
+    "label": "Net cash from operating activities",
+    "drhp_label": "Net Cash generated from / (used in) operating Activities (A)",
+    "statement": "Cash flow",
+    "page": 76,
+    "values": [
+     10.6123,
+     5.9425,
+     5.2364
+    ],
+    "raw": [
+     "1,061.23",
+     "594.25",
+     "523.64"
+    ],
+    "status": [
+     "verified",
+     "verified",
+     "verified"
+    ],
+    "notes": [
+     [
+      "also printed on page 287, 337, 338"
+     ],
+     [
+      "also printed on page 60, 287, 337"
+     ],
+     [
+      "also printed on page 60, 287, 337"
+     ]
+    ]
+   },
+   "cfi": {
+    "label": "Net cash from investing activities",
+    "drhp_label": "Net Cash generated from / (used in) Investing Activities (B)",
+    "statement": "Cash flow",
+    "page": 76,
+    "values": [
+     -7.0547,
+     -6.1359,
+     -4.2968
+    ],
+    "raw": [
+     "(705.47)",
+     "(613.59)",
+     "(429.68)"
+    ],
+    "status": [
+     "unverified",
+     "unverified",
+     "unverified"
+    ],
+    "notes": [
+     [],
+     [],
+     []
+    ]
+   },
+   "cff": {
+    "label": "Net cash from financing activities",
+    "drhp_label": "Net Cash generated from / (used in) Financing Activities (C)",
+    "statement": "Cash flow",
+    "page": 76,
+    "values": [
+     -0.4167,
+     -0.9925,
+     -1.8375
+    ],
+    "raw": [
+     "(41.67)",
+     "(99.25)",
+     "(183.75)"
+    ],
+    "status": [
+     "unverified",
+     "unverified",
+     "unverified"
+    ],
+    "notes": [
+     [],
+     [],
+     []
+    ]
+   },
+   "borrowings": {
+    "label": "Total borrowings",
+    "drhp_label": "(a) Long Term Borrowings (Non-Current Liabilities) + (a) Short Term Borrowings (Non-Current Liabilities)",
+    "statement": "Balance sheet",
+    "page": 73,
+    "values": [
+     1.3851,
+     0.2489,
+     0.0976
+    ],
+    "raw": [
+     null,
+     null,
+     null
+    ],
+    "status": [
+     "verified",
+     "verified",
+     "verified"
+    ],
+    "notes": [
+     [
+      "sum of borrowing lines",
+      "also printed on page 73, 285"
+     ],
+     [
+      "sum of borrowing lines",
+      "also printed on page 73, 285"
+     ],
+     [
+      "sum of borrowing lines",
+      "also printed on page 73, 285"
+     ]
+    ]
+   }
+  },
+  "ratios": {
+   "PAT growth": {
+    "values": [
+     0.542145,
+     0.755733,
+     null
+    ],
+    "status": [
+     "verified",
+     "verified",
+     null
+    ],
+    "fmt": "pct",
+    "formula": "FY26 vs FY25"
+   }
+  },
+  "checks": [
+   {
+    "period": "FY26",
+    "check": "Profit before tax − Tax = Profit after tax",
+    "ok": true,
+    "lhs": 916.2499999999999,
+    "rhs": 916.25
+   },
+   {
+    "period": "FY25",
+    "check": "Profit before tax − Tax = Profit after tax",
+    "ok": true,
+    "lhs": 594.1400000000001,
+    "rhs": 594.14
+   },
+   {
+    "period": "FY24",
+    "check": "Profit before tax − Tax = Profit after tax",
+    "ok": true,
+    "lhs": 338.40000000000003,
+    "rhs": 338.4
+   }
+  ],
+  "kpi_stated": [],
+  "kpi_periods": null,
+  "kpi_page": null,
+  "pages": {
+   "bs": 73,
+   "pl": 75,
+   "cf": 76
+  },
+  "core_verified": false
+ },
+ "emails": [
+  {
+   "subject": "Parshwanath Capital Ventures Fund | Pre-IPO & Anchor interest – Chandrani Pearls Limited",
+   "text": "Dear Manav Goenka,\n\nI am CA Deep Dalal, Fund Manager of Parshwanath Capital Ventures Fund. I am writing to you as the Book Running Lead Manager to the proposed IPO of Chandrani Pearls Limited, whose Draft Red Herring Prospectus dated September 29, 2026 has been filed with NSE (Emerge) for listing on NSE Emerge.\n\nABOUT US\nParshwanath Capital Ventures Fund is a SEBI-registered Category III Alternative Investment Fund focused on India's primary markets. We invest through Pre-IPO placements, IPO Anchor Investor books, the QIB portion of IPOs and Qualified Institutional Placements (QIPs), working closely with promoters and merchant bankers through the listing journey.\n\nOUR VIEW ON CHANDRANI PEARLS\nChandrani Pearls is engaged in the manufacturing of a wide range of Pearl jewellery and related accessories crafted using freshwater cultured pearls. We have studied the DRHP closely and the business fits well with our investment focus.\n\nHOW WE WOULD LIKE TO PARTICIPATE\n  1. Pre-IPO round: Should the Company consider a pre-IPO placement ahead of the RHP, we would be keen to participate.\n  2. Anchor Investor portion: As a SEBI-registered Category III AIF, we qualify as a QIB and would like to be considered for the anchor book of the SME IPO.\n  3. QIB portion: We would also look to participate in the QIB portion of the IPO.\n\nFUND PROFILE\nView our fund profile (PDF): https://drive.google.com/file/d/1yQX3TH3nmyqzt6rICyliVYFCP1okKqVv/view?usp=sharing (also attached)\n\nI would be grateful if you could introduce us to the promoters of Chandrani Pearls (Mr. Kuldip Nayar, Mr. Nisheeth Nayar and Mr. Vinayak Nayar) and keep us informed as the pre-IPO and anchor book discussions progress. A short call at your convenience would be much appreciated.\n\nI look forward to hearing from you.\n\nWarm regards,\n\nCA Deep Dalal\nFund Manager, Parshwanath Capital Ventures Fund\nSEBI-registered Category III AIF\nEmail: fundmanager@parshwanath.in\nWhatsApp: +91 83200 52970\nPhone / WhatsApp: +91 70690 06298\nSEBI Reg. No.: IN/AIF3/25-26/2108\n\nThis email is for introduction purposes only and does not constitute an offer, solicitation or commitment to invest. Any investment is subject to the Fund's due diligence, investment committee approval and applicable SEBI regulations. To stop receiving emails from us, reply with “unsubscribe”.",
+   "html": "<!doctype html><html><head><meta charset=\"utf-8\"><meta name=\"color-scheme\" content=\"light dark\"><meta name=\"supported-color-schemes\" content=\"light dark\"></head><body style=\"margin:0;padding:0\"><table role=\"presentation\" width=\"100%\" cellpadding=\"0\" cellspacing=\"0\" style=\"border-collapse:collapse\"><tr><td align=\"center\" style=\"padding:20px 12px\"><table role=\"presentation\" width=\"640\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:100%;max-width:640px;border-collapse:collapse\"><tr><td align=\"center\" style=\"padding:0 4px 16px 4px;border-bottom:3px double #A07A35;text-align:center\"><img src=\"cid:pcvf-logo\" width=\"96\" height=\"96\" alt=\"Parshwanath Capital Ventures Fund logo\" style=\"display:block;margin:0 auto 10px auto;border:0;width:96px;height:96px;border-radius:48px\"><div style=\"font-family:Georgia, 'Times New Roman', Times, serif;font-size:24px;font-weight:700;letter-spacing:1.2px;color:#A07A35;line-height:1.25\">Parshwanath Capital Ventures Fund</div><div style=\"font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:10.5px;letter-spacing:2.2px;text-transform:uppercase;color:#7B8491;margin-top:6px\">SEBI-registered Category III AIF &middot; Pre-IPO &middot; Anchor &middot; QIB &middot; QIP</div><div style=\"font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:11px;letter-spacing:1px;color:#7B8491;margin-top:4px\">SEBI Regn. No. IN/AIF3/25-26/2108</div></td></tr><tr><td style=\"padding:10px 4px;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:12px;letter-spacing:.4px;color:#7B8491;border-bottom:1px solid #B9B2A5\">Re: <b style=\"color:#A07A35\">Chandrani Pearls Limited</b> &nbsp;|&nbsp; SME IPO &nbsp;|&nbsp; DRHP dated September 29, 2026</td></tr><tr><td style=\"padding:24px 4px 22px 4px\"><p style=\"margin:0 0 14px 0;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:14.5px;line-height:1.65;\">Dear Manav Goenka,</p><p style=\"margin:0 0 14px 0;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:14.5px;line-height:1.65;\">I am CA Deep Dalal, Fund Manager of Parshwanath Capital Ventures Fund. I am writing to you as the Book Running Lead Manager to the proposed IPO of Chandrani Pearls Limited, whose Draft Red Herring Prospectus dated September 29, 2026 has been filed with NSE (Emerge) for listing on NSE Emerge.</p><p style=\"margin:24px 0 8px 0;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:11.5px;font-weight:700;letter-spacing:1.6px;text-transform:uppercase;color:#A07A35;\">About us</p><table role=\"presentation\" width=\"100%\" cellpadding=\"0\" cellspacing=\"0\" style=\"border-collapse:collapse;margin:0 0 6px 0\"><tr><td style=\"border-left:3px solid #A07A35;padding:4px 0 4px 16px;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:14.5px;line-height:1.65\">Parshwanath Capital Ventures Fund is a SEBI-registered Category III Alternative Investment Fund focused on India&#x27;s primary markets. We invest through Pre-IPO placements, IPO Anchor Investor books, the QIB portion of IPOs and Qualified Institutional Placements (QIPs), working closely with promoters and merchant bankers through the listing journey.</td></tr></table><p style=\"margin:24px 0 8px 0;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:11.5px;font-weight:700;letter-spacing:1.6px;text-transform:uppercase;color:#A07A35;\">Our view on Chandrani Pearls</p><p style=\"margin:0 0 14px 0;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:14.5px;line-height:1.65;\">Chandrani Pearls is engaged in the manufacturing of a wide range of Pearl jewellery and related accessories crafted using freshwater cultured pearls. We have studied the DRHP closely and the business fits well with our investment focus.</p><p style=\"margin:24px 0 8px 0;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:11.5px;font-weight:700;letter-spacing:1.6px;text-transform:uppercase;color:#A07A35;\">How we would like to participate</p><table role=\"presentation\" width=\"100%\" cellpadding=\"0\" cellspacing=\"0\" style=\"border-collapse:collapse;margin:0 0 8px 0\"><tr><td width=\"34\" valign=\"top\" style=\"padding-top:1px\"><div style=\"width:22px;height:22px;line-height:20px;border-radius:12px;border:1.5px solid #A07A35;color:#A07A35;text-align:center;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:12px;font-weight:700\">1</div></td><td style=\"font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:14.5px;line-height:1.6\"><b>Pre-IPO round.</b> Should the Company consider a pre-IPO placement ahead of the RHP, we would be keen to participate.</td></tr></table><table role=\"presentation\" width=\"100%\" cellpadding=\"0\" cellspacing=\"0\" style=\"border-collapse:collapse;margin:0 0 8px 0\"><tr><td width=\"34\" valign=\"top\" style=\"padding-top:1px\"><div style=\"width:22px;height:22px;line-height:20px;border-radius:12px;border:1.5px solid #A07A35;color:#A07A35;text-align:center;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:12px;font-weight:700\">2</div></td><td style=\"font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:14.5px;line-height:1.6\"><b>Anchor Investor portion.</b> As a SEBI-registered Category III AIF, we qualify as a QIB and would like to be considered for the anchor book of the SME IPO.</td></tr></table><table role=\"presentation\" width=\"100%\" cellpadding=\"0\" cellspacing=\"0\" style=\"border-collapse:collapse;margin:0 0 8px 0\"><tr><td width=\"34\" valign=\"top\" style=\"padding-top:1px\"><div style=\"width:22px;height:22px;line-height:20px;border-radius:12px;border:1.5px solid #A07A35;color:#A07A35;text-align:center;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:12px;font-weight:700\">3</div></td><td style=\"font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:14.5px;line-height:1.6\"><b>QIB portion.</b> We would also look to participate in the QIB portion of the IPO.</td></tr></table><p style=\"margin:24px 0 8px 0;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:11.5px;font-weight:700;letter-spacing:1.6px;text-transform:uppercase;color:#A07A35;\">Fund profile</p><table role=\"presentation\" cellpadding=\"0\" cellspacing=\"0\" style=\"border-collapse:collapse;margin:0 0 6px 0\"><tr><td style=\"border:1.5px solid #A07A35;border-radius:6px;padding:10px 18px\"><a href=\"https://drive.google.com/file/d/1yQX3TH3nmyqzt6rICyliVYFCP1okKqVv/view?usp=sharing\" style=\"font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:14px;font-weight:700;color:#A07A35;text-decoration:none\">View Fund Profile (PDF) &rarr;</a></td></tr></table><p style=\"margin:6px 0 0 0;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:12px;color:#7B8491\">Also attached to this email. Opens in Google Drive with view access; no sign-in needed.</p><p style=\"margin:0 0 14px 0;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:14.5px;line-height:1.65;margin-top:16px\">I would be grateful if you could introduce us to the promoters of Chandrani Pearls (Mr. Kuldip Nayar, Mr. Nisheeth Nayar and Mr. Vinayak Nayar) and keep us informed as the pre-IPO and anchor book discussions progress. A short call at your convenience would be much appreciated.</p><p style=\"margin:0 0 14px 0;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:14.5px;line-height:1.65;\">I look forward to hearing from you.</p><p style=\"margin:0 0 14px 0;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:14.5px;line-height:1.65;margin-bottom:10px\">Warm regards,</p><table role=\"presentation\" cellpadding=\"0\" cellspacing=\"0\" style=\"border-collapse:collapse;margin:0\"><tr><td valign=\"top\" style=\"padding:2px 14px 0 0\"><img src=\"cid:pcvf-logo\" width=\"64\" height=\"64\" alt=\"PCVF\" style=\"display:block;border:0;border-radius:32px\"></td><td valign=\"top\" style=\"border-left:2px solid #A07A35;padding:0 0 0 14px\"><div style=\"font-family:Georgia, 'Times New Roman', Times, serif;font-size:19px;font-weight:700\">CA Deep Dalal</div><div style=\"font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:13px;color:#7B8491;margin:2px 0 8px 0\">Fund Manager, Parshwanath Capital Ventures Fund &middot; SEBI-registered Category III AIF</div><table role=\"presentation\" cellpadding=\"0\" cellspacing=\"0\" style=\"border-collapse:collapse\"><tr><td style=\"padding:2px 14px 2px 0;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:11px;letter-spacing:1px;text-transform:uppercase;color:#A07A35;white-space:nowrap\">Email</td><td style=\"padding:2px 0;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:14px\"><a href=\"mailto:fundmanager@parshwanath.in\" style=\"color:#3B78B8;text-decoration:none\">fundmanager@parshwanath.in</a></td></tr><tr><td style=\"padding:2px 14px 2px 0;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:11px;letter-spacing:1px;text-transform:uppercase;color:#A07A35;white-space:nowrap\">WhatsApp</td><td style=\"padding:2px 0;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:14px\"><a href=\"https://wa.me/918320052970\" style=\"color:#3B78B8;text-decoration:none\">+91 83200 52970</a></td></tr><tr><td style=\"padding:2px 14px 2px 0;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:11px;letter-spacing:1px;text-transform:uppercase;color:#A07A35;white-space:nowrap\">Phone / WhatsApp</td><td style=\"padding:2px 0;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:14px\"><a href=\"https://wa.me/917069006298\" style=\"color:#3B78B8;text-decoration:none\">+91 70690 06298</a></td></tr><tr><td style=\"padding:2px 14px 2px 0;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:11px;letter-spacing:1px;text-transform:uppercase;color:#A07A35;white-space:nowrap\">SEBI Reg. No.</td><td style=\"padding:2px 0;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:14px\">IN/AIF3/25-26/2108</td></tr></table></td></tr></table></td></tr><tr><td style=\"padding:12px 4px 8px 4px;border-top:1px solid #B9B2A5;font-family:'Segoe UI', Helvetica, Arial, sans-serif;font-size:11px;line-height:1.55;color:#7B8491\">This email is for introduction purposes only and does not constitute an offer, solicitation or commitment to invest. Any investment is subject to the Fund&#x27;s due diligence, investment committee approval and applicable SEBI regulations. To stop receiving emails from us, reply with “unsubscribe”.</td></tr></table></td></tr></table></body></html>",
+   "variant": "brlm",
+   "to": [
+    "mb@jajodiaequity.com"
+   ],
+   "names": [
+    "Manav Goenka"
+   ],
+   "brlm": "Jajodia Equity Advisors Services Limited"
+  }
+ ],
+ "warnings": [
+  "Some core figures could not be cross-checked; only verified figures are used in the email."
+ ],
+ "processed_at": "2026-11-09T06:28:32+05:30"
+}
